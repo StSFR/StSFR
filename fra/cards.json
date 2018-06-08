@@ -260,7 +260,7 @@
     ]
   },
   "Thunderclap": {
-    "NAME": "Coup de tonnerre",
+    "NAME": "Frappe kéraunique",
     "DESCRIPTION": "Infligez !D! dégât(s) et 1 de Vulnérabilité à TOUS les ennemis."
   },
   "Flame Barrier": {
@@ -1077,7 +1077,7 @@
     "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe Kéraunique."
   },
   "Meteor Strike": {
-    "NAME": "Chute de météorite",
+    "NAME": "Frappe météore",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez !M! Orbes Plasmiques."
   },
   "Auto Shields": {
@@ -1160,10 +1160,10 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez !m! dégâts par Orbes Glaciaire Canalisé ce combat à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " ( !M! Orbes Canalisés.)",
+      " ( !M! dégât(s).)",
       "."
     ]
   },
