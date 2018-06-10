@@ -808,9 +808,9 @@
       "Tout prend sens maintenant. NL Les pertes de mémoire, l'ascension, #yl'Ancien. NL NL  Il en a toujours été ainsi. NL Il en sera toujours ainsi. NL Tout tombera dans l'oubli à nouveau..."
     ],
     "OPTIONS": [
-      "[La Guerre] #rCombattez #run #rBoss #rdu #premier #Acte. #gRecevez #gune #gRelique #gRare.",
+      "[La Guerre] #rCombattez #run #rBoss #rdu #rpremier #rActe. #gRecevez #gune #gRelique #gRare.",
       "[La Richesse] #gGagnez #g999 #gd'or. #rMalédiction #r- #r2 #rNormalité.",
-      "[La Santé] #gHeal #gto #gfull #gHP. #rMalédiction #r- #rDoute.",
+      "[La Santé] #gRécupérez #gtous #gvos #gPV. #rMalédiction #r- #rDoute.",
       "[L'Éveil] #gAméliorez #gtoutes #gvos #gCartes. #rVous #rne #rpouvez #rplus #rvous #rsoigner.",
       "[Partir]"
     ]
