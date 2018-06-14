@@ -1178,5 +1178,40 @@
       "Gagnez [G] au début de chaque tour. ",
       "Gagnez [B] au début de chaque tour. "
     ]
+  },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pickup, remove #b2 cards from your deck.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Rest at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Smith at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
+    ]
   }
 }

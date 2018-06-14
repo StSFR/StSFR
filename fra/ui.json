@@ -624,7 +624,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Continuer"
+      "Continuer",
+      "Blights:"
     ]
   },
   "Exordium": {
@@ -997,7 +998,9 @@
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
       "",
-      "Cette fonctionnalité n'est pas encore disponible."
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Endless",
+      "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1097,7 +1100,21 @@
       "Sélectionner",
       "Fin du tour / Info",
       "Page suivante",
-      "Page précédente"
+      "Page précédente",
+      "Map*",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
+      "Up",
+      "Down"
     ]
   },
   "CacheAction": {

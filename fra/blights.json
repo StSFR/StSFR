@@ -1,0 +1,43 @@
+{
+  "Accursed": {
+    "NAME": "Accursed",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random #yCurses."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Shield of Blight",
+    "DESCRIPTION": [
+      "Enemies have #b",
+      "% more HP."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Twisting Mind",
+    "DESCRIPTION": [
+      "Upon pickup, #yTransform #b",
+      " cards."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Time Maze",
+    "DESCRIPTION": [
+      "Enemies have the Time Maze power."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Scatterbrain",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " random cards."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Spear of Blight",
+    "DESCRIPTION": [
+      "Enemies deal #b",
+      "% more damage."
+    ]
+  }
+}
