@@ -1,4 +1,118 @@
 Updates for Translators!
+06/13/2018
+ui.json
+	"MenuPanels"
+		"", ->
+		"Win a Daily Climb to unlock this game mode.",
+		"Climb a Spire that never ends."
+		"Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+relics.json
+	"Astrolabe"
+	"Bottled Flame"
+	"Bottled Lightning"
+	"Bottled Tornado"
+	"Cauldron"
+	"Frozen Egg"
+	"Lee's Waffle"
+	"Mango"
+	"Old Coin"
+	"Pear"
+	"Potion Belt"
+	"Prayer Wheel"
+	"Tiny House"
+	"War Paint"
+	"Empty Cage"
+		"Upon pick up" ->
+		"Upon pickup"
+events.json
+	"SensoryStone"
+		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...", ->
+		"#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
+ui.json
+	"AscensionModeDescriptions"
+		"Less Potion Slots.",
+		"Fewer Potion Slots.",
+blights.json
+	"DeadlyEnemies"
+		"NAME": "Deadly Enemies", ->
+		"NAME": "Spear of Blight",
+	"ToughEnemies"
+		"NAME": "Tough Enemies", ->
+		"NAME": "Shield of Blight",
+
+----------------------------------
+
+06/12/2018
+relics.json
+	(Please reference the english version for the correct flavor/description!)
+	"Empty Cage"
+	"Incense Burner"
+	"Fusion Hammer"
+	"Coffee Dripper"
+blights.json
+	"Accursed"
+	"TwistingMind"
+	"Scatterbrain"
+monsters.json
+	"Serpent"
+		"NAME": "Serpent", ->
+		"NAME": "Spire Growth",
+characters.json
+	"Neow Event"
+		"Bloat!", ->
+		"Scatterbrain!",
+events.json
+	"The Nest"
+		"[Stay in Line] #gObtain Ritual Dagger. #rDowngrade ",
+		".",
+		"[Smash and Grab] #gObtain #g150 #gGold.",
+		"[Locked] Requires: Upgraded Card.",
+		->
+		"[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
+		" #rHP.",
+		"[Smash and Grab] #gObtain #g",
+		" #gGold.",
+
+----------------------------------
+
+06/11/2018
+ui.json
+	"InputSettingsScreen"
+		Too many changes to list.
+		Please update to match eng/ui.json -> "InputSettingsScreen"
+	"MenuPanels"
+		"Endless",
+		"Climb a Spire that never ends."
+	"AbstractDungeon"
+		"Blights:"
+characters.json
+	"Neow Event"
+		"~Let's~ ~keep~ ~going...~"
+		"~It~ ~only~ ~gets~ ~harder...~"
+		"~Impressive...~ ~More...~"
+		"Cursed!"
+		"Bloat!"
+		"Transformation!"
+blights.json (NEW!)
+	"DeadlyEnemies"
+	"ToughEnemies"
+	"TimeMaze"
+
+----------------------------------
+
+06/07/2018
+powers.json
+	"Storm"
+		"Whenever you play a #bPower, #yChannel #b ",
+		" Lightning." ->
+		"Whenever you play a #bPower, #yChannel #b",
+		" #yLightning."
+events.json
+	"Nest"
+		"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.", ->
+		"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
+
+----------------------------------
 
 06/06/2018
 events.json
