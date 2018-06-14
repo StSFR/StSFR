@@ -27,7 +27,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Proceed"
+      "Proceed",
+	  "Blights:"
     ]
   },
   "AbstractMonster": {
@@ -115,7 +116,7 @@
       "Elites are tougher.",
       "Bosses are tougher.",
       "Start each run cursed.",
-      "Less Potion Slots.",
+      "Fewer Potion Slots.",
       "Upgraded cards appear less often.",
       "Poor bosses.",
       "Lower Max HP.",
@@ -569,7 +570,7 @@
       "Return",
       "Commands",
       "Keyboard",
-      "Controller (Not Yet Available)",
+      "Controller",
       "Reset to Default",
       "Confirm Card",
       "Cancel / Exit",
@@ -592,12 +593,26 @@
       "Select Card #9",
       "Select Card #10",
       "Release Card",
+      "Select*",
+      "Cancel*",
+      "Top Panel*",
+      "Proceed / End Turn*",
+      "Tab Left / View Deck*",
+      "Tab Right / Exhaust Pile*",
+      "Map*",
+      "Settings*",
+      "Draw Pile*",
+      "Discard Pile*",
+      "Up*",
+      "Down*",
+      "Left*",
+      "Right*",
+      "Up (Alt)*",
+      "Down (Alt)*",
+      "Left (Alt)*",
+      "Right (Alt)*",
       "Up",
-      "Down",
-      "Select",
-      "End Turn / Info",
-      "Tab Left",
-      "Tab Right"
+      "Down"
     ]
   },
   "LanguageDropdown": {
@@ -762,8 +777,10 @@
       "",
       "See all of the people who contributed on Slay the Spire!",
       "Unknown",
-      "",
-      "This feature is not yet available."
+      "Win a Daily Climb to unlock this game mode.",
+      "This feature is not yet available.",
+	  "Endless",
+	  "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
     ]
   },
   "MerchantImageTextNotInGame": {

@@ -940,5 +940,12 @@
       "Whenever ",
       " takes damage, it loses that much #yStrength until the end of the turn."
     ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
+    ]
   }
 }
