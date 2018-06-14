@@ -942,10 +942,10 @@
     ]
   },
   "TimeMazePower": {
-    "NAME": "Time Maze",
+    "NAME": "Labyrinthe temporel",
     "DESCRIPTIONS": [
-      "Whenever you play #b",
-      " cards, your turn is ended"
+      "Quand vous jouez #b",
+      " cartes, votre tour se termine."
     ]
   }
 }
