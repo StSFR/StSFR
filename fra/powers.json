@@ -940,5 +940,12 @@
       " [B] supplémentaires au prochain tour.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
+  },
+  "TimeMazePower": {
+    "NAME": "Labyrinthe temporel",
+    "DESCRIPTIONS": [
+      "Quand vous jouez #b",
+      " cartes, votre tour se termine."
+    ]
   }
 }

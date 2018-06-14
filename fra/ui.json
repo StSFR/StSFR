@@ -624,7 +624,8 @@
   },
   "AbstractDungeon": {
     "TEXT": [
-      "Continuer"
+      "Continuer",
+      "Corruption :"
     ]
   },
   "Exordium": {
@@ -996,8 +997,10 @@
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
-      "",
-      "Cette fonctionnalité n'est pas encore disponible."
+      "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Sans fin",
+      "Gagner vous renverra à l'Exodre avec le même deck.\n\n Méfiez-vous, la corruption peut être fatale..."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1097,7 +1100,21 @@
       "Sélectionner",
       "Fin du tour / Info",
       "Page suivante",
-      "Page précédente"
+      "Page précédente",
+      "Carte*",
+      "Paramètres*",
+      "Pioche*",
+      "Défausse*",
+      "Haut*",
+      "Bas*",
+      "Gauche*",
+      "Droite*",
+      "Haut (Alt)*",
+      "Bas (Alt)*",
+      "Gauche (Alt)*",
+      "Droite (Alt)*",
+      "Haut",
+      "Bas"
     ]
   },
   "CacheAction": {

@@ -1,0 +1,43 @@
+{
+  "Accursed": {
+    "NAME": "Maudit",
+    "DESCRIPTION": [
+      "Lorsque vous le ramassez, obtenez #b",
+      " #yMalédictions aléatoires."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Bouclier de Corruption",
+    "DESCRIPTION": [
+      "Les ennemis #b",
+      "% de PV supplémentaires."
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Esprit tordu",
+    "DESCRIPTION": [
+      "Lorsque vous le ramassez, #yTransformez #b",
+      " cartes."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labyrinthe temporel",
+    "DESCRIPTION": [
+      "Les ennemis ont le Pouvoir Labyrinthe temporel."
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Étourdissement",
+    "DESCRIPTION": [
+      "Lorsque vous le ramassez, obtenez #b",
+      " cartes aléatoires."
+    ]
+  },
+  "DeadlyEnemies": {
+    "NAME": "Lance de Corruption",
+    "DESCRIPTION": [
+      "Les ennemis infligent #b",
+      "% de dégâts supplémentaires."
+    ]
+  }
+}

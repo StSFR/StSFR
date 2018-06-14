@@ -1115,7 +1115,7 @@
     "NAME": "Navet",
     "FLAVOR": "Meilleur avec du gimgembre.",
     "DESCRIPTIONS": [
-      "Vous ne pouvez plus devenir #yFrêle."
+      "Vous ne pouvez plus être #yFragilisé."
     ]
   },
   "Nuclear Battery": {
@@ -1164,7 +1164,7 @@
   },
   "Mark of the Bloom": {
     "NAME": "Marque de l'Éveillé",
-    "FLAVOR": "Dans l'Au-delà, l'imaginaire' et le réel ne font qu'un.",
+    "FLAVOR": "Dans l'Au-delà, l'imaginaire et le réel ne font qu'un.",
     "DESCRIPTIONS": [
       "Vous ne pouvez plus vous soigner."
     ]
@@ -1177,6 +1177,41 @@
       "Gagnez [R] au début de chaque tour. ",
       "Gagnez [G] au début de chaque tour. ",
       "Gagnez [B] au début de chaque tour. "
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Cage vide",
+    "FLAVOR": "\"Il est inhabituel de mettre en cage ce que vous vénérez.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Lorsque vous le ramassez, retirez #b2 cartes de votre deck.",
+      "Choisissez 2 cartes à retirer."
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Filtre à café",
+    "FLAVOR": "\"Oui, une autre tasse s'il-vous-plaît. Au travail. Au travail !\" - L'Architecte",
+    "DESCRIPTIONS": [
+      "au début de chaque tour. Vous ne pouvez plus vous Reposer aux sites de repos.",
+      "Gagnez [R] ",
+      "Gagnez [G] ",
+      "Gagnez [B] "
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Marteau de fusion",
+    "FLAVOR": "Une fois pris en main, son propriétaire ne peut plus le lâcher.",
+    "DESCRIPTIONS": [
+      "au début de chaque tour. Vous ne pouvez plus Améliorer aux sites de repos.",
+      "Gagnez [R] ",
+      "Gagnez [G] ",
+      "Gagnez [B] "
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Brûleur d'encens",
+    "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
     ]
   }
 }

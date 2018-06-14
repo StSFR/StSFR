@@ -30,7 +30,7 @@
     "NAME": "Astrolabe",
     "FLAVOR": "A tool to glean invaluable knowledge from the stars.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yTransform #b3 cards, then #yUpgrade them.",
+      "Upon pickup, choose and #yTransform #b3 cards, then #yUpgrade them.",
       "Choose 3 cards for "
     ]
   },
@@ -101,7 +101,7 @@
     "NAME": "Bottled Flame",
     "FLAVOR": "Inside the bottle resides a flame that eternally burns.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose an Attack card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -111,7 +111,7 @@
     "NAME": "Bottled Lightning",
     "FLAVOR": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose a Skill card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -121,7 +121,7 @@
     "NAME": "Bottled Tornado",
     "FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand.",
+      "Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
       "Choose a card for ",
       "At the start of each combat, add ",
       " to your hand."
@@ -172,7 +172,7 @@
     "NAME": "Cauldron",
     "FLAVOR": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
     "DESCRIPTIONS": [
-      "Upon pick up, brews #b5 random potions.",
+      "Upon pickup, brews #b5 random potions.",
       "Blup blip bloop...!"
     ]
   },
@@ -340,7 +340,7 @@
     "NAME": "Frozen Egg",
     "FLAVOR": "The egg lies inert and frozen, never to hatch.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yUpgrade a #yPower.",
+      "Upon pickup, choose and #yUpgrade a #yPower.",
       "Choose a card for "
     ]
   },
@@ -451,7 +451,7 @@
     "NAME": "Lee's Waffle",
     "FLAVOR": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
     "DESCRIPTIONS": [
-      "Upon pick up, raise your Max HP by #b",
+      "Upon pickup, raise your Max HP by #b",
       " and heal all of your HP."
     ]
   },
@@ -488,7 +488,7 @@
     "NAME": "Mango",
     "FLAVOR": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
     "DESCRIPTIONS": [
-      "Upon pick up, raise your Max HP by #b"
+      "Upon pickup, raise your Max HP by #b"
     ]
   },
   "Mark of Pain": {
@@ -541,7 +541,7 @@
     "NAME": "Molten Egg",
     "FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yUpgrade an #yAttack.",
+      "Upon pickup, choose and #yUpgrade an #yAttack.",
       "Choose a card for "
     ]
   },
@@ -641,7 +641,7 @@
     "NAME": "Old Coin",
     "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b300 #yGold."
+      "Upon pickup, gain #b300 #yGold."
     ]
   },
   "Omamori": {
@@ -718,7 +718,7 @@
     "NAME": "Pear",
     "FLAVOR": "A common fruit before the Spireblight.",
     "DESCRIPTIONS": [
-      "Upon pick up, raise your Max HP by #b"
+      "Upon pickup, raise your Max HP by #b"
     ]
   },
   "Pen Nib": {
@@ -742,7 +742,7 @@
     "NAME": "Potion Belt",
     "FLAVOR": "I can hold more Potions using this belt!",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b2 Potion slots."
+      "Upon pickup, gain #b2 Potion slots."
     ]
   },
   "Prayer Wheel": {
@@ -920,7 +920,7 @@
     "NAME": "Strawberry",
     "FLAVOR": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pick up, raise your Max HP by #b"
+      "Upon pickup, raise your Max HP by #b"
     ]
   },
   "Sundial": {
@@ -975,7 +975,7 @@
     "NAME": "Test 5",
     "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
+      "Upon pickup, #yUpgrade #b",
       " random #ySkills."
     ]
   },
@@ -1045,7 +1045,7 @@
     "NAME": "Tiny House",
     "FLAVOR": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
     "DESCRIPTIONS": [
-      "Upon pick up, obtain #b1 potion. NL Gain #b",
+      "Upon pickup, obtain #b1 potion. NL Gain #b",
       " #yGold. NL Raise your Max HP by #b",
       ". NL Obtain #b1 card. NL Upgrade #b1 random card.",
       "Tiny House!"
@@ -1078,7 +1078,7 @@
     "NAME": "Toxic Egg",
     "FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pick up, choose and #yUpgrade a #ySkill.",
+      "Upon pickup, choose and #yUpgrade a #ySkill.",
       "Choose a card for "
     ]
   },
@@ -1135,7 +1135,7 @@
     "NAME": "War Paint",
     "FLAVOR": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
+      "Upon pickup, #yUpgrade #b",
       " random #ySkills."
     ]
   },
@@ -1143,7 +1143,7 @@
     "NAME": "Whetstone",
     "FLAVOR": "\"Flesh never beats steel.\" - Kublai the Great",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
+      "Upon pickup, #yUpgrade #b",
       " random #yAttacks."
     ]
   },
@@ -1177,6 +1177,41 @@
       "Gain [R] at the start of each turn. ",
       "Gain [G] at the start of each turn. ",
       "Gain [B] at the start of each turn. "
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Incense Burner",
+    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "DESCRIPTIONS": [
+      "Every #b5 turns, gain #b1 #yIntangible."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Empty Cage",
+    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Upon pickup, remove #b2 cards from your deck.",
+      "Choose 2 Cards to Remove."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Fusion Hammer",
+    "FLAVOR": "Once wielded, the owner can never let go.",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Smith at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Coffee Dripper",
+    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "DESCRIPTIONS": [
+      "at the start of each turn. You can no longer Rest at Rest Sites.",
+      "Gain [R] ",
+      "Gain [G] ",
+      "Gain [B] "
     ]
   }
 }

@@ -792,10 +792,10 @@
       ""
     ],
     "OPTIONS": [
-      "[Rester dans le rang] #gObtenez Dague rituelle. #rRétrogradez ",
-      ".",
-      "[Voler la boîte] #gGagnez #g150 #gd'or.",
-      "[Verrouillé] Nécessite : une carte améliorée.",
+      "[Rester dans le rang] #gObtenez Dague rituelle. #rPerdez #r",
+      " #rPV.",
+      "[Voler la boîte] #gGagnez #g",
+      " #gd'or.",
       "[Partir]",
       "[Continuer]"
     ]

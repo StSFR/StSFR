@@ -63,7 +63,13 @@
       "~Granted...~",
       "~Risk...~ NL ~..reward....~",
       "~Time~ ~for~ ~a~ NL ~CHALLENGE...~",
-      "Rewards"
+      "Rewards",
+	  "~Let's~ ~keep~ ~going...~",
+	  "~It~ ~only~ ~gets~ ~harder...~",
+	  "~Impressive...~ ~more...~",
+	  "Cursed!",
+	  "Scatterbrain!",
+	  "Transformation!"
     ],
     "OPTIONS": [
       "[Continue]",
