@@ -1160,7 +1160,7 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez !m! dégâts par Orbes Glaciaire Canalisé ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez !M! dégâts par Orbes Glaciaire Canalisé ce combat à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !M! dégât(s).)",
