@@ -1,43 +1,43 @@
 {
   "Accursed": {
-    "NAME": "Accursed",
+    "NAME": "Maudit",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random #yCurses."
+      "Lorsque vous le ramassez, obtenez #b",
+      " #yMalédictions aléatoires."
     ]
   },
   "ToughEnemies": {
-    "NAME": "Shield of Blight",
+    "NAME": "Bouclier de Corruption",
     "DESCRIPTION": [
-      "Enemies have #b",
-      "% more HP."
+      "Les ennemis #b",
+      "% de PV supplémentaires."
     ]
   },
   "TwistingMind": {
-    "NAME": "Twisting Mind",
+    "NAME": "Esprit tordu",
     "DESCRIPTION": [
-      "Upon pickup, #yTransform #b",
-      " cards."
+      "Lorsque vous le ramassez, #yTransformez #b",
+      " cartes."
     ]
   },
   "TimeMaze": {
-    "NAME": "Time Maze",
+    "NAME": "Labyrinthe temporel",
     "DESCRIPTION": [
-      "Enemies have the Time Maze power."
+      "Les ennemis ont le Pouvoir Labyrinthe temporel."
     ]
   },
   "Scatterbrain": {
-    "NAME": "Scatterbrain",
+    "NAME": "Étourdissement",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " random cards."
+      "Lorsque vous le ramassez, obtenez #b",
+      " cartes aléatoires."
     ]
   },
   "DeadlyEnemies": {
-    "NAME": "Spear of Blight",
+    "NAME": "Lance de Corruption",
     "DESCRIPTION": [
-      "Enemies deal #b",
-      "% more damage."
+      "Les ennemis infligent #b",
+      "% de dégâts supplémentaires."
     ]
   }
 }

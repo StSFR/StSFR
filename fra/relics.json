@@ -1180,36 +1180,36 @@
     ]
   },
   "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "NAME": "Cage vide",
+    "FLAVOR": "\"Il est inhabituel de mettre en cage ce que vous vénérez.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pickup, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Lorsque vous le ramassez, retirez #b2 cartes de votre deck.",
+      "Choisissez 2 cartes à retirer."
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Filtre à café",
+    "FLAVOR": "\"Oui, une autre tasse s'il-vous-plaît. Au travail. Au travail !\" - L'Architecte",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "au début de chaque tour. Vous ne pouvez plus vous Reposer aux sites de repos.",
+      "Gagnez [R] ",
+      "Gagnez [G] ",
+      "Gagnez [B] "
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Marteau de fusion",
+    "FLAVOR": "Une fois pris en main, son propriétaire ne peut plus le lâcher.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "au début de chaque tour. Vous ne pouvez plus Améliorer aux sites de repos.",
+      "Gagnez [R] ",
+      "Gagnez [G] ",
+      "Gagnez [B] "
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
+    "NAME": "Brûleur d'encens",
+    "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
     "DESCRIPTIONS": [
       "Every #b5 turns, gain #b1 #yIntangible."
     ]
