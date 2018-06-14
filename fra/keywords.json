@@ -148,7 +148,8 @@
     },
     "FRAIL": {
       "NAMES": [
-        "fragilité"
+        "fragilité",
+        "fragilisé"
       ],
       "DESCRIPTION": "Les créatures fragilisées reçoivent #b25 #b% d'armure en moins."
     },
@@ -241,7 +242,7 @@
         "néant",
         "néants"
       ],
-      "DESCRIPTION": "Les Néant sont des cartes Statut injouable qui consomme de l'énergie quand elles sont piochées."
+      "DESCRIPTION": "Les néants sont des cartes Statut injouables qui consomment de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [

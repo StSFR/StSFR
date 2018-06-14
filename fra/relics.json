@@ -1115,7 +1115,7 @@
     "NAME": "Navet",
     "FLAVOR": "Meilleur avec du gimgembre.",
     "DESCRIPTIONS": [
-      "Vous ne pouvez plus devenir #yFrêle."
+      "Vous ne pouvez plus être #yFragilisé."
     ]
   },
   "Nuclear Battery": {
@@ -1164,7 +1164,7 @@
   },
   "Mark of the Bloom": {
     "NAME": "Marque de l'Éveillé",
-    "FLAVOR": "Dans l'Au-delà, l'imaginaire' et le réel ne font qu'un.",
+    "FLAVOR": "Dans l'Au-delà, l'imaginaire et le réel ne font qu'un.",
     "DESCRIPTIONS": [
       "Vous ne pouvez plus vous soigner."
     ]
