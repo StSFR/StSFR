@@ -625,7 +625,7 @@
   "AbstractDungeon": {
     "TEXT": [
       "Continuer",
-      "Blights:"
+      "Corruption :"
     ]
   },
   "Exordium": {
@@ -997,10 +997,10 @@
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
-      "",
+      "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
-      "Endless",
-      "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+      "Sans fin",
+      "Gagner vous renverra à l'Exodre avec le même deck.\n\n Méfiez-vous, la corruption peut être fatale..."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1101,20 +1101,20 @@
       "Fin du tour / Info",
       "Page suivante",
       "Page précédente",
-      "Map*",
-      "Settings*",
-      "Draw Pile*",
-      "Discard Pile*",
-      "Up*",
-      "Down*",
-      "Left*",
-      "Right*",
-      "Up (Alt)*",
-      "Down (Alt)*",
-      "Left (Alt)*",
-      "Right (Alt)*",
-      "Up",
-      "Down"
+      "Carte*",
+      "Paramètres*",
+      "Pioche*",
+      "Défausse*",
+      "Haut*",
+      "Bas*",
+      "Gauche*",
+      "Droite*",
+      "Haut (Alt)*",
+      "Bas (Alt)*",
+      "Gauche (Alt)*",
+      "Droite (Alt)*",
+      "Haut",
+      "Bas"
     ]
   },
   "CacheAction": {
