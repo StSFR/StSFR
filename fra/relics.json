@@ -1211,7 +1211,7 @@
     "NAME": "Brûleur d'encens",
     "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Tous les #b5 tours, gagnez #b1 #yIntangible."
     ]
   }
 }
