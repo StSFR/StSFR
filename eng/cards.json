@@ -1288,5 +1288,9 @@
   "RitualDagger": {
     "NAME": "Ritual Dagger",
     "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   }
 }

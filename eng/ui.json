@@ -129,6 +129,11 @@
       " Unlocked!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
@@ -154,7 +159,8 @@
       "Choose a Relic",
       "Skip",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -612,7 +618,8 @@
       "Left (Alt)*",
       "Right (Alt)*",
       "Up",
-      "Down"
+      "Down",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
