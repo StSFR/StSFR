@@ -176,7 +176,8 @@
       "Alors que vous êtes en chute libre, vous étudiez vos options : NL Utiliser vos meilleures techniques pour atterrir en toute sécurité NL Canaliser un Pouvoir pour survivre à la chute NL Frapper le mur pour tenter de vous y accrocher",
       "Vous atterrissez gracieusement et reprenez votre chemin.",
       "En concentrant une partie de votre Pouvoir brut et en l'étendant, vous parvenez à atterrir sans vous blesser.",
-      "Vous parvenez à vous accrocher au mur et à sauter sur une autre plateforme plus stable."
+      "Vous parvenez à vous accrocher au mur et à sauter sur une autre plateforme plus stable.",
+      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -186,7 +187,8 @@
       "[Verrouillé] Nécessite : carte Pouvoir",
       "[Frapper] #rPerdez ",
       "[Verrouillé] Nécessite : carte Attaque",
-      "[Partir]"
+      "[Partir]",
+      "[Land] "
     ]
   },
   "The Moai Head": {
@@ -813,6 +815,19 @@
       "[La Santé] #gRécupérez #gtous #gvos #gPV. #rMalédiction #r- #rDoute.",
       "[L'Éveil] #gAméliorez #gtoutes #gvos #gCartes. #rVous #rne #rpouvez #rplus #rvous #rsoigner.",
       "[Partir]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+      "[Leave]"
     ]
   }
 }

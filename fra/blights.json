@@ -3,7 +3,8 @@
     "NAME": "Maudit",
     "DESCRIPTION": [
       "Lorsque vous le ramassez, obtenez #b",
-      " #yMalédictions aléatoires."
+      " #yMalédictions aléatoires.",
+      ""
     ]
   },
   "ToughEnemies": {
@@ -17,20 +18,24 @@
     "NAME": "Esprit tordu",
     "DESCRIPTION": [
       "Lorsque vous le ramassez, #yTransformez #b",
-      " cartes."
+      " cartes.",
+      ""
     ]
   },
   "TimeMaze": {
     "NAME": "Labyrinthe temporel",
     "DESCRIPTION": [
-      "Les ennemis ont le Pouvoir Labyrinthe temporel."
+      "Les ennemis ont le Pouvoir Labyrinthe temporel.",
+      " cards per turn.",
+      "I can only play up to NL #r"
     ]
   },
   "Scatterbrain": {
     "NAME": "Étourdissement",
     "DESCRIPTION": [
       "Lorsque vous le ramassez, obtenez #b",
-      " cartes aléatoires."
+      " cartes aléatoires.",
+      ""
     ]
   },
   "DeadlyEnemies": {
@@ -38,6 +43,57 @@
     "DESCRIPTION": [
       "Les ennemis infligent #b",
       "% de dégâts supplémentaires."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Hauntings",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yIntangible."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Post-Durian",
+    "DESCRIPTION": [
+      "Lose #b",
+      "% of your Max HP."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Ancient Augmentation",
+    "DESCRIPTION": [
+      "Enemies start combat with #b",
+      " #yArtifact, #b",
+      " #yPlated #yArmor, and #b",
+      " #yRegenerate."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Void Essence",
+    "DESCRIPTION": [
+      "Gain 1 less [R] at the start of each turn.",
+      "Gain 1 less [G] at the start of each turn.",
+      "Gain 1 less [B] at the start of each turn."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muzzle",
+    "DESCRIPTION": [
+      "You can no longer increase your Max HP. All healing is halved."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Grotesque Trophy",
+    "DESCRIPTION": [
+      "Upon pickup, obtain #b",
+      " #rPrides.",
+      "Your Pride is twisted..."
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Mimic Infestation",
+    "DESCRIPTION": [
+      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
     ]
   }
 }

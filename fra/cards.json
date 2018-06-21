@@ -1288,5 +1288,9 @@
   "RitualDagger": {
     "NAME": "Dague rituelle",
     "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. Épuisement."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   }
 }
