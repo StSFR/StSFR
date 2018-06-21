@@ -1215,23 +1215,23 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "Masque du N'Loth",
-    "FLAVOR": "You feel hungry.",
+    "NAME": "Masque de N'Loth",
+    "FLAVOR": "Vous avez faim.",
     "DESCRIPTIONS": [
       "Quand vous jouez une carte Rare, gagnez #b",
-      " #yArmure."
+      " #yd'Armure."
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Tête du Clerc",
-    "FLAVOR": "Everyone loves Cleric.",
+    "NAME": "Tête de Clerc",
+    "FLAVOR": "Tout le monde aime Clerc.",
     "DESCRIPTIONS": [
-      "Augmente vos PV Max de #b1 après chaque combat."
+      "Gagnez #b1 PV Max après chaque combat."
     ]
   },
   "SsserpentHead": {
     "NAME": "Tête de ssserpent",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez #ytout #yacheter !",
     "DESCRIPTIONS": [
       "Au début de chaque événement, gagnez #b",
       " #yd'or."

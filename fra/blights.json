@@ -2,8 +2,8 @@
   "Accursed": {
     "NAME": "Maudit",
     "DESCRIPTION": [
-      "Quand vous perdez face à un boss, obtenez #b",
-      " #yMalédiction aléatoire.",
+      "Quand vous tuez un boss, obtenez #b",
+      " #yMalédictions aléatoires.",
       ""
     ]
   },
@@ -18,7 +18,7 @@
     "NAME": "Esprit tordu",
     "DESCRIPTION": [
       "À la fin du tour, ajoutez #b",
-      " un Status aléatoire au dessus de votre pioche.",
+      " cartes Statut aléatoires au dessus de votre pioche.",
       ""
     ]
   },
@@ -33,8 +33,8 @@
   "Scatterbrain": {
     "NAME": "Étourdissement",
     "DESCRIPTION": [
-      "Lorsque vous le ramassez, obtenez #b",
-      " cartes aléatoires.",
+      "Piochez #b",
+      " cartes en moins chaque tour.",
       ""
     ]
   },
@@ -48,7 +48,7 @@
   "GraspOfShadows": {
     "NAME": "Troublant",
     "DESCRIPTION": [
-      "Les ennemis commencent le combar avec #b",
+      "Les ennemis commencent le comba1 avec #b",
       " #yIntangible."
     ]
   },
@@ -64,34 +64,34 @@
     "DESCRIPTION": [
       "Les ennemis commencent le combat avec #b",
       " #yArtefact, #b",
-      " #yArmure #yplaquée, et #b",
-      " #yRégénération."
+      " #yd'Armure #yplaquée, et #b",
+      " de #yRégénération."
     ]
   },
   "VoidEssence": {
     "NAME": "Escence du Néant",
     "DESCRIPTION": [
-      "Gagnez [R] en moins au début de chaque tours.",
-      "Gagnez [G] en moins au début de chaque tours.",
-      "Gagnez [B] en moins au début de chaque tours."
+      "Gagnez [R] en moins au début de chaque tour.",
+      "Gagnez [G] en moins au début de chaque tour.",
+      "Gagnez [B] en moins au début de chaque tour."
     ]
   },
   "FullBelly": {
     "NAME": "Muselière",
     "DESCRIPTION": [
-      "Vous ne pouvez plus augmenter vos PV Max. Tous les soins sont réduis de moitié."
+      "Vous ne pouvez plus augmenter vos PV Max. Tous les soins sont réduits de moitié."
     ]
   },
   "GrotesqueTrophy": {
     "NAME": "Trophée grotesque",
     "DESCRIPTION": [
-      "Lorsque vous la ramassez, obtenez #b",
-      " #rArrogance.",
+      "Lorsque vous le ramassez, obtenez #b",
+      " #rd'Arrogance.",
       "Votre Arrogance est réduite de moitié..."
     ]
   },
   "MimicInfestation": {
-    "NAME": "Infestation de Mimic",
+    "NAME": "Infestation de Mimics",
     "DESCRIPTION": [
       "Dans les futurs actes, les salles au trésor Treasure sont remplacées par des Élites. Les Élites ne donnent plus de reliques."
     ]

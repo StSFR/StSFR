@@ -1290,7 +1290,7 @@
     "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. Épuisement."
   },
   "Pride": {
-    "NAME": "Arrogant",
-    "DESCRIPTION": "Inné. Épuisement. NL Au début de votre tour, placez une copie de cette carte au dessus de la pioche."
+    "NAME": "Arrogance",
+    "DESCRIPTION": "Inné. Épuisement. NL Au début de votre tour, placez une copie de cette carte au dessus de votre pioche."
   }
 }

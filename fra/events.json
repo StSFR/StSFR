@@ -177,7 +177,7 @@
       "Vous atterrissez gracieusement et reprenez votre chemin.",
       "En concentrant une partie de votre Pouvoir brut et en l'étendant, vous parvenez à atterrir sans vous blesser.",
       "Vous parvenez à vous accrocher au mur et à sauter sur une autre plateforme plus stable.",
-      "You seem to fall as slow as a feather, reaching the bottom without a scratch."
+      "Vous semblez tomber aussi lentement qu'une plume, atteignant le fond sans une égratignure."
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -826,7 +826,7 @@
     "OPTIONS": [
       "[Masque de N'Loth] #gQuand #gvous #gjouez #gune #gcarte #gRare, #ggagnez #g3 #gd'Armure.",
       "[Tête de ssserpent] #gAu #gdébut #gde #gchaque #gévénement, #ggagnez #g50 #gd'or.",
-      "[Tête du Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
+      "[Tête de Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
       "[Partir]"
     ]
   }
