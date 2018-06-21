@@ -397,7 +397,7 @@
       "Passer",
       "VOTEZ : ",
       "s restantes.",
-      "Choose a Blight"
+      "Choisissez une Corruption"
     ]
   },
   "GridCardSelectScreen": {
@@ -1116,7 +1116,7 @@
       "Droite (Alt)*",
       "Haut",
       "Bas",
-      "Controller Enabled"
+      "Manette activée"
     ]
   },
   "CacheAction": {
@@ -1153,7 +1153,7 @@
   },
   "AscensionUnlockEffect": {
     "TEXT": [
-      "Ascension Unlocked!"
+      "Ascension débloquée !"
     ]
   }
 }

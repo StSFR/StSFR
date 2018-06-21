@@ -2,8 +2,8 @@
   "Accursed": {
     "NAME": "Maudit",
     "DESCRIPTION": [
-      "Lorsque vous le ramassez, obtenez #b",
-      " #yMalédictions aléatoires.",
+      "Quand vous perdez face à un boss, obtenez #b",
+      " #yMalédiction aléatoire.",
       ""
     ]
   },
@@ -17,17 +17,17 @@
   "TwistingMind": {
     "NAME": "Esprit tordu",
     "DESCRIPTION": [
-      "Lorsque vous le ramassez, #yTransformez #b",
-      " cartes.",
+      "À la fin du tour, ajoutez #b",
+      " un Status aléatoire au dessus de votre pioche.",
       ""
     ]
   },
   "TimeMaze": {
     "NAME": "Labyrinthe temporel",
     "DESCRIPTION": [
-      "Les ennemis ont le Pouvoir Labyrinthe temporel.",
-      " cards per turn.",
-      "I can only play up to NL #r"
+      "Vous ne pouvez pas jouer plus de #b",
+      " cartes par tour.",
+      "Je ne peux jouer que NL #r"
     ]
   },
   "Scatterbrain": {
@@ -46,54 +46,54 @@
     ]
   },
   "GraspOfShadows": {
-    "NAME": "Hauntings",
+    "NAME": "Troublant",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
+      "Les ennemis commencent le combar avec #b",
       " #yIntangible."
     ]
   },
   "BlightedDurian": {
     "NAME": "Post-Durian",
     "DESCRIPTION": [
-      "Lose #b",
-      "% of your Max HP."
+      "Perdez #b",
+      "% de vos PV Max."
     ]
   },
   "MetallicRebirth": {
-    "NAME": "Ancient Augmentation",
+    "NAME": "Augmentation Antique",
     "DESCRIPTION": [
-      "Enemies start combat with #b",
-      " #yArtifact, #b",
-      " #yPlated #yArmor, and #b",
-      " #yRegenerate."
+      "Les ennemis commencent le combat avec #b",
+      " #yArtefact, #b",
+      " #yArmure #yplaquée, et #b",
+      " #yRégénération."
     ]
   },
   "VoidEssence": {
-    "NAME": "Void Essence",
+    "NAME": "Escence du Néant",
     "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-      "Gain 1 less [G] at the start of each turn.",
-      "Gain 1 less [B] at the start of each turn."
+      "Gagnez [R] en moins au début de chaque tours.",
+      "Gagnez [G] en moins au début de chaque tours.",
+      "Gagnez [B] en moins au début de chaque tours."
     ]
   },
   "FullBelly": {
-    "NAME": "Muzzle",
+    "NAME": "Muselière",
     "DESCRIPTION": [
-      "You can no longer increase your Max HP. All healing is halved."
+      "Vous ne pouvez plus augmenter vos PV Max. Tous les soins sont réduis de moitié."
     ]
   },
   "GrotesqueTrophy": {
-    "NAME": "Grotesque Trophy",
+    "NAME": "Trophée grotesque",
     "DESCRIPTION": [
-      "Upon pickup, obtain #b",
-      " #rPrides.",
-      "Your Pride is twisted..."
+      "Lorsque vous la ramassez, obtenez #b",
+      " #rArrogance.",
+      "Votre Arrogance est réduite de moitié..."
     ]
   },
   "MimicInfestation": {
-    "NAME": "Mimic Infestation",
+    "NAME": "Infestation de Mimic",
     "DESCRIPTION": [
-      "Treasure rooms in future acts are replaced by Elites. Elites no longer drop relics."
+      "Dans les futurs actes, les salles au trésor Treasure sont remplacées par des Élites. Les Élites ne donnent plus de reliques."
     ]
   }
 }
