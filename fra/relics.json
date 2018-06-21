@@ -192,7 +192,7 @@
     "NAME": "Bandeau",
     "FLAVOR": "Vous avez trouvé toutes les reliques. Impressionnant !",
     "DESCRIPTIONS": [
-      "C'est très joli."
+      "Collectionnez-les toutes !"
     ]
   },
   "The Courier": {
@@ -1211,7 +1211,30 @@
     "NAME": "Brûleur d'encens",
     "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Tous les #b5 tours, gagnez #b1 #yIntangible."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Masque de N'Loth",
+    "FLAVOR": "Vous avez faim.",
+    "DESCRIPTIONS": [
+      "Quand vous jouez une carte Rare, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Tête de Clerc",
+    "FLAVOR": "Tout le monde aime Clerc.",
+    "DESCRIPTIONS": [
+      "Gagnez #b1 PV Max après chaque combat."
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Tête de ssserpent",
+    "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez #ytout #yacheter !",
+    "DESCRIPTIONS": [
+      "Au début de chaque événement, gagnez #b",
+      " #yd'or."
     ]
   }
 }

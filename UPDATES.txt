@@ -1,4 +1,101 @@
 Updates for Translators!
+06-20-2018
+events.json
+	NOTE: This event's text is not yet finalized
+	"FaceTrader"
+relics.json
+	"SsserpentHead"
+	"FaceOfCleric"
+	"NlothsMask"
+ui.json
+	"AscensionUnlockEffect"
+	"InputSettingsScreen"
+		"Controller Enabled"
+
+----------------------------------
+		
+06-19-2018
+credits.json
+	"Fissh" (See eng.json for proper order)
+
+----------------------------------
+
+06-18-2018
+relics.json
+	"Circlet"
+		"Looks pretty." ->
+		"Collect as many as you can."
+
+blights.json
+	"TwistingMind"
+		"Transformation!"
+	"Accursed"
+		"Upon pickup, obtain #b", ->
+		"Whenever you defeat a Boss, obtain #b",
+	"Scatterbrain"
+		"Upon pickup, obtain #b",
+		" random cards.",
+		->
+		"Draw #b",
+		" less card a turn.",
+	"TimeMaze"
+		"Enemies have the Time Maze power." (REMOVED)
+		"You cannot play more than #b",
+		" cards per turn.",
+		"I can only play up to NL #r"
+	"TwistingMind"
+		"Upon pickup, #yTransform #b",
+		" cards.",
+		"Transformation!"
+		->
+		"At the end of your turn, add #b",
+		" random Status card to the top of your draw pile.",
+
+	"MimicInfestation"
+		"Treasure rooms in future acts are replaced by Elites."
+	"FullBelly"
+		NAME: "Muzzle"
+		"You can no longer increase your Max HP. All healing is halved."
+	"GrotesqueTrophy"
+		"Upon pickup, obtain #b",
+		" #rPrides.",
+		"Your Pride is twisted..."
+	"BlightedDurian"
+		"Post-Durian"
+		"Lose #b",
+		"% of your Max HP."
+	"VoidEssence" (This name is a Stardew Valley reference)
+		"Gain 1 less [R] at the start of each turn.",
+		"Gain 1 less [G] at the start of each turn.",
+		"Gain 1 less [B] at the start of each turn."
+	"GraspOfShadows"
+		"Hauntings"
+		"Enemies start combat with #b",
+		" #yIntangible."
+	"MetallicRebirth"
+		"Ancient Augmentation"
+		"Enemies start combat with #b",
+		" #yArtifact, #b",
+		" #yPlated #yArmor, and #b",
+		" #yRegenerate."
+
+cards.json
+	"Pride"
+		"Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
+
+ui.json
+	"BossRelicSelectScreen"
+		"Choose a Blight"
+
+events.json
+	"Falling"
+		OPTIONS
+		"You seem to fall as slow as a feather, reaching the bottom without a scratch."
+		DESCRIPTIONS
+		"[Land] "
+
+----------------------------------
+
 06/13/2018
 ui.json
 	"MenuPanels"
