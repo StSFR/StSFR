@@ -1001,7 +1001,7 @@
       "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
       "Personnalisé",
-      "Créez votre partie avec les modificateurs que vous souhaitez !"
+      "Personnalisez votre partie avec les modificateurs que vous souhaitez !"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1162,7 +1162,7 @@
       "Les succès et le partage des scores sont désactivés.",
       "Personnage",
       "Ascension",
-      "Étage ",
+      "Niveau ",
       "Mode Ascension",
       "Modificateurs",
       "Seed",
