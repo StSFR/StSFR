@@ -79,7 +79,8 @@
   },
   "Offering": {
     "NAME": "Offrande",
-    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Exhume": {
     "NAME": "Résurrection",
@@ -277,7 +278,8 @@
   },
   "Pummel": {
     "NAME": "Volée de coups",
-    "DESCRIPTION": "Infligez !D! dégât(s) !M! fois. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégât(s) !M! fois. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Riddle With Holes": {
     "NAME": "Criblé de trous",
@@ -593,7 +595,8 @@
   },
   "Heavy Blade": {
     "NAME": "Lame lourde",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL La Force ajoutée à Lame lourde est multipliée par !M!."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL La Force ajoutée à Lame lourde est multipliée par !M!.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Clumsy": {
     "NAME": "Maladresse",
@@ -1066,7 +1069,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogrammation",
-    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles."
+    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Rip and Tear": {
     "NAME": "Arracher et déchirer",

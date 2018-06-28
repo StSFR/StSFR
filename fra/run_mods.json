@@ -74,5 +74,29 @@
   "Brewmaster": {
     "NAME": "Maître alchimiste",
     "DESCRIPTION": "Commencez avec 5 copies de la carte Alchimie et la Relique Statue blanche bestiale."
+  },
+  "My True Form": {
+    "NAME": "My True Form",
+    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+  },
+  "Praise Snecko": {
+    "NAME": "Praise Snecko",
+    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Start the game with 1 max HP."
+  },
+  "Endless": {
+    "NAME": "Endless",
+    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+  },
+  "Starter Deck": {
+    "NAME": "Starter Deck",
+    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
   }
 }
