@@ -79,7 +79,8 @@
   },
   "Offering": {
     "NAME": "Offrande",
-    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
   },
   "Exhume": {
     "NAME": "Résurrection",
@@ -277,7 +278,8 @@
   },
   "Pummel": {
     "NAME": "Volée de coups",
-    "DESCRIPTION": "Infligez !D! dégât(s) !M! fois. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégât(s) !M! fois. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. NL Épuisement."
   },
   "Riddle With Holes": {
     "NAME": "Criblé de trous",
@@ -593,7 +595,8 @@
   },
   "Heavy Blade": {
     "NAME": "Lame lourde",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL La Force ajoutée à Lame lourde est multipliée par !M!."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL La Force ajoutée à Lame lourde est multipliée par !M!.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL La Force ajoutée à Lame lourde est multipliée par !M!."
   },
   "Clumsy": {
     "NAME": "Maladresse",
@@ -1066,7 +1069,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogrammation",
-    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles."
+    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles.",
+    "UPGRADE_DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles."
   },
   "Rip and Tear": {
     "NAME": "Arracher et déchirer",
@@ -1240,7 +1244,7 @@
     "UPGRADE_DESCRIPTION": "Doublez votre Énergie."
   },
   "Echo Form": {
-    "NAME": "Écho",
+    "NAME": "Forme échoïque",
     "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois. Éthérée",
     "UPGRADE_DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
   },
