@@ -76,27 +76,27 @@
     "DESCRIPTION": "Commencez avec 5 copies de la carte Alchimie et la Relique Statue blanche bestiale."
   },
   "My True Form": {
-    "NAME": "My True Form",
-    "DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+    "NAME": "Ma vraie forme",
+    "DESCRIPTION": "Commencez avec une copie de Forme démoniaque, Forme spectrale et Écho."
   },
   "Praise Snecko": {
-    "NAME": "Praise Snecko",
-    "DESCRIPTION": "Replaces your starting relic with Snecko Eye."
+    "NAME": "Priez Geckobra",
+    "DESCRIPTION": "Remplaces votre Relique de départ par l'Œil de geckobra."
   },
   "Inception": {
     "NAME": "Inception",
-    "DESCRIPTION": "Replaces your starting relic with Unceasing Top."
+    "DESCRIPTION": "Remplacez votre Relique de départ par la Toupie perpétuelle."
   },
   "One Hit Wonder": {
     "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
+    "DESCRIPTION": "Commencez la partie avec 1 PV max."
   },
   "Endless": {
-    "NAME": "Endless",
-    "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
+    "NAME": "Sans fin",
+    "DESCRIPTION": "Gagner vous renverra à l'Exodre avec le même deck. Méfiez-vous, la corruption peut être fatale..."
   },
   "Starter Deck": {
-    "NAME": "Starter Deck",
-    "DESCRIPTION": "Start with Busted Crown and Binary, so enemies no longer drop cards."
+    "NAME": "Deck de départ",
+    "DESCRIPTION": "Commencez avec la Couronne cassée et Binaire, les monstres ne donnent plus de cartes."
   }
 }

@@ -1000,8 +1000,8 @@
       "Inconnu",
       "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
-      "Sans fin",
-      "Gagner vous renverra à l'Exodre avec le même deck.\n\n Méfiez-vous, la corruption peut être fatale..."
+      "Personnalisé",
+      "Créez votre partie avec les modificateurs que vous souhaitez !"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1158,15 +1158,15 @@
   },
   "CustomModeScreen": {
     "TEXT": [
-      "Custom Mode",
-      "Achievements and Leaderboards are off.",
-      "Character",
+      "Mode personnalisé",
+      "Les succès et le partage des scores sont désactivés.",
+      "Personnage",
       "Ascension",
-      "Level ",
-      "Ascension Mode",
-      "Modifiers",
+      "Étage ",
+      "Mode Ascension",
+      "Modificateurs",
       "Seed",
-      "Set Seed"
+      "Définir la Seed"
     ]
   }
 }
