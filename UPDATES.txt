@@ -1,4 +1,142 @@
 Updates for Translators!
+06-27-2018
+run_mods.json
+	"Inception"
+	"My True Form"
+	"One Hit Wonder"
+	"Praise Snecko"
+	"Starter Deck"
+
+----------------------------------
+
+06-26-2018
+cards.json
+	(All of these are to allow optional UPGRADE_DESCRIPTION. For most languages, just copy/paste the DESCRIPTION into UPGRADE_DESCRIPTION)
+	"Heavy Blade"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+	"Offering"
+		"UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+	"Pummel"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+	"Reprogram"
+		"UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+
+ui.json
+	"CustomModeScreen" (New Screen!)
+	"MenuPanels"
+		"Endless",
+		"Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+		->
+		"Custom",
+		"Customize your own run with unique modifiers."
+
+events.json
+	"Mysterious Sphere"
+		"[Open Sphere] #rFight. #gReward: #gRelic.", ->
+		"[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
+
+run_mods.json
+	"Endless"
+
+----------------------------------
+
+06-20-2018
+events.json
+	NOTE: This event's text is not yet finalized
+	"FaceTrader"
+relics.json
+	"SsserpentHead"
+	"FaceOfCleric"
+	"NlothsMask"
+ui.json
+	"AscensionUnlockEffect"
+	"InputSettingsScreen"
+		"Controller Enabled"
+
+----------------------------------
+		
+06-19-2018
+credits.json
+	"Fissh" (See eng.json for proper order)
+
+----------------------------------
+
+06-18-2018
+relics.json
+	"Circlet"
+		"Looks pretty." ->
+		"Collect as many as you can."
+
+blights.json
+	"TwistingMind"
+		"Transformation!"
+	"Accursed"
+		"Upon pickup, obtain #b", ->
+		"Whenever you defeat a Boss, obtain #b",
+	"Scatterbrain"
+		"Upon pickup, obtain #b",
+		" random cards.",
+		->
+		"Draw #b",
+		" less card a turn.",
+	"TimeMaze"
+		"Enemies have the Time Maze power." (REMOVED)
+		"You cannot play more than #b",
+		" cards per turn.",
+		"I can only play up to NL #r"
+	"TwistingMind"
+		"Upon pickup, #yTransform #b",
+		" cards.",
+		"Transformation!"
+		->
+		"At the end of your turn, add #b",
+		" random Status card to the top of your draw pile.",
+
+	"MimicInfestation"
+		"Treasure rooms in future acts are replaced by Elites."
+	"FullBelly"
+		NAME: "Muzzle"
+		"You can no longer increase your Max HP. All healing is halved."
+	"GrotesqueTrophy"
+		"Upon pickup, obtain #b",
+		" #rPrides.",
+		"Your Pride is twisted..."
+	"BlightedDurian"
+		"Post-Durian"
+		"Lose #b",
+		"% of your Max HP."
+	"VoidEssence" (This name is a Stardew Valley reference)
+		"Gain 1 less [R] at the start of each turn.",
+		"Gain 1 less [G] at the start of each turn.",
+		"Gain 1 less [B] at the start of each turn."
+	"GraspOfShadows"
+		"Hauntings"
+		"Enemies start combat with #b",
+		" #yIntangible."
+	"MetallicRebirth"
+		"Ancient Augmentation"
+		"Enemies start combat with #b",
+		" #yArtifact, #b",
+		" #yPlated #yArmor, and #b",
+		" #yRegenerate."
+
+cards.json
+	"Pride"
+		"Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
+
+ui.json
+	"BossRelicSelectScreen"
+		"Choose a Blight"
+
+events.json
+	"Falling"
+		OPTIONS
+		"You seem to fall as slow as a feather, reaching the bottom without a scratch."
+		DESCRIPTIONS
+		"[Land] "
+
+----------------------------------
+
 06/13/2018
 ui.json
 	"MenuPanels"

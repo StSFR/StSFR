@@ -218,7 +218,7 @@
     "NAME": "Circlet",
     "FLAVOR": "You ran out of relics to find. Impressive!",
     "DESCRIPTIONS": [
-      "Looks pretty."
+      "Collect as many as you can."
     ]
   },
   "Cracked Core": {
@@ -1212,6 +1212,30 @@
       "Gain [R] ",
       "Gain [G] ",
       "Gain [B] "
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Ssserpent Head",
+    "FLAVOR": "The most fulfilling of lives is that in which you can buy anything!",
+    "DESCRIPTIONS": [
+      "Whenever you begin an Event, gain #b",
+      " #yGold."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Face Of Cleric",
+    "FLAVOR": "Everyone loves Cleric.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b1 after each combat."
+
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "N'Loth's Mask",
+    "FLAVOR": "You feel hungry.",
+    "DESCRIPTIONS": [
+      "Whenever you play a Rare card, gain #b",
+      " #yBlock."
     ]
   }
 }

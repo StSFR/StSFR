@@ -65,7 +65,7 @@
   },
   "Draft": {
     "NAME": "Tirage",
-    "DESCRIPTION": "Constituez votre deck de départ en choisissant 1 carte parmi 3, 15 fois."
+    "DESCRIPTION": "Constituez votre deck de départ en choisissant 1 carte parmi 3 jusqu'à atteindre 15 cartes."
   },
   "Specialized": {
     "NAME": "Spécialisé",
@@ -74,5 +74,29 @@
   "Brewmaster": {
     "NAME": "Maître alchimiste",
     "DESCRIPTION": "Commencez avec 5 copies de la carte Alchimie et la Relique Statue blanche bestiale."
+  },
+  "My True Form": {
+    "NAME": "Ma vraie forme",
+    "DESCRIPTION": "Commencez avec une copie de Forme démoniaque, Forme spectrale et Forme échoïque."
+  },
+  "Praise Snecko": {
+    "NAME": "Loué soit le geckobra !",
+    "DESCRIPTION": "Remplacez votre Relique de départ par l'Œil de geckobra."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Remplacez votre Relique de départ par la Toupie perpétuelle."
+  },
+  "One Hit Wonder": {
+    "NAME": "One Hit Wonder",
+    "DESCRIPTION": "Commencez la partie avec 1 PV max."
+  },
+  "Endless": {
+    "NAME": "Sans fin",
+    "DESCRIPTION": "Gagner vous renverra au premier Acte avec le même deck. Méfiez-vous, la corruption finit toujours par être fatale..."
+  },
+  "Starter Deck": {
+    "NAME": "Deck de départ",
+    "DESCRIPTION": "Commencez avec la Couronne cassée et Binaire, ce qui signifie que les monstres ne donnent plus de cartes."
   }
 }

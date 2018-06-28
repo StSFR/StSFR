@@ -396,7 +396,8 @@
       "Choisir une Relique",
       "Passer",
       "VOTEZ : ",
-      "s restantes."
+      "s restantes.",
+      "Choisissez une Corruption"
     ]
   },
   "GridCardSelectScreen": {
@@ -999,8 +1000,8 @@
       "Inconnu",
       "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
-      "Sans fin",
-      "Gagner vous renverra à l'Exodre avec le même deck.\n\n Méfiez-vous, la corruption peut être fatale..."
+      "Personnalisé",
+      "Personnalisez votre partie avec les modificateurs que vous souhaitez !"
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1114,7 +1115,8 @@
       "Gauche (Alt)*",
       "Droite (Alt)*",
       "Haut",
-      "Bas"
+      "Bas",
+      "Manette activée"
     ]
   },
   "CacheAction": {
@@ -1147,6 +1149,24 @@
   "DiscardPileToHandAction": {
     "TEXT": [
       "Choisissez une carte à renvoyer dans votre main."
+    ]
+  },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension débloquée !"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Mode personnalisé",
+      "Les succès et le partage des scores sont désactivés.",
+      "Personnage",
+      "Ascension",
+      "Niveau ",
+      "Mode Ascension",
+      "Modificateurs",
+      "Seed",
+      "Définir la Seed"
     ]
   }
 }

@@ -187,7 +187,8 @@
       "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
-      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform."
+      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
+	  "You seem to fall as slow as a feather, reaching the bottom without a scratch."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -197,7 +198,8 @@
       "[Locked] Requires: Power Card",
       "[Strike] #rLose ",
       "[Locked] Requires: Attack Card",
-      "[Leave]"
+      "[Leave]",
+	  "[Land] "
     ]
   },
   "Forgotten Altar": {
@@ -423,7 +425,7 @@
       "No need to be greedy."
     ],
     "OPTIONS": [
-      "[Open Sphere] #rFight. #gReward: #gRelic.",
+      "[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
       "[Leave]",
       "[Fight]"
     ]
@@ -493,7 +495,7 @@
       "Navigating through the Beyond, you discover a #bglowing #btesseract @spinning@ and ~shifting~ gently in the air.",
       "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
       "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ #r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
-      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
+      "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
       "#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
     ],
     "OPTIONS": [
@@ -813,6 +815,19 @@
 	  " #gGold.",
       "[Leave]",
       "[Continue]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "YOU LOOK LIKE SOMEONE WHO COULD USE A NEW FACE!",
+      "ENJOY YOUR NEW FACE!"
+    ],
+    "OPTIONS": [
+      "[N'Loth's Mask] #gWhenever #gyou #gplay #ga #gRare #gcard, #ggain #g3 #gblock.",
+      "[Ssserpent Head] #gWhenever #gyou #gbegin #gan #gEvent, #ggain #g50 #gGold.",
+      "[Face Of Cleric] #gRaise #gyour #gMax #gHP #gby #g1 #gafter #geach #gcombat.",
+	  "[Leave]"
     ]
   }
 }

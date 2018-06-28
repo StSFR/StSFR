@@ -626,7 +626,8 @@
   },
   "Heavy Blade": {
     "NAME": "Heavy Blade",
-    "DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+    "DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Heel Hook",
@@ -826,7 +827,8 @@
   },
   "Offering": {
     "NAME": "Offering",
-    "DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Outmaneuver",
@@ -899,7 +901,8 @@
   },
   "Pummel": {
     "NAME": "Pummel",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
   },
   "Purity": {
     "NAME": "Purity",
@@ -968,7 +971,8 @@
   },
   "Reprogram": {
     "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
   },
   "Riddle With Holes": {
     "NAME": "Riddle With Holes",
@@ -1288,5 +1292,9 @@
   "RitualDagger": {
     "NAME": "Ritual Dagger",
     "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+  },
+  "Pride": {
+    "NAME": "Pride",
+    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
   }
 }

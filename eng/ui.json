@@ -129,6 +129,11 @@
       " Unlocked!"
     ]
   },
+  "AscensionUnlockEffect": {
+    "TEXT": [
+      "Ascension Unlocked!"
+    ]
+  },
   "AttackFromDeckToHandAction": {
     "TEXT": [
       "Choose an Attack to Add to Your Hand"
@@ -154,7 +159,8 @@
       "Choose a Relic",
       "Skip",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+	  "Choose a Blight"
     ]
   },
   "CacheAction": {
@@ -612,7 +618,8 @@
       "Left (Alt)*",
       "Right (Alt)*",
       "Up",
-      "Down"
+      "Down",
+      "Controller Enabled"
     ]
   },
   "LanguageDropdown": {
@@ -779,8 +786,8 @@
       "Unknown",
       "Win a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
-	  "Endless",
-	  "Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+	  "Custom",
+	  "Customize your own run with unique modifiers."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -1147,6 +1154,19 @@
   "UnlockTextEffect": {
     "TEXT": [
       "New Unlock!"
+    ]
+  },
+  "CustomModeScreen": {
+    "TEXT": [
+      "Custom Mode",
+      "Achievements and Leaderboards are off.",
+      "Character",
+      "Ascension",
+      "Level ",
+      "Ascension Mode",
+      "Modifiers",
+      "Seed",
+      "Set Seed"
     ]
   }
 }

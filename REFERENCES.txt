@@ -25,8 +25,8 @@ RELICS
 	Dead Branch: References the Dead Branch from Ragnarok Online.
 	Du-Vu Doll: References Voodoo doll.
 	Enchiridion: References the Enchirdion, specifically the one from Adventure Time.
-	Golden Idol/Bloody Idol: References the Golden Idol from Spelunky.
 	Gold-Plated Cables: Flavor text references plating cables with gold to improve them (hint: it doesn't).
+	Golden Idol/Bloody Idol: References the Golden Idol from Spelunky.
 	Happy Flower: References the Sunflower from Plants vs Zombies.
 	Inserter: This is the Inserter device from Factorio! The image is a yellow Inserter.
 	Lee's Waffle: References Lee, friend of the developer- he had a waffle machine at work.
@@ -38,3 +38,4 @@ RELICS
 	Shovel: Visually references the shovel used by Shovel Knight.
 	The Specimen: Visually references Dorohedoro.
 	Toxic Egg: Visually references Alien.
+	Void Essence: Item in Stardew Valley.
