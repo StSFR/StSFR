@@ -1,4 +1,45 @@
 Updates for Translators!
+06-27-2018
+run_mods.json
+	"Inception"
+	"My True Form"
+	"One Hit Wonder"
+	"Praise Snecko"
+	"Starter Deck"
+
+----------------------------------
+
+06-26-2018
+cards.json
+	(All of these are to allow optional UPGRADE_DESCRIPTION. For most languages, just copy/paste the DESCRIPTION into UPGRADE_DESCRIPTION)
+	"Heavy Blade"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+	"Offering"
+		"UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+	"Pummel"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+	"Reprogram"
+		"UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+
+ui.json
+	"CustomModeScreen" (New Screen!)
+	"MenuPanels"
+		"Endless",
+		"Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
+		->
+		"Custom",
+		"Customize your own run with unique modifiers."
+
+events.json
+	"Mysterious Sphere"
+		"[Open Sphere] #rFight. #gReward: #gRelic.", ->
+		"[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
+
+run_mods.json
+	"Endless"
+
+----------------------------------
+
 06-20-2018
 events.json
 	NOTE: This event's text is not yet finalized
