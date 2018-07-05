@@ -63,8 +63,8 @@
   "Berserk": {
     "NAME": "Berserk",
     "DESCRIPTIONS": [
-      "If your HP is at or below #b50%, gain ",
-      " at the start of your turn."
+      "Gain ",
+      "  at the start of your turn."
     ]
   },
   "Bias": {
@@ -531,6 +531,14 @@
       " at the start of your turn."
     ]
   },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
   "Metallicize": {
     "NAME": "Metallicize",
     "DESCRIPTIONS": [
@@ -835,6 +843,13 @@
       "."
     ]
   },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
+      "At the end of this turn, deal %1$s damage to ALL enemies"
+    ]
+  },
   "Thievery": {
     "NAME": "Thievery",
     "DESCRIPTIONS": [
@@ -946,6 +961,20 @@
     "DESCRIPTIONS": [
       "Whenever you play #b",
       " cards, your turn is ended"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock from cards."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+	  "When this enemy dies, deal damage to ALL enemies equal to #b",
+	  " times its Max HP."
     ]
   }
 }

@@ -1,4 +1,69 @@
 Updates for Translators!
+07-03-2018
+relics.json
+	"TwistedFunnel"
+	"MealTicket"
+	"ClockworkSouvenir"
+
+cards.json
+	"Corpse Explosion" (rewooork)
+	"Panic Button"
+		"DESCRIPTION": "Gain !B! Block. You cannot gain Block for the next !M! turns. NL Exhaust."
+		->
+		"DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
+	"The Bomb"
+
+powers.json
+	"NoBlockPower"
+	"CorpseExplosionPower"
+	"TheBomb"
+
+----------------------------------
+
+07-02-2018
+cards.json
+	"HandOfGreed"
+	"Berserk"
+		"DESCRIPTION": "If your HP is at or below 50%, gain [R] at the start of each turn." ->
+		"DESCRIPTION": "Gain !M! Vulnerable. NL Gain [R] at the start of each turn."
+	"Shame"
+	"Metamorphosis"
+	"Chrysalis"
+	"Mayhem"
+	"MindBlast"
+		"DESCRIPTION": "Deal damage equal to the number of cards in your draw pile.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+		->
+		"DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+		REMOVED: "UPGRADE_DESCRIPTION"
+	"PanicButton"
+
+relics.json
+	"DollysMirror"
+	"TheAbacus"
+
+powers.json
+	"Berserk"
+		"If your HP is at or below #b50%, gain ",
+		" at the start of your turn."
+		->
+		"Gain ",
+		"  at the start of your turn."
+	"NoBlockPower"
+	"Mayhem"
+
+----------------------------------
+
+06-29-2018
+relics.json
+	"NlothsMask" (Rework + Rename)
+	"GremlinMask"
+	"CultistMask"
+events.json
+	"FaceTrader" (overhaul)
+
+----------------------------------
+
 06-27-2018
 run_mods.json
 	"Inception"

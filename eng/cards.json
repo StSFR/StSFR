@@ -109,7 +109,7 @@
   },
   "Berserk": {
     "NAME": "Berserk",
-    "DESCRIPTION": "If your HP is at or below 50%, gain [R] at the start of each turn."
+    "DESCRIPTION": "Gain !M! Vulnerable. NL Gain [R] at the start of each turn."
   },
   "Biased Cognition": {
     "NAME": "Biased Cognition",
@@ -244,6 +244,10 @@
     "NAME": "Choke",
     "DESCRIPTION": "Deal !D! damage. NL Whenever you play a card this turn, targeted enemy loses !M! HP."
   },
+  "Chrysalis": {
+    "NAME": "Chrysalis",
+    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
   "Clash": {
     "NAME": "Clash",
     "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
@@ -295,10 +299,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Corpse Explosion",
-    "DESCRIPTION": "Enemy loses all Poison. Deal damage equal to twice the amount lost to ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Enemy loses all Poison. Deal damage equal to 3 times the amount lost to ALL enemies.",
+    "DESCRIPTION": "Apply !M! Poison. NL When the enemy dies, deal damage to ALL enemies equal to its max HP.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "That enemy isn't Poisoned."
+      "deprecated"
     ]
   },
   "Corruption": {
@@ -760,6 +764,10 @@
     "DESCRIPTION": "Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
     "UPGRADE_DESCRIPTION": "This has to be my NL only card."
   },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
+  },
   "Melter": {
     "NAME": "Melter",
     "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
@@ -768,14 +776,18 @@
     "NAME": "Metallicize",
     "DESCRIPTION": "At the end of your turn, gain !M! Block."
   },
+  "Metamorphosis": {
+    "NAME": "Metamorphosis",
+    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
   "Meteor Strike": {
     "NAME": "Meteor Strike",
     "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
   },
   "Mind Blast": {
     "NAME": "Mind Blast",
-    "DESCRIPTION": "Deal damage equal to the number of cards in your draw pile.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+    "DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)"
     ]
@@ -1044,6 +1056,10 @@
     "NAME": "Sever Soul",
     "DESCRIPTION": "Exhaust all non-Attack cards in your hand. NL Deal !D! damage."
   },
+  "Shame": {
+    "NAME": "Shame",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+  },
   "Shiv": {
     "NAME": "Shiv",
     "DESCRIPTION": "Deal !D! damage. NL Exhaust."
@@ -1166,7 +1182,7 @@
   },
   "The Bomb": {
     "NAME": "The Bomb",
-    "DESCRIPTION": "Deal !D! damage to everyone (including yourself). NL Exhaust."
+    "DESCRIPTION": "At the end of 3 turns, deal !M! damage to ALL enemies."
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",
@@ -1296,5 +1312,13 @@
   "Pride": {
     "NAME": "Pride",
     "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
+  },
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand Of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
   }
 }
