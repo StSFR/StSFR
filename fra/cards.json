@@ -1306,15 +1306,15 @@
     "DESCRIPTION": "Au début de votre tour, jouez la première carte de votre pioche."
   },
   "Metamorphosis": {
-    "NAME": "Metamorphosis",
+    "NAME": "Métamorphose",
     "DESCRIPTION": "Ajoutez !M! Attaques aléatoires à votre pioche. Elles coûtent 0 ce combat. NL Épuisement."
   },
   "PanicButton": {
-    "NAME": "Panic Button",
+    "NAME": "Bouton de secours",
     "DESCRIPTION": "Gagnez !B! d'Armure. Vous ne pouvez plus gagner d'Armure avec des cartes pendant les !M! prochains tours. Épuisement."
   },
   "HandOfGreed": {
-    "NAME": "Main de la Cupidité",
+    "NAME": "Main de la cupidité",
     "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi succombe, gagnez !M! d'Or."
   },
   "Shame": {

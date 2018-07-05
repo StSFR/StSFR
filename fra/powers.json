@@ -949,32 +949,32 @@
     ]
   },
   "NoBlockPower": {
-    "NAME": "No Block",
+    "NAME": "À découvert",
     "DESCRIPTIONS": [
-      "You cannot gain #yBlock from cards."
+      "Vous ne pouvez plus gagner #yd'Armure avec des cartes."
     ]
   },
   "CorpseExplosionPower": {
-    "NAME": "Corpse Explosion",
+    "NAME": "Explosion morbide",
     "DESCRIPTIONS": [
-      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
-      "When this enemy dies, deal damage to ALL enemies equal to #b",
-      " times its Max HP."
+      "Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+      "Quand cet ennemi meurt, infligez autant de dégâts que #b",
+      " fois ses PV Max à TOUS les ennemis."
     ]
   },
   "TheBomb": {
-    "NAME": "The Bomb",
+    "NAME": "La bombe",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "À la fin de %1$s tours, infligez %2$s dégât(s) à TOUS les ennemis.",
+      "À la fin de ce tour, infligez %1$s dégât(s) à TOUS les ennemis"
     ]
   },
   "Mayhem": {
-    "NAME": "Mayhem",
+    "NAME": "Grabuge",
     "DESCRIPTIONS": [
-      "At the start of your turn, play the top card of your draw pile.",
-      "At the start of your turn, play the top #b",
-      " cards of your draw pile."
+      "Au début de votre tour, jouez la première carte de votre pioche.",
+      "Au début de votre tour, jouez les #b",
+      " premières cartes de votre pioche."
     ]
   }
 }
