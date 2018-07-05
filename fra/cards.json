@@ -608,7 +608,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
-    "DESCRIPTION": "Appliquez !M! Poison. NL Quand un ennemi meurt, infligez ses PV max à TOUS les ennemis.",
+    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez ses PV max à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -784,7 +784,7 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Innées. NL Infligez autant de dégâts que de cartes dans votre pioche.",
+    "DESCRIPTION": "Innée. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
     "UPGRADE_DESCRIPTION": "", 
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"
