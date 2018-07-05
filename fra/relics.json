@@ -835,9 +835,9 @@
     "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " mélanges de deck, gagnez : [R] [R] .",
-      " mélanges de deck, gagnez : [G] [G] .",
-      " mélanges de deck, gagnez : [B] [B] ."
+      " mélanges de pioche, gagnez : [R] [R] .",
+      " mélanges de pioche, gagnez : [G] [G] .",
+      " mélanges de pioche, gagnez : [B] [B] ."
     ]
   },
   "Ancient Tea Set": {
@@ -1233,7 +1233,7 @@
     "NAME": "Tête de ssserpent",
     "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez tout acheter !",
     "DESCRIPTIONS": [
-      "Au début de chaque événement, gagnez #b",
+      "Quand vous entrez dans une pièce ?, gagnez #b",
       " #yd'or."
     ]
   },
