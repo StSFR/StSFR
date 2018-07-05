@@ -2,7 +2,8 @@
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
-        "artefact"
+        "artefact",
+		"d'artefact"
       ],
       "DESCRIPTION": "Annule le prochain malus."
     },

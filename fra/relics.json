@@ -1238,54 +1238,54 @@
     ]
   },
   "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
+    "NAME": "Miroir de Dolly",
+    "FLAVOR": "\"Ce miroir me donne l'air bizarre.\"",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
+      "Quand vous le ramassez, obtenez une copie supplémentaire d'une carte de votre deck.",
+      "Choisissez 1 carte à Copier."
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "Souvenir d'horlogerie",
+    "FLAVOR": "\"Tellement de rouages complexes.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "Au début de chaque combat, gagnez #b1 #yd'Artefact."
     ]
   },
   "GremlinMask": {
-    "NAME": "Gremlin Visage",
-    "FLAVOR": "Time to run.",
+    "NAME": "Visage de goblin",
+    "FLAVOR": "Il est temps de courir.",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
+      "Commencez chaque combat avec #b1 de #yFaiblesse."
     ]
   },
   "CultistMask": {
-    "NAME": "Cultist Headpiece",
-    "FLAVOR": "Part of the Flock!",
+    "NAME": "Casque d'Adepte",
+    "FLAVOR": "Je fais partie du troupeau !",
     "DESCRIPTIONS": [
-      "You feel more talkative.",
+      "Vous vous sentez plus loquace.",
       "@CAW!@ NL @CAAAW@"
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "Entonnoir torsadé",
+    "FLAVOR": "\"Je ne l'utiliserais pas pour boire.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "Au début de chaque combat, appliquez #4 de #yPoison à TOUS les ennemis."
     ]
   },
   "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "\"One...Two...Three...\"",
+    "NAME": "L'Abaque",
+    "FLAVOR": "\"Un...Deux...Trois...\"",
     "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+      "Gagnez #b6 #yd'Armure à chaque fois que vous mélangez votre pioche."
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "Ticket Restaurant",
+    "FLAVOR": "\"Boulettes de viande gratuites à chaque visite !\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "Quand vous entrez dans une boutique, récupérez #b7 PV."
     ]
   }
 }
