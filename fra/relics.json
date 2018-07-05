@@ -1218,8 +1218,8 @@
     "NAME": "Masque de N'Loth",
     "FLAVOR": "Vous avez faim.",
     "DESCRIPTIONS": [
-      "Quand vous jouez une carte Rare, gagnez #b",
-      " #yd'Armure."
+      "Le prochain coffre (non-boss) que vous ouvrez sera vide.",
+      ""
     ]
   },
   "FaceOfCleric": {

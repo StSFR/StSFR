@@ -274,7 +274,7 @@
   },
   "Berserk": {
     "NAME": "Folie furieuse",
-    "DESCRIPTION": "Si vos PV sont inférieurs à 50 %, gagnez [R] au début de chaque tour."
+    "DESCRIPTION": "Gagnez !M! de Vulnerabilité. NL Gagnez [R] au début de chaque tour."
   },
   "Pummel": {
     "NAME": "Volée de coups",
@@ -368,7 +368,7 @@
   },
   "The Bomb": {
     "NAME": "La Bombe",
-    "DESCRIPTION": "Infligez !D! dégât(s) à tout le monde (vous inclus). NL Épuisement."
+    "DESCRIPTION": "À la fin des 3 prochains tours, infligez !M! dégats à TOUS les ennemis."
   },
   "Sever Soul": {
     "NAME": "Scission d'âme",
@@ -608,10 +608,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
-    "DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le double de ce total à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le NL triple de ce total à TOUS les ennemis.",
+    "DESCRIPTION": "Appliquez !M! Poison. NL Quand un ennemi meurt, infligez ses PV max à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "Cet ennemi n'est pas Empoisonné."
+      "deprecated"
     ]
   },
   "Second Wind": {
@@ -784,8 +784,8 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "DESCRIPTION": "Innées. NL Infligez autant de dégâts que de cartes dans votre pioche.",
+    "UPGRADE_DESCRIPTION": "", 
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"
     ]

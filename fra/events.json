@@ -820,18 +820,18 @@
   "FaceTrader": {
     "NAME": "Échangeur de visage",
     "DESCRIPTIONS": [
-      "VOUS M'AVEZ L'AIR DE QUELQU'UN QUI A BESOIN D'UN NOUVEAU VISAGE !",
-      "PROFITEZ BIEN DE VOTRE NOUVEAU VISAGE !",
-      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
-      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "Vous passez à côté d'une statue mystérieuse portant plusieurs masques... NL Quelque chose derrière vous murmure doucement, NL ~\"Stop.\"~",
+      "Vous faites demi-tour pour vous retrouver devant statue qui vous fait face ! NL En y regardant de plus près, ce n'est pas une statue mais un homme maigre et sculptural. Respire-t-il même? NL NL ~\"Visage,~ ~Laissez-moi~ ~toucher~ ~?~ ~Peut-être~ ~échanger~ ~?\"~"
+      "~\"Compensation~ ~?~ ~Compensation.\"~ NL Mécaniquement, il grue une pile nette #yd'or et le place dans votre poche. ~\"Quel~ ~beau~ ~visage,~ ~beau~ ~visage.\"~ NL Alors qu'il touche votre visage, vous commencez à sentir votre vie en sortir! NL Pendant ce temps, son masque tombe et se brise. Hurlant, il couvre rapidement son visage avec tous les six bras laissant tomber encore plus de masques! Au milieu de tous les cris et fracas, vous échapper. NL NL Son visage était complètement vide."
+      "~\"C'est~ ~pour~ ~moi~ ~?~ @POUR@ @MOI@ @???@ ~Oh~ ~oui...~ ~Oui.~ ~Oui...~ ~mmmh...\"~ NL NL Vous voyez un de ses bras scintiller, et votre visage est dans sa main! Votre visage a été échangé. NL NL ~\"Beau~ ~visage...\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL Ce fut probablement le bon choix."
     ],
     "OPTIONS": [
-      "[Masque de N'Loth] #gQuand #gvous #gjouez #gune #gcarte #gRare, #ggagnez #g3 #gd'Armure.",
-      "[Tête de ssserpent] #gAu #gdébut #gde #gchaque #gévénement, #ggagnez #g50 #gd'or.",
-      "[Tête de Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
-      "[Partir]",
-      "[Continue]"
+      "[Toucher] #rPerdez #r10% #rde #rvos #rPV #rmax, #ggagnez #g", 
+      " #gd'Or.", 
+      "[Échanger] #g50%: #gBon #gvisage. #r50%: #rMauvais #rvisage.", 
+      "[Partir]", 
+      "[Continuer]" 
     ]
   }
 }
