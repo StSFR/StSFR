@@ -821,13 +821,17 @@
     "NAME": "Échangeur de visage",
     "DESCRIPTIONS": [
       "VOUS M'AVEZ L'AIR DE QUELQU'UN QUI A BESOIN D'UN NOUVEAU VISAGE !",
-      "PROFITEZ BIEN DE VOTRE NOUVEAU VISAGE !"
+      "PROFITEZ BIEN DE VOTRE NOUVEAU VISAGE !",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
       "[Masque de N'Loth] #gQuand #gvous #gjouez #gune #gcarte #gRare, #ggagnez #g3 #gd'Armure.",
       "[Tête de ssserpent] #gAu #gdébut #gde #gchaque #gévénement, #ggagnez #g50 #gd'or.",
       "[Tête de Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
-      "[Partir]"
+      "[Partir]",
+      "[Continue]"
     ]
   }
 }

@@ -1296,5 +1296,29 @@
   "Pride": {
     "NAME": "Arrogance",
     "DESCRIPTION": "Inné. Épuisement. NL Au début de votre tour, placez une copie de cette carte au dessus de votre pioche."
+  },
+  "Chrysalis": {
+    "NAME": "Chrysalis",
+    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
+  },
+  "Metamorphosis": {
+    "NAME": "Metamorphosis",
+    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
+  },
+  "PanicButton": {
+    "NAME": "Panic Button",
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
+  },
+  "HandOfGreed": {
+    "NAME": "Hand Of Greed",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+  },
+  "Shame": {
+    "NAME": "Shame",
+    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
   }
 }
