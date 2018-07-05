@@ -368,7 +368,7 @@
   },
   "The Bomb": {
     "NAME": "La Bombe",
-    "DESCRIPTION": "À la fin des 3 prochains tours, infligez !M! dégats à TOUS les ennemis."
+    "DESCRIPTION": "Dans 3 tours, infligez !M! dégats à TOUS les ennemis."
   },
   "Sever Soul": {
     "NAME": "Scission d'âme",
@@ -608,7 +608,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
-    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez ses PV max à TOUS les ennemis.",
+    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -784,7 +784,7 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Innée. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
     "UPGRADE_DESCRIPTION": "", 
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"

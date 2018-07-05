@@ -644,7 +644,7 @@
     "NAME": "Folie furieuse",
     "DESCRIPTIONS": [
       "Gagnez ", 
-      "  à la fin de votre tours." 
+      "  au début de votre tour." 
     ]
   },
   "Time Warp": {
@@ -963,9 +963,9 @@
     ]
   },
   "TheBomb": {
-    "NAME": "La bombe",
+    "NAME": "La Bombe",
     "DESCRIPTIONS": [
-      "À la fin de %1$s tours, infligez %2$s dégât(s) à TOUS les ennemis.",
+      "Dans %1$s tours, infligez %2$s dégât(s) à TOUS les ennemis.",
       "À la fin de ce tour, infligez %1$s dégât(s) à TOUS les ennemis"
     ]
   },
