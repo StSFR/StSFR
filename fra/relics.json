@@ -835,9 +835,9 @@
     "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " mélanges de deck, gagnez : [R] [R] .",
-      " mélanges de deck, gagnez : [G] [G] .",
-      " mélanges de deck, gagnez : [B] [B] ."
+      " mélanges de pioche, gagnez : [R] [R] .",
+      " mélanges de pioche, gagnez : [G] [G] .",
+      " mélanges de pioche, gagnez : [B] [B] ."
     ]
   },
   "Ancient Tea Set": {
@@ -1218,8 +1218,8 @@
     "NAME": "Masque de N'Loth",
     "FLAVOR": "Vous avez faim.",
     "DESCRIPTIONS": [
-      "Quand vous jouez une carte Rare, gagnez #b",
-      " #yd'Armure."
+      "Le prochain coffre (non-boss) que vous ouvrez sera vide.",
+      ""
     ]
   },
   "FaceOfCleric": {
@@ -1233,8 +1233,59 @@
     "NAME": "Tête de ssserpent",
     "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez tout acheter !",
     "DESCRIPTIONS": [
-      "Au début de chaque événement, gagnez #b",
+      "Quand vous entrez dans une pièce ?, gagnez #b",
       " #yd'or."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Miroir de Dolly",
+    "FLAVOR": "\"Ce miroir me donne l'air bizarre.\"",
+    "DESCRIPTIONS": [
+      "Quand vous le ramassez, obtenez une copie supplémentaire d'une carte de votre deck.",
+      "Choisissez 1 carte à Copier."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Souvenir d'horlogerie",
+    "FLAVOR": "\"Tellement de rouages complexes.\"",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, gagnez #b1 #yd'Artefact."
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Visage de goblin",
+    "FLAVOR": "Il est temps de courir.",
+    "DESCRIPTIONS": [
+      "Commencez chaque combat avec #b1 de #yFaiblesse."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Casque d'Adepte",
+    "FLAVOR": "Je fais partie du troupeau !",
+    "DESCRIPTIONS": [
+      "Vous vous sentez plus loquace.",
+      "@CAW!@ NL @CAAAW@"
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Entonnoir torsadé",
+    "FLAVOR": "\"Je ne l'utiliserais pas pour boire.\"",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, appliquez #4 de #yPoison à TOUS les ennemis."
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "L'Abaque",
+    "FLAVOR": "\"Un...Deux...Trois...\"",
+    "DESCRIPTIONS": [
+      "Gagnez #b6 #yd'Armure à chaque fois que vous mélangez votre pioche."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Ticket Restaurant",
+    "FLAVOR": "\"Boulettes de viande gratuites à chaque visite !\"",
+    "DESCRIPTIONS": [
+      "Quand vous entrez dans une boutique, récupérez #b7 PV."
     ]
   }
 }

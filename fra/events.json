@@ -820,14 +820,18 @@
   "FaceTrader": {
     "NAME": "Échangeur de visage",
     "DESCRIPTIONS": [
-      "VOUS M'AVEZ L'AIR DE QUELQU'UN QUI A BESOIN D'UN NOUVEAU VISAGE !",
-      "PROFITEZ BIEN DE VOTRE NOUVEAU VISAGE !"
+      "Vous passez à côté d'une sinistre statue portant plusieurs masques... NL Quelque chose derrière vous murmure doucement : NL ~\"Stop.\"~",
+      "Vous faites demi-tour pour vous retrouver devant la statue qui vous fait maintenant face ! NL En y regardant de plus près, ce n'est pas une statue mais un homme maigre et sculptural. Respire-t-il seulement ? NL NL ~\"Visage,~ ~Laissez-moi~ ~toucher~ ~?~ ~Peut-être~ ~échanger~ ~?\"~"
+      "~\"Compensation~ ~?~ ~Compensation.\"~ NL Mécaniquement, il sort un belle pile #yd'or et la place dans votre poche. ~\"Quel~ ~beau~ ~visage,~ ~beau~ ~visage.\"~ NL Alors qu'il touche votre visage, vous commencez à sentir qu'il aspire votre vitalité ! NL Pendant ce temps, son masque tombe et se brise. Il hurle, et couvre rapidement son visage avec ses six bras, laissant tomber encore plus de masques! Au milieu de tous les cris et fracas, vous vous échappez. NL NL Il était dépourvu de visage."
+      "~\"C'est~ ~pour~ ~moi~ ~?~ @POUR@ @MOI@ @???@ ~Oh~ ~oui...~ ~Oui.~ ~Oui...~ ~mmmh...\"~ NL NL Vous voyez un de ses bras scintiller, et votre visage est dans sa main ! Votre visage a été échangé. NL NL ~\"Beau~ ~visage...\"~",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL C'était probablement le bon choix."
     ],
     "OPTIONS": [
-      "[Masque de N'Loth] #gQuand #gvous #gjouez #gune #gcarte #gRare, #ggagnez #g3 #gd'Armure.",
-      "[Tête de ssserpent] #gAu #gdébut #gde #gchaque #gévénement, #ggagnez #g50 #gd'or.",
-      "[Tête de Clerc] #gGagnez #g1 #gPV #gMax #gaprès #gchaque #gcombat.",
-      "[Partir]"
+      "[Toucher] #rPerdez #r10% #rde #rvos #rPV #rmax. #gGagnez #g", 
+      " #gd'Or.", 
+      "[Échanger] #g50%: #gBon #gvisage. #r50%: #rMauvais #rvisage.", 
+      "[Partir]", 
+      "[Continuer]" 
     ]
   }
 }

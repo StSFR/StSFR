@@ -274,7 +274,7 @@
   },
   "Berserk": {
     "NAME": "Folie furieuse",
-    "DESCRIPTION": "Si vos PV sont inférieurs à 50 %, gagnez [R] au début de chaque tour."
+    "DESCRIPTION": "Gagnez !M! de Vulnerabilité. NL Gagnez [R] au début de chaque tour."
   },
   "Pummel": {
     "NAME": "Volée de coups",
@@ -368,7 +368,7 @@
   },
   "The Bomb": {
     "NAME": "La Bombe",
-    "DESCRIPTION": "Infligez !D! dégât(s) à tout le monde (vous inclus). NL Épuisement."
+    "DESCRIPTION": "Dans 3 tours, infligez !M! dégats à TOUS les ennemis."
   },
   "Sever Soul": {
     "NAME": "Scission d'âme",
@@ -608,10 +608,10 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
-    "DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le double de ce total à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le NL triple de ce total à TOUS les ennemis.",
+    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
-      "Cet ennemi n'est pas Empoisonné."
+      "deprecated"
     ]
   },
   "Second Wind": {
@@ -784,8 +784,8 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "UPGRADE_DESCRIPTION": "", 
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"
     ]
@@ -1296,5 +1296,29 @@
   "Pride": {
     "NAME": "Arrogance",
     "DESCRIPTION": "Inné. Épuisement. NL Au début de votre tour, placez une copie de cette carte au dessus de votre pioche."
+  },
+  "Chrysalis": {
+    "NAME": "Chrysalide",
+    "DESCRIPTION": "Ajoutez !M! Compétences aléatoires à votre pioche. Elles coûtent 0 ce combat. NL Épuisement."
+  },
+  "Mayhem": {
+    "NAME": "Grabuge",
+    "DESCRIPTION": "Au début de votre tour, jouez la première carte de votre pioche."
+  },
+  "Metamorphosis": {
+    "NAME": "Métamorphose",
+    "DESCRIPTION": "Ajoutez !M! Attaques aléatoires à votre pioche. Elles coûtent 0 ce combat. NL Épuisement."
+  },
+  "PanicButton": {
+    "NAME": "Bouton de secours",
+    "DESCRIPTION": "Gagnez !B! d'Armure. Vous ne pouvez plus gagner d'Armure avec des cartes pendant les !M! prochains tours. Épuisement."
+  },
+  "HandOfGreed": {
+    "NAME": "Main de la cupidité",
+    "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi succombe, gagnez !M! d'Or."
+  },
+  "Shame": {
+    "NAME": "Honte",
+    "DESCRIPTION": "Injouable. NL À la fin de votre tour, gagnez 1 de Fragilité."
   }
 }

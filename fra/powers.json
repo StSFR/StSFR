@@ -643,8 +643,8 @@
   "Berserk": {
     "NAME": "Folie furieuse",
     "DESCRIPTIONS": [
-      "Si vos PV sont inférieurs à #b50 %, gagnez ",
-      " au début de votre tour."
+      "Gagnez ", 
+      "  au début de votre tour." 
     ]
   },
   "Time Warp": {
@@ -946,6 +946,35 @@
     "DESCRIPTIONS": [
       "Quand vous jouez #b",
       " cartes, votre tour se termine."
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "À découvert",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez plus gagner #yd'Armure avec des cartes."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Explosion morbide",
+    "DESCRIPTIONS": [
+      "Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+      "Quand cet ennemi meurt, infligez autant de dégâts que #b",
+      " fois ses PV Max à TOUS les ennemis."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "La Bombe",
+    "DESCRIPTIONS": [
+      "Dans %1$s tours, infligez %2$s dégât(s) à TOUS les ennemis.",
+      "À la fin de ce tour, infligez %1$s dégât(s) à TOUS les ennemis"
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Grabuge",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, jouez la première carte de votre pioche.",
+      "Au début de votre tour, jouez les #b",
+      " premières cartes de votre pioche."
     ]
   }
 }

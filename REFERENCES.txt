@@ -39,3 +39,4 @@ RELICS
 	The Specimen: Visually references Dorohedoro.
 	Toxic Egg: Visually references Alien.
 	Void Essence: Item in Stardew Valley.
+	Dolly's Mirror: References Dolly, the first cloned sheep.
