@@ -706,11 +706,11 @@
   },
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
-	"FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme."
+	"FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme.",
     "DESCRIPTIONS": [
       "Remplace l'#gAnneau #gdu #gserpent. ",
       "Au début de votre tour, piochez #b1 carte supplémentaire."
-    ],
+    ]
   },
   "Runic Cube": {
     "NAME": "Cube runique",
