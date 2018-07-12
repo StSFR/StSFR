@@ -100,7 +100,7 @@
     "DESCRIPTION": "Commencez avec la Couronne cassée et Binaire, ce qui signifie que les monstres ne donnent plus de cartes."
   },
   "Blight Chests": {
-    "NAME": "Blight Chests",
-    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+    "NAME": "Coffres corrompus",
+    "DESCRIPTION": "Les coffres de Boss sont corrompus après avoir battu le troisième Acte en mode sans fin."
   }
 }

@@ -706,11 +706,11 @@
   },
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
+	"FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme."
     "DESCRIPTIONS": [
-      "Remplace l'#gAnneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b",
-      "At the start of your turn, draw #b1 additional card."
+      "Remplace l'#gAnneau #gdu #gserpent. ",
+      "Au début de votre tour, piochez #b1 carte supplémentaire."
     ],
-    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Runic Cube": {
     "NAME": "Cube runique",
@@ -1291,39 +1291,39 @@
     ]
   },
   "HoveringKite": {
-    "NAME": "Hovering Kite",
-    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "NAME": "Cerf-volant",
+    "FLAVOR": "Ce cerf-volant flotte autour de vous en combat, poussé par une force mystérieuse.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b1 card at the start of each turn."
+      "Gagnez [G] et défaussez #b1 carte au début de chaque tour."
     ]
   },
   "FrozenCore": {
     "NAME": "Cœur gelé",
-    "FLAVOR": "La fissure qui traverse votre cœur a été remplie avec une énergie froide.",
+    "FLAVOR": "La fissure qui traverse votre cœur a été remplie avec une énergie froide palpitante.",
     "DESCRIPTIONS": [
-      "Remplaces #rCœur #rfissuré. À la fin de votre tour, vide tous vos emplacement d'Orbes, #yCanalisez  #b1 #yOrbe #yGlaciaire."
+      "Remplace #rCœur #rfissuré. Si vous terminez un tour avec un emplacement d'Orbe vide, #yCanalisez #b1 #yOrbe #yGlaciaire."
     ]
   },
   "Sling": {
-    "NAME": "Sling of Courage",
-    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "NAME": "Fronde du courage",
+    "FLAVOR": "\"Un outil pratique pour venir à bout des adversaires particulièrement coriaces.\"",
     "DESCRIPTIONS": [
-      "Start each Elite combat with #b",
-      " #yStrength."
+      "Commencez chaque combat d'Élite avec #b",
+      " de #yForce."
     ]
   },
   "OrangePellets": {
-    "NAME": "Orange Pellets",
-    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "NAME": "Pastilles oranges",
+    "FLAVOR": "\"Fabriquées à partir de divers champignons trouvés dans tout la Tour, elles préviendront toute maladie.\"",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+      "Quand vous jouez un #yPouvoir, une #yAttaque et une #yCompétence dans le même tour, perdez tous vos débuffs."
     ]
   },
   "HandDrill": {
-    "NAME": "Hand Drill",
-    "FLAVOR": "\"Spirals are dangerous.\"",
+    "NAME": "Perceuse",
+    "FLAVOR": "\"Les spirales sont dangereuses.\"",
     "DESCRIPTIONS": [
-      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+      "Quand vous cassez #yl'Armure d'un ennemi, appliquez #b2 de #yVulnérabilité."
     ]
   }
 }
