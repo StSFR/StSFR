@@ -846,8 +846,8 @@
   "TheBomb": {
     "NAME": "The Bomb",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies",
-      "At the end of this turn, deal %1$s damage to ALL enemies"
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
+      "At the end of this turn, deal %1$s damage to ALL enemies."
     ]
   },
   "Thievery": {

@@ -75,9 +75,10 @@
   "VoidEssence": {
     "NAME": "Void Essence",
      "DESCRIPTION": [
-      "Gain 1 less [R] at the start of each turn.",
-	  "Gain 1 less [G] at the start of each turn.",
-	  "Gain 1 less [B] at the start of each turn."
+      "Gain #b",
+      " less [R] at the start of each turn.",
+      " less [G] at the start of each turn.",
+      " less [B] at the start of each turn."
     ]
   },
   "GraspOfShadows": {

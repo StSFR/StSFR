@@ -216,11 +216,29 @@
       ""
     ]
   },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
+  },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
     "NAME": "Flame Bruiser",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
     "DIALOG": [
       ""
     ]

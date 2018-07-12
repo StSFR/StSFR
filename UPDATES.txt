@@ -1,4 +1,55 @@
 Updates for Translators!
+07-11-2018
+blights.json
+	"VoidEssence"
+		" less [B] at the start of each turn."
+run_mods.json
+	"Blight Chests"
+	
+----------------------------------
+
+07-10-2018
+relics.json
+	"HandDrill"
+		"Whenever you break an enemy's block, apply #b2 #yVulnerable." ->
+		"Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+	"OrangePellets"
+	"HoveringKite"
+		"Discard #b1 card and gain [G] at the start of each turn." ->
+		"Gain [G] and discard #b1 card at the start of each turn."
+	"Ring of the Serpent"
+		"Replaces #gSnake #gRing. ", ->
+		"Replaces #gRing #gof #gthe #gSnake. ",
+
+cards.json
+	"Normality"
+		" cards this turn."
+
+monsters.json
+	"Dagger"
+	"Reptomancer"
+
+----------------------------------
+
+07-09-2018
+relics.json
+	"HandDrill"
+	"Ring of the Serpent"
+		"Replaces #gSnake #gRing. ",
+		"At the start of your turn, draw #b1 additional card."
+		"FLAVOR": "Your ring has morphed and changed forms.",
+	"HoveringKite"
+	"Sling"
+	"FrozenCore"
+
+events.json
+	"FaceTrader"
+		"[Touch] #rLose #r10% #rMax #rHP, #ggain #g", ->
+		"[Touch] #rLose #r",
+		" #rHP, #ggain #g"
+
+----------------------------------
+
 07-03-2018
 relics.json
 	"TwistedFunnel"

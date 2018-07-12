@@ -31,6 +31,10 @@
     "NAME": "Endless",
     "DESCRIPTION": "Winning will return you to Act 1 with the same deck. But beware, the blight eventually consumes all..."
   },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
+  },
   "Heirloom": {
     "NAME": "Heirloom",
     "DESCRIPTION": "Start with 1 Rare relic."
