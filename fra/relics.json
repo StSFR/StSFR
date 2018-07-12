@@ -1271,7 +1271,7 @@
     "NAME": "Entonnoir torsadé",
     "FLAVOR": "\"Je ne l'utiliserais pas pour boire.\"",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, appliquez #4 de #yPoison à TOUS les ennemis."
+      "Au début de chaque combat, appliquez #b4 de #yPoison à TOUS les ennemis."
     ]
   },
   "TheAbacus": {
