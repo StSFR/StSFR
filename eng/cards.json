@@ -821,7 +821,8 @@
       "Unplayable. NL You cannot play more than ",
       " cards per turn.",
       " cards per turn. NL You have played ",
-      " card this turn."
+      " card this turn.",
+	  " cards this turn."
     ]
   },
   "Nova": {

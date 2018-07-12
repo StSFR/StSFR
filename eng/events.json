@@ -827,11 +827,12 @@
       "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
-      "[Touch] #rLose #r10% #rMax #rHP, #ggain #g",
+      "[Touch] #rLose #r",
       " #gGold.",
       "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
       "[Leave]",
-	  "[Continue]"
+	  "[Continue]",
+	  " #rHP, #ggain #g"
     ]
   }
 }

@@ -750,7 +750,8 @@
       "Injouable. NL Vous ne pouvez jouer que ",
       " cartes par tour.",
       " cartes par tour. NL Vous avez joué ",
-      " carte(s)."
+      " carte.",
+      " cartes."
     ]
   },
   "Accuracy": {
@@ -785,7 +786,7 @@
   "Mind Blast": {
     "NAME": "Détonation mentale",
     "DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
-    "UPGRADE_DESCRIPTION": "", 
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Infligez !D! dégât(s).)"
     ]

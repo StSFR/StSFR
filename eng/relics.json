@@ -228,6 +228,13 @@
       "At the start of each combat, #yChannel #b1 #yLightning."
     ]
   },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
   "Cursed Key": {
     "NAME": "Cursed Key",
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
@@ -792,8 +799,10 @@
   },
   "Ring of the Serpent": {
     "NAME": "Ring of the Serpent",
+	"FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
-      "Replaces #gSnake #gRing. If you defeat an #yElite enemy, raise your Max HP by #b"
+      "Replaces #gRing #gof #gthe #gSnake. ",
+	  "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -1287,6 +1296,35 @@
     "FLAVOR": "\"I wouldn't drink out of it.\"",
     "DESCRIPTIONS": [
       "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Gain [G] and discard #b1 card at the start of each turn."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
     ]
   }
 }
