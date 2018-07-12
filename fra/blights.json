@@ -71,10 +71,10 @@
   "VoidEssence": {
     "NAME": "Escence du Néant",
     "DESCRIPTION": [
-      "Gagnez [R] en moins au début de chaque tour.",
-      "Gagnez [G] en moins au début de chaque tour.",
-      "Gagnez [B] en moins au début de chaque tour.",
-      " less [B] at the start of each turn."
+      "Gagnez #b",
+      " [R] en moins au début de chaque tour.",
+      " [G] en moins au début de chaque tour.",
+      " [B] en moins au début de chaque tour."
     ]
   },
   "FullBelly": {

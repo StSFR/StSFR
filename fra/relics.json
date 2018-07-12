@@ -1298,10 +1298,10 @@
     ]
   },
   "FrozenCore": {
-    "NAME": "Frozen Core",
-    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "NAME": "Cœur gelé",
+    "FLAVOR": "La fissure qui traverse votre cœur a été remplie avec une énergie froide.",
     "DESCRIPTIONS": [
-      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+      "Remplaces #rCœur #rfissuré. À la fin de votre tour, vide tous vos emplacement d'Orbes, #yCanalisez  #b1 #yOrbe #yGlaciaire."
     ]
   },
   "Sling": {

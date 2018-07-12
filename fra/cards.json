@@ -750,8 +750,8 @@
       "Injouable. NL Vous ne pouvez jouer que ",
       " cartes par tour.",
       " cartes par tour. NL Vous avez joué ",
-      " carte(s).",
-      " cards this turn."
+      " carte.",
+      " cartes."
     ]
   },
   "Accuracy": {
