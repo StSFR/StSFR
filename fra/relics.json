@@ -707,8 +707,10 @@
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
     "DESCRIPTIONS": [
-      "Remplace l'#gAnneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
-    ]
+      "Remplace l'#gAnneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b",
+      "At the start of your turn, draw #b1 additional card."
+    ],
+    "FLAVOR": "Your ring has morphed and changed forms."
   },
   "Runic Cube": {
     "NAME": "Cube runique",
@@ -1286,6 +1288,42 @@
     "FLAVOR": "\"Boulettes de viande gratuites à chaque visite !\"",
     "DESCRIPTIONS": [
       "Quand vous entrez dans une boutique, récupérez #b7 PV."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Hovering Kite",
+    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "DESCRIPTIONS": [
+      "Gain [G] and discard #b1 card at the start of each turn."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Frozen Core",
+    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "DESCRIPTIONS": [
+      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+    ]
+  },
+  "Sling": {
+    "NAME": "Sling of Courage",
+    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "DESCRIPTIONS": [
+      "Start each Elite combat with #b",
+      " #yStrength."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Orange Pellets",
+    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Hand Drill",
+    "FLAVOR": "\"Spirals are dangerous.\"",
+    "DESCRIPTIONS": [
+      "Whenever you break an enemy's #yBlock, apply #b2 #yVulnerable."
     ]
   }
 }

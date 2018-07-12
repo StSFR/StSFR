@@ -98,5 +98,9 @@
   "Starter Deck": {
     "NAME": "Deck de départ",
     "DESCRIPTION": "Commencez avec la Couronne cassée et Binaire, ce qui signifie que les monstres ne donnent plus de cartes."
+  },
+  "Blight Chests": {
+    "NAME": "Blight Chests",
+    "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
   }
 }

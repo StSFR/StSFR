@@ -656,5 +656,23 @@
     "DIALOG": [
       ""
     ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Reptomancer",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
   }
 }

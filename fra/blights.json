@@ -73,7 +73,8 @@
     "DESCRIPTION": [
       "Gagnez [R] en moins au début de chaque tour.",
       "Gagnez [G] en moins au début de chaque tour.",
-      "Gagnez [B] en moins au début de chaque tour."
+      "Gagnez [B] en moins au début de chaque tour.",
+      " less [B] at the start of each turn."
     ]
   },
   "FullBelly": {
