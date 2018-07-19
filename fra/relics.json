@@ -1354,7 +1354,7 @@
     ]
   },
   "MawBank": {
-    "NAME": "Collecte pur Gueule",
+    "NAME": "Collecte pour Gueule",
     "FLAVOR": "Étonnamment populaire, malgré que les attaques de Gueules soient fréquentes.",
     "DESCRIPTIONS": [
       "Quand vous montez d'un étage, gagnez #b",
