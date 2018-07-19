@@ -79,8 +79,8 @@
   },
   "Offering": {
     "NAME": "Offrande",
-    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
   },
   "Exhume": {
     "NAME": "Résurrection",

@@ -863,12 +863,12 @@
     ],
     "OPTIONS": [
       "[Donner une Potion] #rPerdez ",
-      "[Verouillé] Requis: une Potion",
+      "[Verouillé] Requis: une Potion.",
       "[Donner de l'Or] #rPerdez #r",
       "[Verouillé] Requis: au moins 50 d'Or.",
       "[Donner une carte] #rPerdez ",
-      "[Verouillé] Requis: une Carte",
-      ". #gRecevez #gune #gRelique",
+      "[Verouillé] Requis: une Carte.",
+      ". #gRecevez #gune #gRelique.",
       "[Attaquer]",
       "[Partir]",
       " #rd'Or"

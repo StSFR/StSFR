@@ -1332,7 +1332,7 @@
     "NAME": "Wrist Blade",
     "FLAVOR": "Handy for assassinations.",
     "DESCRIPTIONS": [
-      "#yAttacks that cost #b0 deal #b4 additional damage."
+      "#yAttacks that cost #b0 deal #b3 additional damage."
     ]
   },
   "StoneCalendar": {

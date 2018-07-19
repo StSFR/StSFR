@@ -1340,7 +1340,7 @@
     "NAME": "Poignard",
     "FLAVOR": "Pratique pour les assassinats.",
     "DESCRIPTIONS": [
-      "Les #yAttaques qui coûtent #b0 infligent #b4 dégâts supplémentaires."
+      "Les #yAttaques qui coûtent #b0 infligent #b3 dégâts supplémentaires."
     ]
   },
   "Nunchaku": {

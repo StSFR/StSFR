@@ -863,12 +863,12 @@
     ],
     "OPTIONS": [
       "[Give Potion] #rLose ",
-      "[Locked] Requires: Potion",
+      "[Locked] Requires: Potion.",
       "[Give Gold] #rLose #r",
       "[Locked] Requires: At least 50 Gold.",
       "[Give Card] #rLose ",
-      "[Locked] Requires: Card",
-      ". #gReceive #ga #gRelic",
+      "[Locked] Requires: Card.",
+      ". #gReceive #ga #gRelic.",
       "[Attack]",
       "[Leave]",
       " #rGold"
