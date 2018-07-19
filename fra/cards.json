@@ -1292,7 +1292,7 @@
   },
   "RitualDagger": {
     "NAME": "Dague rituelle",
-    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. Épuisement."
+    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
   },
   "Pride": {
     "NAME": "Arrogance",
@@ -1324,19 +1324,19 @@
   },
   "Impatience": {
     "NAME": "Impatience",
-    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
+    "DESCRIPTION": "Si vous n'avez pas de carte Attaque dans votre main, piochez !M! cartes."
   },
   "Violence": {
     "NAME": "Violence",
-    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+    "DESCRIPTION": "Placez !M! Attaques aléatoires de votre pioche dans votre main. NL Épuisement."
   },
   "Discovery": {
-    "NAME": "Discovery",
-    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
+    "NAME": "Découverte",
+    "DESCRIPTION": "Choisissez 1 carte à ajouter à votre main parmi 3 cartes aléatoires. Elle coûte 0 ce tour. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez 1 carte à ajouter à votre main parmi 3 cartes aléatoires. Elle coûte 0 ce tour."
   },
   "Forethought": {
-    "NAME": "Forethought",
-    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+    "NAME": "Prévoyance",
+    "DESCRIPTION": "Placez une carte de votre main sous votre pioche. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée."
   }
 }
