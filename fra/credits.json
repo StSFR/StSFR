@@ -71,7 +71,11 @@
   },
   "LOC_ZHT": {
     "HEADER": "Traduction en Chinois (Traditionnel)",
-    "NAMES": []
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Traduction en Allemand",

@@ -1321,5 +1321,22 @@
   "Shame": {
     "NAME": "Honte",
     "DESCRIPTION": "Injouable. NL À la fin de votre tour, gagnez 1 de Fragilité."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "If you have no Attack cards in your hand, draw !M! cards."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+  },
+  "Discovery": {
+    "NAME": "Discovery",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
+  },
+  "Forethought": {
+    "NAME": "Forethought",
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
   }
 }

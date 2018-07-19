@@ -1168,5 +1168,15 @@
       "Seed",
       "Définir la Seed"
     ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
   }
 }

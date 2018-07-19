@@ -185,7 +185,8 @@
     "NAME": "Agent chimique X",
     "FLAVOR": "AVERTISSEMENT : ne pas mélanger avec du sucre, des épices ou tout ce qui est bon.",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte coûtant #bX, ses effets sont augmentés de #b"
+      "Lorsque vous jouez une carte coûtant #bX, ses effets sont augmentés de #b",
+      "."
     ]
   },
   "Circlet": {
@@ -706,7 +707,7 @@
   },
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
-	"FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme.",
+    "FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme.",
     "DESCRIPTIONS": [
       "Remplace l'#gAnneau #gdu #gserpent. ",
       "Au début de votre tour, piochez #b1 carte supplémentaire."
@@ -1324,6 +1325,40 @@
     "FLAVOR": "\"Les spirales sont dangereuses.\"",
     "DESCRIPTIONS": [
       "Quand vous cassez #yl'Armure d'un ennemi, appliquez #b2 de #yVulnérabilité."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Stone Calendar",
+    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "DESCRIPTIONS": [
+      "At the end of turn #b",
+      ", deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Wrist Blade",
+    "FLAVOR": "Handy for assassinations.",
+    "DESCRIPTIONS": [
+      "#yAttacks that cost #b0 deal #b4 additional damage."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks, gain [R] .",
+      " #yAttacks, gain [G] .",
+      " #yAttacks, gain [B] ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Maw Bank",
+    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "DESCRIPTIONS": [
+      "Whenever you climb a floor, gain #b",
+      " #yGold. No longer works when you spend any #yGold at the shop."
     ]
   }
 }
