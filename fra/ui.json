@@ -998,7 +998,7 @@
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
-      "Gagnez un Défi Quotidien pour débloquer ce mode de jeu.",
+      "Participez à un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
       "Personnalisé",
       "Personnalisez votre partie avec les modificateurs que vous souhaitez !"
@@ -1006,7 +1006,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choisissez une Attaque à ajouter à votre main"
+      "Choisissez une Attaque à ajouter à votre main."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1142,8 +1142,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choissisez une carte à ajouter dans votre main",
-      "Choisissez les cartes à ajouter dans votre main"
+      "Choissisez une carte à ajouter dans votre main.",
+      "Choisissez les cartes à ajouter dans votre main."
     ]
   },
   "DiscardPileToHandAction": {
@@ -1167,6 +1167,16 @@
       "Modificateurs",
       "Seed",
       "Définir la Seed"
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "placer sous votre pioche."
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " d'Or"
     ]
   }
 }

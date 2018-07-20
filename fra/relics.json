@@ -92,7 +92,7 @@
     "NAME": "Flamme embouteillée",
     "FLAVOR": "Dans cette bouteille brûle une flamme éternelle.",
     "DESCRIPTIONS": [
-      "Lorsque vous la ramassez, choisissez une carte Attaque. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Lorsque vous la ramassez, choisissez une carte #yAttaque. Au début de chaque combat, cette carte se trouve dans votre main.",
       "Choisissez une carte pour ",
       "Au début de chaque combat, ajoutez ",
       " à votre main."
@@ -102,7 +102,7 @@
     "NAME": "Foudre embouteillée",
     "FLAVOR": "En observant ce maelström tourbillonnant, vous apercevez une partie de vous-même qui vous fixe.",
     "DESCRIPTIONS": [
-      "Lorsque vous la ramassez, choisissez une carte Compétence. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Lorsque vous la ramassez, choisissez une carte #yCompétence. Au début de chaque combat, cette carte se trouve dans votre main.",
       "Choisissez une carte pour ",
       "Au début de chaque combat, ajoutez ",
       " à votre main."
@@ -185,7 +185,8 @@
     "NAME": "Agent chimique X",
     "FLAVOR": "AVERTISSEMENT : ne pas mélanger avec du sucre, des épices ou tout ce qui est bon.",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte coûtant #bX, ses effets sont augmentés de #b"
+      "Les effets des cartes coûtant #bX sont augmentés de #b",
+      "."
     ]
   },
   "Circlet": {
@@ -240,7 +241,7 @@
     "NAME": "Attrape-rêves",
     "FLAVOR": "Les tribus du nord utilisaient souvent des attrape-rêves la nuit pour leur développement personnel.",
     "DESCRIPTIONS": [
-      "Lorsque vous vous reposez, vous pouvez ajouter une carte à votre deck."
+      "Lorsque vous vous #yReposez, vous pouvez ajouter une carte à votre deck."
     ]
   },
   "Du-Vu Doll": {
@@ -311,7 +312,7 @@
   },
   "Frozen Eye": {
     "NAME": "Œil gelé",
-    "FLAVOR": "SANS VALEUR",
+    "FLAVOR": "En regardant dans l'œil, vous voyez un aperçu de votre avenir.",
     "DESCRIPTIONS": [
       "Vous pouvez voir votre #yPioche dans l'ordre."
     ]
@@ -706,9 +707,9 @@
   },
   "Ring of the Serpent": {
     "NAME": "Anneau du cobra",
-	"FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme.",
+    "FLAVOR": "Votre anneau s'est métamorphosé et a changé de forme.",
     "DESCRIPTIONS": [
-      "Remplace l'#gAnneau #gdu #gserpent. ",
+      "Remplace #gl'Anneau #gdu #gserpent. ",
       "Au début de votre tour, piochez #b1 carte supplémentaire."
     ]
   },
@@ -1062,9 +1063,9 @@
   },
   "Bottled Tornado": {
     "NAME": "Tornade embouteillée",
-    "FLAVOR": "Test relic.",
+    "FLAVOR": "La bouteille bourdonne et siffle doucement.",
     "DESCRIPTIONS": [
-      "Lorsque vous la ramassez, choisissez une carte Pouvoir. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Lorsque vous la ramassez, choisissez une carte #yPouvoir. Au début de chaque combat, cette carte se trouve dans votre main.",
       "Choisissez une carte pour ",
       "Au début de chaque combat, ajoutez ",
       " à votre main."
@@ -1294,7 +1295,7 @@
     "NAME": "Cerf-volant",
     "FLAVOR": "Ce cerf-volant flotte autour de vous en combat, poussé par une force mystérieuse.",
     "DESCRIPTIONS": [
-      "Gagnez [G] et défaussez #b1 carte au début de chaque tour."
+      "Gagnez [G] et défaussez #b2 cartes au début de chaque tour."
     ]
   },
   "FrozenCore": {
@@ -1324,6 +1325,40 @@
     "FLAVOR": "\"Les spirales sont dangereuses.\"",
     "DESCRIPTIONS": [
       "Quand vous cassez #yl'Armure d'un ennemi, appliquez #b2 de #yVulnérabilité."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Calendrier de pierre",
+    "FLAVOR": "Le passage du temps est imperceptible dans la Tour.",
+    "DESCRIPTIONS": [
+      "À la fin du tour #b",
+      ", infligez #b",
+      " dégâts à TOUS les ennemis."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Poignard",
+    "FLAVOR": "Pratique pour les assassinats.",
+    "DESCRIPTIONS": [
+      "Les #yAttaques qui coûtent #b0 infligent #b3 dégâts supplémentaires."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nunchaku",
+    "FLAVOR": "Un bon outil d'entraînement. Améliore la posture et l'agilité du porteur.",
+    "DESCRIPTIONS": [
+      "Toutes les #b",
+      " #yAttaques jouées, gagnez [R] .",
+      " #yAttaques jouées, gagnez [G] .",
+      " #yAttaques jouées, gagnez [B] ."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Tirelire Gueule",
+    "FLAVOR": "Étonnamment populaire, malgré que les attaques de Gueules soient fréquentes.",
+    "DESCRIPTIONS": [
+      "Quand vous montez d'un étage, gagnez #b",
+      " #yd'Or. Ne fonctionne plus quand vous dépensez de #yl'Or à une boutique."
     ]
   }
 }

@@ -87,8 +87,8 @@
   },
   "AnyCardFromDeckToHandAction": {
     "TEXT": [
-      "Choose a Card to Add to Your Hand",
-      "Choose Cards to Add to Your Hand"
+      "Choose a Card to Add to Your Hand.",
+      "Choose Cards to Add to Your Hand."
     ]
   },
   "ApplyPowerAction": {
@@ -136,7 +136,7 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Choose an Attack to Add to Your Hand."
     ]
   },
   "BattleStartEffect": {
@@ -534,6 +534,11 @@
       "#y~Game~ #y~Saved~"
     ]
   },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Gold"
+    ]
+  },
   "GridCardSelectScreen": {
     "TEXT": [
       "Confirm",
@@ -784,7 +789,7 @@
       "",
       "See all of the people who contributed on Slay the Spire!",
       "Unknown",
-      "Win a Daily Climb to unlock this game mode.",
+      "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
 	  "Custom",
 	  "Customize your own run with unique modifiers."
@@ -1025,6 +1030,11 @@
   "SetupAction": {
     "TEXT": [
       "put on top of your draw pile."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "put on bottom of your draw pile."
     ]
   },
   "ShopRoom": {

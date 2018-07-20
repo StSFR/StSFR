@@ -102,5 +102,9 @@
   "Blight Chests": {
     "NAME": "Coffres corrompus",
     "DESCRIPTION": "Les coffres de Boss sont corrompus après avoir battu le troisième Acte en mode sans fin."
+  },
+  "Stunted Growth": {
+    "NAME": "Arrêt de croissance",
+    "DESCRIPTION": "Les ennemis ne donnent plus de cartes après avoir battu le troisième Acte en mode sans fin."
   }
 }

@@ -834,5 +834,44 @@
 	  "[Continue]",
 	  " #rHP, #ggain #g"
     ]
+  },
+  "NoteForYourself": {
+    "NAME": "A Note For Yourself",
+    "DESCRIPTIONS": [
+      "You spot a loose brick within a pillar that catches your eye.",
+      "You find a folded note and a #ycard inside. It reads, NL \"The Heart awaits.\" NL NL This is your handwriting.",
+      "Choose a Card to Store.",
+      "What is going on?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Take and Give] #gReceive ",
+      " #gand #gStore #ga #gCard.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  },
+  "WeMeetAgain": {
+    "NAME": "We Meet Again!",
+    "DESCRIPTIONS": [
+      "\"We meet again!\" NL A cheery disheveled fellow approaches you gleefully. You do not know this man. NL NL \"It's me, #yRanwid! Have any goods for me today? The usual? A fella like me can't make it alone, you know?\" NL You eye him suspiciously and consider your options...",
+      "\"Exquisite! Was feeling parched.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL He downs the potion in one go and lets out a satisfied @burp.@",
+      "\"Magnificent! This will be quite handy if I run into those #rmask #rwearing #rhoodlums again.\"",
+      "\"Exemplary! I shall study this further in my chambers.\"",
+      "\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He runs away.",
+      "  NL NL He rummages around his various pockets... NL \"Here, look what I've got for you today! Take it take it!\""
+    ],
+    "OPTIONS": [
+      "[Give Potion] #rLose ",
+      "[Locked] Requires: Potion.",
+      "[Give Gold] #rLose #r",
+      "[Locked] Requires: At least 50 Gold.",
+      "[Give Card] #rLose ",
+      "[Locked] Requires: Card.",
+      ". #gReceive #ga #gRelic.",
+      "[Attack]",
+      "[Leave]",
+      " #rGold"
+    ]
   }
 }

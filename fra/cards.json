@@ -79,8 +79,8 @@
   },
   "Offering": {
     "NAME": "Offrande",
-    "DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Perdez 4 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
   },
   "Exhume": {
     "NAME": "Résurrection",
@@ -1292,7 +1292,7 @@
   },
   "RitualDagger": {
     "NAME": "Dague rituelle",
-    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. Épuisement."
+    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
   },
   "Pride": {
     "NAME": "Arrogance",
@@ -1321,5 +1321,22 @@
   "Shame": {
     "NAME": "Honte",
     "DESCRIPTION": "Injouable. NL À la fin de votre tour, gagnez 1 de Fragilité."
+  },
+  "Impatience": {
+    "NAME": "Impatience",
+    "DESCRIPTION": "Si vous n'avez pas de carte Attaque dans votre main, piochez !M! cartes."
+  },
+  "Violence": {
+    "NAME": "Violence",
+    "DESCRIPTION": "Placez !M! Attaques aléatoires de votre pioche dans votre main. NL Épuisement."
+  },
+  "Discovery": {
+    "NAME": "Découverte",
+    "DESCRIPTION": "Choisissez 1 carte à ajouter à votre main parmi 3 cartes aléatoires. Elle coûte 0 ce tour. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez 1 carte à ajouter à votre main parmi 3 cartes aléatoires. Elle coûte 0 ce tour."
+  },
+  "Forethought": {
+    "NAME": "Prévoyance",
+    "DESCRIPTION": "Placez une carte de votre main sous votre pioche. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée."
   }
 }

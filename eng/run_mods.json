@@ -35,6 +35,10 @@
     "NAME": "Blight Chests",
     "DESCRIPTION": "Boss chests contain blights after beating Act 3 on Endless."
   },
+  "Stunted Growth": {
+    "NAME": "Stunted Growth",
+    "DESCRIPTION": "Enemies no longer drop card rewards after beating Act 3 on Endless."
+  },
   "Heirloom": {
     "NAME": "Heirloom",
     "DESCRIPTION": "Start with 1 Rare relic."
