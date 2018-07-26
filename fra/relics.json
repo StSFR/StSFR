@@ -128,8 +128,8 @@
     "NAME": "Compas",
     "FLAVOR": "\"C'est de la précision mécanique que provient la grandeur.\" - L'architecte",
     "DESCRIPTIONS": [
-      "Au début de votre tour, perdez #b",
-      " #yd'Armure au lieu de tout perdre."
+      "Au début de votre tour, ne perdez que #b",
+      " #yd'Armure au lieu de perdre toute votre Armure."
     ]
   },
   "Calling Bell": {
@@ -1101,7 +1101,7 @@
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Puce émotionnelle",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
       "Au début de chaque tour, si vous avez subi des dégâts au tour précédent, déclenche la capacité passive de TOUS vos Orbes."

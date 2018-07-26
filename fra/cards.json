@@ -954,7 +954,7 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez toute votre main ce tour."
   },
   "Beam Cell": {
-    "NAME": "Pile à rayon",
+    "NAME": "Rayon cellulaire",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
@@ -1065,7 +1065,7 @@
     "DESCRIPTION": "Activez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Activé d'Orbes. NL Épuisement."
   },
   "Barrage": {
-    "NAME": "Barrage",
+    "NAME": "Déluge",
     "DESCRIPTION": "Infligez !D! dégât(s) pour chaque Orbe Canalisé."
   },
   "Reprogram": {
@@ -1245,7 +1245,7 @@
     "UPGRADE_DESCRIPTION": "Doublez votre Énergie."
   },
   "Echo Form": {
-    "NAME": "Forme échoïque",
+    "NAME": "Forme résonnate",
     "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois. Éthérée",
     "UPGRADE_DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
   },
