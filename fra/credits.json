@@ -258,5 +258,13 @@
   "THANKS_MSG": {
     "HEADER": "...et merci à VOUS d'avoir joué!",
     "NAMES": []
+  },
+  "LOC_IND": {
+    "HEADER": "Indonesian Localization",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Szaal"
+    ]
   }
 }

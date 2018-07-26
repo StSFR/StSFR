@@ -9,7 +9,7 @@
   "AttackPotion": {
     "NAME": "Attack Potion",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
     ]
   },
   "Block Potion": {
@@ -148,7 +148,7 @@
   "PowerPotion": {
     "NAME": "Power Potion",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
     ]
   },
   "Regen Potion": {
@@ -162,7 +162,7 @@
   "SkillPotion": {
     "NAME": "Skill Potion",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0 this turn."
+      "Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
     ]
   },
   "SmokeBomb": {
