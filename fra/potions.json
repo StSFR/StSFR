@@ -127,7 +127,7 @@
   "AttackPotion": {
     "NAME": "Potion d'attaque",
     "DESCRIPTIONS": [
-      "Ajoutez une Attaque aléatoire à votre main, elle coûte #b0 ce tour."
+      "Choisissez une Attaque aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour."
     ]
   },
   "FocusPotion": {
@@ -154,7 +154,7 @@
   "SkillPotion": {
     "NAME": "Potion de compétence",
     "DESCRIPTIONS": [
-      "Ajoutez une Compétence aléatoire à votre main, elle coûte #b0 ce tour."
+      "Choisissez une Compétence aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour."
     ]
   },
   "GhostInAJar": {
@@ -201,7 +201,7 @@
   "PowerPotion": {
     "NAME": "Potion de pouvoir",
     "DESCRIPTIONS": [
-      "Ajoutez un Pouvoir aléatoire à votre main, il coûte #b0 ce tour."
+      "Choisissez un Pouvoir aléatoire parmi 3 à ajouter à votre main. Il coûte #b0 ce tour."
     ]
   },
   "EssenceOfSteel": {
