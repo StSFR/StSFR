@@ -358,7 +358,7 @@
   "Flame Barrier": {
     "NAME": "Flame Barrier",
     "DESCRIPTIONS": [
-      "Whenever you receive #yAttack damage, deal #b",
+      "When receiving #yAttack damage, deals #b",
       " damage back."
     ]
   },

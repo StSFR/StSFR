@@ -19,6 +19,22 @@
     "NAME": "Diverse",
     "DESCRIPTION": "Cards are not restricted by your character."
   },
+  "Red Cards": {
+    "NAME": "Red Cards",
+    "DESCRIPTION": "Red cards now appear in rewards and shops."
+  },
+  "Green Cards": {
+    "NAME": "Green Cards",
+    "DESCRIPTION": "Green cards now appear in rewards and shops."
+  },
+  "Blue Cards": {
+    "NAME": "Blue Cards",
+    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+  },
+  "Colorless Cards": {
+    "NAME": "Colorless Cards",
+    "DESCRIPTION": "Colorless cards appear more often."
+  },
   "Draft": {
     "NAME": "Draft",
     "DESCRIPTION": "Draft a custom starting deck of cards."
