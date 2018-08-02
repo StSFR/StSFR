@@ -85,7 +85,8 @@
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
-      "koykoy13"
+      "koykoy13",
+      "Magnus Upmann"
     ]
   },
   "LOC_ITA": {
@@ -157,10 +158,10 @@
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
     "NAMES": [
-      "Traduction et Coordination :",
+      "Traduction :",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Traduction et Repository :",
       "Vladislav \"Vlad-00003\" Bolshakov",
+	  "Dmitry \"Regallion\" Zhiryakov",
       "Suggestions et Retours :",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
@@ -169,7 +170,6 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
-      "Dmitry \"Regallion\" Zhiryakov",
       "Shop Asset Translation:",
       "Urist McFerrum"
     ]
@@ -260,11 +260,11 @@
     "NAMES": []
   },
   "LOC_IND": {
-    "HEADER": "Indonesian Localization",
+    "HEADER": "Traduction en Indonésien",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Szaal"
+      "Haveiszal \"Szaal\" Faroqie"
     ]
   }
 }

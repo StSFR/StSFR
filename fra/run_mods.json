@@ -106,5 +106,21 @@
   "Stunted Growth": {
     "NAME": "Arrêt de croissance",
     "DESCRIPTION": "Les ennemis ne donnent plus de cartes après avoir battu le troisième Acte en mode sans fin."
+  },
+  "Blue Cards": {
+    "NAME": "Cartes bleues",
+    "DESCRIPTION": "Les cartes bleues apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Green Cards": {
+    "NAME": "Cartes vertes",
+    "DESCRIPTION": "Les cartes vertes apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Red Cards": {
+    "NAME": "Cartes rouges",
+    "DESCRIPTION": "Les cartes rouges apparaissent désormais dans les récompenses et les boutiques."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartes incolores",
+    "DESCRIPTION": "Les cartes incolores apparaissent plus souvent."
   }
 }
