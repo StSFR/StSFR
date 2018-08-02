@@ -158,7 +158,7 @@
     "DESCRIPTION": "Ajoutez !M! Surins à votre main."
   },
   "Deflect": {
-    "NAME": "Détournement",
+    "NAME": "Parade",
     "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Trip": {
@@ -261,7 +261,7 @@
     ]
   },
   "Thunderclap": {
-    "NAME": "Frappe kéraunique",
+    "NAME": "Coup de tonnerre",
     "DESCRIPTION": "Infligez !D! dégât(s) et 1 de Vulnérabilité à TOUS les ennemis."
   },
   "Flame Barrier": {
@@ -916,7 +916,7 @@
   },
   "Hologram": {
     "NAME": "Hologramme",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main."
   },
   "Conserve Battery": {
@@ -943,7 +943,7 @@
     "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes aléatoires."
   },
   "Thunder Strike": {
-    "NAME": "Coup de tonnerre",
+    "NAME": "Frappe kéraunique",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique Canalisé ce combat.",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Kérauniques Canalisés.)"
@@ -1258,11 +1258,11 @@
     "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez directement celles qui ne coûtent pas 0."
   },
   "Consume": {
-    "NAME": "Consommer",
+    "NAME": "Consummer",
     "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 emplacement d'Orbe."
   },
   "Lockon": {
-    "NAME": "Verrouiller",
+    "NAME": "Verrouillage",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant les !M! prochains tours, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
   },
   "Reprieve": {
@@ -1287,7 +1287,7 @@
     "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes pour chaque Orbe différent que vous avez."
   },
   "Core Surge": {
-    "NAME": "Surcharge du noyau",
+    "NAME": "Surtension nucléique",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! d'Artefact. NL Épuisement."
   },
   "RitualDagger": {
@@ -1295,7 +1295,7 @@
     "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
   },
   "Pride": {
-    "NAME": "Arrogance",
+    "NAME": "Orgueil",
     "DESCRIPTION": "Inné. Épuisement. NL Au début de votre tour, placez une copie de cette carte au dessus de votre pioche."
   },
   "Chrysalis": {
