@@ -108,19 +108,19 @@
     "DESCRIPTION": "Les ennemis ne donnent plus de cartes après avoir battu le troisième Acte en mode sans fin."
   },
   "Blue Cards": {
-    "NAME": "Blue Cards",
-    "DESCRIPTION": "Blue cards now appear in rewards and shops."
+    "NAME": "Cartes bleues",
+    "DESCRIPTION": "Les cartes bleues apparaissent désormais dans les récompenses et les boutiques."
   },
   "Green Cards": {
-    "NAME": "Green Cards",
-    "DESCRIPTION": "Green cards now appear in rewards and shops."
+    "NAME": "Cartes vertes",
+    "DESCRIPTION": "Les cartes vertes apparaissent désormais dans les récompenses et les boutiques."
   },
   "Red Cards": {
-    "NAME": "Red Cards",
-    "DESCRIPTION": "Red cards now appear in rewards and shops."
+    "NAME": "Cartes rouges",
+    "DESCRIPTION": "Les cartes rouges apparaissent désormais dans les récompenses et les boutiques."
   },
   "Colorless Cards": {
-    "NAME": "Colorless Cards",
-    "DESCRIPTION": "Colorless cards appear more often."
+    "NAME": "Cartes incolores",
+    "DESCRIPTION": "Les cartes incolores apparaissent plus souvent."
   }
 }
