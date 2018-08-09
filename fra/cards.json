@@ -83,7 +83,7 @@
     "UPGRADE_DESCRIPTION": "Perdez 6 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
   },
   "Exhume": {
-    "NAME": "Résurrection",
+    "NAME": "Exhumation",
     "DESCRIPTION": "Choisissez une carte Épuisée et ajoutez-la à votre main. NL Épuisement."
   },
   "Power Through": {
@@ -145,7 +145,7 @@
     "DESCRIPTION": "Ajoutez une carte Attaque aléatoire à votre main. NL Elle coûte 0 ce tour. NL Épuisement."
   },
   "After Image": {
-    "NAME": "Image miroir",
+    "NAME": "Image rémanente",
     "DESCRIPTION": "Quand vous jouez une carte, gagnez 1 d'Armure.",
     "UPGRADE_DESCRIPTION": "Inné. NL Quand vous jouez une carte, gagnez 1 d'Armure."
   },
@@ -484,7 +484,7 @@
     "DESCRIPTION": "L'Armure n'expire plus au début de votre tour."
   },
   "Armaments": {
-    "NAME": "Protections",
+    "NAME": "Armement",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez une carte de votre main pour le reste du combat.",
     "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez TOUTES les cartes de votre main pour le reste du combat."
   },
@@ -1074,7 +1074,7 @@
     "UPGRADE_DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles."
   },
   "Rip and Tear": {
-    "NAME": "Arracher et déchirer",
+    "NAME": "Lacération",
     "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois."
   },
   "Ball Lightning": {
@@ -1245,7 +1245,7 @@
     "UPGRADE_DESCRIPTION": "Doublez votre Énergie."
   },
   "Echo Form": {
-    "NAME": "Forme résonnate",
+    "NAME": "Forme résonnante",
     "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois. Éthérée",
     "UPGRADE_DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
   },
