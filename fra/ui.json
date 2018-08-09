@@ -1179,5 +1179,26 @@
     "TEXT": [
       " d'Or"
     ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
   }
 }

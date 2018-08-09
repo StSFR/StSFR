@@ -409,6 +409,14 @@
       " Unlocked!"
     ]
   },
+  "DeletePopup": {
+    "TEXT": [
+      "Delete this save?",
+      "Yes",
+      "No",
+      "WARNING: This action cannot be undone."
+    ]
+  },
   "Dig Option": {
     "TEXT": [
       "Dig",
@@ -1178,6 +1186,19 @@
       "Modifiers",
       "Seed",
       "Set Seed"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Playtime ",
+      "Empty Slot"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choose a Save Slot",
+      "Rename",
+      "Delete this Save"
     ]
   }
 }

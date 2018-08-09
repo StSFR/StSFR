@@ -1337,6 +1337,7 @@
   },
   "Forethought": {
     "NAME": "Prévoyance",
-    "DESCRIPTION": "Placez une carte de votre main sous votre pioche. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée."
+    "DESCRIPTION": "Placez une carte de votre main sous votre pioche. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée.",
+    "UPGRADE_DESCRIPTION": "Place any number of cards from your hand on the bottom of your draw pile. They cost 0 until played."
   }
 }

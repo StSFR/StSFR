@@ -161,7 +161,7 @@
       "Traduction :",
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
-	  "Dmitry \"Regallion\" Zhiryakov",
+      "Dmitry \"Regallion\" Zhiryakov",
       "Suggestions et Retours :",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
@@ -265,6 +265,16 @@
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
       "Haveiszal \"Szaal\" Faroqie"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Spanish Localization",
+    "NAMES": [
+      "Translation and Coordination:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Translation:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Skiddome"
     ]
   }
 }
