@@ -7,7 +7,7 @@
     ]
   },
   "After Image": {
-    "NAME": "Image miroir",
+    "NAME": "Image rémanente",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte, gagnez #b",
       " #yd'Armure."
@@ -75,8 +75,8 @@
     "NAME": "Déflagration",
     "DESCRIPTIONS": [
       "Pendant ce tour, votre prochaine carte #yCompétence se déclenche deux fois.",
-      "Pendant ce tour, vos prochaines cartes ",
-      " #yCompétence se déclenchent deux fois."
+      "Pendant ce tour, vos ",
+      " prochaines cartes #yCompétence se déclenchent deux fois."
     ]
   },
   "Choked": {
@@ -117,7 +117,7 @@
   "Curiosity": {
     "NAME": "Curiosité",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte #yPouvoir, gagnez #b",
+      "Lorsque vous jouez une carte #yPouvoir, gagne #b",
       " de #yForce."
     ]
   },
@@ -309,7 +309,7 @@
   "Hex": {
     "NAME": "Maléfice",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte autre qu'Attaque, insère #b",
+      "Lorsque vous jouez une carte autre qu'Attaque, insèrez #b",
       " carte #yHébétement dans votre deck."
     ]
   },
@@ -409,7 +409,7 @@
   "Noxious Fumes": {
     "NAME": "Fumées toxiques",
     "DESCRIPTIONS": [
-      "Au début de votre tour, applique #b",
+      "Au début de votre tour, appliquez #b",
       " de #yPoison à TOUS les ennemis."
     ]
   },
@@ -417,9 +417,9 @@
     "NAME": "Panache",
     "DESCRIPTIONS": [
       "Si vous jouez #b",
-      " carte de plus pendant ce tour, inflige #b",
+      " carte de plus pendant ce tour, infligez #b",
       " dégâts à TOUS les ennemis.",
-      " cartes de plus pendant ce tour, inflige #b"
+      " cartes de plus pendant ce tour, infligez #b"
     ]
   },
   "Pen Nib": {
@@ -431,9 +431,9 @@
   "Phantasmal": {
     "NAME": "Illusion",
     "DESCRIPTIONS": [
-      "Inflige le #ydouble des #ydégâts au prochain tour.",
-      "Inflige le #ydouble des #ydégâts aux prochains ",
-      " tours."
+      "Infligez le #ydouble des #ydégâts au prochain tour.",
+      "Infligez le #ydouble des #ydégâts aux ",
+      " prochains tours."
     ]
   },
   "Plated Armor": {
@@ -441,7 +441,7 @@
     "DESCRIPTIONS": [
       "Gagnez #b",
       " #yd'Armure à la fin de votre tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1.",
-      "Gagne #b",
+      "Gagnez #b",
       " #yd'Armure à la fin de son tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1."
     ]
   },
@@ -484,7 +484,7 @@
   "Life Link": {
     "NAME": "Lien vital",
     "DESCRIPTIONS": [
-      "Si d'autres ennemis sont encore vivants, ranimation dans #b2 tours à #b50 % de PV."
+      "Si d'autres ennemis sont encore vivants, résurrection dans #b2 tours à #b50 % de PV."
     ]
   },
   "Repulse": {
@@ -666,7 +666,7 @@
     ]
   },
   "Unawakened": {
-    "NAME": "Pas encore éveillé",
+    "NAME": "Endormi",
     "DESCRIPTIONS": [
       "Cet ennemi n'a pas encore été éveillé..."
     ]
@@ -710,7 +710,7 @@
     ]
   },
   "Painful Stabs": {
-    "NAME": "Coups de Poignard Douloureux",
+    "NAME": "Blessures douloureuses",
     "DESCRIPTIONS": [
       "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie à votre Défausse."
     ]
@@ -879,7 +879,7 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Écho",
+    "NAME": "Forme résonnante",
     "DESCRIPTIONS": [
       "La première carte que vous jouez chaque tour est jouée deux fois.",
       "Les #b",
