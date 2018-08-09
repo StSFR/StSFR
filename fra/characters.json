@@ -78,7 +78,7 @@
       " #rPV #rmax. ",
       "[ #rPerdez #rtout #rvotre #ror. ",
       "[ #rObtenez #rune #rMalédiction. ",
-      "[ #rPerdez #r50 #r% #rde #rvos #rPV #ractuels. ",
+      "[ #rSubissez #r",
       "Choisissez une carte",
       "Sélectionnez une carte à retirer",
       "Sélectionnez 2 cartes à retirer",
@@ -86,7 +86,7 @@
       "Sélectionnez 2 cartes à transformer",
       "Sélectionnez une carte à améliorer",
       "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]",
-      " #rdamage"
+      " #rdégât(s)"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"

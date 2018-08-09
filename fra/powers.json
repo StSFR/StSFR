@@ -324,9 +324,9 @@
   "Infinite Blades": {
     "NAME": "Lames infinies",
     "DESCRIPTIONS": [
-      "Au début de votre tour, vous piochez #b",
-      " #ySurins.",
-      " #ySurin."
+      "Au début de votre tour, ajoutez #b",
+      " #ySurins à votre main.",
+      " #ySurin à votre main."
     ]
   },
   "Bullet Time": {

@@ -79,8 +79,8 @@
   },
   "Offering": {
     "NAME": "Offrande",
-    "DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Perdez 5 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Perdez 6 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Perdez 6 PV. NL Gagnez [R] [R] . NL Piochez !M! cartes. NL Épuisement."
   },
   "Exhume": {
     "NAME": "Résurrection",
@@ -637,8 +637,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Ajoutez X cartes incolores à votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées à votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoutez X cartes incolores à votre main. Elles coûtent 0 ce tour. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées à votre main. Elles coûtent 0 ce tour. NL Épuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
@@ -1338,6 +1338,6 @@
   "Forethought": {
     "NAME": "Prévoyance",
     "DESCRIPTION": "Placez une carte de votre main sous votre pioche. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée.",
-    "UPGRADE_DESCRIPTION": "Place any number of cards from your hand on the bottom of your draw pile. They cost 0 until played."
+    "UPGRADE_DESCRIPTION": "Placez n'importe quel nombre de cartes de votre main sous votre pioche. NL Elles coûtent 0 jusqu'à ce qu'elle soit jouée."
   }
 }

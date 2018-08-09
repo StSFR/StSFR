@@ -1182,23 +1182,23 @@
   },
   "DeletePopup": {
     "TEXT": [
-      "Delete this save?",
-      "Yes",
-      "No",
-      "WARNING: This action cannot be undone."
+      "Supprimer cette sauvegarde ?",
+      "Oui",
+      "Non",
+      "ATTENTION : Cette action est irréversible."
     ]
   },
   "SaveSlotScreen": {
     "TEXT": [
-      "Choose a Save Slot",
-      "Rename",
-      "Delete this Save"
+      "Choisissez un emplacement de sauvegarde",
+      "Renommer",
+      "Supprimer cette sauvegarde"
     ]
   },
   "SaveSlot": {
     "TEXT": [
-      "Playtime ",
-      "Empty Slot"
+      "Temps de jeu ",
+      "Emplacement vide"
     ]
   }
 }
