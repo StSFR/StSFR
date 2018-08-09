@@ -4,7 +4,7 @@
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Bosses Occis",
+    "NAME": "Boss Occis",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
@@ -30,7 +30,7 @@
   "Beyond Perfect": {
     "NAME": "Plus que Parfait",
     "DESCRIPTIONS": [
-      "Vaincre 3 bosses sans prendre de dégâts."
+      "Vaincre 3 boss sans prendre de dégâts."
     ]
   },
   "Overkill": {
