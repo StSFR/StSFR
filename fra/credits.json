@@ -46,7 +46,7 @@
     ]
   },
   "LOC_FRA": {
-    "HEADER": "Traduction en Français",
+    "HEADER": "Traduction en français",
     "NAMES": [
       "Xavier \"Blagatt\" Dupont",
       "Malik \"Devexia\" Leonarski",
@@ -64,13 +64,13 @@
     ]
   },
   "LOC_ZHS": {
-    "HEADER": "Traduction en Chinois (Simplifié)",
+    "HEADER": "Traduction en chinois (simplifié)",
     "NAMES": [
       "Sound of Mystery"
     ]
   },
   "LOC_ZHT": {
-    "HEADER": "Traduction en Chinois (Traditionnel)",
+    "HEADER": "Traduction en chinois (traditionnel)",
     "NAMES": [
       "professor",
       "bowans",
@@ -78,7 +78,7 @@
     ]
   },
   "LOC_DEU": {
-    "HEADER": "Traduction en Allemand",
+    "HEADER": "Traduction en allemand",
     "NAMES": [
       "Joshua \"Joshipon\" Wiegand ",
       "Dustin \"Skrelpoid\" Kristen",
@@ -90,7 +90,7 @@
     ]
   },
   "LOC_ITA": {
-    "HEADER": "Traduction en Italien",
+    "HEADER": "Traduction en italien",
     "NAMES": [
       "Hob",
       "Mero Marco",
@@ -98,13 +98,13 @@
     ]
   },
   "LOC_JPN": {
-    "HEADER": "Traduction en Japonais",
+    "HEADER": "Traduction en japonais",
     "NAMES": [
       "Grezzz"
     ]
   },
   "LOC_KOR": {
-    "HEADER": "Traduction en Coréen",
+    "HEADER": "Traduction en coréen",
     "NAMES": [
       "Responsable de la traduction :",
       "Eteriny",
@@ -120,13 +120,13 @@
     ]
   },
   "LOC_NOR": {
-    "HEADER": "Traduction en Norvégien",
+    "HEADER": "Traduction en norvégien",
     "NAMES": [
       "Eystein Jarp"
     ]
   },
   "LOC_PTB": {
-    "HEADER": "Traduction en Portugais du Brésil",
+    "HEADER": "Traduction en portugais du Brésil",
     "NAMES": [
       "Guilherme \"GPerego\" Perego",
       "Gustavo \"KomKlave\" Duarte",
@@ -137,7 +137,7 @@
     ]
   },
   "LOC_POL": {
-    "HEADER": "Traduction en Polonais",
+    "HEADER": "Traduction en polonais",
     "NAMES": [
       "Traduction et Coordination :",
       "Stanis³aw \"ST4H\" Borkowski",
@@ -156,7 +156,7 @@
     ]
   },
   "LOC_RUS": {
-    "HEADER": "Traduction en Russe",
+    "HEADER": "Traduction en russe",
     "NAMES": [
       "Traduction :",
       "Ivan \"Ingrett\" Khoroshunenko",
@@ -175,29 +175,29 @@
     ]
   },
   "LOC_TUR": {
-    "HEADER": "Traduction en Turc",
+    "HEADER": "Traduction en turc",
     "NAMES": [
       "Erdem Gürbüz"
     ]
   },
   "LOC_SRB": {
-    "HEADER": "Traduction en Serbe",
+    "HEADER": "Traduction en serbe",
     "NAMES": [
       "Nikola \"hauzer\" Vukosavljević"
     ]
   },
   "LOC_UKR": {
-    "HEADER": "Traduction en Ukrainien",
+    "HEADER": "Traduction en ukrainien",
     "NAMES": [
       "Vladyslav \"DarkXylese\" Kashtelyanov"
     ]
   },
   "LOC_CAT": {
-    "HEADER": "Traduction en Catalan",
+    "HEADER": "Traduction en catalan",
     "NAMES": []
   },
   "LOC_GRE": {
-    "HEADER": "Traduction en Grec",
+    "HEADER": "Traduction en grec",
     "NAMES": [
       "Kotsos \"Iglor\" Diamond"
     ]
@@ -260,7 +260,7 @@
     "NAMES": []
   },
   "LOC_IND": {
-    "HEADER": "Traduction en Indonésien",
+    "HEADER": "Traduction en indonésien",
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
@@ -268,7 +268,7 @@
     ]
   },
   "LOC_SPA": {
-    "HEADER": "Traduction en Espagnol",
+    "HEADER": "Traduction en espagnol",
     "NAMES": [
       "Traduction et coordination :",
       "Pedro Luis \"PerikiyoXD\" Valadés Viera",

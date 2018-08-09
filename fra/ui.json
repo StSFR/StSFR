@@ -1185,7 +1185,7 @@
       "Supprimer cette sauvegarde ?",
       "Oui",
       "Non",
-      "ATTENTION : Cette action est irréversible."
+      "ATTENTION : cette action est irréversible."
     ]
   },
   "SaveSlotScreen": {
