@@ -641,7 +641,7 @@
     "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées à votre main. Elles coûtent 0 ce tour. NL Épuisement."
   },
   "Backstab": {
-    "NAME": "Trahison",
+    "NAME": "Coup de poignard",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Inné. NL Épuisement."
   },
   "Feed": {
