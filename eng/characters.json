@@ -102,14 +102,15 @@
       " #rMax #rHP ",
       "[ #rLose #rall #rGold ",
       "[ #rObtain #ra #rCurse ",
-      "[ #rLose #r50% #rof #ryour #rcurrent #rHP ",
+      "[ #rTake #r",
       "Choose a Card",
       "Select a Card to Remove",
       "Select 2 Cards to Remove",
       "Select a Card to Transform",
       "Select 2 Cards to Transform",
       "Select a Card to Upgrade",
-      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]"
+      "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
+	  " #rdamage"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"

@@ -1179,5 +1179,26 @@
     "TEXT": [
       " d'Or"
     ]
+  },
+  "DeletePopup": {
+    "TEXT": [
+      "Supprimer cette sauvegarde ?",
+      "Oui",
+      "Non",
+      "ATTENTION : cette action est irréversible."
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Choisissez un emplacement de sauvegarde",
+      "Renommer",
+      "Supprimer cette sauvegarde"
+    ]
+  },
+  "SaveSlot": {
+    "TEXT": [
+      "Temps de jeu ",
+      "Emplacement vide"
+    ]
   }
 }

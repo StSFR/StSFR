@@ -840,8 +840,8 @@
   },
   "Offering": {
     "NAME": "Offering",
-    "DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
   },
   "Outmaneuver": {
     "NAME": "Outmaneuver",
@@ -1207,8 +1207,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+    "DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Exhaust."
   },
   "Trip": {
     "NAME": "Trip",
@@ -1332,7 +1332,8 @@
   },
   "Forethought": {
     "NAME": "Forethought",
-    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played."
+    "DESCRIPTION": "Place a card from your hand on the bottom of your draw pile. NL It costs 0 until it is played.",
+	"UPGRADE_DESCRIPTION": "Place any number of cards from your hand on the bottom of your draw pile. They cost 0 until played."
   },
   "Discovery": {
     "NAME": "Discovery",

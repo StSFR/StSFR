@@ -448,9 +448,9 @@
   "Infinite Blades": {
     "NAME": "Infinite Blades",
     "DESCRIPTIONS": [
-      "At the start of your turn, draw #b",
-      " #yShivs.",
-      " #yShiv."
+      "At the start of your turn, add #b",
+      " #yShivs into your hand.",
+      " #yShiv into your hand."
     ]
   },
   "Intangible": {
