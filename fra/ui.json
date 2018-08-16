@@ -690,8 +690,8 @@
   "LanguageDropdown": {
     "TEXT": [
       "Portugais Brésilien",
-      "Chinois (Simplifié)",
-      "Chinois (Traditionnel)",
+      "Chinois (simplifié)",
+      "Chinois (traditionnel)",
       "Anglais",
       "Français",
       "Allemand",
@@ -706,14 +706,15 @@
       "Suédois",
       "Norvégien",
       "Thaï",
-      "Serbe (Cyrillique)",
+      "Serbe (cyrillique)",
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbe (Latin)",
+      "Serbe (latin)",
       "Catalan",
       "Grec",
-      "Indonesian"
+      "Indonésien",
+      "Espéranto"
     ]
   },
   "UnlockTextEffect": {
@@ -882,7 +883,12 @@
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
       "Commencez avec moins de PV max.",
-      "(Niveau Max) Les Évenements sont moins favorables."
+      "Les Évenements sont moins favorables.",
+      "Les boutiques sont plus chères.",
+      "Les ennemis normaux ont des attaques et capacités plus puissantes.",
+      "Les Élites ont des attaques et capacités plus puissantes.",
+      "Les Boss ont des attaques et capacités pluis puissantes.",
+      "(Niveau max) Double boss final."
     ]
   },
   "RunHistoryScreen": {

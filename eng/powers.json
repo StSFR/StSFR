@@ -372,7 +372,8 @@
   "Flight": {
     "NAME": "Flight",
     "DESCRIPTIONS": [
-      "Reduce #yAttack damage taken by #b50%. Cancelled if dealt #yAttack damage #b3 times in one turn."
+      "Reduce #yAttack damage taken by #b50%. Cancelled if dealt #yAttack damage #b",
+	  " times in one turn."
     ]
   },
   "Focus": {

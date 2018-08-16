@@ -705,7 +705,7 @@
     "NAME": "Paper Krane",
     "FLAVOR": "An origami of a creature from a past age.",
     "DESCRIPTIONS": [
-      "Enemies with #yWeak deal #b50% less damage rather than #b25%."
+      "Enemies with #yWeak deal #b40% less damage rather than #b25%."
     ]
   },
   "Paper Frog": {
@@ -1193,7 +1193,7 @@
     "NAME": "Incense Burner",
     "FLAVOR": "The smoke imbues its owner with the spirit of the burned.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "Every #b6 turns, gain #b1 #yIntangible."
     ]
   },
   "Empty Cage": {
