@@ -690,8 +690,8 @@
   "LanguageDropdown": {
     "TEXT": [
       "Portugais Brésilien",
-      "Chinois (Simplifié)",
-      "Chinois (Traditionnel)",
+      "Chinois (simplifié)",
+      "Chinois (traditionnel)",
       "Anglais",
       "Français",
       "Allemand",
@@ -706,14 +706,14 @@
       "Suédois",
       "Norvégien",
       "Thaï",
-      "Serbe (Cyrillique)",
+      "Serbe (cyrillique)",
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbe (Latin)",
+      "Serbe (latin)",
       "Catalan",
       "Grec",
-      "Indonesian",
+      "Indonésien",
       "Espéranto"
     ]
   },
