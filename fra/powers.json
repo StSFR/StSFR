@@ -273,8 +273,8 @@
   "Flight": {
     "NAME": "Envolée",
     "DESCRIPTIONS": [
-      "Réduit les dégâts d'#yAttaque subis de #b50 %. Annulation si #ydégâts d'Attaque #b infligés à 3 reprises en un tour.",
-      " times in one turn."
+      "Réduit les dégâts #yd'Attaque subis de #b50 %. Annulation si des dégâts #yd'Attaque sont infligés à #b",
+      " reprises en un tour."
     ]
   },
   "Nullify Attack": {

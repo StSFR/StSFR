@@ -619,7 +619,7 @@
     "NAME": "Grû en papier",
     "FLAVOR": "L'origami d'une créature oubliée.",
     "DESCRIPTIONS": [
-      "Les dégâts infligés par les ennemis sous #yFaiblesse sont réduits de #b50 % au lieu de #b25 %."
+      "Les dégâts infligés par les ennemis sous #yFaiblesse sont réduits de #b40 % au lieu de #b25 %."
     ]
   },
   "Paper Frog": {
@@ -1214,7 +1214,7 @@
     "NAME": "Brûleur d'encens",
     "FLAVOR": "La fumée imprègne son propriétaire de l'esprit du brûlé.",
     "DESCRIPTIONS": [
-      "Tous les #b5 tours, gagnez #b1 #yIntangible."
+      "Tous les #b6 tours, gagnez #b1 #yIntangible."
     ]
   },
   "NlothsMask": {

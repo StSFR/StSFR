@@ -714,7 +714,7 @@
       "Catalan",
       "Grec",
       "Indonesian",
-      "Esperanto"
+      "Espéranto"
     ]
   },
   "UnlockTextEffect": {
@@ -883,12 +883,12 @@
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
       "Commencez avec moins de PV max.",
-      "(Niveau Max) Les Évenements sont moins favorables.",
-      "Shops are more costly.",
-      "Normal enemies have more challenging movesets and abilities.",
-      "Elites have more challenging movesets and abilities.",
-      "Bosses have more challenging movesets and abilities.",
-      "(Max Level) Double Boss."
+      "Les Évenements sont moins favorables.",
+      "Les boutiques sont plus chères.",
+      "Les ennemis normaux ont des attaques et capacités plus puissantes.",
+      "Les Élites ont des attaques et capacités plus puissantes.",
+      "Les Boss ont des attaques et capacités pluis puissantes.",
+      "(Niveau max) Double boss final."
     ]
   },
   "RunHistoryScreen": {
