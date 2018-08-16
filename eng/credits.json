@@ -182,7 +182,8 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
-    	"Vladyslav \"DarkXylese\" Kashtelyanov"
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Vasyl \"RDSk\" Mykhaliuk"
     ]
   },
   "LOC_ZHS": {

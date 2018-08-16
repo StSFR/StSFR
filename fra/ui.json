@@ -713,7 +713,8 @@
       "Serbe (Latin)",
       "Catalan",
       "Grec",
-      "Indonesian"
+      "Indonesian",
+      "Esperanto"
     ]
   },
   "UnlockTextEffect": {
@@ -882,7 +883,12 @@
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
       "Commencez avec moins de PV max.",
-      "(Niveau Max) Les Évenements sont moins favorables."
+      "(Niveau Max) Les Évenements sont moins favorables.",
+      "Shops are more costly.",
+      "Normal enemies have more challenging movesets and abilities.",
+      "Elites have more challenging movesets and abilities.",
+      "Bosses have more challenging movesets and abilities.",
+      "(Max Level) Double Boss."
     ]
   },
   "RunHistoryScreen": {

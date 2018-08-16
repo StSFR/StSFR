@@ -40,7 +40,8 @@
       "Neon",
       "Energy is Overrated",
       "My Lucky Day",
-      "The Transient"
+      "The Transient",
+      "Ascend 20"
     ],
     "TEXT": [
       "Win a battle with 1 HP remaining.",
@@ -82,7 +83,8 @@
       "Channel 9 Plasma in a single turn.",
       "Play 10 or more cost 0 cards in a single turn.",
       "Win a Daily Climb.",
-      "Defeat the Transient before it fades away."
+      "Defeat the Transient before it fades away.",
+      "Complete Ascension Level 20."
     ]
   },
   "CharStat": {
