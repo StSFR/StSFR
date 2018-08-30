@@ -270,6 +270,12 @@
         "d'épines"
       ],
       "DESCRIPTION": "Quand vous recevez des dégâts #yd'Attaque, infligez des dégâts en retour."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "lock-on"
+      ],
+      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
     }
   }
 }

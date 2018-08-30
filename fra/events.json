@@ -255,7 +255,8 @@
       "Vous progressez lentement au fil des couloirs en zigzag. Vous vous perdez sans arrêt, les murs et le sol ne cessant de bouger pour une raison inexplicable. Les voix qui chuchotent constamment dans votre tête ne facilitent pas les choses.",
       "En passant devant une structure que vous avez de toute évidence déjà croisée, vous commencez à vous demander si vous n'êtes pas en train de perdre la raison ou si la géographie impossible de cet endroit est en train de vous jouer des tours. Vous devez faire quelque chose, et vite. C'est ce que disent les voix, en tout cas, et quel intérêt auraient-elles à mentir ?",
       "Quelque chose en vous se brise. Seuls les véritables fous peuvent comprendre un tel endroit. Vous vous laissez donc aller à écouter les voix qui jacassent et poursuivez votre route avec une \"nouvelle\" vision des choses. Les choses semblent avoir beaucoup plus de sens, à présent.",
-      "Vous vous arrêtez un moment pour observer attentivement le paysage ondoyant et commencez à entrevoir l'ombre d'un motif émerger de ce chaos. Dès que les paroles démentes commencent à interrompre le fil de vos pensées, vous combattez la douleur mentale et l'ignorez. NL NL Finalement, vous parvenez à trouver une issue et reprenez votre chemin, désormais insensible à la nature malfaisante de cet étrange endroit."
+      "Vous vous arrêtez un moment pour observer attentivement le paysage ondoyant et commencez à entrevoir l'ombre d'un motif émerger de ce chaos. Dès que les paroles démentes commencent à interrompre le fil de vos pensées, vous combattez la douleur mentale et l'ignorez. NL NL Finalement, vous parvenez à trouver une issue et reprenez votre chemin, désormais insensible à la nature malfaisante de cet étrange endroit.",
+      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
     ],
     "OPTIONS": [
       "...",
@@ -263,7 +264,9 @@
       " #rPV.",
       "[Vous concentrer] #rRecevez #r: #rMalédiction #r- #rSouffrance. #gRécupérez #g",
       "[Partir]",
-      " #gPV."
+      " #gPV.",
+      "[Retrace Your Steps] #rLose #r",
+      " #rMax #rHP."
     ]
   },
   "Big Fish": {
@@ -554,7 +557,8 @@
     "DESCRIPTIONS": [
       "Un homme avec un cache-œil et un sourire démoniaque s'avance vers vous d'un pas décontracté. NL \"Bonjour, par ici. Ça vous intéresse de la #yD.O.P.E. ? Question force, l'entraînement et les bénédictions ne peuvent pas rivaliser. Vous en aurez bien besoin si vous faites partie de ces héros suicidaires. NL Alors, qu'en dites-vous ? Vous voulez de la #yD.O.P.E. ?\" NL ",
       "~\"Merveilleux.\"~ NL L'homme vous passe une seringue inquiétante remplie d'un liquide phosphorescent avant de se rencogner dans une ruelle sombre.",
-      "\"Pas grave, il y aura toujours quelqu'un que ça intéressera...\" NL L'homme s'éloigne d'un pas nonchalant."
+      "\"Pas grave, il y aura toujours quelqu'un que ça intéressera...\" NL L'homme s'éloigne d'un pas nonchalant.",
+      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
       "[Payer] #y",
@@ -872,6 +876,51 @@
       "[Attaquer]",
       "[Partir]",
       " #rd'Or"
+    ]
+  },
+  "Designer": {
+    "NAME": "Designer In-Spire",
+    "DESCRIPTIONS": [
+      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
+      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
+      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
+      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Adjustments] #rLose #r",
+      "[Clean Up] #rLose #r",
+      "[Full Service] #rLose #r",
+      "[Punch] #rLose #r",
+      " #rHP.",
+      " #rGold. ",
+      "#gUpgrade #g",
+      " #grandom #gcards.",
+      "#gUpgrade #ga #gcard.",
+      "#gRemove #ga #gcard.",
+      "#gTransform #g",
+      " #gcards.",
+      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
+      "[Leave]",
+      "Choose a Card to Upgrade",
+      "Choose 2 Cards to Transform",
+      "Choose a Card to Remove"
+    ]
+  },
+  "Colosseum": {
+    "NAME": "The Colosseum",
+    "DESCRIPTIONS": [
+      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
+      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
+      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
+      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
+      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Fight]",
+      "[COWARDICE] Escape.",
+      "[VICTORY] A powerful fight with many rewards."
     ]
   }
 }

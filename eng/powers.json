@@ -495,9 +495,10 @@
   "Lockon": {
     "NAME": "Lock-On",
     "DESCRIPTIONS": [
-      "#yLightning and #yDark Orbs target this enemy for the next #b",
-      " turns.",
-      "#yLightning and #yDark Orbs target this enemy this turn."
+      "Take #b",
+      "% more damage from Orbs for #b",
+      " turn.",
+      " turns."
     ]
   },
   "Loop": {

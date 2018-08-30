@@ -1360,5 +1360,13 @@
       "Quand vous montez d'un étage, gagnez #b",
       " #yd'Or. Ne fonctionne plus quand vous dépensez de #yl'Or dans une boutique."
     ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn."
+    ]
   }
 }

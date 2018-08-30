@@ -277,5 +277,11 @@
       "Xavier \"xabad98\" Abad Salinas",
       "Skiddome"
     ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Localization",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
+    ]
   }
 }

@@ -336,7 +336,7 @@
   "Darkness": {
     "NAME": "Darkness",
     "DESCRIPTION": "Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Channel !M! Dark."
+    "UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
   },
   "Dash": {
     "NAME": "Dash",
@@ -533,7 +533,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked. NL Exhaust."
+    "DESCRIPTION": "Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",
@@ -704,7 +704,7 @@
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
-    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength . NL Exhaust."
+    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength."
   },
   "Jack Of All Trades": {
     "NAME": "Jack Of All Trades",
@@ -729,13 +729,13 @@
     "UPGRADE_DESCRIPTION": "Double your Strength."
   },
   "Lockon": {
-    "NAME": "Lock-On",
-    "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+    "NAME": "Bullseye",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Lock-On."
   },
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
-	"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
@@ -761,8 +761,8 @@
   },
   "Masterful Stab": {
     "NAME": "Masterful Stab",
-    "DESCRIPTION": "Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
-    "UPGRADE_DESCRIPTION": "This has to be my NL only card."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you take damage, increase this card's cost by 1.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
     "NAME": "Mayhem",
@@ -944,7 +944,7 @@
   },
   "Reboot": {
     "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Shuffle all of your cards into your draw pile. NL Draw !M! cards. NL Exhaust."
   },
   "Rebound": {
     "NAME": "Rebound",
