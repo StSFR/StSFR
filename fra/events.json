@@ -878,49 +878,49 @@
       " #rd'Or"
     ]
   },
-  "Designer": {
-    "NAME": "Designer In-Spire",
+ "Designer": {
+    "NAME": "Le designer",
     "DESCRIPTIONS": [
-      "You discover a #g~colorful~ shop with the banner \"IN-SPIRE\" and walk in to see what's inside. NL \"No, no way. Nope. Can't let you in!\" NL NL A man with ridiculous clothing appears at the entrance to bar you.",
-      "\"This will not do, no no. What is this style? @Disgusting!@ Are you #rbleeeeding? #p~Groooss.~ @Business??@ You a customer? Fine. ~Whaaatever.\"~ NL He lets out an exaggerated sigh and points at a list of services. NL NL The services seem fine, but you would rather punch this smug man in his smug face.",
-      "\"Okay, bye bye now.\" NL NL ...should've punched him.",
-      "You punch him so hard your fist hurts. NL \"My @FACE!!@ Now I'll have to-\" NL NL He fainted. Who's #p~groooss~ and #rbleeeeding now?"
+      "Vous découvrez un magasin #g~coloré~ avec l'enseigne \"IN-SPIRE\" et entrez pour voir ce qu'il y a à l'intérieur. NL \"Non, pas moyen. Non, j'peux pas vous laisser rentrer!\" NL NL Un homme à l'apparence ridicule apparaît à l'entrée pour vous bloquer l'accès.",
+      "\"Ca n'ira pas, non non non. C'est quoi ce style? @Dégoutant!@ Est-ce que vous #rsaaaignez? #p~Craaaade.~ @Un@ @achat?@ Vous êtes un client? D'accord. ~Peu~ ~importe.\"~ NL Il laisse échapper un soupir exagéré et montre une liste de service. NL NL Les services ont l'air corrects, mais vous préférez frapper son visage sournois.",
+      "\"Ok, à plus.\" NL NL ...devrais l'avoir frappé.",
+      "Vous le frappez tellement fort que votre poing vous fait mal. NL \"Mon @VISAGE!!@ Maintenant je vais devoir-\" NL NL Il s'est évanoui. Qui est #p~craaade~ et #rsaaaigne maintenant?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Adjustments] #rLose #r",
-      "[Clean Up] #rLose #r",
-      "[Full Service] #rLose #r",
-      "[Punch] #rLose #r",
-      " #rHP.",
-      " #rGold. ",
-      "#gUpgrade #g",
-      " #grandom #gcards.",
-      "#gUpgrade #ga #gcard.",
-      "#gRemove #ga #gcard.",
-      "#gTransform #g",
-      " #gcards.",
-      "#gRemove #ga #gcard #gand #gupgrade #ga #grandom #gcard.",
-      "[Leave]",
-      "Choose a Card to Upgrade",
-      "Choose 2 Cards to Transform",
-      "Choose a Card to Remove"
+      "[Continuer]",
+      "[Ajustements] #rPerdez #r",
+      "[Nettoyage] #rPerdez #r",
+      "[Service complet] #rPerdez #r",
+      "[Le frapper] #rPerdez #r",
+      " #rPV.",
+      " #rd'Or. ",
+      "#gAméliorez #g",
+      " #gcartes #galéatoires.",
+      "#gAméliorez #gune #gcarte.",
+      "#gRetirez #gune #gcarte.",
+      "#gTransformez #g",
+      " #gcartes.",
+      "#gRetirez #gune #gcarte #get #gaméliorez #gune #gcarte #galéatoire.",
+      "[Quitter]",
+      "Choisissez une carte à Améliorer",
+      "Choisissez 2 cartes à Transformer",
+      "Choisissez un carte à Retirer"
     ]
   },
   "Colosseum": {
-    "NAME": "The Colosseum",
+    "NAME": "Le Colisée",
     "DESCRIPTIONS": [
-      "@Thwack!!!@ NL .. NL ...... NL ... NL ~You~ ~were~ ~knocked~ ~unconscious...~",
-      "~Groggy~ and with a @throbbing@ head, you awaken to find yourself thrown in the center of a massive stadium with an overflowing audience of #bSlavers, #pCultists, and other denizens of the City! NL ",
-      " NL An armored giant with a #ygolden #ycrown bellows at you from atop, NL @\"WE@ @NOW@ @BEGIN@ @THE@ @",
-      "TH@ @COMBAT!!!!\"@ NL A gate on the opposite side opens...",
-      "@\"WELL@ @DONE,@ @WEAKLING!\"@ NL The giant mock claps whilst he riles up the crowd with exaggerated gestures. NL #y~Gold~ ~and~ #y~confetti~ ~shower~ ~you!~ NL @\"TIME@ @FOR@ @THE@ @REAL@ @CHALLENGE!!\"@ NL NL The last battle left a small opening in the Colosseum's wall, you can easily escape through there while everyone is distracted. NL Do you stay and fight?"
+      "@Paf !!!@ NL .. NL ...... NL ... NL ~Vous~ ~avez~ ~été~ ~assomé...~",
+      "~Chancelant~ et avec une tête @résonnante@, vous vous réveillez pour vous faire jeter au centre d'un gigantesque stade doté d'une foule énorme #bd'Esclavagistes, de #pCultistes, et autres habitants de la Ville ! NL ",
+      " NL Un géant en armure avec une #ycouronne #ydorée vous crie depuis le sommet, NL @\"LE@",
+      "IÈME@ @COMBAT@ @COMBAT@ @COMMENCE@ @MAINTENANT!!!!\"@ NL Une grille du côté opposé s'ouvre...",
+      "@\"BIEN@ @JOUÉ,@ @VERMINE@ @INUTILE!\"@ NL Le géant moqueur applaudit tout en excitant la foule avec des gestes exagérés. NL #y~Or~ ~et~ #y~confettis~ ~pleuvent~ ~sur~ ~vous!~ NL @\"C'EST@ @L'HEURE@ @DU@ @VRAI@ @CHALLENGE!!\"@ NL NL Le dernier combat a laissé une petite ouverture dans le mur du Colisée, vous pouvez facilement vous échapper pendant que tout le monde est distrait. NL Restez-vous vous battre?"
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Fight]",
-      "[COWARDICE] Escape.",
-      "[VICTORY] A powerful fight with many rewards."
+      "[Continuer]",
+      "[Combattre]",
+      "[COUARDISE] Vous vous échappez.",
+      "[VICTOIRE] Un combat musclé avec de nombreuses récompenses."
     ]
   }
 }
