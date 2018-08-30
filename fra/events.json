@@ -15,8 +15,8 @@
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
-      "[Utiliser la forge] #gAméliorez #gune #gcarte. #r25 #r% #r: #rvous #rrecevez #r: #rMalédiction #r- #rBlessure.",
-      "[Fouiller] #gObtenez #gune #gRelique. #r75 #r% #r: #rvous #rrecevez #r: #rMalédiction #r- #rNormalité.",
+      "[Utiliser la forge] #gAméliorez #gune #gcarte.",
+      "[Fouiller] #gObtenez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
       "[Verrouillé] Nécessite : Une carte améliorable"
@@ -256,7 +256,7 @@
       "En passant devant une structure que vous avez de toute évidence déjà croisée, vous commencez à vous demander si vous n'êtes pas en train de perdre la raison ou si la géographie impossible de cet endroit est en train de vous jouer des tours. Vous devez faire quelque chose, et vite. C'est ce que disent les voix, en tout cas, et quel intérêt auraient-elles à mentir ?",
       "Quelque chose en vous se brise. Seuls les véritables fous peuvent comprendre un tel endroit. Vous vous laissez donc aller à écouter les voix qui jacassent et poursuivez votre route avec une \"nouvelle\" vision des choses. Les choses semblent avoir beaucoup plus de sens, à présent.",
       "Vous vous arrêtez un moment pour observer attentivement le paysage ondoyant et commencez à entrevoir l'ombre d'un motif émerger de ce chaos. Dès que les paroles démentes commencent à interrompre le fil de vos pensées, vous combattez la douleur mentale et l'ignorez. NL NL Finalement, vous parvenez à trouver une issue et reprenez votre chemin, désormais insensible à la nature malfaisante de cet étrange endroit.",
-      "You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+      "Vous êtes perdu dans le labyrinthe pendant ce qui semble être une éternité. Lentement mais sûrement, vous arrivez à revenir sur vos pas, vous réorienter, et retrouver la sortie. NL NL Vous vous sentez #r~exténué~ par cette aventure."
     ],
     "OPTIONS": [
       "...",
@@ -265,8 +265,8 @@
       "[Vous concentrer] #rRecevez #r: #rMalédiction #r- #rSouffrance. #gRécupérez #g",
       "[Partir]",
       " #gPV.",
-      "[Retrace Your Steps] #rLose #r",
-      " #rMax #rHP."
+      "[Revenir sur vos pas] #rPerdez #r",
+      " #rPV #rmax."
     ]
   },
   "Big Fish": {
@@ -320,7 +320,7 @@
       "NL Même si #yses #yaffaires #ysont #yintactes, vous n'êtes pas d'humeur à enquêter sur ce qu'il s'est passé...",
       "Vous avez trouvé de #yl'or ! NL Continuer à fouiller ?",
       "Hum, impossible de dénicher quoi que ce soit... NL Continuer à fouiller ?",
-      "Vous avez trouvé une #yRelique ! Continuer à fouiller ?",
+      "Vous avez trouvé une #yRelique ! NL Continuer à fouiller ?",
       "On dirait que vous avez fouillé ses affaires sans rencontrer de problème !"
     ],
     "OPTIONS": [
@@ -480,21 +480,21 @@
     ]
   },
   "Addict": {
-    "NAME": "Accro",
+    "NAME": "Vagabond implorant",
     "DESCRIPTIONS": [
-      "Alors que vous tentez de contourner discrètement un groupe de silhouettes encapuchonnées, un homme nu et à la peau rouge s'approche de vous. NL \"Dites, z'auriez pas de la #yD.O.P.E. ? J'ai la @tremblote,@ et pas qu'un peu ! Allez... Ou quelques #ypièces peut-être ?\" NL Il est évident qu'il délire, mais il semble inoffensif.",
+      "Alors que vous passer à côté d'un groupe de silhouettes encapuchonnées, l'une d'elles s'approche de vous. NL \"Dites, z'auriez quelque chose pour moi, mon ami ? Allez... Ou quelques #ypièces peut-être ?\" NL \"J'ai juste besoin d'un endroit où dormir, j'ai des trèsors que je peux échanger...\" Il semble délirant, mais inoffensif.",
       "\"Oh oui, ~oui~ ! Ça, c'est un marché équitable !\"",
-      "L'homme pique une colère, crie et vous insulte. NL Vous fuyez avant d'attirer l'attention sur vous."
+      "Vous lui arrachez la précieuse #yRelique des mains et partez. NL Dans votre dos, vous entendez : NL \"Vous n'avez pas honte ? ~VOUS~ ~N'AVEZ~ ~PAS~ ~HOOONTE~ ~?!~\" NL Vous avez #phonte."
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
       " #yd'or #y: #gRecevez #gune #gRelique.",
       "[Verrouillé] Nécessite : ",
       " or",
-      "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla D.O.P.E.",
-      "[Verrouillé] Nécessite : D.O.P.E.",
-      "[Partir] Ignorez le drogué.",
-      "[Partir]"
+      "[Voler] #gRecevez #gune #gRelique. #rRevevez #r: #Malédiction #r- #rHonte.",
+      "[Partir]",
+      "",
+      ""
     ]
   },
   "Back to Basics": {
@@ -530,16 +530,16 @@
     ]
   },
   "Cursed Tome": {
-    "NAME": "Tome maudit",
+    "NAME": "Livre maudit",
     "DESCRIPTIONS": [
       "Dans un temple abandonné, vous dénichez un livre géant parsemé #p@d'inscriptions@ #p@cryptiques.@ NL NL Vous tentez d'interpréter ces écritures élaborées, mais celles-ci se mettent à #b~bouger~ et à #b~se~ #b~transformer~ en une écriture que vous reconnaissez.",
       "Étrange. Le livre semble parler d'un #yAncien nommé #yNeow. NL NL Cela éveille votre curiosité, mais vous éprouvez un sentiment général de #p~malaise.~",
       "#yNeow, l'Ancienne de la Résurrection, a été exilée tout en bas de la Tour. NL NL Vous avez très envie d'en lire davantage, mais votre corps commence à vous #r~faire~ #r~mal.~",
       "Avide de vengeance, #yNeow ramène à la vie des étrangers et les utilise pour parvenir à ses fins. NL NL Vous vous sentez désormais dans un état extrême de #r~fatigue~ #r~et~ #r~de~ #r~faiblesse...~",
       "Les aventuriers que #yNeow ramène à la vie se souviennent à peine de qui ils étaient, et sont condamnés à se battre pour l'éternité. NL NL Alors que vous approchez de la fin, vos #r@vieilles@ #r@plaies@ #r@commencent@ #r@à@ #r@se@ #r@rouvrir@ @!@",
-      "Une fois le tome fini, vous décidez de l'emmener avec vous. Avec la preuve en main, parviendrez-vous à conserver vos souvenirs ?",
+      "Une fois le livre fini, vous décidez de l'emmener avec vous. Avec la preuve en main, parviendrez-vous à conserver vos souvenirs ?",
       "Vous partez, percevant une #p~sombre~ #p~énergie~ #p~qui~ #p~émane~ du livre posé sur le piédestal.",
-      "En un incroyable tour de force physique et mental, vous résistez à l'emprise du tome et le fermez d'un @coup@ @sec.@ NL Vous rebroussez chemin et quittez le temple #b~à~ #b~bout~ #b~de~ #b~force...~"
+      "En un incroyable tour de force physique et mental, vous résistez à l'emprise du livre et le fermez d'un @coup@ @sec.@ NL Vous rebroussez chemin et quittez le temple #b~à~ #b~bout~ #b~de~ #b~force...~"
     ],
     "OPTIONS": [
       "[Lire]",
@@ -555,18 +555,18 @@
   "Drug Dealer": {
     "NAME": "Dealer",
     "DESCRIPTIONS": [
-      "Un homme avec un cache-œil et un sourire démoniaque s'avance vers vous d'un pas décontracté. NL \"Bonjour, par ici. Ça vous intéresse de la #yD.O.P.E. ? Question force, l'entraînement et les bénédictions ne peuvent pas rivaliser. Vous en aurez bien besoin si vous faites partie de ces héros suicidaires. NL Alors, qu'en dites-vous ? Vous voulez de la #yD.O.P.E. ?\" NL ",
-      "~\"Merveilleux.\"~ NL L'homme vous passe une seringue inquiétante remplie d'un liquide phosphorescent avant de se rencogner dans une ruelle sombre.",
-      "\"Pas grave, il y aura toujours quelqu'un que ça intéressera...\" NL L'homme s'éloigne d'un pas nonchalant.",
-      "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
+      "Un homme avec un cache-œil et un sourire démoniaque s'avance vers vous. NL \"Bonjour, par ici. Ça vous intéresse, de la #yD.O.P.E. ? Question force, l'entraînement et les bénédictions ne peuvent pas rivaliser. Vous en aurez bien besoin si vous faites partie de ces héros suicidaires. NL Alors, ~qu'en~ ~dites-vous~ ~?~",
+      "~\"Excellent.\"~ NL L'homme vous passe une seringue inquiétante remplie d'un liquide phosphorescent avant de se rencogner dans une ruelle sombre.",
+      "~\"Superbe.\"~ NL L'homme vous injecte trois substances inconnues, et sort un carnet. Alors que vous commencez à vous sentir léger, il commence à prendre des notes frénétiquement. NL Vous perdez complètement la notion du temps. Quand vous avez recouvré vos sens, l'homme mystérieux a disparu.",
+      "~\"Merveilleux.\"~ NL Vous buvez la substance mystérieuse. Immédiatement, vous vous sentez fortifié et sentez vos fibres musculaires se contracter."
     ],
     "OPTIONS": [
-      "[Payer] #y",
-      " #yd'or #y: #gobtenez #gde #gla #gD.O.P.E.",
-      "[Verrouillé] Nécessite : ",
-      " or",
+      "[Tester la D.O.P.E.] #gObtenez #gde #gla #gD.O.P.E.",
+      "[Devenir un sujet de test] #gTrasnformez #g3 #gcartes #galéatoires.",
+      "[Ingérer les mutagènes] #gRecevez #gune #gRelique #spéciale.",
       "[Partir]",
-      "[Décliner]"
+      "[Verouillé] Requis : Un deck de 3 cartes ou plus.",
+	  ""
     ]
   },
   "Forgotten Altar": {

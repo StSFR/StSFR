@@ -75,7 +75,7 @@
   },
   "J.A.X.": {
     "NAME": "D.O.P.E.",
-    "DESCRIPTION": "Perdez 3 PV. NL Gagnez !M! de Force. NL Épuisement."
+    "DESCRIPTION": "Perdez 3 PV. NL Gagnez !M! de Force."
   },
   "Offering": {
     "NAME": "Offrande",
@@ -722,8 +722,8 @@
   },
   "Masterful Stab": {
     "NAME": "Poignard expert",
-    "DESCRIPTION": "Jouable si vous n'avez pas d'autres cartes en main. NL Infligez !D! dégât(s).",
-    "UPGRADE_DESCRIPTION": "J'ai encore d'autres NL cartes en main."
+    "DESCRIPTION": "Infligez !D! dégât(s). Quand vous prenez des dégâts, le coût de cette carte augmente de 1.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Good Instincts": {
     "NAME": "Instincts de survie",
@@ -891,7 +891,7 @@
   "Darkness": {
     "NAME": "Ténèbres",
     "DESCRIPTION": "Canalisez !M! Orbe Obscur.",
-    "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes Obscurs."
+    "UPGRADE_DESCRIPTION": "Canalisez !M! Orbe Obscur. NL Utilisez la capacité passive de tous vos Orbes Obscurs."
   },
   "Recycle": {
     "NAME": "Recyclage",
@@ -1002,7 +1002,7 @@
   },
   "Reboot": {
     "NAME": "Redémarrage",
-    "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
+    "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche. NL Piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
     "NAME": "Récursivité",
@@ -1062,7 +1062,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Activez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Activé d'Orbes. NL Épuisement."
+    "DESCRIPTION": "Perdez TOUS vos Orbes. Gagnez [B] et piochez !M! carte pour chaque Orbe perdu. NL Épuisement."
   },
   "Barrage": {
     "NAME": "Déluge",
@@ -1262,8 +1262,8 @@
     "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 emplacement d'Orbe."
   },
   "Lockon": {
-    "NAME": "Verrouillage",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant les !M! prochains tours, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+    "NAME": "Cible",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Verouillage."
   },
   "Reprieve": {
     "NAME": "Répit",

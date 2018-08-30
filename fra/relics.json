@@ -84,7 +84,7 @@
     "NAME": "Bougie bleue",
     "FLAVOR": "Sa flamme s'allume lorsque les ténèbres l'enveloppent.",
     "DESCRIPTIONS": [
-      "Les cartes #yMalédiction peuvent désormais être jouées. NL NL Jouer une #yMalédiction vous fait perdre #b",
+      "Les cartes #yMalédiction Injouables peuvent désormais être jouées. NL NL Jouer une #yMalédiction vous fait perdre #b",
       " PV et #yÉpuiser la carte."
     ]
   },
@@ -463,14 +463,14 @@
     "NAME": "Trousse de secours",
     "FLAVOR": "\"Elle a tout ce qu'il vous faut ! Anti-démangeaison, anti-brûlure, anti-venin et plus encore !\"",
     "DESCRIPTIONS": [
-      "Les cartes #yStatut peuvent désormais être jouées. Jouer une carte #yStatut vous fait #yÉpuiser cette carte."
+      "Les cartes #yStatut Injouables peuvent désormais être jouées. Jouer une carte #yStatut vous fait #yÉpuiser cette carte."
     ]
   },
   "Membership Card": {
     "NAME": "Carte d'adhérent",
     "FLAVOR": "\"Un abonnement bonus dédié à mes plus fidèles clients !\"",
     "DESCRIPTIONS": [
-      "Aux prochains niveaux, le taux d'apparition des boutiques augmente de #b50 %. #yBONUS : Remise de #b20 % sur tous les produits !"
+      "Aux prochains niveaux, le taux d'apparition des boutiques augmente de #b50 %. #yBONUS : Remise de #b50 % sur tous les produits !"
     ]
   },
   "Mercury Hourglass": {
@@ -1362,11 +1362,11 @@
     ]
   },
   "MutagenicStrength": {
-    "NAME": "Mutagenic Strength",
-    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "NAME": "Force mutagène",
+    "FLAVOR": "\"Les effets semblent passagers, ne se déclenchant seulement que lorsque le sujet est en danger.\" - Inconnu",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength that is lost at the end of your turn."
+      "Commencez chaque combat avec #b",
+      " de #yForce, qui sont perdus à la fin du premier tour."
     ]
   }
 }

@@ -273,9 +273,11 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "lock-on"
+        "verouillage",
+		"verouillé",
+		"verouillée"
       ],
-      "DESCRIPTION": "Lock-On targets receive #b50% more damage from Orbs."
+      "DESCRIPTION": "Les ennemis Verouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
     }
   }
 }
