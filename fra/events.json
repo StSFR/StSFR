@@ -566,7 +566,7 @@
       "[Ingérer les mutagènes] #gRecevez #gune #gRelique #spéciale.",
       "[Partir]",
       "[Verouillé] Requis : Un deck de 3 cartes ou plus.",
-	  ""
+      ""
     ]
   },
   "Forgotten Altar": {
@@ -878,7 +878,7 @@
       " #rd'Or"
     ]
   },
- "Designer": {
+  "Designer": {
     "NAME": "Le designer",
     "DESCRIPTIONS": [
       "Vous découvrez un magasin #g~coloré~ avec l'enseigne \"IN-SPIRE\" et entrez pour voir ce qu'il y a à l'intérieur. NL \"Non, pas moyen. Non, j'peux pas vous laisser rentrer!\" NL NL Un homme à l'apparence ridicule apparaît à l'entrée pour vous bloquer l'accès.",

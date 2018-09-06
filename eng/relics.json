@@ -610,7 +610,7 @@
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Nloth's Gift",
+    "NAME": "N'loth's Gift",
     "FLAVOR": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
     "DESCRIPTIONS": [
       "#bTriples the chance of receiving rare cards as monster rewards."
@@ -1249,7 +1249,7 @@
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loth's Hungry Face",
+    "NAME": "N'loth's Hungry Face",
     "FLAVOR": "You feel hungry.",
     "DESCRIPTIONS": [
       "The next non-boss chest you open is empty.",
@@ -1360,6 +1360,57 @@
       " #yAttacks, gain [R] .",
       " #yAttacks, gain [G] .",
       " #yAttacks, gain [B] ."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Brimstone",
+    "FLAVOR": "Emanates an infernal heat.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, everyone gains #b",
+      " #yStrength."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Preserved Insect",
+    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "DESCRIPTIONS": [
+      "Enemies in Elite rooms have #b",
+      "% less HP."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Pocketwatch",
+    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Fossilized Helix",
+    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "DESCRIPTIONS": [
+      "Prevent the first time you would lose HP in combat."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Prismatic Shard",
+    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "DESCRIPTIONS": [
+      "Combat reward screens now contain colorless cards and cards from other colors."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Warped Tongs",
+    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Wing Boots",
+    "FLAVOR": "Stylish.",
+    "DESCRIPTIONS": [
+      "You may ignore paths when choosing the next room to travel to #b3 times."
     ]
   },
   "MawBank": {

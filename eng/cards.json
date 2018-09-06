@@ -533,7 +533,8 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
+    "DESCRIPTION": "Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",
