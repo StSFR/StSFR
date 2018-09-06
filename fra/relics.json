@@ -1370,54 +1370,54 @@
     ]
   },
   "WingedGreaves": {
-    "NAME": "Wing Boots",
-    "FLAVOR": "Stylish.",
+    "NAME": "Bottes ailées",
+    "FLAVOR": "Stylées.",
     "DESCRIPTIONS": [
-      "You may ignore paths when choosing the next room to travel to #b3 times."
+      "Vous pouvez ignorer les lignes au moment de choisir l'étage suivant #b3 fois."
     ]
   },
   "Pocketwatch": {
-    "NAME": "Pocketwatch",
-    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "NAME": "Montre gousset",
+    "FLAVOR": "Les aiguilles semblent arrêtées à 3 heures pile.",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+      "Quand vous jouez #b3 cartes ou moins pendant un tour, piochez #b3 cartes supplémentaires au début du tour suivant."
     ]
   },
   "PrismaticShard": {
-    "NAME": "Prismatic Shard",
-    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "NAME": "Éclat prismatique",
+    "FLAVOR": "En regardant à travers l'éclat, vous avez une toute nouvelle perspective.",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain colorless cards and cards from other colors."
+      "Les récompenses de combat contiennent désormais des cartes incolores et d'autres couleurs."
     ]
   },
   "Brimstone": {
-    "NAME": "Brimstone",
-    "FLAVOR": "Emanates an infernal heat.",
+    "NAME": "Soufre",
+    "FLAVOR": "Il dégage une chaleur infernale.",
     "DESCRIPTIONS": [
-      "At the start of your turn, everyone gains #b",
-      " #yStrength."
+      "Au début de votre tour, tout le monde gagne #b",
+      " de #yForce."
     ]
   },
   "PreservedInsect": {
-    "NAME": "Preserved Insect",
-    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "NAME": "Insecte préservé",
+    "FLAVOR": "L'insecte semble créer une aura qui cible les ennemis particulièrement grands.",
     "DESCRIPTIONS": [
-      "Enemies in Elite rooms have #b",
-      "% less HP."
+      "Les ennemis des étages d'Élite ont #b",
+      "% de PV en moins."
     ]
   },
   "WarpedTongs": {
-    "NAME": "Warped Tongs",
-    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "NAME": "Pinces déformées",
+    "FLAVOR": "Les pinces maudites manifestent un désir profond de revenir là d'où elles ont été volées.",
     "DESCRIPTIONS": [
-      "At the start of your turn, #yUpgrade a random card in your hand."
+      "Au début de votre tour, #yAméliorez une carte aléatoire de votre main."
     ]
   },
   "FossilizedHelix": {
-    "NAME": "Fossilized Helix",
-    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "NAME": "Hélice fossilisée",
+    "FLAVOR": "D'apparence indestructibe, vous vous demandez à quelle créature elle a bien pu appartenir.",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP in combat."
+      "Empêche la première perte de PV chaque combat."
     ]
   }
 }

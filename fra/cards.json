@@ -1063,7 +1063,7 @@
   "Fission": {
     "NAME": "Fission",
     "DESCRIPTION": "Perdez TOUS vos Orbes. Gagnez [B] et piochez !M! carte pour chaque Orbe perdu. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Activez TOUS vos Orbes. Gagnez [B] et piochez !M! carte pour chaque Orbe activé. NL Épuisement."
   },
   "Barrage": {
     "NAME": "Déluge",
