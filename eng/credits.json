@@ -33,13 +33,19 @@
   "LOC_DEU": {
     "HEADER": "German Localization",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
+      "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
       "Moly",
       "koykoy13",
       "Magnus Upmann"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Esperanto Localization",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   },
   "LOC_FRA": {

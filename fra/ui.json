@@ -963,7 +963,8 @@
       " NL #yModificateurs : ",
       "Modificateurs : ",
       "Classements",
-      "*Les succès sont désactivés pendant les défis quotidens."
+      "*Les succès sont désactivés pendant les défis quotidens.",
+      "  [MODE HORS-LIGNE]"
     ]
   },
   "MenuPanels": {

@@ -270,6 +270,14 @@
         "d'épines"
       ],
       "DESCRIPTION": "Quand vous recevez des dégâts #yd'Attaque, infligez des dégâts en retour."
+    },
+    "LOCK_ON": {
+      "NAMES": [
+        "verouillage",
+		"verouillé",
+		"verouillée"
+      ],
+      "DESCRIPTION": "Les ennemis Verouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
     }
   }
 }

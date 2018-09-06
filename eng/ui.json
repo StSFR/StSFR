@@ -331,7 +331,8 @@
       " NL #yMods: ",
       "Modifiers: ",
       "Leaderboards",
-      "*Achievements are off for Daily Climb."
+      "*Achievements are off for Daily Climb.",
+	  "  [OFFLINE MODE]"
     ]
   },
   "DeathScreen": {

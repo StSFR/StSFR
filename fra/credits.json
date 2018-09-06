@@ -80,7 +80,7 @@
   "LOC_DEU": {
     "HEADER": "Traduction en allemand",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand ",
+      "Joshua \"Joshipon\" Wiegand",
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
@@ -276,6 +276,12 @@
       "Traduction :",
       "Xavier \"xabad98\" Abad Salinas",
       "Skiddome"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Traduction en espéranto",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos"
     ]
   }
 }

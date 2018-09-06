@@ -93,7 +93,7 @@
     "NAME": "Blue Candle",
     "FLAVOR": "The flame ignites when shrouded in darkness.",
     "DESCRIPTIONS": [
-      "#yCurse cards can now be played. NL NL Playing a #yCurse will make you lose #b",
+      "Unplayable #yCurse cards can now be played. NL NL Playing a #yCurse will make you lose #b",
       " HP and #yExhausts the card."
     ]
   },
@@ -527,14 +527,14 @@
     "NAME": "Medical Kit",
     "FLAVOR": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
     "DESCRIPTIONS": [
-      "#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+      "Unplayable #yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
     ]
   },
   "Membership Card": {
     "NAME": "Membership Card",
     "FLAVOR": "\"Bonus membership offer for my most valuable customers!\"",
     "DESCRIPTIONS": [
-      "In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+      "In future acts, shops appear #b50% more often. #yBONUS: #b50% discount on all products!"
     ]
   },
   "Mercury Hourglass": {
@@ -1230,6 +1230,14 @@
     "DESCRIPTIONS": [
       "Whenever you enter a ? room, gain #b",
       " #yGold."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Mutagenic Strength",
+    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "DESCRIPTIONS": [
+      "Start each combat with #b",
+      " #yStrength that is lost at the end of your turn."
     ]
   },
   "FaceOfCleric": {

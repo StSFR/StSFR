@@ -888,11 +888,12 @@
     ]
   },
   "Lockon": {
-    "NAME": "Verrouiller",
+    "NAME": "Verrouillage",
     "DESCRIPTIONS": [
-      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi pendant les #b",
-      " prochains tours.",
-      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi ce tour."
+      "Reçoit #b",
+      " % de dégâts supplémentaires des Orbes pendant #b",
+      " tour.",
+      " tours."
     ]
   },
   "DexLoss": {
