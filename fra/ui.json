@@ -1041,10 +1041,10 @@
       "#yPassé :",
       "Information manquante",
       "+2 PV Max",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[R] ",
+      "[P] ",
+      "[S] ",
       "#bS'est #breposé",
       "#bA #bamélioré %s",
       "#bA #bretiré %s",
@@ -1236,8 +1236,8 @@
       "Sentinelles",
       "Élu et adepte",
       "(Déprécié) Malabar enflammé",
-      "(Deprecated) Slaver and Parasite",
-      "(Deprecated) Snecko and Mystics"
+      "(Déprécié) Esclavagiste et parasite",
+      "(Déprécié) Geckobra et mystiques"
     ]
   }
 }
