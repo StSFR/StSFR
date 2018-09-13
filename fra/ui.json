@@ -1207,5 +1207,35 @@
       "Temps de jeu ",
       "Emplacement vide"
     ]
+  },
+  "RunHistoryMonsterNames": {
+    "TEXT": [
+      "Gang de gobelins",
+      "Grand slime",
+      "Voyous de l'Exorde",
+      "Faune de l'Exorde",
+      "Groupe de slimes",
+      "Petits slimes",
+      "Voleurs de la Ville",
+      "Trois Oizos",
+      "Quatre Oizos",
+      "Trois adeptes",
+      "Groupe d'Élus",
+      "Sentinelle et gardien sphérique",
+      "Centurion et soigneur",
+      "Parasite et champi-bête",
+      "Gang de bandits masqués",
+      "Nobs du colisée",
+      "Esclavagistes du colisée",
+      "Trois formes",
+      "Horde de mâchouilleurs",
+      "Quatre formes",
+      "Gardien sphérique et formes",
+      "Deux orbistes",
+      "Donu et Déca",
+      "Sentinelles",
+      "Élu et adepte",
+      "(Déprécié) Malabar enflammé"
+    ]
   }
 }

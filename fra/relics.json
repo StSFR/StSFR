@@ -1368,5 +1368,56 @@
       "Commencez chaque combat avec #b",
       " de #yForce, qui sont perdus à la fin du premier tour."
     ]
+  },
+  "WingedGreaves": {
+    "NAME": "Bottes ailées",
+    "FLAVOR": "Stylées.",
+    "DESCRIPTIONS": [
+      "Vous pouvez ignorer les lignes au moment de choisir l'étage suivant #b3 fois."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Montre gousset",
+    "FLAVOR": "Les aiguilles semblent arrêtées à 3 heures pile.",
+    "DESCRIPTIONS": [
+      "Quand vous jouez #b3 cartes ou moins pendant un tour, piochez #b3 cartes supplémentaires au début du tour suivant."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Éclat prismatique",
+    "FLAVOR": "En regardant à travers l'éclat, vous avez une toute nouvelle perspective.",
+    "DESCRIPTIONS": [
+      "Les récompenses de combat contiennent désormais des cartes incolores et d'autres couleurs."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Soufre",
+    "FLAVOR": "Il dégage une chaleur infernale.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, tout le monde gagne #b",
+      " de #yForce."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Insecte préservé",
+    "FLAVOR": "L'insecte semble créer une aura qui cible les ennemis particulièrement grands.",
+    "DESCRIPTIONS": [
+      "Les ennemis des étages d'Élite ont #b",
+      "% de PV en moins."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Pinces déformées",
+    "FLAVOR": "Les pinces maudites manifestent un désir profond de revenir là d'où elles ont été volées.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, #yAméliorez une carte aléatoire de votre main."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Hélice fossilisée",
+    "FLAVOR": "D'apparence indestructibe, vous vous demandez à quelle créature elle a bien pu appartenir.",
+    "DESCRIPTIONS": [
+      "Empêche la première perte de PV chaque combat."
+    ]
   }
 }

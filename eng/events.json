@@ -6,12 +6,12 @@
       "You decide to put the forge to use and... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...improve your arsenal!",
       "You decide to see if you can find anything of use. After uncovering tarps, looking through boxes, and checking nooks and crannies, you find a dust covered #y~relic!~ ",
       "As you go through the finishing touches, the flames of the forge jump out at you, #r@burning@ #r@and@ #r@scarring@ your arms..",
-      "You can't shake this #r~ugly~ #r~feeling~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+      "NL NL Taking the relic, you can't shake a sudden feeling of #r~sharp~ #r~pain~ as you exit the hut. Maybe you disturbed some sort of spirit?",
       "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
     ],
     "OPTIONS": [
       "[Forge] #gUpgrade #ga #gcard.",
-      "[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
+      "[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
       "[Leave]",
       "Choose a Card to Upgrade",
       "[Locked] Requires: Upgradeable Cards"
@@ -26,10 +26,10 @@
     ],
     "OPTIONS": [
       "[Offer Gold] #y",
-      " #yGold: #gReceive #ga #gRelic.",
+      " #yGold: #gObtain #ga #gRelic.",
       "[Locked] Requires: ",
       " Gold.",
-      "[Rob] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+      "[Rob] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rShame.",
       "[Leave]",
 	  "",
 	  ""
@@ -82,7 +82,7 @@
       " #gHP.",
       "[Donut] #gMax #gHP #g+",
       ".",
-      "[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+      "[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
       "[Leave]"
     ]
   },
@@ -162,7 +162,7 @@
     "OPTIONS": [
       "[Test J.A.X.] #gGet #gJAXXED.",
 	  "[Become Test Subject] #gTransform #g3 #grandom #gcards.",
-	  "[Ingest Mutagens] #gGain #ga #gspecial #grelic.",
+	  "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
 	  "[Leave]",
 	  "[Locked] Requires: 3 or more cards in deck.",
 	  ""
@@ -212,7 +212,7 @@
       "You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your bones."
     ],
     "OPTIONS": [
-      "[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+      "[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
       "[Locked] Requires: Golden Idol.",
       "[Sacrifice] #gGain #g",
       " #gMax #gHP. #rLose #r",
@@ -243,7 +243,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accept] #gObtain #g5 Apparition. #rLose #r",
+      "[Accept] #gReceive #g5 Apparition. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "",
@@ -262,7 +262,7 @@
       "If there was ever an obvious trap, this would be it. NL You decide not to interfere with objects placed upon pedestals."
     ],
     "OPTIONS": [
-      "[Take] #gReceive #gGolden #gIdol. #rTrigger #ra #rtrap.",
+      "[Take] #gObtain #gGolden #gIdol. #rTrigger #ra #rtrap.",
       "[Leave]",
       "[Outrun] #rBecome #rCursed #r- #rInjury.",
       "[Smash] #rTake #r",
@@ -349,7 +349,7 @@
       "The serpent rears its head and blasts a stream of #ygold upwards! NL It is amazing and terrifying simultaneously. NL You gather all the #ygold, thank the snake, and get going."
     ],
     "OPTIONS": [
-      "[Agree] #gReceive #g",
+      "[Agree] #gGain #g",
       " #gGold. #rBecome #rCursed #r- #rDoubt.",
       "[Disagree]",
       "[Continue]",
@@ -440,7 +440,7 @@
     ],
     "OPTIONS": [
       "[Offer: ",
-      "] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+      "] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
       "[Leave]"
     ]
   },
@@ -613,7 +613,7 @@
       "You continue along your way, leaving the forgotten dead undisturbed."
     ],
     "OPTIONS": [
-      "[Open Coffin] #gReceive #ga #gRelic. #r",
+      "[Open Coffin] #gObtain #ga #gRelic. #r",
       "%: #rBecome #rCursed #r- #rWrithe.",
       "[Leave]"
     ]
@@ -629,7 +629,7 @@
     "OPTIONS": [
       "[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
       " #rMax #rHP.",
-      "[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
+      "[Offer: Golden Idol] #gGain #g333 #gGold. #rLose #rGolden #rIdol.",
       "[Locked] Requires: Golden Idol.",
       "[Leave]"
     ]
@@ -676,7 +676,7 @@
       "[Don the Red Mask] #gGain #g222 #gGold.",
       "[Locked] Requires: Red Mask.",
       "[Offer: ",
-      " Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
+      " Gold] #rLose #rall #rGold. #gObtain #ga #gRelic.",
       "[Leave]"
     ]
   },
@@ -718,11 +718,11 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
-      "[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+      "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
-      "] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+      "] #gRemove #gall Strikes. #gReceive #g5 Bites.",
       "[Leave]"
     ]
   },
@@ -741,7 +741,7 @@
     "OPTIONS": [
       "[Play]",
       "[Prize!] YAY!!!!",
-      "[Prize!] #gGain #ga #gRelic.",
+      "[Prize!] #gObtain #ga #gRelic.",
       "[Prize!] #gHeal #gto #gfull #ghealth.",
       "[Prize?] #rCurse #r- #rDecay.",
       "[Prize!] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
@@ -795,7 +795,7 @@
       "Everything makes sense now. NL The lack of memories, the ascent, the #yAncient #yOne. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
     ],
     "OPTIONS": [
-      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.",  
+      "[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
       "[I am Rich] #gGain #g999 #gGold. #rCursed #r- #r2 #rNormality.",
       "[I am Healthy] #gHeal #gto #gfull #gHP. #rCursed #r- #rDoubt.",
       "[I am Awake] #gUpgrade #gall #gCards. #rYou #rcan #rno #rlonger #rheal.",
@@ -872,7 +872,7 @@
       "[Locked] Requires: At least 50 Gold.",
       "[Give Card] #rLose ",
       "[Locked] Requires: Card.",
-      ". #gReceive #ga #gRelic.",
+      ". #gObtain #ga #gRelic.",
       "[Attack]",
       "[Leave]",
       " #rGold"

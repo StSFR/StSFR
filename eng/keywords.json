@@ -74,7 +74,8 @@
     "EXHAUST": {
       "NAMES": [
         "exhaust",
-        "exhausted"
+        "exhausted",
+        "exhausts"
       ],
       "DESCRIPTION": "Removed until end of combat."
     },

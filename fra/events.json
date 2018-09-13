@@ -9,14 +9,14 @@
     "DESCRIPTIONS": [
       "Vous baissez la tête pour pénétrer dans une modeste cabane. À l'intérieur, vous découvrez ce qui semble être une forge. Les outils sont couverts de poussière, mais un feu crépite dans le fourneau. Votre nervosité s'intensifie...",
       "Vous décidez d'utiliser la forge et... NL #y@CLING@ #y@CLIIING@ #y@CLING@ ! NL ...d'améliorer votre arsenal !",
-      "Vous décidez de fouiller les lieux en quête d'un objet utile. Après avoir soulevé des bâches, farfouillé dans des boîtes et examiné le moindre recoin, vous découvrez une #y~Relique~ couverte de poussière !",
+      "Vous décidez de fouiller les lieux en quête d'un objet utile. Après avoir soulevé des bâches, fouillé dans des boîtes et examiné le moindre recoin, vous découvrez une #y~Relique~ couverte de poussière !",
       "Tandis que vous peaufinez votre ouvrage, les flammes de la forge vous assaillent, #r@vous@ #r@brûlant@ #r@et@ #r@vous@ #r@blessant@ les bras...",
-      "Alors que vous quittez la cabane, vous ne parvenez pas à vous défaire de cette #r~sensation~ #r~désagréable.~ Peut-être avez-vous dérangé un esprit ?",
+      "Alors que vous prenez la relique, vous ressentez subitement une #r~vive~ #r~douleur.~ Peut-être avez-vous dérangé un esprit ?",
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
       "[Utiliser la forge] #gAméliorez #gune #gcarte.",
-      "[Fouiller] #gObtenez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rNormalité.",
+      "[Fouiller] #gObtenez #gune #gRelique #gspéciale. #rRecevez #r: #rMalédiction #r- #rDouleur.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
       "[Verrouillé] Nécessite : Une carte améliorable"
@@ -159,7 +159,7 @@
     "OPTIONS": [
       "[Jouer]",
       "[Prix !] YOUPI !!!!!",
-      "[Prix !] #gGagnez #gune #gRelique.",
+      "[Prix !] #gObtenez #gune #gRelique.",
       "[Prix !] #gRécupérez #gtous #gvos #gPV.",
       "[Prix ?] #rMalédiction #r- #rDéclin.",
       "[Prix !] #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
@@ -202,7 +202,7 @@
     "OPTIONS": [
       "[Sauter dedans] #gRécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
       ".",
-      "[Offrir : idole dorée] #gRecevez #g333 #gd'or. #rPerdez #rl'idole #rdorée.",
+      "[Offrir : idole dorée] #gGagnez #g333 #gd'or. #rPerdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite : idole dorée",
       "[Partir]"
     ]
@@ -245,7 +245,7 @@
       "[Mettre le masque] #gGagnez #g222 #gd'or.",
       "[Verrouillé] Nécessite : masque rouge",
       "[Offrir : ",
-      " d'or] #rPerdez #rtout #rvotre #ror. #gGagnez #gune #gRelique.",
+      " d'or] #rPerdez #rtout #rvotre #ror. #gObtenez #gune #gRelique.",
       "[Partir]"
     ]
   },
@@ -284,7 +284,7 @@
       " #gPV.",
       "[Beignet] #gPV #gmax #g+",
       ".",
-      "[Boîte] #gRecevez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rRegret.",
+      "[Boîte] #gObtenez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
   },
@@ -342,7 +342,7 @@
       "Si l'on devait décerner la palme du piège le plus évident, celui-ci l'obtiendrait. NL Vous décidez de ne pas interférer avec les objets posés sur les piédestaux."
     ],
     "OPTIONS": [
-      "[Prendre] #gRecevez #gune #gidole #gdorée. #rDéclenchez #run #rpiège.",
+      "[Prendre] #gObtenez #gune #gidole #gdorée. #rDéclenchez #run #rpiège.",
       "[Partir]",
       "[Courir à toutes jambes] #rRecevez #r: #rMalédiction #r- #rBlessure.",
       "[Détruire] #rSubissez #r",
@@ -397,7 +397,7 @@
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs ! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
     "OPTIONS": [
-      "[D'accord] #gRecevez #g",
+      "[D'accord] #gGagnez #g",
       " #gd'or. #rRecevez #r: #rMalédiction #r- #rDoute.",
       "[Pas d'accord]",
       "[Continuer]",
@@ -445,7 +445,7 @@
     ],
     "OPTIONS": [
       "[Offrir : ",
-      "] #rPerdez #rcette #rRelique. #gGagnez #gune #gnouvelle #gRelique #gspéciale.",
+      "] #rPerdez #rcette #rRelique. #gObtenez #gune #gRelique #gspéciale.",
       "[Partir]"
     ]
   },
@@ -488,10 +488,10 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or #y: #gRecevez #gune #gRelique.",
+      " #yd'or #y: #gObtenez #gune #gRelique.",
       "[Verrouillé] Nécessite : ",
       " or",
-      "[Voler] #gRecevez #gune #gRelique. #rRevevez #r: #Malédiction #r- #rHonte.",
+      "[Voler] #gObtenez #gune #gRelique. #rRevevez #r: #Malédiction #r- #rHonte.",
       "[Partir]",
       "",
       ""
@@ -563,10 +563,10 @@
     "OPTIONS": [
       "[Tester la D.O.P.E.] #gObtenez #gde #gla #gD.O.P.E.",
       "[Devenir un sujet de test] #gTrasnformez #g3 #gcartes #galéatoires.",
-      "[Ingérer les mutagènes] #gRecevez #gune #gRelique #spéciale.",
+      "[Ingérer les mutagènes] #gObtenez #gune #gRelique #spéciale.",
       "[Partir]",
       "[Verouillé] Requis : Un deck de 3 cartes ou plus.",
-	  ""
+      ""
     ]
   },
   "Forgotten Altar": {
@@ -578,7 +578,7 @@
       "Vous vous déchaînez et brisez la statue en face de vous, rompant ainsi l'emprise magique que la salle exerçait sur vous. NL Un sombre gémissement résonne tout autour de vous et vous sentez la #p~magie~ #p~maudite~ s'infiltrer au plus profond de vous."
     ],
     "OPTIONS": [
-      "[Offrir : idole dorée] #gRecevez #gune #gRelique #gspéciale. #rPerdez #rl'idole #rdorée.",
+      "[Offrir : idole dorée] #gObtenez #gune #gRelique #gspéciale. #rPerdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite : idole dorée",
       "[Vous sacrifier] #gVos #gPV #gmax #gaugmentent #gde #g",
       " #rPerdez #r",
@@ -698,7 +698,7 @@
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
     "OPTIONS": [
-      "[Ouvrir le cercueil] #gRecevez #gune #gRelique. #r",
+      "[Ouvrir le cercueil] #gObtenez #gune #gRelique. #r",
       " #r% #r: #rrecevez #r: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
@@ -714,11 +714,11 @@
       "En passant par une rue non éclairée, vous rencontrez plusieurs silhouettes encapuchonnées au beau milieu d'un rituel maléfique. Tandis que vous vous approchez, elles se tournent vers vous à l'unisson. Inquiétant. La plus grande possède des dents acérées et tend une main aux longs doigts pales vers vous. NL ~\"Joignez-vous~ ~à~ ~nous,~ ~Défectueux,~ ~et~ ~venez~ ~ressentir~ ~la~ ~chaleur~ ~de~ ~la~ ~Tour.\"~"
     ],
     "OPTIONS": [
-      "[Accepter] #gRetirez #gtoutes #gvos Frappes. #gObtenez #g5 Morsures. #rPerdez #r",
+      "[Accepter] #gRetirez #gtoutes #gvos Frappes. #gRecevez #g5 Morsures. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
-      "] #gRetirez #gtoutes #gvos #gcartes Frappes. #gObtenez #g5 #gcartes Morsures.",
+      "] #gRetirez #gtoutes #gvos Frappes. #gRecevez #g5 #gcartes Morsures.",
       "[Partir]"
     ]
   },
@@ -749,7 +749,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accepter] #gObtenez #g5 Apparition. #rPerdez #r",
+      "[Accepter] #gRecevez #g5 Apparition. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "",
@@ -814,7 +814,7 @@
       "Tout prend sens maintenant. NL Les pertes de mémoire, l'ascension, #yl'Ancien. NL NL  Il en a toujours été ainsi. NL Il en sera toujours ainsi. NL Tout tombera dans l'oubli à nouveau..."
     ],
     "OPTIONS": [
-      "[La Guerre] #rCombattez #run #rBoss #rdu #rpremier #rActe. #gRecevez #gune #gRelique #gRare.",
+      "[La Guerre] #rCombattez #run #rBoss #rdu #rpremier #rActe. #gObtenez #gune #gRelique #gRare.",
       "[La Richesse] #gGagnez #g999 #gd'or. #rMalédiction #r- #r2 #rNormalité.",
       "[La Santé] #gRécupérez #gtous #gvos #gPV. #rMalédiction #r- #rDoute.",
       "[L'Éveil] #gAméliorez #gtoutes #gvos #gCartes. #rVous #rne #rpouvez #rplus #rvous #rsoigner.",
@@ -872,13 +872,13 @@
       "[Verouillé] Requis: au moins 50 d'Or.",
       "[Donner une carte] #rPerdez ",
       "[Verouillé] Requis: une Carte.",
-      ". #gRecevez #gune #gRelique.",
+      ". #gObtenez #gune #gRelique.",
       "[Attaquer]",
       "[Partir]",
       " #rd'Or"
     ]
   },
- "Designer": {
+  "Designer": {
     "NAME": "Le designer",
     "DESCRIPTIONS": [
       "Vous découvrez un magasin #g~coloré~ avec l'enseigne \"IN-SPIRE\" et entrez pour voir ce qu'il y a à l'intérieur. NL \"Non, pas moyen. Non, j'peux pas vous laisser rentrer!\" NL NL Un homme à l'apparence ridicule apparaît à l'entrée pour vous bloquer l'accès.",
