@@ -1410,7 +1410,7 @@
     "NAME": "Pinces déformées",
     "FLAVOR": "Les pinces maudites manifestent un désir profond de revenir là d'où elles ont été volées.",
     "DESCRIPTIONS": [
-      "Au début de votre tour, #yAméliorez une carte aléatoire de votre main."
+      "Au début de votre tour, #yAméliorez une carte aléatoire de votre main pour le reste du combat."
     ]
   },
   "FossilizedHelix": {
