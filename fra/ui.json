@@ -1041,10 +1041,10 @@
       "#yPassé :",
       "Information manquante",
       "+2 PV Max",
-      "#bC ",
-      "#bR ",
-      "#bP ",
-      "#bS ",
+      "[C] ",
+      "[R] ",
+      "[P] ",
+      "[S] ",
       "#bS'est #breposé",
       "#bA #bamélioré %s",
       "#bA #bretiré %s",
@@ -1235,7 +1235,9 @@
       "Donu et Déca",
       "Sentinelles",
       "Élu et adepte",
-      "(Déprécié) Malabar enflammé"
+      "(Déprécié) Malabar enflammé",
+      "(Déprécié) Esclavagiste et parasite",
+      "(Déprécié) Geckobra et mystiques"
     ]
   }
 }
