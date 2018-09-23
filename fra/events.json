@@ -563,9 +563,9 @@
     "OPTIONS": [
       "[Tester la D.O.P.E.] #gObtenez #gde #gla #gD.O.P.E.",
       "[Devenir un sujet de test] #gTrasnformez #g3 #gcartes #galéatoires.",
-      "[Ingérer les mutagènes] #gObtenez #gune #gRelique #spéciale.",
+      "[Ingérer les mutagènes] #gObtenez #gune #gRelique #gspéciale.",
       "[Partir]",
-      "[Verouillé] Requis : Un deck de 3 cartes ou plus.",
+      "[Verrouillé] Requis : Un deck de 3 cartes ou plus.",
       ""
     ]
   },
@@ -858,7 +858,7 @@
   "WeMeetAgain": {
     "NAME": "Nous nous rencontrons à nouveau !",
     "DESCRIPTIONS": [
-      "\"Nous nous rencontrons à nouveau !\" NL Un bonhomme gaillard échevelé vous approche joyeusement. Vous ne connaissez pas cet homme. NL NL \"C'est moi, #yRanwid! Vous avez de bonnes nouvelles pour moi aujourd'hui ? La routine ? Un gars comme moi ne peut pas s'en sortir seul, vous savez ?\" NL Vous le regardez avec méfiance et considérez ses propositions...",
+      "\"Nous nous rencontrons à nouveau !\" Un bonhomme gaillard échevelé vous approche joyeusement. Vous ne connaissez pas cet homme. NL \"C'est moi, #yRanwid! Vous avez de bonnes nouvelles pour moi aujourd'hui ? La routine ? Un gars comme moi ne peut pas s'en sortir seul, vous savez ?\" NL Vous le regardez avec méfiance et considérez ses propositions...",
       "\"Exquis ! Je me sentais desséché.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Il boit la potion en une fois et laisse échapper un @renvoi@ @satisfait.@",
       "\"Magnifique! Ça me sera très utile si je croise à nouveau la route de ces #rvoyous #masqués.\"",
       "\"Exemplaire! Je vais étudier cela plus en détail dans mes chambres.\"",
@@ -867,11 +867,11 @@
     ],
     "OPTIONS": [
       "[Donner une Potion] #rPerdez ",
-      "[Verouillé] Requis: une Potion.",
+      "[Verrouillé] Requis: une Potion.",
       "[Donner de l'Or] #rPerdez #r",
-      "[Verouillé] Requis: au moins 50 d'Or.",
+      "[Verrouillé] Requis: au moins 50 d'Or.",
       "[Donner une carte] #rPerdez ",
-      "[Verouillé] Requis: une Carte.",
+      "[Verrouillé] Requis: une Carte.",
       ". #gObtenez #gune #gRelique.",
       "[Attaquer]",
       "[Partir]",
@@ -912,7 +912,7 @@
     "DESCRIPTIONS": [
       "@Paf !!!@ NL .. NL ...... NL ... NL ~Vous~ ~avez~ ~été~ ~assomé...~",
       "~Chancelant~ et avec une tête @résonnante@, vous vous réveillez pour vous faire jeter au centre d'un gigantesque stade doté d'une foule énorme #bd'Esclavagistes, de #pCultistes, et autres habitants de la Ville ! NL ",
-      " NL Un géant en armure avec une #ycouronne #ydorée vous crie depuis le sommet, NL @\"LE@",
+      " NL Un géant en armure avec une #ycouronne #ydorée vous crie depuis le sommet, NL @\"LE@ @",
       "IÈME@ @COMBAT@ @COMBAT@ @COMMENCE@ @MAINTENANT!!!!\"@ NL Une grille du côté opposé s'ouvre...",
       "@\"BIEN@ @JOUÉ,@ @VERMINE@ @INUTILE!\"@ NL Le géant moqueur applaudit tout en excitant la foule avec des gestes exagérés. NL #y~Or~ ~et~ #y~confettis~ ~pleuvent~ ~sur~ ~vous!~ NL @\"C'EST@ @L'HEURE@ @DU@ @VRAI@ @CHALLENGE!!\"@ NL NL Le dernier combat a laissé une petite ouverture dans le mur du Colisée, vous pouvez facilement vous échapper pendant que tout le monde est distrait. NL Restez-vous vous battre?"
     ],
