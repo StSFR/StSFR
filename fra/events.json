@@ -9,7 +9,7 @@
     "DESCRIPTIONS": [
       "Vous baissez la tête pour pénétrer dans une modeste cabane. À l'intérieur, vous découvrez ce qui semble être une forge. Les outils sont couverts de poussière, mais un feu crépite dans le fourneau. Votre nervosité s'intensifie...",
       "Vous décidez d'utiliser la forge et... NL #y@CLING@ #y@CLIIING@ #y@CLING@ ! NL ...d'améliorer votre arsenal !",
-      "Vous décidez de fouiller les lieux en quête d'un objet utile. Après avoir soulevé des bâches, fouillé dans des boîtes et examiné le moindre recoin, vous découvrez une #y~Relique~ couverte de poussière !",
+      "Vous décidez de fouiller les lieux en quête d'un objet utile. Après avoir soulevé des bâches, fouillé dans des boîtes et examiné le moindre recoin, vous découvrez une #y~Relique~ couverte de poussière ! ",
       "Tandis que vous peaufinez votre ouvrage, les flammes de la forge vous assaillent, #r@vous@ #r@brûlant@ #r@et@ #r@vous@ #r@blessant@ les bras...",
       "Alors que vous prenez la relique, vous ressentez subitement une #r~vive~ #r~douleur.~ Peut-être avez-vous dérangé un esprit ?",
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
@@ -482,7 +482,7 @@
   "Addict": {
     "NAME": "Vagabond implorant",
     "DESCRIPTIONS": [
-      "Alors que vous passer à côté d'un groupe de silhouettes encapuchonnées, l'une d'elles s'approche de vous. NL \"Dites, z'auriez quelque chose pour moi, mon ami ? Allez... Ou quelques #ypièces peut-être ?\" NL \"J'ai juste besoin d'un endroit où dormir, j'ai des trèsors que je peux échanger...\" Il semble délirant, mais inoffensif.",
+      "Alors que vous passez à côté d'un groupe de silhouettes encapuchonnées, l'une d'elles s'approche de vous. NL \"Dites, z'auriez quelque chose pour moi, mon ami ? Allez... Ou quelques #ypièces peut-être ?\" NL \"J'ai juste besoin d'un endroit où dormir, j'ai des trésors que je peux échanger...\" Il semble délirant, mais inoffensif.",
       "\"Oh oui, ~oui~ ! Ça, c'est un marché équitable !\"",
       "Vous lui arrachez la précieuse #yRelique des mains et partez. NL Dans votre dos, vous entendez : NL \"Vous n'avez pas honte ? ~VOUS~ ~N'AVEZ~ ~PAS~ ~HOOONTE~ ~?!~\" NL Vous avez #phonte."
     ],
@@ -491,7 +491,7 @@
       " #yd'or #y: #gObtenez #gune #gRelique.",
       "[Verrouillé] Nécessite : ",
       " or",
-      "[Voler] #gObtenez #gune #gRelique. #rRevevez #r: #Malédiction #r- #rHonte.",
+      "[Voler] #gObtenez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rHonte.",
       "[Partir]",
       "",
       ""

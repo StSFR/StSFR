@@ -1403,7 +1403,7 @@
     "NAME": "Warped Tongs",
     "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
     "DESCRIPTIONS": [
-      "At the start of your turn, #yUpgrade a random card in your hand."
+      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
     ]
   },
   "WingedGreaves": {
