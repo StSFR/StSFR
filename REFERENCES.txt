@@ -1,13 +1,14 @@
-a list of references in Slay the Spire (only the ones that affect localization)
+a list of references in Slay the Spire
 
 CARDS
 	J.A.X.: Refers to getting jacked, as in- to get buff.
-	Necronomicurse: References theNecronomicon, a book from the Evil Dead series.
+	Necronomicurse: References the Necronomicon, a book from the Evil Dead series.
 	Die Die Die: References what Reaper in Overwatch, says while utilizing Death Blossom.
 
 EVENTS
 	Transmogrifier: References a machine by Calvin in Calvin and Hobbes.
 	The Library: Randomly references 1 of 3 novels: Worm (web serial), The Martian, and Wool.
+	We Meet Again + Relic Descriptions: Ranwid's name is based on Darwin (anagram).
 
 ENEMIES
 	Byrd: Bird
@@ -22,10 +23,12 @@ RELICS
 	Calling Bell: References the Beckoning Bell from Bloodborne.
 	Centennial Puzzle: References the Millenium Puzzle from Yu-gi-oh.
 	Charon's Ashes: References Charon of Greek Mythology.
+	Chemical X: References a chemical of the same name from Power Puff Girls.
 	Dead Branch: References the Dead Branch from Ragnarok Online.
 	Dolly's Mirror: References Dolly, the first cloned sheep.
 	Du-Vu Doll: References Voodoo doll.
 	Enchiridion: References the Enchirdion, specifically the one from Adventure Time.
+	Fossilized Helix: References Helix Fossil from Pokemon.
 	Gold-Plated Cables: Flavor text references plating cables with gold to improve them (hint: it doesn't).
 	Golden Idol/Bloody Idol: References the Golden Idol from Spelunky.
 	Hand Drill: Visually references Gurren Lagann's comically oversized drills.
@@ -36,8 +39,10 @@ RELICS
 	Nilry's Codex: References Codex. A tabletop game by Sirlin (Nilry is Sirlin backwards), a game designer.
 	Paper Krane: This is an origami paper crane.
 	Paper Phrog: This is an origami paper frog.
+	Prismatic Shard: Item in Stardew Valley.
 	Question Card: References the "? Card" from the Binding of Isaac.
 	Shovel: Visually references the shovel used by Shovel Knight.
-	The Specimen: Visually references Dorohedoro.
+	The Specimen: Visually references Kaiman from Dorohedoro.
 	Toxic Egg: Visually references Alien.
 	Void Essence: Item in Stardew Valley.
+	Wing Boots: References Boots of Travel from Dota.
