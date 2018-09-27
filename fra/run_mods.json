@@ -1,6 +1,6 @@
 {
   "Cursed Run": {
-    "NAME": "Course Maudite",
+    "NAME": "Malédiction",
     "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre relique de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
   },
   "Elite Swarm": {
@@ -69,7 +69,7 @@
   },
   "Specialized": {
     "NAME": "Spécialisé",
-    "DESCRIPTION": "Commencez avec 5 copies d'une carte rare."
+    "DESCRIPTION": "Commencez avec 5 copies d'une carte aléatoire."
   },
   "Brewmaster": {
     "NAME": "Maître alchimiste",
@@ -124,39 +124,39 @@
     "DESCRIPTION": "Les cartes incolores apparaissent désormais dans les récompenses."
   },
   "Flight": {
-    "NAME": "Flight",
-    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+    "NAME": "Lévitation",
+    "DESCRIPTION": "Vous pouvez ignorer les chemins au moment de choisir l'étage suivant."
   },
   "Chimera": {
-    "NAME": "Chimera",
-    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+    "NAME": "Chimère",
+    "DESCRIPTION": "Votre deck de départ est une fusion de celui de 3 personnages."
   },
   "ControlledChaos": {
-    "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+    "NAME": "Chaos organisé",
+    "DESCRIPTION": "Commencez avec l'Œil gelé. Au début de votre tour, ajoutez 10 cartes aléatoires sous votre pioche."
   },
   "IntelligentEnemies": {
-    "NAME": "Intelligent Enemies",
-    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+    "NAME": "Ennemis intelligents",
+    "DESCRIPTION": "Tous les ennemis ont des attaques et capacités plus puissantes."
   },
   "DeadlyEvents": {
-    "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+    "NAME": "Événements risqués",
+    "DESCRIPTION": "Les étages ? peuvent désormais contenir des Élites, mais ont plus de chance de contenir un trésor."
   },
   "MonsterHunter": {
-    "NAME": "Monster Hunter",
-    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+    "NAME": "Chasseur de monstres",
+    "DESCRIPTION": "Les ennemis ont plus de vie mais donnent de meilleures récompenses."
   },
   "SealedDeck": {
-    "NAME": "Sealed Deck",
-    "DESCRIPTION": "Craft a deck from 30 random cards."
+    "NAME": "Paquet scellé",
+    "DESCRIPTION": "Fabriquez un deck de 30 cartes aléatoires."
   },
   "NeowTime": {
-    "NAME": "Neow Time",
-    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+    "NAME": "Surprise de Neow",
+    "DESCRIPTION": "Recevez 3 Bénédictions et 1 Corruption de Neow."
   },
   "Careless": {
-    "NAME": "Careless",
-    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+    "NAME": "Négligent",
+    "DESCRIPTION": "Au début de votre tour, défaussez la première carte de votre pioche."
   }
 }
