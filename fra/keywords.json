@@ -273,11 +273,11 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "verouillage",
-        "verouillé",
-        "verouillée"
+        "verrouillage",
+        "verrouillé",
+        "verrouillée"
       ],
-      "DESCRIPTION": "Les ennemis Verouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
+      "DESCRIPTION": "Les ennemis Verrouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
     }
   }
 }

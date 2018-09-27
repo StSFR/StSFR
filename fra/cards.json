@@ -131,7 +131,7 @@
   "Tactician": {
     "NAME": "Stratège",
     "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] .",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] [G] .",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, NL gagnez [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -1169,7 +1169,7 @@
     "DESCRIPTION": "Infligez !M! dégâts par Orbes Glaciaire Canalisé ce combat à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " ( !M! dégât(s).)",
+      " ( !D! dégât(s).)",
       "."
     ]
   },
@@ -1264,7 +1264,7 @@
   },
   "Lockon": {
     "NAME": "Cible",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Verouillage."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Verrouillage."
   },
   "Reprieve": {
     "NAME": "Répit",

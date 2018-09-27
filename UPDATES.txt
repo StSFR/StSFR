@@ -1,8 +1,611 @@
 Updates for Translators!
+09-17-2018
+relics.json
+	"Warped Tongs"
+		"At the start of your turn, #yUpgrade a random card in your hand."
+		->
+		"At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
+		
+----------------------------------
+
+09-10-2018
+credits.json
+	"LOC_SPA" (see eng/credits.json for where to insert)
+		"Pedro J. \"PJJLegend\" Jiménez",
+
+ui.json
+	"RunHistoryPathNodes"
+		"#bC ",
+		"#bR ",
+		"#bP ",
+		"#bS ",
+		->
+		"[C] ",
+		"[T] ",
+		"[P] ",
+		"[S] ",
+
+	"RunHistoryMonsterNames"
+		"(Deprecated) Slaver and Parasite",
+		"(Deprecated) Snecko and Mystics"
+
+NOTE: [C], [T], [P], and [S] now render icons when they show up in tips (rather than letters).
+		
+----------------------------------
+
+09-05-2018
+relics.json
+	"WingedGreaves"
+		"NAME": "Winged Greaves",
+		->
+		"NAME": "Wing Boots",
+
+	"NlothsMask"
+		"NAME": "N'Loth's Hungry Face",
+		->
+		"NAME": "N'loth's Hungry Face",
+
+credits.json
+	"LOC_SPA"
+		"Grammar and Cleanup:",
+		"Joaquín \"Pip1n\" López"
+		
+----------------------------------
+
+09-04-2018
+relics.json
+	"WingedGreaves"
+	"WarpedTongs"
+	"Nloth's Gift"
+		"NAME": "Nloth's Gift",
+		->
+		"NAME": "N'loth's Gift",
+ui.json
+	"RunHistoryMonsterNames"
+		"(Deprecated) Flame Bruiser"
+
+cards.json
+	"Fission"
+			"UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
+			->
+			"UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
+
+events.json
+	"Accursed Blacksmith"
+		"You can't shake this #r~ugly~ #r~feeling~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+		->
+		"NL NL Taking the relic, you can't shake a sudden feeling of #r~sharp~ #r~pain~ as you exit the hut. Maybe you disturbed some sort of spirit?",
+
+		"[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
+		->
+		"[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
+
+	"Addict"
+		" #yGold: #gReceive #ga #gRelic.",
+		->
+		" #yGold: #gObtain #ga #gRelic.",
+
+	"Big Fish"
+		"[Box] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+		->
+		"[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+
+	"Drug Dealer"
+		"[Ingest Mutagens] #gGain #ga #gspecial #grelic.",
+		->
+		"[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
+
+	"Forgotten Altar"
+		"[Offer: Golden Idol] #gReceive #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+		->
+		"[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+
+	"Ghosts"
+		"[Accept] #gObtain #g5 Apparition. #rLose #r",
+		->
+		"[Accept] #gReceive #g5 Apparition. #rLose #r",
+
+	"Liars Game"
+		"[Agree] #gReceive #g",
+		->
+		"[Agree] #gGain #g",
+
+	"N'loth"
+		"] #rLose #rthis #rrelic. #gGain #ga #gnew #gspecial #grelic.",
+		->
+		"] #rLose #rthis #rrelic. #gObtain #ga #gspecial #grelic.",
+
+	"The Mausoleum"
+		"[Open Coffin] #gReceive #ga #gRelic. #r",
+		->
+		"[Open Coffin] #gObtain #ga #gRelic. #r",
+
+	"The Moai Head"
+		"[Offer: Golden Idol] #gReceive #g333 #gGold. #rLose #rGolden #rIdol.",
+		->
+		"[Offer: Golden Idol] #gGain #g333 #gGold. #rLose #rGolden #rIdol.",
+
+	"Tomb of Lord Red Mask"
+		" Gold] #rLose #rall #rGold. #gGain #ga #gRelic.",
+		->
+		" Gold] #rLose #rall #rGold. #gObtain #ga #gRelic.",
+
+	"Vampires"
+		"[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+		->
+		"[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
+
+		"] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+		->
+		"] #gRemove #gall Strikes. #gReceive #g5 Bites.",
+
+	"Wheel of Change"
+		"[Prize!] #gGain #ga #gRelic.",
+		->
+		"[Prize!] #gObtain #ga #gRelic.",
+
+	"Mind Bloom"
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.", 
+		->
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gObtain #ga #gRare #gRelic.",  
+
+	"WeMeetAgain"
+		". #gReceive #ga #gRelic.",
+		->
+		". #gObtain #ga #gRelic.",
+
+----------------------------------
+
+09-03-2018
+relics.json
+	"PrismaticShard"
+	"FossilizedHelix"
+	"PreservedInsect"
+	"PocketWatch"
+	"Brimstone"
+
+ui.json
+	"RunHistoryMonsterNames"
+
+keywords.json
+	"EXHAUST"
+		"exhausts"
+
+cards.json
+	"Fission"
+		"UPGRADE_DESCRIPTION"
+
+----------------------------------
+
+08-30-2018
+credits.json
+	"LOC_SPA"
+		"Skiddome",
+		->
+		"Sergio \"Skiddome\" Malagón",
+		
+		"Juanjo \"ajuanjojjj\" Martinez"
+	
+----------------------------------
+
+08-29-2018
+relics.json
+	"Blue Candle"
+		"#yCurse cards can now be played. NL NL Playing a #yCurse will make you lose #b",
+		"Unplayable #yCurse cards can now be played. NL NL Playing a #yCurse will make you lose #b",
+	"Medical Kit"
+		"#yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+		"Unplayable #yStatus cards can now be played. Playing a #yStatus will #yExhaust the card."
+
+credits.json
+	"LOC_EPO"
+	
+----------------------------------
+
+08-28-2018
+relics.json
+	"Membership Card"
+		"In future acts, shops appear #b50% more often. #yBONUS: #b20% discount on all products!"
+		->
+		"In future acts, shops appear #b50% more often. #yBONUS: #b50% discount on all products!"
+		
+tutorials.json
+	"Random Tips"
+		The following are removed:
+		"Potions can only be used during combat.",
+		"Potions cannot be discarded during combat.",
+
+----------------------------------
+
+08-27-2018
+events.json
+	"Addict"
+		"[Rob] #gRecieve #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+		->
+		"[Rob] #gReceive #ga #gRelic. #rBecome #rCursed #r- #rShame.",
+
+	"Winding Halls"
+		"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. The constant whispering voices in the back of your head aren't helping things either.",
+		->
+		"As you slowly make your way up the twisting pathways, you constantly find yourself losing your way as the walls and ground seem to inexplicably shift before your eyes. NL NL The constant #p~whispering~ #p~voices~ in the back of your head aren't helping things either.",
+
+		"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. That's what the voices say anyway, and why would they lie?",
+		->
+		"Passing by a structure you are certain you have previously seen you start to question if you are going insane, or if the impossible geography of this place is starting to get to you. You need to change something, and soon. NL NL That's what the #p~voices~ say anyway, and why would they lie?",
+
+		"Something in you cracks. Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a \"new\" perspective. Things do seem to make so much more sense now.",
+		->
+		"Something in you cracks. NL NL Only the truly mad can understand a place like this, so you give into the chattering voices and continue on with a #p~\"new\"~ perspective. NL Things do seem to make so much more sense now.",
+
+		"You spend what seems like an eternity lost in the maze. Slowly but surely, you are able to retrace your steps, reorient yourself, and make it out of the twisting passages. NL NL You feel #r~drained~ from the experience."
+
+		"[Retrace Your Steps] #rLose #r",
+
+		" #rMax #rHP."
+
+	"Accursed Blacksmith"
+		"[Forge] #gUpgrade #ga #gcard. #r25%: #rBecome #rCursed #r- #rInjury.",
+		"[Rummage] #gObtain #ga #gRelic. #r75%: #rBecome #rCursed #r- #rNormality.",
+		->
+		"[Forge] #gUpgrade #ga #gcard.",
+		"[Rummage] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rNormality.",
+
+ui.json
+	"DailyScreen"
+		"  [OFFLINE MODE]"
+
+cards.json
+	"Darkness"
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark."
+		->
+		"UPGRADE_DESCRIPTION": "Channel !M! Dark. NL Trigger the passive ability of all Dark orbs."
+	"Reboot"
+		"DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+		->
+		"DESCRIPTION": "Shuffle all of your cards into your draw pile. NL Draw !M! cards. NL Exhaust."
+
+----------------------------------
+
+08-21-2018
+events.json
+	"Colosseum"
+		This is a new event
+
+----------------------------------
+
+08-20-2018
+cards.json
+	"Lockon"
+		"Lock-On"
+		->
+		"Bullseye"
+		"Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
+		->
+		"Deal !D! damage. NL Apply !M! Lock-On."
+	"Fission"
+		"Evoke all of your Orbs. Gain an Orb slot for each Orb Evoked. NL Exhaust."
+		->
+		"Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust."
+	"Masterful Stab"
+		"Can only be played if there are no other cards in your hand. NL Deal !D! damage.",
+		"This has to be my NL only card."
+		->
+		"Deal !D! damage. NL Whenever you take damage, increase this card's cost by 1.",
+		""
+	"J.A.X."
+		"Lose 3 HP. NL Gain !M! Strength . NL Exhaust."
+		->
+		"Lose 3 HP. NL Gain !M! Strength."
+
+keywords.json
+		"LOCK_ON"
+
+powers.json
+	"Lockon"
+
+events.json
+	"Dead Adventurer"
+		"You found a #yrelic! Continue searching?",
+		->
+		"You found a #yrelic! NL Continue searching?",
+	"Addict"
+		Completely reworked, use the eng events.json as a reference
+	"Drug Dealer"
+		Completely reworked, use the eng events.json as a reference
+	"Designer"
+		This is a new event
+
+relics.json
+	"MutagenicStrength"
+
+----------------------------------
+
+08-15-2018
+powers.json
+	"Flight"
+		" times in one turn."
+events.json
+	"Golden Shrine"
+		"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+		->
+		"[Desecrate] #gGain #g275 #gGold. #rBecome #rCursed #r- #rRegret.",
+
+----------------------------------
+
+08-14-2018
+ui.json
+	"AscensionModeDescriptions"
+		"Normal enemies have more challenging AI.",
+		"Elites have more challenging AI.",
+		"Bosses have more challenging AI.",
+		->
+		"Normal enemies have more challenging movesets and abilities.",
+		"Elites have more challenging movesets and abilities.",
+		"Bosses have more challenging movesets and abilities.",
+
+----------------------------------
+
+08-13-2018
+ui.json
+	"AscensionModeDescriptions"
+		"Unfavorable Events.",
+		"Shops are more costly.",
+		"Normal enemies have more challenging AI.",
+		"Elites have more challenging AI.",
+		"Bosses have more challenging AI.",
+		"(Max Level) Double Boss."
+	"LanguageDropdown"
+		"Esperanto"
+
+relics.json
+	"Paper Crane"
+		"Enemies with #yWeak deal #b50% less damage rather than #b25%."
+		->
+		"Enemies with #yWeak deal #b40% less damage rather than #b25%."
+	"Incense Burner"
+		"Every #b5 turns, gain #b1 #yIntangible."
+		->
+		"Every #b6 turns, gain #b1 #yIntangible."
+
+achievements.json
+	"AchievementGrid"
+		"Ascend 20"
+	"TEXT"
+		"Complete Ascension Level 20."
+
+----------------------------------
+
+08-09-2018
+credits.json
+	"LOC_UKR"
+		"Vasyl \"RDSk\" Mykhaliuk"
+
+----------------------------------
+
+08-08-2018
+powers.json
+	"Infinite Blades"
+		"At the start of your turn, draw #b",
+		" #yShivs.",
+		" #yShiv."
+		->
+		"At the start of your turn, add #b",
+		" #yShivs into your hand.",
+		" #yShiv into your hand."
+
+events.json
+	"Nest"
+		"...into an misshapen bowl..."
+		->
+		"...into a misshapen bowl..."
+
+credits.json
+	"LOC_SPA"
+		"xabad98" ->"Xavier \"xabad98\" Abad Salinas",
+		"Skiddome"
+
+----------------------------------
+
+08-07-2018v2
+ui.json
+	"SaveSlotScreen"
+		"Rename",
+		"Delete this Save"
+
+----------------------------------
+
+08-07-2018
+cards.json
+	"Offering"
+		"DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 5 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+		->
+		"DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+
+----------------------------------
+
+08-06-2018
+ui.json
+	"SaveSlot"
+	"DeletePopup"
+	"SaveSlotScreen"
+characters.json
+	"Neow Reward"
+		"[ #rLose #r50% #rof #ryour #rcurrent #rHP ", ->
+		"[ #rTake #r",
+
+		" #rdamage"
+cards.json
+	"Forethought"
+	"Transmutation"
+		"DESCRIPTION": "Add X random colorless cards into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards into your hand. NL Exhaust."
+		->
+		"DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Exhaust."
+
+----------------------------------
+
+07-31-2018
+run_mods.json
+	"Red Cards"
+	"Green Cards"
+	"Blue Cards"
+	"Colorless Cards"
+
+----------------------------------
+
+07-30-2018
+credits.json
+	"LOC_DEU"
+		"Magnus Upmann"
+	"LOC_IND"
+		"Szaal" ->
+		"Haveiszal \"Szaal\" Faroqie""
+	"LOC_RUS"
+		(organization updates, just check credits.json)
+powers.json
+	"Flame Barrier"
+		"Whenever you receive #yAttack damage, deal #b",
+		"When receiving #yAttack damage, deals #b",
+
+----------------------------------
+
+07-25-2018
+credits.json
+	"LOC_IND"
+
+----------------------------------
+
+07-19-2018
+potions.json
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yAttack cards to add to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #yPower cards to add to your hand, it costs #b0 this turn."
+	"SkillPotion": {
+		"Add a random Skill card to your hand, it costs #b0 this turn." ->
+		"Choose #b1 of #b3 random #ySkill cards to add to your hand, it costs #b0 this turn."
+
+----------------------------------
+
+07-18-2018
+ui.json
+	"GainGoldTextEffect"
+cards.json
+	"Tactician"
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain [G] [G].",
+		->
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+	"Violence"
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand."
+		->
+		"DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+events.json
+	"WeMeetAgain"
+
+----------------------------------
+
+07-17-2018
+run_mods.json
+	"Stunted Growth"
+	
+relics.json
+	"Maw Bank"
+		" #yGold. No longer works when you spend any #yGold at the shop."
+	"Bottled Flame"
+		"Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose an #yAttack card. At the start of each combat, this card will be in your hand.",
+	"Bottled Lightning"
+		"Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #ySkill card. At the start of each combat, this card will be in your hand.",
+	"Bottled Tornado"
+		"Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.", ->
+		"Upon pickup, choose a #yPower card. At the start of each combat, this card will be in your hand.",
+
+events.json
+	"NoteForYourself"
+
+ui.json
+	"AnyCardFromDeckToHandAction"
+		"Choose a Card to Add to Your Hand",
+		"Choose Cards to Add to Your Hand"
+		->
+		"Choose a Card to Add to Your Hand.",
+		"Choose Cards to Add to Your Hand."
+	"AttackFromDeckToHandAction"
+		"Choose an Attack to Add to Your Hand" ->
+		"Choose an Attack to Add to Your Hand."
+
+----------------------------------
+
+07-16-2018
+relics.json
+	"MawBank"
+	"Nunchaku"
+	"Dream Catcher"
+		"Whenever you rest, you may add a card to your deck." ->
+		"Whenever you #yRest, you may add a card to your deck."
+	"StoneCalendar"
+	"Chemical X"
+		"."
+		
+cards.json
+	"Discovery"
+	"Forethought"
+	"Impatience"
+	"Violence"
+
+ui.json
+	"ForethoughtAction"
+
+credits.json
+	"LOC_ZHT"
+
+----------------------------------
+
+07-13-2018
+relics.json
+	"Hovering Kite"
+		"Gain [G] and discard #b1 card at the start of each turn." ->
+		"Gain [G] and discard #b2 cards at the start of each turn."
+	"Wrist Blade"
+ui.json
+	"MenuPanels"
+		"Win a Daily Climb to unlock this game mode.", ->
+		"Play a Daily Climb to unlock this game mode.",
+	
+----------------------------------
+
+07-12-2018
+relics.json
+	"Bottled Tornado"
+		"FLAVOR": "Test relic.", ->
+		"FLAVOR": "The bottle gently hums and whirs.",
+
+	"Frozen Eye"
+		"FLAVOR": "No description.", ->
+		"FLAVOR": "Staring into the eye, you see a glimpse of your future.",
+	
+----------------------------------
+
 07-11-2018
 blights.json
 	"VoidEssence"
+		"Gain #b", (New)
+		" less [R] at the start of each turn.",
+		" less [G] at the start of each turn.",
 		" less [B] at the start of each turn."
+
 run_mods.json
 	"Blight Chests"
 	
