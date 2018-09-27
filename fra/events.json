@@ -558,7 +558,7 @@
       "Un homme avec un cache-œil et un sourire démoniaque s'avance vers vous. NL \"Bonjour, par ici. Ça vous intéresse, de la #yD.O.P.E. ? Question force, l'entraînement et les bénédictions ne peuvent pas rivaliser. Vous en aurez bien besoin si vous faites partie de ces héros suicidaires. NL Alors, ~qu'en~ ~dites-vous~ ~?~",
       "~\"Excellent.\"~ NL L'homme vous passe une seringue inquiétante remplie d'un liquide phosphorescent avant de se rencogner dans une ruelle sombre.",
       "~\"Superbe.\"~ NL L'homme vous injecte trois substances inconnues, et sort un carnet. Alors que vous commencez à vous sentir léger, il commence à prendre des notes frénétiquement. NL Vous perdez complètement la notion du temps. Quand vous avez recouvré vos sens, l'homme mystérieux a disparu.",
-      "~\"Merveilleux.\"~ NL Vous buvez la substance mystérieuse. Immédiatement, vous vous sentez fortifié et sentez vos fibres musculaires se contracter."
+      "~\"Merveilleux.\"~ NL Vous buvez la substance mystérieuse. Immédiatement, vous sentez votre courage s'affermir et vos fibres musculaires se contracter."
     ],
     "OPTIONS": [
       "[Tester la D.O.P.E.] #gObtenez #gde #gla #gD.O.P.E.",
@@ -773,7 +773,7 @@
     "NAME": "Pierre sensorielle",
     "DESCRIPTIONS": [
       "En naviguant à travers l'Au-delà, vous découvrez un #btesseract #bbrillant qui @tourne@ et ~se~ ~déplace~ doucement dans les airs.",
-      "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions vives d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
+      "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions intenses d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
       "#r~PEUR.~ NL NL Une créature démoniaque s'élève au dessus de vous, les ailes déployées, hurlant de rire. Les cadavres d'une tribu vous entourent alors que le village est englouti de #p~flammes~ #p~sombres.~ NL NL Le démon vous appelle, narquois. NL NL \" #r@TU@ #r@ES@ #r@VRAIMENT@ #r@LE@ #r@PLUS@ #r@FORT@ #r@MAINTENANT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Ce rire résonne pour toujours...",
       "#g~TRIOMPHE.~ NL NL Les restes d'une #p~créature~ #p~fantômatique~ s'enfoncent lentement dans la boue devant vous, à peine visibles au clair de lune. Vous avez fait vos preuves parmi vos soeurs. NL NL Victorieuse, vous attendez en silence pendant que les autres placent cérémonialement le #ycrâne #yde #yla #ycréature sur votre tête. Le rituel est terminé. Vous vous dirigez vers la Tour...",
       "#b~CONFUSION.~ NL NL #y[OBJECTIF] #gÉQUILIBRE #gdoit #gêtre #gRESPECTÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[ALERTE] #rGrand #robjet #ren #rapproche NL NL ~\"Je...~ ~..suis~ ~....Neow..\"~"
@@ -858,7 +858,7 @@
   "WeMeetAgain": {
     "NAME": "Nous nous rencontrons à nouveau !",
     "DESCRIPTIONS": [
-      "\"Nous nous rencontrons à nouveau !\" Un bonhomme gaillard échevelé vous approche joyeusement. Vous ne connaissez pas cet homme. NL \"C'est moi, #yRanwid! Vous avez de bonnes nouvelles pour moi aujourd'hui ? La routine ? Un gars comme moi ne peut pas s'en sortir seul, vous savez ?\" NL Vous le regardez avec méfiance et considérez ses propositions...",
+      "\"Nous nous rencontrons à nouveau !\" NL Un bonhomme gaillard échevelé vous approche joyeusement. Vous ne connaissez pas cet homme. NL \"C'est moi, #yRanwid! Comment allez-vous aujourd'hui ? La routine ? Un gars comme moi ne peut pas s'en sortir seul, vous savez ?\" NL Vous le regardez avec méfiance et considérez ses propositions...",
       "\"Exquis ! Je me sentais desséché.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Il boit la potion en une fois et laisse échapper un @renvoi@ @satisfait.@",
       "\"Magnifique! Ça me sera très utile si je croise à nouveau la route de ces #rvoyous #masqués.\"",
       "\"Exemplaire! Je vais étudier cela plus en détail dans mes chambres.\"",
