@@ -23,8 +23,8 @@
   "Angry": {
     "NAME": "Colère",
     "DESCRIPTIONS": [
-      "Lorsque ",
-      " subit des dégâts #yd'Attaque, gagne #b",
+      "",
+      "Lorsqu'il subit des dégâts #yd'Attaque, gagne #b",
       " de #yForce."
     ]
   },
@@ -48,8 +48,8 @@
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
-      "#yL'Armure n'est pas retirée au début de votre tour.",
-      "#yL'Armure n'est pas retirée au début du tour."
+      "#yL'Armure n'est pas retirée au début de chaque tour.",
+      "#yL'Armure n'est pas retirée au début de son tour."
     ]
   },
   "Blur": {
@@ -63,10 +63,10 @@
   "Brutality": {
     "NAME": "Brutalité",
     "DESCRIPTIONS": [
-      "Au début de votre tour, vous perdez #b",
+      "Au début de chaque tour, vous perdez #b",
       " PV et piochez #b",
       " carte.",
-      "Au début de votre tour, vous perdez #b",
+      "Au début de chaque tour, vous perdez #b",
       " PV et piochez #b",
       " cartes."
     ]
@@ -74,22 +74,22 @@
   "Burst": {
     "NAME": "Déflagration",
     "DESCRIPTIONS": [
-      "Pendant ce tour, votre prochaine carte #yCompétence se déclenche deux fois.",
-      "Pendant ce tour, vos ",
-      " prochaines cartes #yCompétence se déclenchent deux fois."
+      "Votre prochaine carte #yCompétence est jouée deux fois ce tour.",
+      "Vos ",
+      " prochaines cartes #yCompétence sont jouées deux fois ce tour."
     ]
   },
   "Choked": {
     "NAME": "Étouffement",
     "DESCRIPTIONS": [
-      "Perd #b",
-      " PV lorsque vous jouez une carte pendant ce tour."
+      "Chaque fois que vous jouez une carte ce tour, perd #b",
+      " PV."
     ]
   },
   "Combust": {
     "NAME": "Combustion",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, vous perdez #b",
+      "À la fin de chaque tour, perdez #b",
       " PV et infligez #b",
       " dégâts à TOUS les ennemis."
     ]
@@ -101,17 +101,17 @@
     ]
   },
   "Constricted": {
-    "NAME": "Restreinte",
+    "NAME": "Constriction",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, vous subissez #b",
+      "À la fin de chaque tour, subissez #b",
       " dégâts."
     ]
   },
   "Corruption": {
     "NAME": "Corruption",
     "DESCRIPTIONS": [
-      "Les cartes Compétence coûtent #b0. Lorsque vous jouez une carte #yCompétence, #ycelle-ci est Épuisée.",
-      "Lorsque vous jouez une carte #yCompétence, #ycelle-ci est Épuisée."
+      "Les #yCompétence coûtent #b0. Lorsque vous jouez une #yCompétence, celle-ci est #yÉpuisée.",
+      "Lorsque vous jouez une carte #yCompétence, celle-ci est #yÉpuisée."
     ]
   },
   "Curiosity": {
@@ -125,7 +125,7 @@
     "NAME": "Recroquevillement",
     "DESCRIPTIONS": [
       "Après avoir encaissé des dégâts #yd'Attaque, se roule en boule et gagne des points ",
-      " #yd'Armure."
+      " #yd'Armure. (une fois par combat)"
     ]
   },
   "Dance Puppet": {
@@ -148,7 +148,7 @@
   "Demon Form": {
     "NAME": "Forme démoniaque",
     "DESCRIPTIONS": [
-      "Au début de votre tour, gagnez #b",
+      "Au début de chaque tour, gagnez #b",
       " de #yForce."
     ]
   },
@@ -171,27 +171,27 @@
   "Double Tap": {
     "NAME": "Attaque double",
     "DESCRIPTIONS": [
-      "Pendant ce tour, votre prochaine carte #yAttaque sera jouée deux fois.",
-      "Pendant ce tour, votre prochaine carte ",
-      " #yAttaque sera jouée deux fois."
+      "Votre prochaine carte #yAttaque est jouée deux fois ce tour.",
+      "Vos ",
+      " prochaines cartes #yAttaque sont jouées deux fois ce tour."
     ]
   },
   "Draw Card": {
     "NAME": "Bonne pioche",
     "DESCRIPTIONS": [
-      "Vous piochez #b",
-      " cartes au prochain tour.",
-      " carte au prochain tour."
+      "Piochez #b",
+      " cartes supplémentaires au prochain tour.",
+      " carte supplémentaire au prochain tour."
     ]
   },
   "Draw": {
     "NAME": "Pioche",
     "DESCRIPTIONS": [
-      "Vous piochez #b",
-      " carte supplémentaire au début de chaque tour.",
-      " carte en moins au début de chaque tour.",
-      " cartes supplémentaires au début de chaque tour.",
-      " cartes en moins au début de chaque tour."
+      "Au début de chaque tour, piochez #b",
+      " carte supplémentaire.",
+      " carte en moins.",
+      " cartes supplémentaires.",
+      " cartes en moins."
     ]
   },
   "Draw Down": {
@@ -222,20 +222,20 @@
   "Entangled": {
     "NAME": "Enchevêtré",
     "DESCRIPTIONS": [
-      "Vous ne pouvez pas jouer de cartes #yAttaque pendant un tour."
+      "Vous ne pouvez pas jouer de cartes #yAttaque ce tour."
     ]
   },
   "Envenom": {
     "NAME": "Envenimement",
     "DESCRIPTIONS": [
-      "Quand vous infligez des dégâts #yd'Attaque, vous appliquez #b",
+      "Quand vous infligez des dégâts d'attaque, vous appliquez #b",
       " de #y Poison."
     ]
   },
   "Evolve": {
     "NAME": "Évolution",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une carte #yStatut, piochez une carte.",
+      "Lorsque vous piochez une carte #yStatut, piochez #b1 carte.",
       "Lorsque vous piochez une carte #yStatut, piochez #b",
       " cartes."
     ]
@@ -243,10 +243,10 @@
   "Explosive": {
     "NAME": "Kamikaze",
     "DESCRIPTIONS": [
-      "Dans #b",
-      " tours, explose et inflige #b",
+      "Explose dans #b",
+      " tours, infligeant #b",
       " dégâts.",
-      "Pendant son tour, explose et inflige #b"
+      "Explose ce tour et inflige #b"
     ]
   },
   "Feel No Pain": {
@@ -259,21 +259,21 @@
   "Fire Breathing": {
     "NAME": "Souffle de feu",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, pour chaque #yAttaque jouée, inflige #b",
-      " dégâts à TOUS les ennemis."
+      "À la fin de chaque tour, inflige #b",
+      " dégâts à TOUS les ennemis par #yAttaque jouée ce tour."
     ]
   },
   "Flame Barrier": {
     "NAME": "Barrière enflammée",
     "DESCRIPTIONS": [
-      "Lorsque vous subissez des dégâts d'#yAttaque, inflige #b",
+      "Lorsque vous subissez des dégâts d'attaque, inflige #b",
       " dégâts en retour."
     ]
   },
   "Flight": {
     "NAME": "Envolée",
     "DESCRIPTIONS": [
-      "Réduit les dégâts #yd'Attaque subis de #b50 %. Annulation si des dégâts #yd'Attaque sont infligés à #b",
+      "Reçoit #b50 % de dégâts en moins. Annulation si des dégâts d'attaque sont infligés à #b",
       " reprises en un tour."
     ]
   },
@@ -294,8 +294,8 @@
   "Shackled": {
     "NAME": "Enchaîné",
     "DESCRIPTIONS": [
-      "Regagne #b",
-      " de #yForce à la fin du tour."
+      "À la fin de son tour, regagne #b",
+      " de #yForce."
     ]
   },
   "Gambit": {
@@ -325,7 +325,7 @@
   "Infinite Blades": {
     "NAME": "Lames infinies",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez #b",
+      "Au début de chaque tour, ajoutez #b",
       " #ySurins à votre main.",
       " #ySurin à votre main."
     ]
@@ -339,7 +339,7 @@
   "Intangible": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Réduit TOUS les dégâts subis et la perte de PV à #b1. Intangible est réappliqué un tour sur deux."
+      "Réduit TOUS les dégâts subis et la perte de PV à #b1. #yIntangible est réappliqué un tour sur deux."
     ]
   },
   "Inverted": {
@@ -358,14 +358,14 @@
   "Knowledge": {
     "NAME": "Connaissance",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte #yPouvoir, vous piochez #b",
+      "Lorsque vous jouez une carte #yPouvoir, piochez #b",
       " cartes."
     ]
   },
   "Flex": {
     "NAME": "Perte de Force",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, vous perdez #b",
+      "À la fin de ce tour, perdez #b",
       " de #yForce."
     ]
   },
@@ -390,27 +390,27 @@
   "Mode Shift": {
     "NAME": "Changement de mode",
     "DESCRIPTIONS": [
-      "Après avoir encaissé #b",
+      "Après avoir reçu #b",
       " dégâts, passe en mode défensif."
     ]
   },
   "Next Turn Block": {
     "NAME": "Armure au prochain tour",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, gagnez #b",
-      " #yd'Armure."
+      "Gagnez #b",
+      " #yd'Armure au prochain tour."
     ]
   },
   "No Draw": {
     "NAME": "Pas de pioche",
     "DESCRIPTIONS": [
-      "Vous ne pouvez pas piocher de cartes jusqu'à la fin du tour."
+      "Vous ne pouvez pas piocher de cartes ce tour."
     ]
   },
   "Noxious Fumes": {
     "NAME": "Fumées toxiques",
     "DESCRIPTIONS": [
-      "Au début de votre tour, appliquez #b",
+      "Au début de chaque tour, appliquez #b",
       " de #yPoison à TOUS les ennemis."
     ]
   },
@@ -440,16 +440,16 @@
   "Plated Armor": {
     "NAME": "Armure plaquée",
     "DESCRIPTIONS": [
-      "Gagnez #b",
-      " #yd'Armure à la fin de votre tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1.",
-      "Gagnez #b",
-      " #yd'Armure à la fin de son tour. Perdre des PV à cause d'Attaques réduit #yl'Armure #yplaquée de #b1."
+      "À la fin de chaque tour, gagnez #b",
+      " #yd'Armure. Recevoir des dégâts d'attaque réduit #yl'Armure #yPlaquée de #b1.",
+      "À la fin de chaque tour, gagne #b",
+      " #yd'Armure. Recevoir des dégâts d'attaque réduit #yl'Armure #yPlaquée de #b1."
     ]
   },
   "Poison": {
     "NAME": "Poison",
     "DESCRIPTIONS": [
-      "Au début de votre tour, vous perdez #b",
+      "Au début de chaque tour, vous perdez #b",
       " PV, puis réduit le #yPoison de #b1.",
       "Au début de son tour, perd #b"
     ]
@@ -457,7 +457,7 @@
   "Rage": {
     "NAME": "Rage",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte Attaque, gagne #b",
+      "Lorsque vous jouez une carte #yAttaque, gagne #b",
       " #yd'Armure."
     ]
   },
@@ -470,8 +470,8 @@
   "Regenerate": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Récupère #b",
-      " #yPV à la fin de son tour."
+      "À la fin de son tour, récupère #b",
+      " #yPV."
     ]
   },
   "Regeneration": {
@@ -506,9 +506,9 @@
   "Retain Hand": {
     "NAME": "Conserver votre main",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, vous ne défaussez pas votre main pendant #b",
-      " tours.",
-      "À la fin de votre tour, vous ne défaussez pas votre main."
+      "Pour les #b",
+      " prochains tours, ne défaussez pas votre main.",
+      "Ne défaussez pas votre main à la fin de ce tour."
     ]
   },
   "Riposte": {
@@ -535,7 +535,7 @@
   "Rupture": {
     "NAME": "Rupture",
     "DESCRIPTIONS": [
-      "Après avoir perdu des PV à cause d'une carte, gagnez #b",
+      "Quand vous perdez des PV à cause d'une carte, gagnez #b",
       " de #yForce."
     ]
   },
@@ -562,7 +562,7 @@
   "Shriek From Beyond": {
     "NAME": "Hurlement de l'au-delà",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte Attaque, défaussez une carte aléatoire."
+      "Lorsque vous jouez une carte #yAttaque, défaussez une carte aléatoire."
     ]
   },
   "Skill Burn": {
@@ -577,10 +577,10 @@
   "Slow": {
     "NAME": "Ralenti",
     "DESCRIPTIONS": [
-      "Pour chaque carte jouée pendant ce tour, ",
-      " subit #b10 % de dégâts en plus des cartes #yAttaque.",
+      "Chaque fois que vous jouez une carte, ",
+      " subit #b10 % de dégâts en plus des cartes #yAttaque ce tour.",
       " (subit #b",
-      "% plus en dégâts)"
+      " % plus de dégâts)"
     ]
   },
   "Split": {
@@ -607,9 +607,9 @@
   "Extra Cards": {
     "NAME": "Plus de cartes",
     "DESCRIPTIONS": [
-      "Vous piochez #b1 carte en plus au prochain tour.",
-      "Vous piochez #b",
-      " cartes en plus au prochain tour."
+      "Piochez #b1 carte supplémentaire au prochain tour.",
+      "Piochez #b",
+      " cartes supplémentaires au prochain tour."
     ]
   },
   "Strength": {
@@ -644,22 +644,22 @@
   "Berserk": {
     "NAME": "Folie furieuse",
     "DESCRIPTIONS": [
-      "Gagnez ",
-      "  au début de votre tour."
+      "Au début de chaque tour, gagnez ",
+      ""
     ]
   },
   "Time Warp": {
     "NAME": "Distorsion temporelle",
     "DESCRIPTIONS": [
       "Lorsque vous jouez #b",
-      " cartes, votre tour prend fin et le Dévor'Heures gagne #b",
+      " cartes, il interrompt votre tour et gagne #b",
       " de #yForce."
     ]
   },
   "Tools Of The Trade": {
     "NAME": "Savoir-faire",
     "DESCRIPTIONS": [
-      "Au début de votre tour, vous piochez #b",
+      "Au début de chaque tour, vous piochez #b",
       " carte et défaussez #b",
       " carte.",
       " cartes et défaussez #b",
@@ -688,7 +688,7 @@
   "Vulnerable": {
     "NAME": "Vulnérabilité",
     "DESCRIPTIONS": [
-      "Vous subissez #b",
+      "Subissez #b",
       "% de dégâts en plus des #yAttaques pendant #b",
       " tour.",
       " tours."
@@ -706,14 +706,14 @@
   "Night Terror": {
     "NAME": "Cauchemar",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, ajoutez #b",
-      " cartes à votre main."
+      "Ajoutez #b",
+      " cartes à votre main au prochain tour."
     ]
   },
   "Painful Stabs": {
     "NAME": "Blessures douloureuses",
     "DESCRIPTIONS": [
-      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie à votre Défausse."
+      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie à votre défausse."
     ]
   },
   "Minion": {
@@ -738,7 +738,7 @@
   "Wraith Form v2": {
     "NAME": "Forme spectrale",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, perdez #b",
+      "À la fin de chaque tour, perdez #b",
       " de #yDextérité."
     ]
   },
@@ -753,16 +753,16 @@
   "Bias": {
     "NAME": "Biais",
     "DESCRIPTIONS": [
-      "Au début de votre tour, perdez #b",
+      "Au début de chaque tour, perdez #b",
       " de #yConcentration."
     ]
   },
   "Creative AI": {
     "NAME": "IA créative",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez #b",
-      " Pouvoir aléatoire à votre main.",
-      " Pouvoirs aléatoires à votre main."
+      "Au début de chaque tour, ajoutez #b",
+      " cartes #yPouvoir aléatoire à votre main.",
+      " cartes #yPouvoir aléatoires à votre main."
     ]
   },
   "Prime": {
@@ -776,15 +776,15 @@
   "Loop": {
     "NAME": "Boucle",
     "DESCRIPTIONS": [
-      "Au début de votre tour, utilisez la capacité passive de votre prochain Orbe.",
-      "Au début de votre tour, utilisez la capacité passive de vos #b",
+      "Au début de chaque tour, déclenchez la capacité passive de votre prochain Orbe.",
+      "Au début de chaque tour, déclenchez la capacité passive de vos #b",
       " prochains Orbes."
     ]
   },
   "Heatsink": {
     "NAME": "Dissipation de chaleur",
     "DESCRIPTIONS": [
-      "Quand vous jouez un Pouvoir, piochez #b",
+      "Quand vous jouez une carte #yPouvoir, piochez #b",
       " carte.",
       " cartes."
     ]
@@ -821,21 +821,21 @@
   "StaticDischarge": {
     "NAME": "Décharge statique",
     "DESCRIPTIONS": [
-      "Quand vous subissez des dégâts d'une #yAttaque, #yCanalisez #b",
+      "Quand vous subissez des dégâts d'attaque, #yCanalisez #b",
       " Orbe(s) #yKéraunique(s)."
     ]
   },
   "Storm": {
     "NAME": "Orage",
     "DESCRIPTIONS": [
-      "Quand vous jouez un #bPouvoir, #yCanalisez #b",
+      "Quand vous jouez une carte #bPouvoir, #yCanalisez #b",
       " Orbe(s) #yKéraunique(s)."
     ]
   },
   "Primitive": {
     "NAME": "Primitif",
     "DESCRIPTIONS": [
-      "Quand vous jouez une carte Commune, piochez #b",
+      "Quand vous jouez une carte #yCommune, piochez #b",
       " carte.",
       " cartes."
     ]
@@ -851,9 +851,9 @@
   "Amplify": {
     "NAME": "Amplification",
     "DESCRIPTIONS": [
-      "Ce tour, jouez votre prochain #yPouvoir deux fois.",
-      "Ce tour, jouez vos ",
-      " prochains #yPouvoirs deux fois."
+      "Votre prochaine carte #yPouvoir est joué deux fois ce tour.",
+      "Vos ",
+      " prochaines cartes #yPouvoir sont joués deux fois ce tour."
     ]
   },
   "Conserve": {
@@ -867,16 +867,16 @@
   "Machine Learning": {
     "NAME": "Machine Learning",
     "DESCRIPTIONS": [
-      "Piochez #b",
-      " carte additionnelle au début de chaque tour.",
-      " cartes additionnelles au début de chaque tour."
+      "Au début de chaque tour, piochez #b",
+      " carte supplémentaire.",
+      " cartes supplémentaires."
     ]
   },
   "Magnetism": {
     "NAME": "Magnétisme",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez #b%s carte incolore aléatoire à votre main.",
-      "Au début de votre tour, ajoutez #b%s cartes incolores aléatoires à votre main."
+      "Au début de chaque tour, ajoutez #b%s carte incolore aléatoire à votre main.",
+      "Au début de chaque tour, ajoutez #b%s cartes incolores aléatoires à votre main."
     ]
   },
   "Echo Form": {
@@ -899,7 +899,7 @@
   "DexLoss": {
     "NAME": "Perte de Dextérité",
     "DESCRIPTIONS": [
-      "A la fin de votre tour, perdez #b",
+      "A la fin de chaque tour, perdez #b",
       " de #yDextérité."
     ]
   },
@@ -914,16 +914,16 @@
   "Equilibrium": {
     "NAME": "Equilibrium",
     "DESCRIPTIONS": [
-      "Concervez votre main ce tour.",
-      "Concervez votre main pendant #b",
+      "#yConservez votre main ce tour.",
+      "#yConservez votre main pendant #b",
       " tours."
     ]
   },
   "Shifting": {
     "NAME": "Instable",
     "DESCRIPTIONS": [
-      "Quand ",
-      " subit des dégâts, il perd autant de #yForce jusqu'à la fin de son tour."
+      "",
+      "Quand il perd des PV, il perd autant de #yForce jusqu'à la fin de son tour."
     ]
   },
   "Fading": {
@@ -959,8 +959,8 @@
   "CorpseExplosionPower": {
     "NAME": "Explosion morbide",
     "DESCRIPTIONS": [
-      "Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
-      "Quand cet ennemi meurt, infligez autant de dégâts que #b",
+      "À la mort de cet ennemi, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+      "À la mort de cet ennemi, infligez autant de dégâts que #b",
       " fois ses PV Max à TOUS les ennemis."
     ]
   },
@@ -974,8 +974,8 @@
   "Mayhem": {
     "NAME": "Grabuge",
     "DESCRIPTIONS": [
-      "Au début de votre tour, jouez la première carte de votre pioche.",
-      "Au début de votre tour, jouez les #b",
+      "Au début de chaque tour, jouez la première carte de votre pioche.",
+      "Au début de chaque tour, jouez les #b",
       " premières cartes de votre pioche."
     ]
   }

@@ -204,7 +204,7 @@
       "Le prix du service de retrait de carte augmente à chaque fois que vous l'utilisez.",
       "Le service de retrait de carte ne peut être utilisé qu'une fois dans chaque boutique.",
       "Les dégâts infligés par des potions, Reliques et Pouvoirs ne sont pas considérés comme des dégâts d'Attaque.",
-      "Effects that generate random cards during combat will never heal you."
+      "Les effets qui génèrent des cartes aléatoires pendant le combat ne pourront jamais vous soigner."
     ],
     "LABEL": [
       "Vous pouvez défausser des potions pour libérer de la place."
