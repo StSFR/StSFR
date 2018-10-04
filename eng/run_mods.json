@@ -152,11 +152,15 @@
     "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
   },
   "MonsterHunter": {
-    "NAME": "Monster Hunter",
+    "NAME": "Colossus ",
     "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
   },
   "DeadlyEvents": {
     "NAME": "Deadly Events",
-    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+    "DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
   }
 }

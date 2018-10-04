@@ -302,14 +302,6 @@
       " PV lorsque vous accédez à un feu de camp."
     ]
   },
-  "Frozen Egg": {
-    "NAME": "Œuf gelé",
-    "FLAVOR": "Cet œuf inerte et gelé est condamné à ne jamais éclore.",
-    "DESCRIPTIONS": [
-      "Lorsque vous le ramassez, choisissez et #yAméliorez un #yPouvoir.",
-      "Choisissez une carte pour "
-    ]
-  },
   "Frozen Eye": {
     "NAME": "Œil gelé",
     "FLAVOR": "En regardant dans l'œil, vous voyez un aperçu de votre avenir.",
@@ -481,14 +473,6 @@
       " dégâts à TOUS les ennemis."
     ]
   },
-  "Molten Egg": {
-    "NAME": "Œuf de magma",
-    "FLAVOR": "Un œuf de phénix. Sa lave bouillonnante lui confère un éclat rougeoyant.",
-    "DESCRIPTIONS": [
-      "Lorsque vous le ramassez, choisissez et #yAméliorez une #yAttaque.",
-      "Choisissez une carte pour "
-    ]
-  },
   "Mummified Hand": {
     "NAME": "Main momifiée",
     "FLAVOR": "Elle tressaute régulièrement, surtout lorsque votre pouls est élevé.",
@@ -510,16 +494,6 @@
     "FLAVOR": "Fabriqué par l'infâme maître de jeu. Il aurait la faculté de développer l'esprit.",
     "DESCRIPTIONS": [
       "À la fin de chaque tour, vous pouvez choisir #b1 carte parmi #b3 aléatoires et la placer dans votre pioche."
-    ]
-  },
-  "Nine Lives": {
-    "NAME": "Neuf vies",
-    "FLAVOR": "SANS VALEUR",
-    "DESCRIPTIONS": [
-      "Quand vous êtes sur le point de mourir, récupérez tous vos PV à la place. NL (Fonctionne #b9 fois.)",
-      "Quand vous êtes sur le point de mourir, récupérez tous vos PV à la place. NL (Aucune vie restante.)",
-      "Quand vous êtes sur le point de mourir, récupérez tous vos PV à la place. NL (Reste : #b",
-      " fois.)"
     ]
   },
   "Ninja Scroll": {
@@ -979,14 +953,6 @@
       " #yd'Armure."
     ]
   },
-  "Toxic Egg": {
-    "NAME": "Œuf toxique",
-    "FLAVOR": "\"Quelle merveilleuse découverte ! Ce doit être l'œuf inerte d'une créature magique. Mais qui a bien pu créer ceci ?\" - Ranwid",
-    "DESCRIPTIONS": [
-      "Lorsque vous le ramassez, choisissez et #yAméliorez une #yCompétence.",
-      "Choisissez une carte pour "
-    ]
-  },
   "Toy Ornithopter": {
     "NAME": "Petit ornithoptère",
     "FLAVOR": "\"Ce petit jouet est le compagnon idéal de tout aventurier solitaire !\"",
@@ -1281,14 +1247,16 @@
     "NAME": "L'Abaque",
     "FLAVOR": "\"Un...Deux...Trois...\"",
     "DESCRIPTIONS": [
-      "Gagnez #b6 #yd'Armure à chaque fois que vous mélangez votre pioche."
+      "Gagnez #b6 #yd'Armure à chaque fois que vous mélangez votre pioche.",
+      " #yBlock."
     ]
   },
   "MealTicket": {
     "NAME": "Ticket Restaurant",
     "FLAVOR": "\"Boulettes de viande gratuites à chaque visite !\"",
     "DESCRIPTIONS": [
-      "Quand vous entrez dans une boutique, récupérez #b7 PV."
+      "Quand vous entrez dans une boutique, récupérez #b7 PV.",
+      " HP."
     ]
   },
   "HoveringKite": {
@@ -1358,7 +1326,8 @@
     "FLAVOR": "Étonnamment populaire, malgré que les attaques de Gueules soient fréquentes.",
     "DESCRIPTIONS": [
       "Quand vous montez d'un étage, gagnez #b",
-      " #yd'Or. Ne fonctionne plus quand vous dépensez de #yl'Or dans une boutique."
+      " #yd'Or. Ne fonctionne plus quand vous dépensez de #yl'Or dans une boutique.",
+      "This relic has been used up."
     ]
   },
   "MutagenicStrength": {
@@ -1366,7 +1335,8 @@
     "FLAVOR": "\"Les effets semblent passagers, ne se déclenchant seulement que lorsque le sujet est en danger.\" - Inconnu",
     "DESCRIPTIONS": [
       "Commencez chaque combat avec #b",
-      " de #yForce, qui sont perdus à la fin du premier tour."
+      " de #yForce, qui sont perdus à la fin du premier tour.",
+      " #yStrength."
     ]
   },
   "WingedGreaves": {
@@ -1395,7 +1365,8 @@
     "FLAVOR": "Il dégage une chaleur infernale.",
     "DESCRIPTIONS": [
       "Au début de votre tour, tout le monde gagne #b",
-      " de #yForce."
+      " de #yForce.",
+      " #yStrength."
     ]
   },
   "PreservedInsect": {

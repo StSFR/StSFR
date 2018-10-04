@@ -10,7 +10,7 @@
       "There doesn't seem to be anything of use. You exit the way you came, the flames of the furnace casting #p~eerie~ #p~shadows~ on the walls inside the hut..."
     ],
     "OPTIONS": [
-      "[Forge] #gUpgrade #ga #gcard.",
+      "[Forge] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
       "[Rummage] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rPain.",
       "[Leave]",
       "Choose a Card to Upgrade",
@@ -161,11 +161,11 @@
     ],
     "OPTIONS": [
       "[Test J.A.X.] #gGet #gJAXXED.",
-	  "[Become Test Subject] #gTransform #g3 #grandom #gcards.",
+	  "[Become Test Subject] #gTransform #g2 #gcards.",
 	  "[Ingest Mutagens] #gObtain #ga #gspecial #grelic.",
 	  "[Leave]",
-	  "[Locked] Requires: 3 or more cards in deck.",
-	  ""
+	  "[Locked] Requires: 2 or more cards in deck.",
+	  "Select Cards to Transform."
     ]
   },
   "Duplicator": {
@@ -363,7 +363,7 @@
       "Satisfied, the walls in front of you merge back into the ceiling, leaving a path forward."
     ],
     "OPTIONS": [
-      "[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
+      "[Forget] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
       "[Change] #gTransform #ga #gcard #gin #gyour #gdeck.",
       "[Grow] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
       "Select a Card to Remove.",

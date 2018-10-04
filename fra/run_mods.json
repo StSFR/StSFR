@@ -158,5 +158,9 @@
   "Careless": {
     "NAME": "Négligent",
     "DESCRIPTION": "Au début de votre tour, défaussez la première carte de votre pioche."
+  },
+  "Daily Mods": {
+    "NAME": "Daily Mods",
+    "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
   }
 }

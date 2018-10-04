@@ -1,4 +1,110 @@
 Updates for Translators!
+10-04-2018
+events.json
+	"Drug Dealer"
+		"[Become Test Subject] #gTransform #g3 #grandom #gcards.",
+		->
+		"[Become Test Subject] #gTransform #g2 #gcards.",
+
+		"[Locked] Requires: 3 or more cards in deck.",
+		""
+		->
+		"[Locked] Requires: 2 or more cards in deck.",
+		"Select Cards to Transform."
+	"Accursed Blacksmith"
+		"[Forge] #gUpgrade #ga #gcard.",
+		->
+		"[Forge] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
+
+		"[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
+		->
+		"[Forget] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
+
+relics.json
+	"Membership Card"
+		"In future acts, shops appear #b50% more often. #yBONUS: #b50% discount on all products!"
+		->
+		"#b50% discount on all products!"
+	"Meal Ticket"
+		"Whenever you enter a shop, heal #b7 HP."
+		->
+		"Whenever you enter a shop, heal #b"
+		" HP."
+
+	"Brimstone"
+		" #yStrength and ALL enemies gain #b",
+
+	"TheAbacus"
+		" #yBlock."
+
+	"TwistedFunnel"
+		" #yStrength."
+
+ui.json
+	"Period"
+
+----------------------------------
+
+10-02-2018
+tutorials.json
+	"Random Tips"
+		"Effects that generate cards during combat will never heal you."
+		->
+		"Effects that generate random cards during combat will never heal you."
+
+run_mods.json
+	"DeadlyEvents"
+		"DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
+		->
+		"DESCRIPTION": "? rooms can now contain Elites but are also more likely to contain Treasure rooms."
+
+	"MonsterHunter"
+		"Monster Hunter"
+		->
+		"Colossus"
+
+	"Daily Mods"
+		"Embark on a run with exactly 3 random Daily Mods."
+
+----------------------------------
+
+10-01-2018
+relics.json
+	Removing unused relic: "Nine Lives"
+	"Maw Bank"
+		"This relic has been used up."
+
+tutorials.json
+	"Random Tips"
+		"Effects that generate cards during combat will never heal you."
+
+cards.json
+	Removing unused cards
+		"Cache"
+		"Channel"
+		"Channel"
+		"Ice Wall"
+		"Impulse"
+		"Nova"
+		"Overclock"
+		"Prime"
+		"Primitive Tech"
+		"Reprieve"
+		"Winter"
+		
+----------------------------------
+
+09-28-2018
+credits.json
+  "LOC_UKR"
+    "NAMES": [
+      "Translation and Coordination:"
+      "Corrections and Translation:"
+      "Vasyl \"RDSk\" Mykhaliuk" (moved down)
+      "Artem \"Crazytosik\" Zemlianyi"
+		
+----------------------------------
+
 09-25-2018
 run_mods.json
 	"SealedDeck"

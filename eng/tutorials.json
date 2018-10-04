@@ -153,7 +153,8 @@
       "The Merchant doesn't offer refunds. He is a jerk.",
       "The card removal service increases in price whenever you use it.",
       "The card removal service can only be used once at each shop.",
-      "Damage from potions, relics, and powers are not considered attack damage."
+      "Damage from potions, relics, and powers are not considered attack damage.",
+	  "Effects that generate random cards during combat will never heal you."
     ],
     "LABEL": [
       "You can discard potions to make room for others."

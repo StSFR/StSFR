@@ -910,10 +910,6 @@
     "NAME": "Allocation",
     "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 de Force. NL Perdez 1 de Dextérité."
   },
-  "Channel": {
-    "NAME": "Deprecated.",
-    "DESCRIPTION": "Deprecated."
-  },
   "Hologram": {
     "NAME": "Hologramme",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main. NL Épuisement.",
@@ -957,11 +953,6 @@
     "NAME": "Rayon cellulaire",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
-  "Impulse": {
-    "NAME": "Impulsion",
-    "DESCRIPTION": "Utilisez la capacité passive de chaque Orbe Canalisé. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Utilisez la capacité passive de chaque Orbe Canalisé."
-  },
   "Multi-Cast": {
     "NAME": "Activation multiple",
     "DESCRIPTION": "Activez votre prochain Orbe X fois.",
@@ -970,10 +961,6 @@
   "Sunder": {
     "NAME": "Désassemblage",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi succombe, gagnez [B] [B] [B]."
-  },
-  "Winter": {
-    "NAME": "Deprecated.",
-    "DESCRIPTION": "Deprecated."
   },
   "Go for the Eyes": {
     "NAME": "Vise les yeux",
@@ -1008,17 +995,9 @@
     "NAME": "Récursivité",
     "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
-  "Prime": {
-    "NAME": "Préparation",
-    "DESCRIPTION": "Quand vous Canalisez un Orbe, piochez !M! carte."
-  },
   "Self Repair": {
     "NAME": "Autoréparation",
     "DESCRIPTION": "À la fin du combat, récupérez !M! PV."
-  },
-  "Cache": {
-    "NAME": "Deprecated.",
-    "DESCRIPTION": "Deprecated."
   },
   "Loop": {
     "NAME": "Boucle",
@@ -1037,15 +1016,6 @@
   "Hyperbeam": {
     "NAME": "Ultralaser",
     "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Perdez !M! de Concentration."
-  },
-  "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
-    "EXTENDED_DESCRIPTION": [
-      " NL Épuisement.",
-      " NL (Infligez !D! dégât(s).)"
-    ],
-    "UPGRADE_DESCRIPTION": ""
   },
   "Turbo": {
     "NAME": "TURBO",
@@ -1125,10 +1095,6 @@
     "NAME": "Fuselage",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez cette carte, son coût est réduit de !M! pour le combat."
   },
-  "Primitive Tech": {
-    "NAME": "Deprecated.",
-    "DESCRIPTION": "Deprecated."
-  },
   "Coolheaded": {
     "NAME": "Sang-froid",
     "DESCRIPTION": "Canalisez 1 Orbe Glaciaire. NL Piochez !M! carte.",
@@ -1146,11 +1112,6 @@
   "Dualcast": {
     "NAME": "Activation double",
     "DESCRIPTION": "Activez votre prochain Orbe 2 fois."
-  },
-  "Ice Wall": {
-    "NAME": "Mur de glace",
-    "DESCRIPTION": "Gagnez !B! d'Armure. Gagnez +3 d'Armure pour chaque Orbe Glaciaire Canalisé.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. Gagnez +5 d'Armure pour chaque Orbe Glaciaire Canalisé."
   },
   "Defragment": {
     "NAME": "Défragmentation",
@@ -1211,11 +1172,6 @@
     "DESCRIPTION": "Gagnez autant d'Armure que vous avez d'Énergie.",
     "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure que le double de votre Énergie."
   },
-  "Overclock": {
-    "NAME": "Overclock",
-    "DESCRIPTION": "Deprecated.",
-    "UPGRADE_DESCRIPTION": "Deprecated."
-  },
   "Tempest": {
     "NAME": "Tempête",
     "DESCRIPTION": "Canalisez X Orbe(s) Kéraunique(s). NL Épuisement.",
@@ -1265,10 +1221,6 @@
   "Lockon": {
     "NAME": "Cible",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Verrouillage."
-  },
-  "Reprieve": {
-    "NAME": "Répit",
-    "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
   },
   "BootSequence": {
     "NAME": "Démarrage",
