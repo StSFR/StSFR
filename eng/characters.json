@@ -75,7 +75,8 @@
       "[Continue]",
       "[Talk]",
       "[Skip]",
-      "[Leave]"
+      "[Leave]",
+	  "Choose 10 cards to add to your deck."
     ]
   },
   "Neow Reward": {

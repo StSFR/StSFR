@@ -101,7 +101,7 @@
   },
   "Specialized": {
     "NAME": "Specialized",
-    "DESCRIPTION": "Start with 5 copies of a single rare card."
+    "DESCRIPTION": "Start with 5 copies of a single card."
   },
   "Starter Deck": {
     "NAME": "Starter Deck",
@@ -122,5 +122,41 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Normal Enemies drop relics instead of cards."
+  },
+  "SealedDeck": {
+    "NAME": "Sealed Deck",
+    "DESCRIPTION": "Craft a deck from 30 random cards."
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "You may ignore paths when choosing the next room to travel to."
+  },
+  "Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+  },
+  "NeowTime": {
+    "NAME": "Neow Time",
+    "DESCRIPTION": "Receive 3 blessings and 1 blight from Neow."
+  },
+  "IntelligentEnemies": {
+    "NAME": "Intelligent Enemies",
+    "DESCRIPTION": "All enemies have more challenging movesets and abilities."
+  },
+  "Careless": {
+    "NAME": "Careless",
+    "DESCRIPTION": "At the start of every turn, discard the top card of your draw pile."
+  },
+  "ControlledChaos": {
+    "NAME": "Controlled Chaos",
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+  },
+  "MonsterHunter": {
+    "NAME": "Monster Hunter",
+    "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
+  },
+  "DeadlyEvents": {
+    "NAME": "Deadly Events",
+    "DESCRIPTION": "? rooms can now contain Elites but are more likely to contain Treasure rooms."
   }
 }

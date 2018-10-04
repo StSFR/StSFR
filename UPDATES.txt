@@ -1,4 +1,23 @@
 Updates for Translators!
+09-25-2018
+run_mods.json
+	"SealedDeck"
+	"IntelligentEnemies"
+	"MonsterHunter"
+	"NeowTime"
+	"Flight"
+	"ControlledChaos"
+	"Careless"
+	"Chimera"
+	"DeadlyEvents"
+  
+characters.json
+	"Neow Event"
+		"OPTIONS"
+			"Choose 10 cards to add to your deck."
+		
+----------------------------------
+
 09-17-2018
 relics.json
 	"Warped Tongs"
