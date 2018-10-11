@@ -192,8 +192,11 @@
   "LOC_UKR": {
     "HEADER": "Ukrainian Localization",
     "NAMES": [
+      "Translation and Coordination:",
       "Vladyslav \"DarkXylese\" Kashtelyanov",
-      "Vasyl \"RDSk\" Mykhaliuk"
+      "Corrections and Translation:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi"
     ]
   },
   "LOC_ZHS": {

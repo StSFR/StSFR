@@ -1239,5 +1239,10 @@
       "Rename",
       "Delete this Save"
     ]
+  },
+  "Period": {
+    "TEXT": [
+      "."
+    ]
   }
 }
