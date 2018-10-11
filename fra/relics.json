@@ -826,68 +826,6 @@
       "Après avoir atteint un site de repos, commencez le prochain combat avec : [B] [B] ."
     ]
   },
-  "Test 1": {
-    "NAME": "Test 1",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Lorsque vous recevez une #yMalédiction, augmentez vos PV max de #b",
-      " [R] .",
-      " [G] .",
-      " [B] ."
-    ]
-  },
-  "Test 2": {
-    "NAME": "Test 2",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Au début de chaque tour, si vos PV sont inférieurs à 50 %, gagnez #b"
-    ]
-  },
-  "Test 3": {
-    "NAME": "Test 3",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Lorsque vous l'obtenez, #yAméliorez toutes vos cartes #yDéfense."
-    ]
-  },
-  "Test 4": {
-    "NAME": "Test 4",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Au début du combat, le coût de toutes les cartes #yFrappe passe à #b0."
-    ]
-  },
-  "Test 5": {
-    "NAME": "Test 5",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Lorsque vous la ramassez, #yAméliorez #b",
-      " #yCompétences aléatoires."
-    ]
-  },
-  "Test 6": {
-    "NAME": "Test 6",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "À la fin de chaque tour, gagnez #b",
-      " #yd'Armure par lot de #b",
-      " #ypièces #yd'or en votre possession."
-    ]
-  },
-  "Test 7": {
-    "NAME": "Test 7",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Obtenez maintenant #b2 #yReliques lorsque vous éliminez des Élites."
-    ]
-  },
-  "Test 8": {
-    "NAME": "Test 8",
-    "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
-    "DESCRIPTIONS": [
-      "Piochez #b2 cartes supplémentaires à chaque tour. Commencez chaque combat avec #yConfusion."
-    ]
-  },
   "The Specimen": {
     "NAME": "Le spécimen",
     "FLAVOR": "\"Fascinant ! J'ai trouvé une créature mutante présentant d'impressionnantes propriétés toxiques. J'en garde un échantillon pour l'examiner plus tard.\" - Ranwid",
@@ -1270,7 +1208,7 @@
     "NAME": "Cœur gelé",
     "FLAVOR": "La fissure qui traverse votre cœur a été remplie avec une énergie froide palpitante.",
     "DESCRIPTIONS": [
-      "Remplace #rCœur #rfissuré. Si vous terminez un tour avec un emplacement d'Orbe vide, #yCanalisez #b1 #yOrbe #yGlaciaire."
+      "Remplace #bCœur #bfissuré. Si vous terminez un tour avec un emplacement d'Orbe vide, #yCanalisez #b1 #yOrbe #yGlaciaire."
     ]
   },
   "Sling": {
@@ -1389,6 +1327,68 @@
     "FLAVOR": "D'apparence indestructibe, vous vous demandez à quelle créature elle a bien pu appartenir.",
     "DESCRIPTIONS": [
       "Empêche la première perte de PV chaque combat."
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
     ]
   }
 }
