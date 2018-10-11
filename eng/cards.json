@@ -93,7 +93,7 @@
   },
   "Barricade": {
     "NAME": "Barricade",
-    "DESCRIPTION": "Block is not removed at the start of each turn."
+    "DESCRIPTION": "Block is not removed at the start of your turn."
   },
   "Bash": {
     "NAME": "Bash",
@@ -109,11 +109,11 @@
   },
   "Berserk": {
     "NAME": "Berserk",
-    "DESCRIPTION": "Gain !M! Vulnerable. NL At the start of each turn, gain [R]."
+    "DESCRIPTION": "Gain !M! Vulnerable. NL At the start of your turn, gain [R]."
   },
   "Biased Cognition": {
     "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "DESCRIPTION": "Gain !M! Focus. NL At the start of your turn, lose 1 Focus."
   },
   "Bite": {
     "NAME": "Bite",
@@ -173,8 +173,8 @@
   },
   "Brutality": {
     "NAME": "Brutality",
-    "DESCRIPTION": "At the start of each turn, lose 1 HP and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, lose 1 HP and draw 1 card."
+    "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
   },
   "Buffer": {
     "NAME": "Buffer",
@@ -238,7 +238,7 @@
   },
   "Chrysalis": {
     "NAME": "Chrysalis",
-    "DESCRIPTION": "Shufflfe !M! random Skills into your draw pile. They cost 0 this combat. NL Exhaust."
+    "DESCRIPTION": "Shuffle !M! random Skills into your draw pile. They cost 0 this combat. NL Exhaust."
   },
   "Clash": {
     "NAME": "Clash",
@@ -270,7 +270,7 @@
   },
   "Combust": {
     "NAME": "Combust",
-    "DESCRIPTION": "At the end of each turn, lose 1 HP and deal !M! damage to ALL enemies."
+    "DESCRIPTION": "At the end of your turn, lose 1 HP and deal !M! damage to ALL enemies."
   },
   "Concentrate": {
     "NAME": "Concentrate",
@@ -303,7 +303,7 @@
   },
   "Creative AI": {
     "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card into your hand."
+    "DESCRIPTION": "At the start of your turn, add a random Power card into your hand."
   },
   "Crippling Poison": {
     "NAME": "Crippling Cloud",
@@ -373,7 +373,7 @@
   },
   "Demon Form": {
     "NAME": "Demon Form",
-    "DESCRIPTION": "At the start of each turn, gain !M! Strength."
+    "DESCRIPTION": "At the start of your turn, gain !M! Strength."
   },
   "Die Die Die": {
     "NAME": "Die Die Die",
@@ -479,7 +479,7 @@
   },
   "Exhume": {
     "NAME": "Exhume",
-    "DESCRIPTION": "Place a card from your exhaust pile into your hand. NL Exhaust."
+    "DESCRIPTION": "Put a card from your exhaust pile into your hand. NL Exhaust."
   },
   "Expertise": {
     "NAME": "Expertise",
@@ -521,7 +521,7 @@
   },
   "Fire Breathing": {
     "NAME": "Fire Breathing",
-    "DESCRIPTION": "At the end of each turn, deal 1 damage to ALL enemies for each Attack played this turn."
+    "DESCRIPTION": "At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn."
   },
   "Fission": {
     "NAME": "Fission",
@@ -632,8 +632,8 @@
   },
   "Hello World": {
     "NAME": "Hello World",
-    "DESCRIPTION": "At the start of each turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a random Common card into your hand."
+    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
   },
   "Hemokinesis": {
     "NAME": "Hemokinesis",
@@ -666,8 +666,8 @@
   },
   "Infinite Blades": {
     "NAME": "Infinite Blades",
-    "DESCRIPTION": "At the start of each turn, add a Shiv into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a Shiv into your hand."
+    "DESCRIPTION": "At the start of your turn, add a Shiv into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a Shiv into your hand."
   },
   "Inflame": {
     "NAME": "Inflame",
@@ -717,13 +717,13 @@
   },
   "Loop": {
     "NAME": "Loop",
-    "DESCRIPTION": "At the start of each turn, trigger the passive ability of your next Orb.",
-    "UPGRADE_DESCRIPTION": "At the start of each turn, trigger the passive ability of your next Orb !M! times."
+    "DESCRIPTION": "At the start of your turn, trigger the passive ability of your next Orb.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, trigger the passive ability of your next Orb !M! times."
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "DESCRIPTION": "At the start of your turn, draw !M! additional card.",
+    "UPGRADE_DESCRIPTION": "Innate. At the start of your turn, draw !M! additional card."
   },
   "Madness": {
     "NAME": "Madness",
@@ -731,7 +731,7 @@
   },
   "Magnetism": {
     "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random Colorless card into your hand."
+    "DESCRIPTION": "At the start of your turn, add a random Colorless card into your hand."
   },
   "Malaise": {
     "NAME": "Malaise",
@@ -749,7 +749,7 @@
   },
   "Mayhem": {
     "NAME": "Mayhem",
-    "DESCRIPTION": "At the start of each turn, play the top card of your draw pile."
+    "DESCRIPTION": "At the start of your turn, play the top card of your draw pile."
   },
   "Melter": {
     "NAME": "Melter",
@@ -757,7 +757,7 @@
   },
   "Metallicize": {
     "NAME": "Metallicize",
-    "DESCRIPTION": "At the end of each turn, gain !M! Block."
+    "DESCRIPTION": "At the end of your turn, gain !M! Block."
   },
   "Metamorphosis": {
     "NAME": "Metamorphosis",
@@ -810,7 +810,7 @@
   },
   "Noxious Fumes": {
     "NAME": "Noxious Fumes",
-    "DESCRIPTION": "At the start of each turn, apply !M! Poison to ALL enemies."
+    "DESCRIPTION": "At the start of your turn, apply !M! Poison to ALL enemies."
   },
   "Offering": {
     "NAME": "Offering",
@@ -1160,7 +1160,7 @@
   },
   "Tools of the Trade": {
     "NAME": "Tools of the Trade",
-    "DESCRIPTION": "At the start of each turn, draw 1 card and discard 1 card."
+    "DESCRIPTION": "At the start of your turn, draw 1 card and discard 1 card."
   },
   "Transmutation": {
     "NAME": "Transmutation",
@@ -1220,8 +1220,8 @@
   },
   "Well Laid Plans": {
     "NAME": "Well-Laid Plans",
-    "DESCRIPTION": "At the end of each turn, Retain up to !M! card.",
-    "UPGRADE_DESCRIPTION": "At the end of each turn, Retain up to !M! cards."
+    "DESCRIPTION": "At the end of your turn, Retain up to !M! card.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, Retain up to !M! cards."
   },
   "Whirlwind": {
     "NAME": "Whirlwind",
@@ -1241,7 +1241,7 @@
   },
   "Wraith Form v2": {
     "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
+    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
   },
   "Writhe": {
     "NAME": "Writhe",

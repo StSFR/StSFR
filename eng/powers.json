@@ -56,21 +56,21 @@
   "Barricade": {
     "NAME": "Barricade",
     "DESCRIPTIONS": [
-      "#yBlock is not removed at the start of each turn.",
+      "#yBlock is not removed at the start of your turn.",
       "#yBlock is not removed at the start of its turn."
     ]
   },
   "Berserk": {
     "NAME": "Berserk",
     "DESCRIPTIONS": [
-      "At the start of each turn, gain ",
+      "At the start of your turn, gain ",
       ""
     ]
   },
   "Bias": {
     "NAME": "Bias",
     "DESCRIPTIONS": [
-      "At the start of each turn, lose #b",
+      "At the start of your turn, lose #b",
       " #yFocus."
     ]
   },
@@ -85,10 +85,10 @@
   "Brutality": {
     "NAME": "Brutality",
     "DESCRIPTIONS": [
-      "At the start of each turn, lose #b",
+      "At the start of your turn, lose #b",
       " HP and draw #b",
       " card.",
-      "At the start of each turn, lose #b",
+      "At the start of your turn, lose #b",
       " HP and draw #b",
       " cards."
     ]
@@ -125,7 +125,7 @@
   "Combust": {
     "NAME": "Combust",
     "DESCRIPTIONS": [
-      "At the end of each turn, lose #b",
+      "At the end of your turn, lose #b",
       " HP and deal #b",
       " damage to ALL enemies."
     ]
@@ -147,7 +147,7 @@
   "Constricted": {
     "NAME": "Constricted",
     "DESCRIPTIONS": [
-      "At the end of each turn, take #b",
+      "At the end of your turn, take #b",
       " damage."
     ]
   },
@@ -161,7 +161,7 @@
   "Creative AI": {
     "NAME": "Creative AI",
     "DESCRIPTIONS": [
-      "At the start of each turn, add #b",
+      "At the start of your turn, add #b",
       " random #yPower card into your hand.",
       " random #yPower cards into your hand."
     ]
@@ -200,7 +200,7 @@
   "Demon Form": {
     "NAME": "Demon Form",
     "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
+      "At the start of your turn, gain #b",
       " #yStrength."
     ]
   },
@@ -238,7 +238,7 @@
   "Draw": {
     "NAME": "Draw",
     "DESCRIPTIONS": [
-      "At the start of each turn, draw #b",
+      "At the start of your turn, draw #b",
       " additional card.",
       " less card.",
       " additional cards.",
@@ -351,14 +351,14 @@
   "Fire Breathing": {
     "NAME": "Fire Breathing",
     "DESCRIPTIONS": [
-      "At the end of each turn, deal #b",
+      "At the end of your turn, deal #b",
       " damage to ALL enemies for each #yAttack played this turn."
     ]
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",
     "DESCRIPTIONS": [
-      "When receiving attack damage, deals #b",
+      "When attacked, deals #b",
       " damage back."
     ]
   },
@@ -426,7 +426,7 @@
   "Hello": {
     "NAME": "Hello",
     "DESCRIPTIONS": [
-      "At the start of each turn, add #b",
+      "At the start of your turn, add #b",
       " random Common cards into your hand.",
       " random Common card into your hand."
     ]
@@ -449,7 +449,7 @@
   "Infinite Blades": {
     "NAME": "Infinite Blades",
     "DESCRIPTIONS": [
-      "At the start of each turn, add #b",
+      "At the start of your turn, add #b",
       " #yShivs into your hand.",
       " #yShiv into your hand."
     ]
@@ -504,8 +504,8 @@
   "Loop": {
     "NAME": "Loop",
     "DESCRIPTIONS": [
-      "At the start of each turn, trigger the passive ability of your next Orb.",
-      "At the start of each turn, trigger the passive ability of your next Orb #b",
+      "At the start of your turn, trigger the passive ability of your next Orb.",
+      "At the start of your turn, trigger the passive ability of your next Orb #b",
       " times."
     ]
   },
@@ -520,8 +520,8 @@
   "Magnetism": {
     "NAME": "Magnetism",
     "DESCRIPTIONS": [
-      "At the start of each turn, add #b%s random colorless card into your hand.",
-      "At the start of each turn, add #b%s random colorless cards into your hand."
+      "At the start of your turn, add #b%s random colorless card into your hand.",
+      "At the start of your turn, add #b%s random colorless cards into your hand."
     ]
   },
   "Malleable": {
@@ -536,15 +536,15 @@
   "Mayhem": {
     "NAME": "Mayhem",
     "DESCRIPTIONS": [
-      "At the start of each turn, play the top card of your draw pile.",
-      "At the start of each turn, play the top #b",
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
       " cards of your draw pile."
     ]
   },
   "Metallicize": {
     "NAME": "Metallicize",
     "DESCRIPTIONS": [
-      "At the end of each turn, gain #b",
+      "At the end of your turn, gain #b",
       " #yBlock.",
       "At the end of its turn, gains #b",
       " #yBlock."
@@ -592,7 +592,7 @@
   "Noxious Fumes": {
     "NAME": "Noxious Fumes",
     "DESCRIPTIONS": [
-      "At the start of each turn, apply #b",
+      "At the start of your turn, apply #b",
       " #yPoison to ALL enemies."
     ]
   },
@@ -634,16 +634,16 @@
   "Plated Armor": {
     "NAME": "Plated Armor",
     "DESCRIPTIONS": [
-      "At the end of each turn, gain #b",
+      "At the end of your turn, gain #b",
       " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1.",
-      "At the end of each turn, gains #b",
+      "At the end of your turn, gains #b",
       " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1."
     ]
   },
   "Poison": {
     "NAME": "Poison",
     "DESCRIPTIONS": [
-      "At the start of each turn, lose #b",
+      "At the start of your turn, lose #b",
       " HP, then reduce #yPoison by #b1.",
       "At the start of its turn, loses #b"
     ]
@@ -695,7 +695,7 @@
   "Regeneration": {
     "NAME": "Regen",
     "DESCRIPTIONS": [
-      "At the end of each turn, heal #b",
+      "At the end of your turn, heal #b",
       " #yHP, then reduce #yRegen by #b1.",
       ""
     ]
@@ -717,7 +717,7 @@
   "Retain Cards": {
     "NAME": "Retain Cards",
     "DESCRIPTIONS": [
-      "At the end of each turn, you may retain #b",
+      "At the end of your turn, you may retain #b",
       " card.",
       " cards."
     ]
@@ -884,7 +884,7 @@
   "Tools Of The Trade": {
     "NAME": "Tools Of The Trade",
     "DESCRIPTIONS": [
-      "At the start of each turn, draw #b",
+      "At the start of your turn, draw #b",
       " card and discard #b",
       " card.",
       " cards and discard #b",
@@ -931,7 +931,7 @@
   "Wraith Form v2": {
     "NAME": "Wraith Form",
     "DESCRIPTIONS": [
-      "At the end of each turn, lose #b",
+      "At the end of your turn, lose #b",
       " #yDexterity."
     ]
   },

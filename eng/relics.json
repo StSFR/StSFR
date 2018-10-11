@@ -233,14 +233,14 @@
     "NAME": "Frozen Core",
     "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
     "DESCRIPTIONS": [
-      "Replaces #rCracked #rCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost."
+      "Replaces #bCracked #bCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost."
     ]
   },
   "Cursed Key": {
     "NAME": "Cursed Key",
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
     "DESCRIPTIONS": [
-      " at the start of each turn. Whenever you open a non-Boss chest, obtain a #rCurse.",
+      " at the start of your turn. Whenever you open a non-Boss chest, obtain a #rCurse.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -272,7 +272,7 @@
     "NAME": "Derp Rock",
     "FLAVOR": "Placeholder",
     "DESCRIPTIONS": [
-      "At the start of each turn, gain #b",
+      "At the start of your turn, gain #b",
       " Charge. NL (Cannot be removed or transformed.)"
     ]
   },
@@ -288,9 +288,9 @@
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
       "If your HP is full, gain ",
-      "[R] at the start of each turn.",
-      "[G] at the start of each turn.",
-      "[B] at the start of each turn."
+      "[R] at the start of your turn.",
+      "[G] at the start of your turn.",
+      "[B] at the start of your turn."
     ]
   },
   "Dream Catcher": {
@@ -316,9 +316,9 @@
     "FLAVOR": "This blob of slime and energy seems to pulse with life.",
     "DESCRIPTIONS": [
       " You can no longer gain #yGold.",
-      "Gain [R] at the start of each turn.",
-      "Gain [G] at the start of each turn.",
-      "Gain [B] at the start of each turn."
+      "Gain [R] at the start of your turn.",
+      "Gain [G] at the start of your turn.",
+      "Gain [B] at the start of your turn."
     ]
   },
   "Emotion Chip": {
@@ -495,7 +495,7 @@
     "NAME": "Mark of Pain",
     "FLAVOR": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
     "DESCRIPTIONS": [
-      "Gain [R] at the start of each turn. At the start of combat, shuffle #b2 #rWounds into your draw pile."
+      "Gain [R] at the start of your turn. At the start of combat, shuffle #b2 #rWounds into your draw pile."
     ]
   },
   "Matryoshka": {
@@ -533,7 +533,7 @@
     "NAME": "Mercury Hourglass",
     "FLAVOR": "An enchanted hourglass that endlessly drips.",
     "DESCRIPTIONS": [
-      "At the start of each turn, deal #b",
+      "At the start of your turn, deal #b",
       " damage to ALL enemies."
     ]
   },
@@ -572,7 +572,7 @@
     "NAME": "Nilry's Codex",
     "FLAVOR": "Crafted by the infamous game master himself. Said to expand one's mind.",
     "DESCRIPTIONS": [
-      "At the end of each turn, you may shuffle #b1 of #b3 random cards into your draw pile."
+      "At the end of your turn, you may shuffle #b1 of #b3 random cards into your draw pile."
     ]
   },
   "Ninja Scroll": {
@@ -714,7 +714,7 @@
     "NAME": "Philosopher's Stone",
     "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
     "DESCRIPTIONS": [
-      " at the start of each turn. ALL enemies start with #b2 #yStrength.",
+      " at the start of your turn. ALL enemies start with #b2 #yStrength.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -777,7 +777,7 @@
 	"FLAVOR": "Your ring has morphed and changed forms.",
     "DESCRIPTIONS": [
       "Replaces #gRing #gof #gthe #gSnake. ",
-      "At the start of each turn, draw #b1 additional card."
+      "At the start of your turn, draw #b1 additional card."
     ]
   },
   "Ring of the Snake": {
@@ -808,7 +808,7 @@
     "NAME": "Runic Dome",
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-      " at the start of each turn. You can no longer see enemy intents.",
+      " at the start of your turn. You can no longer see enemy intents.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -818,7 +818,7 @@
     "NAME": "Runic Pyramid",
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-      "At the end of each turn, you no longer discard your hand.",
+      "At the end of your turn, you no longer discard your hand.",
       ""
     ]
   },
@@ -873,14 +873,14 @@
     "NAME": "Snecko Eye",
     "FLAVOR": "An eye of a fallen snecko. Much larger than you imagined.",
     "DESCRIPTIONS": [
-      "At the start of each turn, draw #b2 additional cards. Start each combat #yConfused."
+      "At the start of your turn, draw #b2 additional cards. Start each combat #yConfused."
     ]
   },
   "Sozu": {
     "NAME": "Sozu",
     "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
     "DESCRIPTIONS": [
-      " at the start of each turn. You can no longer obtain potions.",
+      " at the start of your turn. You can no longer obtain potions.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -925,65 +925,65 @@
     ]
   },
   "Test 1": {
-    "NAME": "Test 1",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Whenever you use a potion, gain ",
-      " [R] .",
-      " [G] .",
-      " [B] ."
+      "",
+      "",
+      "",
+      ""
     ]
   },
   "Test 2": {
-    "NAME": "Test 2",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "When viewing your #yDraw #yPile, the cards are now shown in order."
+      ""
     ]
   },
   "Test 3": {
-    "NAME": "Test 3",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "When obtained, #yUpgrade all of your #yDefend cards."
+      ""
     ]
   },
   "Test 4": {
-    "NAME": "Test 4",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "At the start of combat, the cost of all #yStrike cards are set to #b0."
+      ""
     ]
   },
   "Test 5": {
-    "NAME": "Test 5",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Upon pickup, #yUpgrade #b",
-      " random #ySkills."
+      "",
+      ""
     ]
   },
   "Test 6": {
-    "NAME": "Test 6",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "At the end of each turn, gain #b",
-      " #yBlock for every #b",
-      " #yGold you have."
+      "",
+      "",
+      ""
     ]
   },
   "Test 7": {
-    "NAME": "Test 7",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Elites now drop #b2 #yRelics when defeated."
+      ""
     ]
   },
   "Test 8": {
-    "NAME": "Test 8",
-    "FLAVOR": "Test relic for beta. If you like it, let the devs know.",
+    "NAME": "",
+    "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Draw #b2 additional cards each turn. Start each combat #yConfused."
+      ""
     ]
   },
   "The Courier": {
@@ -1099,7 +1099,7 @@
     "NAME": "Velvet Choker",
     "FLAVOR": "\"Immense power, but too limited.\" - Kublai the Great",
     "DESCRIPTIONS": [
-      " at the start of each turn. You cannot play more than #b",
+      " at the start of your turn. You cannot play more than #b",
       " cards per turn.",
       "Gain [R]",
       "Gain [G]",
@@ -1149,7 +1149,7 @@
     "NAME": "Busted Crown",
     "FLAVOR": "The Champ's crown... or a pale imitation?",
     "DESCRIPTIONS": [
-      " at the start of each turn. Future card rewards have #b2 less cards to choose from.",
+      " at the start of your turn. Future card rewards have #b2 less cards to choose from.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -1174,7 +1174,7 @@
     "NAME": "Fusion Hammer",
     "FLAVOR": "Once wielded, the owner can never let go.",
     "DESCRIPTIONS": [
-      " at the start of each turn. You can no longer #ySmith at Rest Sites.",
+      " at the start of your turn. You can no longer #ySmith at Rest Sites.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -1184,7 +1184,7 @@
     "NAME": "Coffee Dripper",
     "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
     "DESCRIPTIONS": [
-      " at the start of each turn. You can no longer #yRest at Rest Sites.",
+      " at the start of your turn. You can no longer #yRest at Rest Sites.",
       "Gain [R]",
       "Gain [G]",
       "Gain [B]"
@@ -1241,7 +1241,7 @@
     "NAME": "The Abacus",
     "FLAVOR": "\"One...Two...Three...\"",
     "DESCRIPTIONS": [
-      "Whenever you shuffle your discard piole, gain #b",
+      "Whenever you shuffle your discard pile, gain #b",
       " #yBlock."
     ]
   },
@@ -1286,7 +1286,7 @@
     "NAME": "Hovering Kite",
     "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b2 cards at the start of each turn."
+      "Gain [G] and discard #b2 cards at the start of your turn."
     ]
   },
   "Sling": {
@@ -1372,7 +1372,7 @@
     "NAME": "Warped Tongs",
     "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
     "DESCRIPTIONS": [
-      "At the start of each turn, #yUpgrade a random card in your hand for the rest of combat."
+      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat."
     ]
   },
   "WingedGreaves": {
