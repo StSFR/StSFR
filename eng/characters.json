@@ -111,7 +111,7 @@
       "Select 2 Cards to Transform",
       "Select a Card to Upgrade",
       "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
-	  " #rdamage"
+      " #rdamage"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"

@@ -1,4 +1,17 @@
 Updates for Translators!
+10-09-2018
+run_mods.json
+	"Midas"
+		"DESCRIPTION": "Enemies drop 200% more gold, but you cannot upgrade cards at Rest Sites."
+		->
+		"DESCRIPTION": "Enemies drop 200% more gold, but you can no longer Smith at Rest Sites."
+
+ui.json
+	"OptionsPanel"
+		"Disable Particle Effects
+
+----------------------------------
+
 10-04-2018
 events.json
 	"Drug Dealer"
@@ -11,11 +24,13 @@ events.json
 		->
 		"[Locked] Requires: 2 or more cards in deck.",
 		"Select Cards to Transform."
+
 	"Accursed Blacksmith"
 		"[Forge] #gUpgrade #ga #gcard.",
 		->
 		"[Forge] #gUpgrade #ga #gcard #gin #gyour #gdeck.",
 
+	"Living Wall"
 		"[Forget] #gRemove #ga #gcard #gin #gyour #gdeck.",
 		->
 		"[Forget] #gRemove #ga #gcard #gfrom #gyour #gdeck.",
@@ -25,6 +40,7 @@ relics.json
 		"In future acts, shops appear #b50% more often. #yBONUS: #b50% discount on all products!"
 		->
 		"#b50% discount on all products!"
+		
 	"Meal Ticket"
 		"Whenever you enter a shop, heal #b7 HP."
 		->
@@ -37,7 +53,7 @@ relics.json
 	"TheAbacus"
 		" #yBlock."
 
-	"TwistedFunnel"
+	"MutagenicStrength"
 		" #yStrength."
 
 ui.json

@@ -847,7 +847,8 @@
       "NL NL VSync",
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
-      "Input Settings"
+      "Input Settings",
+      "Disable Particle Effects"
     ]
   },
   "PatchNotesScreen": {
