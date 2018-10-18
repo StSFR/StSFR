@@ -910,10 +910,10 @@
   "Colosseum": {
     "NAME": "Le Colisée",
     "DESCRIPTIONS": [
-      "@Paf !!!@ NL .. NL ...... NL ... NL ~Vous~ ~avez~ ~été~ ~assomé...~",
-      "~Chancelant~ et avec une tête @résonnante@, vous vous réveillez pour vous faire jeter au centre d'un gigantesque stade doté d'une foule énorme #bd'Esclavagistes, de #pCultistes, et autres habitants de la Ville ! NL ",
+      "@Paf@ @!!!@ NL .. NL ...... NL ... NL ~Vous~ ~avez~ ~été~ ~assommé...~",
+      "~Chancelant~ et avec une tête @résonnante,@ vous vous réveillez pour vous faire jeter au centre d'un gigantesque stade doté d'une foule énorme #bd'Esclavagistes, de #pCultistes, et autres habitants de la Ville ! NL ",
       " NL Un géant en armure avec une #ycouronne #ydorée vous crie depuis le sommet, NL @\"LE@ @",
-      "IÈME@ @COMBAT@ @COMBAT@ @COMMENCE@ @MAINTENANT!!!!\"@ NL Une grille du côté opposé s'ouvre...",
+      "IÈME@ @COMBAT@ @COMMENCE@ @MAINTENANT!!!!\"@ NL Une grille du côté opposé s'ouvre...",
       "@\"BIEN@ @JOUÉ,@ @VERMINE@ @INUTILE!\"@ NL Le géant moqueur applaudit tout en excitant la foule avec des gestes exagérés. NL #y~Or~ ~et~ #y~confettis~ ~pleuvent~ ~sur~ ~vous!~ NL @\"C'EST@ @L'HEURE@ @DU@ @VRAI@ @CHALLENGE!!\"@ NL NL Le dernier combat a laissé une petite ouverture dans le mur du Colisée, vous pouvez facilement vous échapper pendant que tout le monde est distrait. NL Restez-vous vous battre?"
     ],
     "OPTIONS": [
