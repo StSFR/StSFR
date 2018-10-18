@@ -87,7 +87,9 @@
       "Sélectionnez 2 cartes à transformer",
       "Sélectionnez une carte à améliorer",
       "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]",
-      " #rdégât(s)"
+      " #rdégât(s)",
+      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+      "#gObtain #g2 #grandom #gcolorless #gCards ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"

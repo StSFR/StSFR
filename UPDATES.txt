@@ -1,4 +1,122 @@
 Updates for Translators!
+
+10-17-2018
+events.json
+	"Drug Dealer" (Typo fix)
+		" A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish. NL ~Whad'ya~ ~say?~\"",
+		->
+		" A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
+
+
+10-16-2018
+powers.json
+	"Compulsive"
+
+characters.json
+	"Neow Event"
+		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~my..~ ~blessing...~",
+		->
+		"~Reach~ ~the~ ~boss...~ NL ~to~ ~receive~ ~more..~ ~blessings...~",
+
+	"Neow Reward"
+		"[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
+		"#gObtain #g2 #grandom #gcolorless #gCards ]"
+
+ui.json
+	"RunHistoryPathNodes"
+		"#rSpent ",
+		"#rTook ",
+		"#rLost ",
+		"%s Max HP",
+		"#bHealed ",
+		"#bGained ",
+		"#bIgnored ",
+		"%s HP",
+		"#bObtained %s",
+		"#rCursed #rwith #r%s",
+		"%s Damage",
+		"#bUpgraded %s",
+		"#bTransformed %s",
+		"#rLost %s",
+
+monsters.json
+	"WrithingMass"
+
+credits.json
+	"LOC_POL"
+		"Marek \"Skorpionex\" Mazur",
+
+----------------------------------
+
+10-15-2018
+run_mods.json
+    "NAME": "Brewmaster",
+    ->
+    "NAME": "[DEPRECATED] Brewmaster",
+
+cards.json
+    "Forethought"
+        "DESCRIPTION": "Put a card from your hand into the bottom of your draw pile. It costs 0 until played.",
+        "UPGRADE_DESCRIPTION": "Put any number of cards from your hand into the bottom of your draw pile. They cost 0 until played."
+        ->
+        "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
+        "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
+    "Purity"
+        "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Exhaust."
+        ->
+        "DESCRIPTION": "Exhaust up to !M! cards in your hand. NL Exhaust."
+    "The Bomb"
+        "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
+        "At the end of this turn, deal %1$s damage to ALL enemies."
+        ->
+        "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
+        "At the end of this turn, deal #b%1$s damage to ALL enemies."
+
+blights.json
+        " less [R] at the start of each turn.",
+        " less [G] at the start of each turn.",
+        " less [B] at the start of each turn."
+        ->
+        " less [E] at the start of each turn."
+
+powers.json
+    "TheBomb"
+        "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
+        "At the end of this turn, deal %1$s damage to ALL enemies."
+        ->
+        "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
+        "At the end of this turn, deal #b%1$s damage to ALL enemies."
+relics.json
+    "Ancient Tea Set"
+        "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
+        "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
+        "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
+        ->
+        "Whenever you enter a Rest Site, start the next combat with [E] [E] ."
+    "Art of War"
+        "[R] next turn.",
+        "[G] next turn.",
+        "[B] next turn."
+        ->
+        "[E] next turn."
+    Changes similar to the above have also been applied to:
+        Busted Crown
+        Coffee Dripper
+        Cursed Key
+        Dodecahedron
+        Ectoplasm
+        Gremlin Horn
+        Happy Flower
+        Lantern
+        Nunchaku
+        Philosopher's Stone
+        Runic Dome
+        Sozu
+        Sundial
+        Velvet Choker
+
+----------------------------------
+        
 10-09-2018
 run_mods.json
 	"Midas"

@@ -971,7 +971,7 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "#yObtained:",
+      "#yObtained: ",
       "#ySkipped:",
       "Missing Info",
       "+2 Max HP",
@@ -984,7 +984,21 @@
       "#bRemoved %s",
       "#bDug",
       "#bLifted %s/%s",
-      "#yPurchased:"
+      "#yPurchased:",
+	  "#rSpent ",
+	  "#rTook ",
+	  "#rLost ",
+	  "%s Max HP",
+	  "#bHealed ",
+	  "#bGained ",
+	  "#bIgnored ",
+	  "%s HP",
+	  "#bObtained %s",
+	  "#rCursed #rwith #r%s",
+	  "%s Damage",
+	  "#bUpgraded %s",
+	  "#bTransformed %s",
+	  "#rLost %s"
     ]
   },
   "RunHistoryMonsterNames": {

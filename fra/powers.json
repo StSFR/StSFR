@@ -978,5 +978,11 @@
       "Au début de chaque tour, jouez les #b",
       " premières cartes de votre pioche."
     ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
+    ]
   }
 }

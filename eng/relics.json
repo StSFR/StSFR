@@ -11,9 +11,7 @@
     "NAME": "Ancient Tea Set",
     "FLAVOR": "The key to a refreshing night's rest.",
     "DESCRIPTIONS": [
-      "Whenever you enter a Rest Site, start the next combat with [R] [R] .",
-      "Whenever you enter a Rest Site, start the next combat with [G] [G] .",
-      "Whenever you enter a Rest Site, start the next combat with [B] [B] ."
+      "Whenever you enter a Rest Site, start the next combat with [E] [E] ."
     ]
   },
   "Art of War": {
@@ -21,9 +19,7 @@
     "FLAVOR": "This ancient manuscript contains wisdom from a past age.",
     "DESCRIPTIONS": [
       "If you do not play any #yAttacks during your turn, gain an additional ",
-      "[R] next turn.",
-      "[G] next turn.",
-      "[B] next turn."
+      "[E] next turn."
     ]
   },
   "Astrolabe": {
@@ -241,9 +237,7 @@
     "FLAVOR": "You can feel the malicious energy emanating from the key. Power comes at a price.",
     "DESCRIPTIONS": [
       " at the start of your turn. Whenever you open a non-Boss chest, obtain a #rCurse.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Darkstone Periapt": {
@@ -288,9 +282,7 @@
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
       "If your HP is full, gain ",
-      "[R] at the start of your turn.",
-      "[G] at the start of your turn.",
-      "[B] at the start of your turn."
+      "[E] at the start of your turn."
     ]
   },
   "Dream Catcher": {
@@ -316,9 +308,7 @@
     "FLAVOR": "This blob of slime and energy seems to pulse with life.",
     "DESCRIPTIONS": [
       " You can no longer gain #yGold.",
-      "Gain [R] at the start of your turn.",
-      "Gain [G] at the start of your turn.",
-      "Gain [B] at the start of your turn."
+      "Gain [E] at the start of your turn."
     ]
   },
   "Emotion Chip": {
@@ -391,9 +381,7 @@
     "FLAVOR": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
     "DESCRIPTIONS": [
       "Whenever an enemy dies, gain ",
-      "[R] and draw #b1 card.",
-      "[G] and draw #b1 card.",
-      "[B] and draw #b1 card."
+      "[E] and draw #b1 card."
     ]
   },
   "Happy Flower": {
@@ -401,9 +389,7 @@
     "FLAVOR": "This unceasingly joyous plant is a popular novelty item among nobles.",
     "DESCRIPTIONS": [
       "Every #b",
-      " turns, gain [R] .",
-      " turns, gain [G] .",
-      " turns, gain [B] ."
+      " turns, gain [E] ."
     ]
   },
   "Ice Cream": {
@@ -441,9 +427,7 @@
     "FLAVOR": "An eerie lantern which illuminates only for the wielder.",
     "DESCRIPTIONS": [
       "Start each combat with an additional ",
-      "[R] ",
-      "[G] ",
-      "[B] ",
+      "[E] ",
       ""
     ]
   },
@@ -715,9 +699,7 @@
     "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
     "DESCRIPTIONS": [
       " at the start of your turn. ALL enemies start with #b2 #yStrength.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Potion Belt": {
@@ -809,9 +791,7 @@
     "FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
       " at the start of your turn. You can no longer see enemy intents.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Runic Pyramid": {
@@ -881,9 +861,7 @@
     "FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
     "DESCRIPTIONS": [
       " at the start of your turn. You can no longer obtain potions.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Spirit Poop": {
@@ -912,9 +890,7 @@
     "FLAVOR": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
     "DESCRIPTIONS": [
       "Every #b",
-      " times you shuffle your draw pile, gain [R] [R] .",
-      " times you shuffle your draw pile, gain [G] [G] .",
-      " times you shuffle your draw pile, gain [B] [B] ."
+      " times you shuffle your draw pile, gain [E] [E] ."
     ]
   },
   "Symbiotic Virus": {
@@ -1101,9 +1077,7 @@
     "DESCRIPTIONS": [
       " at the start of your turn. You cannot play more than #b",
       " cards per turn.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]",
+      "Gain [E]",
       "I can only play up to NL #r"
     ]
   },
@@ -1150,9 +1124,7 @@
     "FLAVOR": "The Champ's crown... or a pale imitation?",
     "DESCRIPTIONS": [
       " at the start of your turn. Future card rewards have #b2 less cards to choose from.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Incense Burner": {
@@ -1175,9 +1147,7 @@
     "FLAVOR": "Once wielded, the owner can never let go.",
     "DESCRIPTIONS": [
       " at the start of your turn. You can no longer #ySmith at Rest Sites.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "Coffee Dripper": {
@@ -1185,9 +1155,7 @@
     "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
     "DESCRIPTIONS": [
       " at the start of your turn. You can no longer #yRest at Rest Sites.",
-      "Gain [R]",
-      "Gain [G]",
-      "Gain [B]"
+      "Gain [E]"
     ]
   },
   "SsserpentHead": {
@@ -1325,9 +1293,7 @@
     "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
     "DESCRIPTIONS": [
       "Every time you play #b",
-      " #yAttacks, gain [R] .",
-      " #yAttacks, gain [G] .",
-      " #yAttacks, gain [B] ."
+      " #yAttacks, gain [E] ."
     ]
   },
   "Brimstone": {

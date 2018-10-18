@@ -1051,7 +1051,21 @@
       "#bA #bretiré %s",
       "#bA #bcreusé",
       "#bS'est #entraîné %s/%s",
-      "#yAcheté :"
+      "#yAcheté :",
+      "#rSpent ",
+      "#rTook ",
+      "#rLost ",
+      "%s Max HP",
+      "#bHealed ",
+      "#bGained ",
+      "#bIgnored ",
+      "%s HP",
+      "#bObtained %s",
+      "#rCursed #rwith #r%s",
+      "%s Damage",
+      "#bUpgraded %s",
+      "#bTransformed %s",
+      "#rLost %s"
     ]
   },
   "SeedPanel": {
