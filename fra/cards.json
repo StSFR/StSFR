@@ -625,7 +625,7 @@
   },
   "Purity": {
     "NAME": "Pureté",
-    "DESCRIPTION": "Choisissez jusqu'à !M! cartes à Épuiser dans votre main. NL Épuisement."
+    "DESCRIPTION": "Épuisez jusqu'à !M! cartes de votre main. NL Épuisement."
   },
   "Panacea": {
     "NAME": "Panacée",

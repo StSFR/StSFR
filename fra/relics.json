@@ -12,9 +12,7 @@
     "FLAVOR": "Ce manuscrit antique contient la sagesse d'un temps révolu.",
     "DESCRIPTIONS": [
       "Si vous ne jouez aucune #yAttaque pendant votre tour, gagnez ",
-      "[R] supplémentaire au prochain tour.",
-      "[G] supplémentaire au prochain tour.",
-      "[B] supplémentaire au prochain tour."
+      "[E] supplémentaire au prochain tour."
     ]
   },
   "Astrolabe": {
@@ -208,9 +206,7 @@
     "FLAVOR": "Vous ressentez l'énergie malveillante qui émane de cette clé. Tout pouvoir a un prix.",
     "DESCRIPTIONS": [
       " au début de chaque tour. Lorsque vous ouvrez un coffre (sauf coffre de boss), recevez une #rMalédiction.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      "Gagnez [E]"
     ]
   },
   "Dead Branch": {
@@ -232,9 +228,7 @@
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "Si vous avez tous vos PV, gagnez ",
-      "[R] au début de chaque tour.",
-      "[G] au début de chaque tour.",
-      "[B] au début de chaque tour."
+      "[E] au début de chaque tour."
     ]
   },
   "Dream Catcher": {
@@ -260,9 +254,7 @@
     "FLAVOR": "Cette masse visqueuse et informe montre des signes de vie.",
     "DESCRIPTIONS": [
       " Vous ne pouvez plus gagner #yd'or.",
-      "Gagnez [R] au début de chaque tour.",
-      "Gagnez [G] au début de chaque tour.",
-      "Gagnez [B] au début de chaque tour."
+      "Gagnez [E] au début de chaque tour."
     ]
   },
   "Frozen Egg 2": {
@@ -342,9 +334,7 @@
     "FLAVOR": "\"Les diablotins peuvent grandir jusqu'à leur mort. C'est remarquable.\" - Ranwid",
     "DESCRIPTIONS": [
       "Lorsqu'un ennemi meurt, gagnez ",
-      "[R] et piochez #b1 carte.",
-      "[G] et piochez #b1 carte.",
-      "[B] et piochez #b1 carte."
+      "[E] et piochez #b1 carte."
     ]
   },
   "Happy Flower": {
@@ -352,9 +342,7 @@
     "FLAVOR": "Cette plante dont le bonheur ne tarit jamais est le nouvel objet favori des nobles.",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " tours, gagnez [R] .",
-      " tours, gagnez [G] .",
-      " tours, gagnez [B] ."
+      " tours, gagnez [E] ."
     ]
   },
   "Ice Cream": {
@@ -385,9 +373,7 @@
     "FLAVOR": "Une étrange lanterne qui ne luit que pour son porteur.",
     "DESCRIPTIONS": [
       "Commencez chaque combat avec ",
-      "[R] ",
-      "[G] ",
-      "[B] ",
+      "[E] ",
       "supplémentaire."
     ]
   },
@@ -629,9 +615,7 @@
     "FLAVOR": "Une énergie pure émane de la pierre et amplifie la puissance de tous ceux qui s'en approchent.",
     "DESCRIPTIONS": [
       " au début de chaque tour. TOUS les ennemis commencent avec #b2 de #yForce.",
-      "Gagnez [R].",
-      "Gagnez [G].",
-      "Gagnez [B]."
+      "Gagnez [E]."
     ]
   },
   "Prayer Wheel": {
@@ -701,9 +685,7 @@
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       " au début de chaque tour. Vous ne pouvez plus voir les #bIntentions des ennemis.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      "Gagnez [E]"
     ]
   },
   "Runic Pyramid": {
@@ -781,9 +763,7 @@
     "FLAVOR": "Vous remarquez que les liquides magiques semblent perdre leurs propriétés à proximité de cette relique.",
     "DESCRIPTIONS": [
       " au début de chaque tour. Vous ne pouvez plus obtenir de potions. ",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      "Gagnez [E]"
     ]
   },
   "Spirit Poop": {
@@ -812,18 +792,14 @@
     "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " mélanges de pioche, gagnez : [R] [R] .",
-      " mélanges de pioche, gagnez : [G] [G] .",
-      " mélanges de pioche, gagnez : [B] [B] ."
+      " mélanges de pioche, gagnez : [E] [E] ."
     ]
   },
   "Ancient Tea Set": {
     "NAME": "Service à thé antique",
     "FLAVOR": "Il vous garantit une excellente nuit de repos.",
     "DESCRIPTIONS": [
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [R] [R] .",
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [G] [G] .",
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [B] [B] ."
+      "Après avoir atteint un site de repos, commencez le prochain combat avec : [E] [E] ."
     ]
   },
   "The Specimen": {
@@ -920,9 +896,7 @@
     "DESCRIPTIONS": [
       "au début de chaque tour. Vous ne pouvez pas jouer plus de #b",
       " cartes par tour.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]",
+      "Gagnez [E] ",
       "Je ne peux en jouer que NL #r"
     ]
   },
@@ -1080,10 +1054,8 @@
     "NAME": "Couronne cassée",
     "FLAVOR": "La couronne du Champion... ou une vulgaire contrefaçon ?",
     "DESCRIPTIONS": [
-      "au début de chaque tour. Lorsque vous choisissez une carte comme récompense, vous avez #b2 choix en moins.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      " au début de chaque tour. Lorsque vous choisissez une carte comme récompense, vous avez #b2 choix en moins.",
+      "Gagnez [E]"
     ]
   },
   "Empty Cage": {
@@ -1099,9 +1071,7 @@
     "FLAVOR": "\"Oui, une autre tasse s'il-vous-plaît. Au travail. Au travail !\" - L'Architecte",
     "DESCRIPTIONS": [
       " au début de chaque tour. Vous ne pouvez plus vous #yReposer aux sites de repos.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      "Gagnez [E]"
     ]
   },
   "Fusion Hammer": {
@@ -1109,9 +1079,7 @@
     "FLAVOR": "Une fois pris en main, son propriétaire ne peut plus le lâcher.",
     "DESCRIPTIONS": [
       " au début de chaque tour. Vous ne pouvez plus #yAméliorer aux sites de repos.",
-      "Gagnez [R]",
-      "Gagnez [G]",
-      "Gagnez [B]"
+      "Gagnez [E]"
     ]
   },
   "Incense Burner": {
@@ -1254,9 +1222,7 @@
     "FLAVOR": "Un bon outil d'entraînement. Améliore la posture et l'agilité du porteur.",
     "DESCRIPTIONS": [
       "Toutes les #b",
-      " #yAttaques jouées, gagnez [R] .",
-      " #yAttaques jouées, gagnez [G] .",
-      " #yAttaques jouées, gagnez [B] ."
+      " #yAttaques jouées, gagnez [E] ."
     ]
   },
   "MawBank": {

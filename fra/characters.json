@@ -32,7 +32,7 @@
       "~Re...~ NL ~bonjour...~",
       "~Salutations...~",
       "~Voulez-vous~ NL ~réessayer...~ ~?~",
-      "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~ma...~ ~bénédiction...~",
+      "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~plus...~ ~de...~ ~bénédictions...~",
       "~Essayez~ ~au~ ~moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
       "~J'ai~ ~pu~ ~vous~ ~ramener...~",
       "~Faites~ ~un~ ~choix...~",
@@ -87,7 +87,9 @@
       "Sélectionnez 2 cartes à transformer",
       "Sélectionnez une carte à améliorer",
       "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]",
-      " #rdégât(s)"
+      " #rdégât(s)",
+      "[ #gObtenez #gune #gCarte #gincolore #gpeu #gcommune #galéatoire ]",
+      "#gObtenez #g2 #gCartes #gincolores #galéatoires ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"

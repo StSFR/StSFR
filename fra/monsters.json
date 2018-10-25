@@ -674,5 +674,14 @@
     "DIALOG": [
       ""
     ]
+  },
+  "WrithingMass": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Masse agonisante",
+    "DIALOG": [
+      ""
+    ]
   }
 }

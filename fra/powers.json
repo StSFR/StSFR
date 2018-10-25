@@ -967,8 +967,8 @@
   "TheBomb": {
     "NAME": "La Bombe",
     "DESCRIPTIONS": [
-      "Dans %1$s tours, infligez %2$s dégât(s) à TOUS les ennemis.",
-      "À la fin de ce tour, infligez %1$s dégât(s) à TOUS les ennemis"
+      "Dans #b%1$s tours, infligez #b%2$s dégât(s) à TOUS les ennemis.",
+      "À la fin de ce tour, infligez #b%1$s dégât(s) à TOUS les ennemis"
     ]
   },
   "Mayhem": {
@@ -977,6 +977,12 @@
       "Au début de chaque tour, jouez la première carte de votre pioche.",
       "Au début de chaque tour, jouez les #b",
       " premières cartes de votre pioche."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsif",
+    "DESCRIPTIONS": [
+      "Change son Intention quand il reçoit des dégâts d'attaque."
     ]
   }
 }

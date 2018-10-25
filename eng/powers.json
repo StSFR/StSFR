@@ -848,8 +848,8 @@
   "TheBomb": {
     "NAME": "The Bomb",
     "DESCRIPTIONS": [
-      "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
-      "At the end of this turn, deal %1$s damage to ALL enemies."
+      "At the end of #b%1$s turns, deal #b%2$s damage to ALL enemies.",
+      "At the end of this turn, deal #b%1$s damage to ALL enemies."
     ]
   },
   "Thievery": {
@@ -977,6 +977,12 @@
       "On death, deal damage equal to its Max HP to ALL enemies.",
       "On death, deal damage equal to its Max HP #b",
       " times to ALL enemies."
+    ]
+  },
+  "Compulsive": {
+    "NAME": "Compulsive",
+    "DESCRIPTIONS": [
+      "Upon receiving attack damage, changes its Intent."
     ]
   }
 }

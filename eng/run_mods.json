@@ -8,7 +8,7 @@
     "DESCRIPTION": "Card rewards contain only 2 cards."
   },
   "Brewmaster": {
-    "NAME": "Brewmaster",
+    "NAME": "[DEPRECATED] Brewmaster",
     "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
   },
   "Cursed Run": {

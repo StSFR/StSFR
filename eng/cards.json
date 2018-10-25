@@ -880,7 +880,7 @@
   },
   "Purity": {
     "NAME": "Purity",
-    "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Exhaust."
+    "DESCRIPTION": "Exhaust up to !M! cards in your hand. NL Exhaust."
   },
   "Quick Slash": {
     "NAME": "Quick Slash",
@@ -1285,8 +1285,8 @@
   },
   "Forethought": {
     "NAME": "Forethought",
-    "DESCRIPTION": "Put a card from your hand into the bottom of your draw pile. It costs 0 until played.",
-    "UPGRADE_DESCRIPTION": "Put any number of cards from your hand into the bottom of your draw pile. They cost 0 until played."
+    "DESCRIPTION": "Put a card from your hand to the bottom of your draw pile. It costs 0 until played.",
+    "UPGRADE_DESCRIPTION": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
   },
   "Discovery": {
     "NAME": "Discovery",
