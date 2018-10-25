@@ -749,10 +749,10 @@
       ""
     ],
     "OPTIONS": [
-      "[Accepter] #gRecevez #g5 Apparition. #rPerdez #r",
+      "[Accepter] #gRecevez #g5 Apparitions. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
-      "",
+      "[Accepter] #gRecevez #g3 Apparitions. #rPerdez #r",
       "",
       "[Partir]"
     ]

@@ -209,7 +209,7 @@
   },
   "Choke": {
     "NAME": "Étranglement",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pour chaque carte jouée ce tour, infligez !M! dégâts à la cible."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Chaque fois que vous jouez une carte ce tour, infligez !M! dégâts à la cible."
   },
   "Juggernaut": {
     "NAME": "Mastodonte",

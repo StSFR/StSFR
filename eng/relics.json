@@ -1309,7 +1309,7 @@
     "NAME": "Preserved Insect",
     "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
     "DESCRIPTIONS": [
-      "Enemies in Elite rooms have #b",
+      "Enemies in Elite combats have #b",
       "% less HP."
     ]
   },

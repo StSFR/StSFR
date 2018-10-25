@@ -615,7 +615,7 @@
     "FLAVOR": "Une énergie pure émane de la pierre et amplifie la puissance de tous ceux qui s'en approchent.",
     "DESCRIPTIONS": [
       " au début de chaque tour. TOUS les ennemis commencent avec #b2 de #yForce.",
-      "Gagnez [E]."
+      "Gagnez [E]"
     ]
   },
   "Prayer Wheel": {
@@ -1277,7 +1277,7 @@
     "NAME": "Insecte préservé",
     "FLAVOR": "L'insecte semble créer une aura qui cible les ennemis particulièrement grands.",
     "DESCRIPTIONS": [
-      "Les ennemis des étages d'Élite ont #b",
+      "Les ennemis des combats d'Élite ont #b",
       "% de PV en moins."
     ]
   },

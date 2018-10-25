@@ -246,7 +246,7 @@
       "[Accept] #gReceive #g5 Apparition. #rLose #r",
       "% #rMax #rHP.",
       "[Refuse]",
-      "",
+      "[Accept] #gReceive #g3 Apparition. #rLose #r",
       "",
       "[Leave]"
     ]
