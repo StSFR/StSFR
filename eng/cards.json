@@ -690,7 +690,7 @@
     "DESCRIPTION": "Lose 3 HP. NL Gain !M! Strength."
   },
   "Jack Of All Trades": {
-    "NAME": "Jack Of All Trades",
+    "NAME": "Jack of All Trades",
     "DESCRIPTION": "Add !M! random Colorless card into your hand. NL Exhaust.",
     "UPGRADE_DESCRIPTION": "Add !M! random Colorless cards into your hand. NL Exhaust."
   },

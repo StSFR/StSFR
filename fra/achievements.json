@@ -41,7 +41,11 @@
       "L'Énergie est surcotée",
       "Jour de chance",
       "L'Éphémère",
-      "Ascension 20"
+      "Ascension 20",
+      "Ruby+",
+      "Emerald+",
+      "Sapphire+",
+      "The End?"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -84,7 +88,11 @@
       "Jouez au moins 10 cartes coûtant 0 en un seul tour.",
       "Gagnez un Défi Quotidien.",
       "Terrassez l'Éphémère avant qu'il ne disparaisse.",
-      "Finissez l'Ascension de niveau 20."
+      "Finissez l'Ascension de niveau 20.",
+      "Complete the Ending with the Ironclad.",
+      "Complete the Ending with the Silent.",
+      "Complete the Ending with the Defect.",
+      "Complete the Ending with the Ironclad, Silent, and Defect."
     ]
   },
   "CharStat": {

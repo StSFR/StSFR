@@ -460,6 +460,19 @@
       "Reduce ALL damage taken and HP loss to #b1 this turn. #yIntangible is reapplied every other turn."
     ]
   },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Caps ALL damage and HP loss taken to #b100."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, take #b",
+      " damage."
+    ]
+  },
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
@@ -973,16 +986,29 @@
   },
   "CorpseExplosionPower": {
     "NAME": "Corpse Explosion",
-    "DESCRIPTIONS": [
+    "DESCRIPTIONS": 
+    [
       "On death, deal damage equal to its Max HP to ALL enemies.",
       "On death, deal damage equal to its Max HP #b",
       " times to ALL enemies."
+    ]
+  },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
     ]
   },
   "Compulsive": {
     "NAME": "Reactive",
     "DESCRIPTIONS": [
       "Upon receiving attack damage, changes its intent."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Deals #b50% more damage as it is attacking you from behind."
     ]
   }
 }

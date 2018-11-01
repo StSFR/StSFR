@@ -69,6 +69,12 @@
     "NAME": "Exordium Elites Killed",
     "DESCRIPTIONS": []
   },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
+  },
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [

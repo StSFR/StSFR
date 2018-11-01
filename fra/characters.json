@@ -117,6 +117,16 @@
       "~*BÂILLE*~",
       "J'aime l'or.",
       "Le bleu est ma couleur préférée. NL Et vous ?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
     ]
   },
   "Shop Screen": {
@@ -161,6 +171,14 @@
     ],
     "TEXT": [
       "Un ancien robot de combat qui a développé une conscience propre. NL Une technologie antique lui permet de manipuler les Orbes."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

@@ -223,7 +223,8 @@
       "Je suis #rEnchevêtré ! NL Je ne peux pas jouer d'Attaque.",
       "Pas assez #rd'Énergie.",
       "Pas assez de #rCharge.",
-      "Je ne peux pas jouer NL cette carte."
+      "Je ne peux pas jouer NL cette carte.",
+      "Beta Art"
     ]
   },
   "MasterDeckViewScreen": {
@@ -747,7 +748,12 @@
       " Or",
       "Ajoutez une carte à votre deck",
       "",
-      "Choisissez une carte"
+      "Choisissez une carte",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
     ]
   },
   "AbstractCard": {
@@ -1252,12 +1258,49 @@
       "Élu et adepte",
       "(Déprécié) Malabar enflammé",
       "(Déprécié) Esclavagiste et parasite",
-      "(Déprécié) Geckobra et mystiques"
+      "(Déprécié) Geckobra et mystiques",
+      "Shield and Spear"
     ]
   },
   "Period": {
     "TEXT": [
       "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
     ]
   }
 }

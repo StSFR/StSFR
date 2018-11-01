@@ -640,12 +640,17 @@
       " NL Le cœur bat de plus en plus fort tandis que vous #y~perdez~ #y~peu~ #y~à~ #y~peu~ #y~connaissance...~",
       "NL Vous dégainez votre lame...",
       "NL Vous préparez vos dagues...",
-      "NL Vous chargez intégralement votre noyau..."
+      "NL Vous chargez intégralement votre noyau...",
+      "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
+      " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+      " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+      " NL The heart #gretreats upwards! A large door is revealed in its place."
     ],
     "OPTIONS": [
       "[Continuer]",
       "[Attaquer] #b???",
-      "[Dormir]"
+      "[Dormir]",
+      "[Approach Door]"
     ]
   },
   "The Joust": {

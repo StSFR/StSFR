@@ -45,6 +45,16 @@
       "~*YAWN*~",
       "I like gold.",
       "My favorite color is blue. NL How bout you?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
     ]
   },
   "Neow Event": {
@@ -162,6 +172,14 @@
     ],
     "TEXT": [
       "A deadly huntress from the foglands. NL Eradicates foes with daggers and poisons."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Now... what..? NL ..has it been... done....?",
+      "...the Spire sleeps.....",
+      "..and so...... shall... NL ....I......"
     ]
   }
 }

@@ -41,7 +41,11 @@
       "Energy is Overrated",
       "My Lucky Day",
       "The Transient",
-      "Ascend 20"
+      "Ascend 20",
+      "Ruby+",
+      "Emerald+",
+      "Sapphire+",
+      "The End?"
     ],
     "TEXT": [
       "Win a battle with 1 HP remaining.",
@@ -84,7 +88,11 @@
       "Play 10 or more cost 0 cards in a single turn.",
       "Win a Daily Climb.",
       "Defeat the Transient before it fades away.",
-      "Complete Ascension Level 20."
+      "Complete Ascension Level 20.",
+      "Complete the Ending with the Ironclad.",
+      "Complete the Ending with the Silent.",
+      "Complete the Ending with the Defect.",
+      "Complete the Ending with the Ironclad, Silent, and Defect."
     ]
   },
   "CharStat": {

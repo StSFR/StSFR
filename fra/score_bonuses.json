@@ -170,5 +170,11 @@
     "DESCRIPTIONS": [
       "+5 % au score par Niveau d'Ascension."
     ]
+  },
+  "Heartbreaker": {
+    "NAME": "Heartbreaker",
+    "DESCRIPTIONS": [
+      "Defeat the Heart."
+    ]
   }
 }
