@@ -119,14 +119,14 @@
       "Le bleu est ma couleur préférée. NL Et vous ?"
     ],
     "OPTIONS": [
-      "How did I get here? NL Beats me.",
-      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "Comment suis-je arrivé ici ? NL Je n'en reviens pas.",
+      "Dernière chance d'acheter quelque chose ! NL ~*cligne*~ ~*cligne*~",
       "..... NL .... NL .........",
-      "I'm a cat person.",
-      "No rush. NL No rush.",
-      "Now isn't this @exciting!?@",
-      "I used to be like you.",
-      "Heading up?"
+      "J'aime les chats.",
+      "Pas de précipitation. NL Du calme.",
+      "Tout cela n'est-il pas @excitant@ @!?@",
+      "Avant, j'étais comme vous.",
+      "Vous montez ?"
     ]
   },
   "Shop Screen": {
@@ -167,7 +167,7 @@
   },
   "Defect": {
     "NAMES": [
-      "Le Défectueux (?)"
+      "Le Défectueux"
     ],
     "TEXT": [
       "Un ancien robot de combat qui a développé une conscience propre. NL Une technologie antique lui permet de manipuler les Orbes."
@@ -176,9 +176,9 @@
   "PostCreditsNeow": {
     "NAMES": [],
     "TEXT": [
-      "Now... what..? NL ..has it been... done....?",
-      "...the Spire sleeps.....",
-      "..and so...... shall... NL ....I......"
+      "Et maintenant... quoi...? NL ...Est-ce... la fin....?",
+      "...la tour dort.....",
+      "...et je vais...... faire... NL ....de même......"
     ]
   }
 }

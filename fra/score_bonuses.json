@@ -1,10 +1,10 @@
 {
   "Beyond Elites Killed": {
-    "NAME": "Élites de l'Au-Delà Tués",
+    "NAME": "Élites de l'Au-Delà tués",
     "DESCRIPTIONS": []
   },
   "Bosses Slain": {
-    "NAME": "Boss Occis",
+    "NAME": "Boss occis",
     "DESCRIPTIONS": []
   },
   "City Elites Killed": {
@@ -28,7 +28,7 @@
     ]
   },
   "Beyond Perfect": {
-    "NAME": "Plus que Parfait",
+    "NAME": "Plus que parfait",
     "DESCRIPTIONS": [
       "Vaincre 3 boss sans prendre de dégâts."
     ]
@@ -70,19 +70,19 @@
     ]
   },
   "Money Money": {
-    "NAME": "Money Money",
+    "NAME": "Plein les poches",
     "DESCRIPTIONS": [
       "Amasser 1.000 d'or."
     ]
   },
   "Raining Money": {
-    "NAME": "Il Pleut de l'Or",
+    "NAME": "Il pleut de l'or",
     "DESCRIPTIONS": [
       "Amasser 2,000 d'or."
     ]
   },
   "I Like Gold": {
-    "NAME": "J'aime l'Or",
+    "NAME": "J'aime l'or",
     "DESCRIPTIONS": [
       "Amasser 3,000 d'or."
     ]
@@ -154,13 +154,13 @@
     ]
   },
   "Mystery Machine": {
-    "NAME": "Machine Mystère",
+    "NAME": "Machine mystère",
     "DESCRIPTIONS": [
       "Visiter au moins 15 pièces ?."
     ]
   },
   "On My Own Terms": {
-    "NAME": "Selon Mes Conditions",
+    "NAME": "Selon mes conditions",
     "DESCRIPTIONS": [
       "Se tuer."
     ]
@@ -172,9 +172,9 @@
     ]
   },
   "Heartbreaker": {
-    "NAME": "Heartbreaker",
+    "NAME": "Briseur de cœur",
     "DESCRIPTIONS": [
-      "Defeat the Heart."
+      "Tuez le Cœur."
     ]
   }
 }

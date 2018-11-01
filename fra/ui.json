@@ -224,7 +224,7 @@
       "Pas assez #rd'Énergie.",
       "Pas assez de #rCharge.",
       "Je ne peux pas jouer NL cette carte.",
-      "Beta Art"
+      "Dessin de développement"
     ]
   },
   "MasterDeckViewScreen": {
@@ -237,14 +237,14 @@
     "TEXT": [
       "Tutoriels",
       "Souhaitez-vous voir des indices lorsque vous jouez ?",
-      "Niveau 1",
-      "Exorde",
-      "Niveau 2",
+      "Acte 1",
+      "L'Exorde",
+      "Acte 2",
       "La ville",
-      "Niveau 3",
+      "Acte 3",
       "L'au-delà",
-      "Niveau ?",
-      "???",
+      "Acte 4",
+      "La fin",
       "Cliquez n'importe où pour continuer"
     ]
   },
@@ -749,10 +749,10 @@
       "Ajoutez une carte à votre deck",
       "",
       "Choisissez une carte",
-      "Emerald Key",
-      "Sapphire Key",
-      "Linked",
-      "Obtaining this will remove ",
+      "Clé émeraude",
+      "Clé saphir",
+      "Lié",
+      "Obtenir ceci vous fera perdre ",
       "."
     ]
   },
@@ -1259,7 +1259,7 @@
       "(Déprécié) Malabar enflammé",
       "(Déprécié) Esclavagiste et parasite",
       "(Déprécié) Geckobra et mystiques",
-      "Shield and Spear"
+      "Bouclier et lance"
     ]
   },
   "Period": {
@@ -1269,38 +1269,38 @@
   },
   "Recall Option": {
     "TEXT": [
-      "Recall",
-      "Obtain the Ruby Key."
+      "Se rappeler",
+      "Obtenez la clé rubis."
     ]
   },
   "TheEnding": {
     "TEXT": [
-      "The Ending"
+      "La fin"
     ]
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Ironclad Beta Card Art Unlocked!",
-      "The Silent Beta Card Art Unlocked!",
-      "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!"
+      "Dessins de développement déverouillés pour le Soldat de fer !",
+      "Dessins de développement déverouillés pour la Sliencieuse !",
+      "Dessins de développement déverouillés pour le Défectueux !",
+      "Dessins de développement déverouillés pour tous les personnages !"
     ]
   },
   "VictoryScreen": {
     "TEXT": [
-      "Proceed",
-      "Floors Climbed",
-      "Bosses Defeated",
-      "Play Time",
+      "Continuer",
+      "Étages terminés",
+      "Boss tués",
+      "Temps de jeu",
       "Score",
-      "Unlock",
-      "Unlocks Remaining: ",
-      "Unlock Remaining: ",
-      "Enemies Slain",
-      "Elites Killed",
-      "Unspent Gold",
-      "HP Bonus",
-      "Victory!"
+      "Déverouillé",
+      "À déverouiller : ",
+      "À déverouiller : ",
+      "Ennemis tués",
+      "Élites tués",
+      "Argent non dépensé",
+      "Bonus de PV",
+      "Victoire !"
     ]
   }
 }

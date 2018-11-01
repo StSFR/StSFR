@@ -986,28 +986,28 @@
     ]
   },
   "Surrounded": {
-    "NAME": "Surrounded",
+    "NAME": "Entouré",
     "DESCRIPTIONS": [
-      "Receive #b50% more damage if attacked from behind. Use targeting cards or potions to change your orientation."
+      "Recevez #b50% de dégâts supplémentaires quand vous êtes attaqué dans le dos. Utilisez des cartes ou des potions pour changer votre orientation."
     ]
   },
   "Invincible": {
     "NAME": "Invincible",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "Limite TOUS les dégâts pris et les PV perdus à #b100."
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "Pulsation de la mort",
     "DESCRIPTIONS": [
-      "Whenever you play a card, take #b",
-      " damage."
+      "Chaque fois que vous jouez une carte, recevez #b",
+      " dégât(s)."
     ]
   },
   "BackAttack": {
-    "NAME": "Back Attack",
+    "NAME": "Attaque dans le dos",
     "DESCRIPTIONS": [
-      "Deals #b50% more damage as it is attacking you from behind."
+      "Inflige #b50% de dégâts supplémentaires quand il vous attaque dans le dos."
     ]
   }
 }
