@@ -642,7 +642,7 @@
       "NL Vous préparez vos dagues...",
       "NL Vous chargez intégralement votre noyau...",
       "Vous vous demandez : ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici~ ~?\"~",
-      " NL Le cœur bat de plus en plus fort tandis que vous #y~perdez~ #y~peu~ #y~à~ #y~peu~ #y~connaissance...~",
+      " NL Le cœur bat de plus en plus fort tandis que vous #p~perdez~ #p~peu~ #p~à~ #p~peu~ #p~connaissance...~",
       " NL Une #y@énergie@ soudaine émane depuis l'intérieur de votre corps, vous #b@réveillant@ en sursaut.",
       " NL Le cœur se #greplie vers le haut ! Il laisse place à une grande porte."
     ],
@@ -650,7 +650,7 @@
       "[Continuer]",
       "[Attaquer] #b???",
       "[Dormir]",
-      "[S'Approcher de la porte]"
+      "[S'approcher de la porte]"
     ]
   },
   "The Joust": {

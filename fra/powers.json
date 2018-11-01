@@ -988,7 +988,7 @@
   "Surrounded": {
     "NAME": "Entouré",
     "DESCRIPTIONS": [
-      "Recevez #b50% de dégâts supplémentaires quand vous êtes attaqué dans le dos. Utilisez des cartes ou des potions pour changer votre orientation."
+      "Recevez #b50% de dégâts supplémentaires quand vous êtes attaqué par derrière. Utilisez des cartes ou des potions pour changer votre orientation."
     ]
   },
   "Invincible": {
@@ -1005,9 +1005,9 @@
     ]
   },
   "BackAttack": {
-    "NAME": "Attaque dans le dos",
+    "NAME": "Attaque par derrière",
     "DESCRIPTIONS": [
-      "Inflige #b50% de dégâts supplémentaires quand il vous attaque dans le dos."
+      "Inflige #b50% de dégâts supplémentaires quand il vous attaque par derrière."
     ]
   }
 }
