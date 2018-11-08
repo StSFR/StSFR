@@ -614,8 +614,8 @@
     "NAME": "Pierre philosophale",
     "FLAVOR": "Une énergie pure émane de la pierre et amplifie la puissance de tous ceux qui s'en approchent.",
     "DESCRIPTIONS": [
-      " au début de chaque tour. TOUS les ennemis commencent avec #b2 de #yForce.",
-      "Gagnez [E]"
+      "Gagnez [E] au début de chaque tour. TOUS les ennemis commencent avec #b",
+      " de #yForce."
     ]
   },
   "Prayer Wheel": {
