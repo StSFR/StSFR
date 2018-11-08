@@ -66,7 +66,8 @@
   "LOC_ZHS": {
     "HEADER": "Traduction en chinois (simplifié)",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {
@@ -172,6 +173,8 @@
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
       "Alexandr \"LiaNdrY\" Mazistov",
+      "Shop Asset Translation:",
+      "Urist McFerrum",
       "Shop Asset Translation:",
       "Urist McFerrum"
     ]

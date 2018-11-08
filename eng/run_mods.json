@@ -162,5 +162,9 @@
   "Daily Mods": {
     "NAME": "Daily Mods",
     "DESCRIPTION": "Embark on a run with exactly 3 random Daily Mods."
+  },
+  "The Ending": {
+    "NAME": "The Ending",
+    "DESCRIPTION": "Enables the Final Act."
   }
 }
