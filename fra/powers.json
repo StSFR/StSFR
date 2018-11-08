@@ -984,5 +984,30 @@
     "DESCRIPTIONS": [
       "Change son intention quand il reçoit des dégâts d'attaque."
     ]
+  },
+  "Surrounded": {
+    "NAME": "Entouré",
+    "DESCRIPTIONS": [
+      "Recevez #b50% de dégâts supplémentaires quand vous êtes attaqué par derrière. Utilisez des cartes ou des potions pour changer votre orientation."
+    ]
+  },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Limite TOUS les dégâts pris et les PV perdus à #b100."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Pulsation de la mort",
+    "DESCRIPTIONS": [
+      "Chaque fois que vous jouez une carte, recevez #b",
+      " dégât(s)."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Attaque par derrière",
+    "DESCRIPTIONS": [
+      "Inflige #b50% de dégâts supplémentaires quand il vous attaque par derrière."
+    ]
   }
 }

@@ -223,7 +223,8 @@
       "Je suis #rEnchevêtré ! NL Je ne peux pas jouer d'Attaque.",
       "Pas assez #rd'Énergie.",
       "Pas assez de #rCharge.",
-      "Je ne peux pas jouer NL cette carte."
+      "Je ne peux pas jouer NL cette carte.",
+      "Dessin de développement"
     ]
   },
   "MasterDeckViewScreen": {
@@ -236,14 +237,14 @@
     "TEXT": [
       "Tutoriels",
       "Souhaitez-vous voir des indices lorsque vous jouez ?",
-      "Niveau 1",
-      "Exorde",
-      "Niveau 2",
+      "Acte 1",
+      "L'Exorde",
+      "Acte 2",
       "La ville",
-      "Niveau 3",
+      "Acte 3",
       "L'au-delà",
-      "Niveau ?",
-      "???",
+      "Acte 4",
+      "La fin",
       "Cliquez n'importe où pour continuer"
     ]
   },
@@ -747,7 +748,12 @@
       " Or",
       "Ajoutez une carte à votre deck",
       "",
-      "Choisissez une carte"
+      "Choisissez une carte",
+      "Clé émeraude",
+      "Clé saphir",
+      "Lié",
+      "Obtenir ceci vous fera perdre ",
+      "."
     ]
   },
   "AbstractCard": {
@@ -1252,12 +1258,49 @@
       "Élu et adepte",
       "(Déprécié) Malabar enflammé",
       "(Déprécié) Esclavagiste et parasite",
-      "(Déprécié) Geckobra et mystiques"
+      "(Déprécié) Geckobra et mystiques",
+      "Bouclier et lance"
     ]
   },
   "Period": {
     "TEXT": [
       "."
+    ]
+  },
+  "Recall Option": {
+    "TEXT": [
+      "Se rappeler",
+      "Obtenez la clé rubis."
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "La fin"
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Dessins de développement déverouillés pour le Soldat de fer !",
+      "Dessins de développement déverouillés pour la Sliencieuse !",
+      "Dessins de développement déverouillés pour le Défectueux !",
+      "Dessins de développement déverouillés pour tous les personnages !"
+    ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Continuer",
+      "Étages terminés",
+      "Boss tués",
+      "Temps de jeu",
+      "Score",
+      "Déverouillé",
+      "À déverouiller : ",
+      "À déverouiller : ",
+      "Ennemis tués",
+      "Élites tués",
+      "Argent non dépensé",
+      "Bonus de PV",
+      "Victoire !"
     ]
   }
 }

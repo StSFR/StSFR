@@ -1,4 +1,160 @@
 Updates for Translators!
+10-30-2018
+ui.json
+	"BetaArtUnlockEffect": {
+		"Ironclad Beta Card Art Unlocked!",
+		"The Silent Beta Card Art Unlocked!",
+		"Defect Beta Card Art Unlocked!",
+		"All Beta Card Art Unlocked!"
+
+10-29-2018
+credits.json (adding a name)
+	"LOC_DEU"
+		"Dustin \"Skrelpoid\" Kristen",
+		"Jonas Trodler",
+		->
+		"Dustin \"Skrelpoid\" Kristen",
+		"Christoph \"Deknud\" Hartmann",
+		"Jonas Trodler",
+
+----------------------------------
+
+10-28-2018
+achievements.json
+	"AchievementGrid"
+		"Ruby+",
+		"Emerald+",
+		"Sapphire+",
+		"The Ending"
+	"TEXT"
+		"Complete the Ending with the Ironclad.",
+		"Complete the Ending with the Silent.",
+		"Complete the Ending with the Defect.",
+		"Complete the Ending with the Ironclad, Silent, and Defect."
+
+characters.json
+	"PostCreditsNeow"
+		"Now... what..? NL ..has it been... done....?",
+		"...the Spire sleeps..... NL So...... shall...",
+		"..I......."
+	"Merchant"
+		"OPTIONS"
+			"How did I get here? NL Beats me.",
+			"Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+			"..... NL .... NL .........",
+			"I'm a cat person.",
+			"No rush. NL No rush.",
+			"Now isn't this @exciting!?@",
+			"I used to be like you.",
+			"Heading up?"
+
+events.json
+	"Spire Heart"
+		"You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
+		" NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
+		" NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
+		" NL The heart #gretreats upwards! A large door is revealed in its place."
+
+		"OPTIONS"
+			"[Approach Door]"
+
+monsters.json
+	"SpireSpear"
+	"SpireShield"
+
+potions.json
+	"SmokeBomb"
+		"I'm Surrounded!"
+
+powers.json
+	"BeatOfDeath"
+		"Whenever you play a card, take #b",
+		" damage and increase this powers damage by #b1. Resets every turn."
+	"Invincible"
+		"Caps ALL damage and HP loss taken to #b100."
+	"Surrounded"
+		"Receive #b50% more damage if attacked from behind. Use targetting cards or potions to change your orientation."
+	"BackAttack"
+		"Deals #b50% more damage as it is attacking you from behind."
+
+score_bonuses.json
+	"Heartbreaker"
+		"Defeat the Heart."
+
+ui.json
+	"RunHistoryMonsterNames"
+		"Shield and Spear"
+	"SingleCardViewPopup"
+		"Beta Art"
+	"Recall Option"
+		"Recall",
+		"Obtain the Ruby Key."
+	"VictoryScreen"
+		"Proceed",
+		"Floors Climbed",
+		"Bosses Defeated",
+		"Play Time",
+		"Score",
+		"Unlock",
+		"Unlocks Remaining: ",
+		"Unlock Remaining: ",
+		"Enemies Slain",
+		"Elites Killed",
+		"Unspent Gold",
+		"HP Bonus",
+		"Victory!"
+	"TheEnding"
+		"RewardItem"
+		"Emerald Key",
+		"Sapphire Key",
+		"Linked",
+		"Obtaining this will remove ",
+		"."
+
+----------------------------------
+
+10-23-2018
+events.json
+	"WeMeetAgain"
+		"\" @Aaaaagghh!!@ What a jerk you are sometimes! NL He runs away.",
+		->
+		"\" @Aaaaagghh!!@ What a jerk you are sometimes!\" NL He runs away.",
+
+----------------------------------
+
+10-22-2018
+relics.json
+	"Preserved Insect"
+		"Enemies in Elite rooms have #b",
+		->
+		"Enemies in Elite combats have #b",
+
+run_mods.json
+	"MonsterHunter": {
+		"NAME": "Colossus ",
+		->
+		"NAME": "Colossus",
+
+events.json
+	"Ghosts" (see eng/events.json for placement)
+		"",
+		->
+		"[Accept] #gReceive #g3 Apparition. #rLose #r",
+
+----------------------------------
+
+10-19-2018
+powers.json
+	"Compulsive"
+		"NAME": "Compulsive"
+		->
+		"NAME": "Reactive"
+
+		"Upon receiving attack damage, changes its Intent."
+		->
+		"Upon receiving attack damage, changes its intent."
+
+----------------------------------
 
 10-17-2018
 events.json
@@ -7,6 +163,7 @@ events.json
 		->
 		" A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
 
+----------------------------------
 
 10-16-2018
 powers.json
@@ -964,1540 +1121,3 @@ powers.json
 		"  at the start of your turn."
 	"NoBlockPower"
 	"Mayhem"
-
-----------------------------------
-
-06-29-2018
-relics.json
-	"NlothsMask" (Rework + Rename)
-	"GremlinMask"
-	"CultistMask"
-events.json
-	"FaceTrader" (overhaul)
-
-----------------------------------
-
-06-27-2018
-run_mods.json
-	"Inception"
-	"My True Form"
-	"One Hit Wonder"
-	"Praise Snecko"
-	"Starter Deck"
-
-----------------------------------
-
-06-26-2018
-cards.json
-	(All of these are to allow optional UPGRADE_DESCRIPTION. For most languages, just copy/paste the DESCRIPTION into UPGRADE_DESCRIPTION)
-	"Heavy Blade"
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
-	"Offering"
-		"UPGRADE_DESCRIPTION": "Lose 4 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
-	"Pummel"
-		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
-	"Reprogram"
-		"UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
-
-ui.json
-	"CustomModeScreen" (New Screen!)
-	"MenuPanels"
-		"Endless",
-		"Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
-		->
-		"Custom",
-		"Customize your own run with unique modifiers."
-
-events.json
-	"Mysterious Sphere"
-		"[Open Sphere] #rFight. #gReward: #gRelic.", ->
-		"[Open Sphere] #rFight. #gReward: #gRare #gRelic.",
-
-run_mods.json
-	"Endless"
-
-----------------------------------
-
-06-20-2018
-events.json
-	NOTE: This event's text is not yet finalized
-	"FaceTrader"
-relics.json
-	"SsserpentHead"
-	"FaceOfCleric"
-	"NlothsMask"
-ui.json
-	"AscensionUnlockEffect"
-	"InputSettingsScreen"
-		"Controller Enabled"
-
-----------------------------------
-		
-06-19-2018
-credits.json
-	"Fissh" (See eng.json for proper order)
-
-----------------------------------
-
-06-18-2018
-relics.json
-	"Circlet"
-		"Looks pretty." ->
-		"Collect as many as you can."
-
-blights.json
-	"TwistingMind"
-		"Transformation!"
-	"Accursed"
-		"Upon pickup, obtain #b", ->
-		"Whenever you defeat a Boss, obtain #b",
-	"Scatterbrain"
-		"Upon pickup, obtain #b",
-		" random cards.",
-		->
-		"Draw #b",
-		" less card a turn.",
-	"TimeMaze"
-		"Enemies have the Time Maze power." (REMOVED)
-		"You cannot play more than #b",
-		" cards per turn.",
-		"I can only play up to NL #r"
-	"TwistingMind"
-		"Upon pickup, #yTransform #b",
-		" cards.",
-		"Transformation!"
-		->
-		"At the end of your turn, add #b",
-		" random Status card to the top of your draw pile.",
-
-	"MimicInfestation"
-		"Treasure rooms in future acts are replaced by Elites."
-	"FullBelly"
-		NAME: "Muzzle"
-		"You can no longer increase your Max HP. All healing is halved."
-	"GrotesqueTrophy"
-		"Upon pickup, obtain #b",
-		" #rPrides.",
-		"Your Pride is twisted..."
-	"BlightedDurian"
-		"Post-Durian"
-		"Lose #b",
-		"% of your Max HP."
-	"VoidEssence" (This name is a Stardew Valley reference)
-		"Gain 1 less [R] at the start of each turn.",
-		"Gain 1 less [G] at the start of each turn.",
-		"Gain 1 less [B] at the start of each turn."
-	"GraspOfShadows"
-		"Hauntings"
-		"Enemies start combat with #b",
-		" #yIntangible."
-	"MetallicRebirth"
-		"Ancient Augmentation"
-		"Enemies start combat with #b",
-		" #yArtifact, #b",
-		" #yPlated #yArmor, and #b",
-		" #yRegenerate."
-
-cards.json
-	"Pride"
-		"Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
-
-ui.json
-	"BossRelicSelectScreen"
-		"Choose a Blight"
-
-events.json
-	"Falling"
-		OPTIONS
-		"You seem to fall as slow as a feather, reaching the bottom without a scratch."
-		DESCRIPTIONS
-		"[Land] "
-
-----------------------------------
-
-06/13/2018
-ui.json
-	"MenuPanels"
-		"", ->
-		"Win a Daily Climb to unlock this game mode.",
-		"Climb a Spire that never ends."
-		"Winning will return you to Exordium with the same deck. \n\nBeware, the blight eventually consumes all..."
-relics.json
-	"Astrolabe"
-	"Bottled Flame"
-	"Bottled Lightning"
-	"Bottled Tornado"
-	"Cauldron"
-	"Frozen Egg"
-	"Lee's Waffle"
-	"Mango"
-	"Old Coin"
-	"Pear"
-	"Potion Belt"
-	"Prayer Wheel"
-	"Tiny House"
-	"War Paint"
-	"Empty Cage"
-		"Upon pick up" ->
-		"Upon pickup"
-events.json
-	"SensoryStone"
-		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...", ->
-		"#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
-ui.json
-	"AscensionModeDescriptions"
-		"Less Potion Slots.",
-		"Fewer Potion Slots.",
-blights.json
-	"DeadlyEnemies"
-		"NAME": "Deadly Enemies", ->
-		"NAME": "Spear of Blight",
-	"ToughEnemies"
-		"NAME": "Tough Enemies", ->
-		"NAME": "Shield of Blight",
-
-----------------------------------
-
-06/12/2018
-relics.json
-	(Please reference the english version for the correct flavor/description!)
-	"Empty Cage"
-	"Incense Burner"
-	"Fusion Hammer"
-	"Coffee Dripper"
-blights.json
-	"Accursed"
-	"TwistingMind"
-	"Scatterbrain"
-monsters.json
-	"Serpent"
-		"NAME": "Serpent", ->
-		"NAME": "Spire Growth",
-characters.json
-	"Neow Event"
-		"Bloat!", ->
-		"Scatterbrain!",
-events.json
-	"The Nest"
-		"[Stay in Line] #gObtain Ritual Dagger. #rDowngrade ",
-		".",
-		"[Smash and Grab] #gObtain #g150 #gGold.",
-		"[Locked] Requires: Upgraded Card.",
-		->
-		"[Stay in Line] #gObtain Ritual Dagger. #rLose #r",
-		" #rHP.",
-		"[Smash and Grab] #gObtain #g",
-		" #gGold.",
-
-----------------------------------
-
-06/11/2018
-ui.json
-	"InputSettingsScreen"
-		Too many changes to list.
-		Please update to match eng/ui.json -> "InputSettingsScreen"
-	"MenuPanels"
-		"Endless",
-		"Climb a Spire that never ends."
-	"AbstractDungeon"
-		"Blights:"
-characters.json
-	"Neow Event"
-		"~Let's~ ~keep~ ~going...~"
-		"~It~ ~only~ ~gets~ ~harder...~"
-		"~Impressive...~ ~More...~"
-		"Cursed!"
-		"Bloat!"
-		"Transformation!"
-blights.json (NEW!)
-	"DeadlyEnemies"
-	"ToughEnemies"
-	"TimeMaze"
-
-----------------------------------
-
-06/07/2018
-powers.json
-	"Storm"
-		"Whenever you play a #bPower, #yChannel #b ",
-		" Lightning." ->
-		"Whenever you play a #bPower, #yChannel #b",
-		" #yLightning."
-events.json
-	"Nest"
-		"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.", ->
-		"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
-
-----------------------------------
-
-06/06/2018
-events.json
-	"Ghosts"
-		"[Accept] #gObtain #g5 #gApparition. #rLose #r", ->
-		"[Accept] #gObtain #g5 Apparition. #rLose #r",
-	"Vampires"
-		"[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r", ->
-		"[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
-		"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.", ->
-		"] #gRemove #gall Strikes. #gObtain #g5 Bites.",
-	"Addict"
-		"[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.", ->
-		"[Give JAX] #gReceive #ga #gRelic. #rLose J.A.X.",
-	"Winding Halls"
-		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r", ->
-		"[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
-	"Nest" NOTE: There's 6 elements in DESCRIPTIONS now! (was 5)
-		"DESCRIPTIONS"
-			"Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
-			"You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
-			"Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
-			->
-			"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.",
-			"Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
-			"You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
-			"They didn't even notice.",
-		"OPTIONS"
-			"[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r", ->
-			"[Stay in Line] #gObtain #gRitual #gDagger. #rDowngrade #r",
-			Added new option:
-			"[Continue]"
-
-cards.json
-	"Conserve Battery"
-		"NAME": "Conserve Battery", ->
-		"NAME": "Charge Battery",
-
-credits.json
-	"LOC_SRB"
-		"Nikola \"hauzer\" Vukosavljević"
-		"Nikola \"hauzer\" Vukosavljevic"
-	"LOC_DEU"
-		Added new name:
-		"koykoy13"
-	
-----------------------------------
-
-06/05/2018
-events.json
-	"Mind Bloom"
-		(TYPO) 
-		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #g Rare #gRelic.", ->
-		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.", 
-relics.json
-	"Busted Crown"
-		"On Card Reward screens, you have #b2 fewer #ycards to choose from.", ->
-		"On Card Reward screens, you have #b2 fewer cards to choose from.",
-	"Question Card"
-		"On future Card Reward screens you have #y1 #yadditional #ycard to choose from."
-		"On future Card Reward screens you have #y1 additional card to choose from."
-ui.json
-	"AscensionModeDescriptions"
-		"Potions are less potent.", ->
-		"Less Potion Slots.",
-	
-----------------------------------
-
-06/04/2018
-events.json (NOTE: events.json in the english folder for up-to-date translations on these!)
-	"Nest" (The text used for this event will most likely be reworked)
-	"MindBloom" (The text used for this event is mostly finished)
-
-relics.json
-	"Busted Crown" (new relic)
-	"Mark of the Bloom" (new relic)
-
-	"Runic Pyramid"
-		"At the end of your turn, you no longer discard your hand. NL Draw #b",
-		" less card each turn."
-		->
-		"At the end of your turn, you no longer discard your hand.",
-		""
-
-cards.json
-	"RitualDagger" (new card)
-
-achievements.json
-	"Beat the game with a deck of only common cards." ->
-    "Beat the game with a deck containing no uncommons or rares."
-
-    "The Transient" (new achievement)
-    "Defeat the Transient before it fades away."
-
-powers.json
-	"EnergizedBlue"
-
-ui.json
-	"LanguageDropdown"
-		"Greek"
-
-credits.json
-	"LOC_GRE" (Greek!)
-	
-----------------------------------
-
-05/31/2018
-credits.json
-	"LOC_RUS"
-		"Shop Asset Translation:",
-achievements.json
-	"The Transient"
-	"Defeat the Transient before it fades away."
-relics.json
-	"Runic Pyramid"
-		"At the end of your turn, you no longer discard your hand. NL Draw #b",
-		" less card each turn."
-		->
-		"At the end of your turn, you no longer discard your hand.",
-		""
-		
-----------------------------------
-
-05/30/2018 #2:
-ui.json
-	"InputSettingsScreen"
-		"Confirm" -> "Confirm Card"
-		"Master Deck" -> "View Deck"
-		"Up",
-		"Tab Right"
-		"Down",
-		"Select",
-		"End Turn / Info",
-		"Tab Left",
-
-----------------------------------
-
-05/30/2018:
-cards.json
-	"Electrodynamics" (Reworked again!)
- 		"DESCRIPTION": "Lightning now hits ALL enemies. NL Channel !M! Lightning.",
-		"UPGRADE_DESCRIPTION": ""
-powers.json
-	"Electro" (Reworked again!)
-		"#yLightning hits ALL enemies.",
-		"",
-		""
-
-----------------------------------
-
-05/29/2018:
-cards.json
-	"Electrodynamics"
-		"DESCRIPTION": "Evoked Lightning strikes twice.",
-		"UPGRADE_DESCRIPTION": "Evoked Lightning strikes !M! additional times."
-powers.json
-	  "Evoked #yLightning strikes twice.",
-      "Evoked #yLightning strikes #b",
-      " additional times."
-achievements.json
-	"My Lucky Day"
-	"Win a Daily Climb."
-ui.json
-	"CardRewardScreen"
-		"View Upgrade"
-
-----------------------------------
-
-05/28/2018:
-	achievements.json (no change, just issue reported)
-    	VERIFY: "Complete Ascension Level 10.", <- In case it is translated to something like reach Ascension level 10.
-    powers.json
-    	"Creative AI"
-    		"random Power cards into your hand."
-    events.json
-    	"Sensory Stone"
-    		"#b~UNKNOWN.~ NL NL Not yet implemented." ->
-			"#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
-    relics.json
-		"Bronze Scales"
-			"Whenever you take damage, deal #b", ->
-			"At the start of each combat, gain #b",
-			" damage back." ->
-			" #yThorns."
-
-----------------------------------
-
-05/24/2018v2:
-ui.json
-	"InputSettingsScreen"
-		"Drop Card" -> "Release Card"
-
-----------------------------------
-
-05/24/2018:
-tutorials.json
-	"Option Tip" (OSX -> macOS)
-		"Controller support incomplete for this screen." (This is used when a screen doesn't have controller support yet)
-		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.", ->
-		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
-ui.json
-	"AbstractCreature"
-		"Relics" (This is seen under relics in the top bar to let players know they can view relics via LB)
-achievements.json (These aren't in-game yet)
-	"AchievementGrid"
-		"Focused"
-		"Neon"
-		"Energy is Overrated"
-	"TEXT"
-		"Have 25 or more Focus during combat.",
-		"Channel 9 Plasma in a single turn.",
-		"Play 10 or more cost 0 cards in a single turn."
-ui.json
-	"CreditsScreen"
-		"to exit" (NOTE: There will be a button image on the left of this text)
-	"EarlyAccessPopup"
-		"Continue" (NOTE: There will be a button image on the left of this text)
-	"MainMenuScreen"
-		"to edit" (NOTE: There will be a button image on the left of this text)
-
-----------------------------------
-
-05/23/2018:
-cards.json
-	"Capacitor"
-		"DESCRIPTION": "Gain !M! Orb slot.", ->
-		"DESCRIPTION": "Gain !M! Orb slots.",
-
-----------------------------------
-
-05/22/2018:
-cards.json
-	"Compile Driver"
-	"Fission"
-credits.json
-	"LOC_UKR"
-
-----------------------------------
-
-05/21/2018:
-monsters.json
-	"Transient"
-powers.json
-	"Fading"
-	"Shifting"
-credits.json
-	"TEST"
-cards.json
-	"Core Surge"
-
-----------------------------------
-
-05/18/2018:
-ui.json
-	"RunHistoryPathNodes"
-		"#yPuchased:"
-
-----------------------------------
-
-05/17/2018:
-relics.json
-	"Lee's Waffle"
-		"Raise your Max HP by #b", ->
-		"Upon pick up, raise your Max HP by #b",
-	"Mango"
-		"Raise your Max HP by #b"
-		"Upon pick up, raise your Max HP by #b"
-	"Pear"
-		"Raise your Max HP by #b"
-		"Upon pick up, raise your Max HP by #b"
-	"Straberry"
-		"Raise your Max HP by #b"
-		"Upon pick up, raise your Max HP by #b"
-	"Boot"
-		An improvement was made but there is no change in relics.json
-		"Whenever you would deal 5 or less unblocked..." ->
-		"Whenever you would deal 4 or less unblocked..."
-
-----------------------------------
-
-05/16/2018:
-potions.json
-    "SneckoOil"
-        "card." (For Ascension)
-relics.json
-    "Potion Belt"
-        "Upon pick up, gain #b1 Potion slot." ->
-        "Upon pick up, gain #b2 Potion slots."
-    "Cauldron"
-        "When obtained, brews #b5 random potions.", ->
-        "Upon pick up, brews #b5 random potions.",
-    "Old Coin"
-        "Gain #b300 #yGold." ->
-        "Upon pick up, gain #b300 #yGold."
-    "Black Star"
-        "#yElites now drop #b2 #yRelics when defeated." ->
-        "#yElites drop an additional relic when defeated."
-ui.json
-    "RunHistoryPathNodes"
-        "#bRested",
-        "#bUpgraded %s",
-        "#bRemoved %s",
-        "#bDug",
-        "#bLifted %s/%s"
-
-----------------------------------
-
-05/15/2018:
-relics.json
-	"Boot"
-	"Prayer Wheel"
-achievements.json
-	"Common Sense"
-
-----------------------------------
-
-05/14/2018:
-potions.json
-	"Regen Potion"
-powers.json
-	"Regeneration"
-		NAME and DESCRIPTION
-	"Equilibrium"
-ui.json
-	"RunHistoryPathNodes"
-cards.json
-	"Undo"
-		Is now a card called Equilibrium
-	"Hologram"
-		Minor rework
-
-----------------------------------
-
-05/11/2018:
-ui.json
-	"RunHistoryPathNodes"
-		"Picked %s" -> "Picked:
-cards.json
-	"Electrodynamics"
-	"Steam"
-		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat." ->
-		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 1 this combat."
-		"Steam" ->
-		"Steam Barrier"
-	"Loop"
-		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb." ->
-		"DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb.",
-		"UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
-powers.json
-	"Electro"
-	"Loop"
-		"At the start of your turn, use the passive ability of your next #b",
-		" Orbs." ->
-		"At the start of your turn, use the passive ability of your next Orb #b",
-		" times."
-relics.json
-	"Potion Belt"
-
-----------------------------------
-
-05/10/2018:
-ui.json
-	"LanguageDropdown"
-		"Catalan"
-credits.json
-	"LOC_CAT"
-	"LOC_UKR"
-	"LOC_DEU"
-
-----------------------------------
-
-05/09/2018:
-cards.json
-	"Glass Knife"
-		"DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat." ->
-		"DESCRIPTION": "Deal !D! damage twice. This card's damage is lowered by 2 this combat."
-	"Steam"
-		"DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat." ->
-		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
-	"Steam Power"
-		"Quick Search" -> "Overclock"
-	"Seek" (Now has plurality!)
-		"DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
-	"FTL" (Updated to help with context)
-		"EXTENDED_DESCRIPTION"
-	"Finisher" (Updated to reduce wordiness)
-		"EXTENDED_DESCRIPTION"
-
-----------------------------------
-
-05/08/2018:
-run_mods.json
-"Brewmaster"
-    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
-    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
-potions.json
-	"Fairy Potion" -> "Fairy in a Bottle"
-	"AttackPotion"
-		"Add a random Attack card to your hand, it costs #b0."
-		"Add a random Attack card to your hand, it costs #b0 this turn."
-	"SkillPotion"
-		"Add a random Skill card to your hand, it costs #b0."
-		"Add a random Skill card to your hand, it costs #b0 this turn."
-	"PowerPotion"
-		"Add a random Power card to your hand, it costs #b0."
-		"Add a random Power card to your hand, it costs #b0 this turn."
-	"SneckoOil"
-		BEFORE:
-		"Draw #b",
-		" cards. Become #yConfused."
-		AFTER:
-		" Become #yConfused. Draw #b",
-		" cards."
-cards.json
-	"Chill"
-		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
-		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
-	"Wraith Form v2"
-		"DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity." ->
-		"DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
-	"Steam"
-	"Steam Power"
-		"Steam Power" ->
-		"Quick Search"
-
-----------------------------------
-
-05/07/2018v2:
-potions.json
-	"EntropicBrew"
-	"SneckoOil"
-		(fixed typo in description)
-		"cards. Become #yConfused." ->
-		" cards. Become #yConfused."
-
-----------------------------------
-
-05/07/2018:
-run_mods.json
-	"Brewmaster"
-	"Specialized"
-potions.json
-	"AttackPotion"
-	"BloodPotion"
-	"EssenceOfSteel"
-	"FairyPotion"
-	"FearPotion"
-	"FocusPotion"
-	"Fruit Juice"
-	"GamblersBrew"
-	"GhostInAJar"
-	"LiquidBronze"
-	"PowerPotion"
-	"SkillPotion"
-	"SmokeBomb"
-	"SneckoOil"
-	"SpeedPotion"
-	"SteroidPotion"
-powers.json
-	"DexLoss"
-keywords.json
-	"Thorns"
-ui.json
-	"AbstractRoom"
-		"Fled..."
-	"GamblingChipAction"
-		"Replace"
-
-----------------------------------
-
-05/02/2018:
-cards.json
-	"Lockon"
-		"DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy." -> "DESCRIPTION": "Deal !D! damage. NL For the next !M! turns, Lightning and Dark Orbs target this enemy."
-	"BootSequence" (New card)
-	"Nova"
-		"DESCRIPTION": "Deal damage to ALL enemies equal to three times the number of Powers played this combat.", -> "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
-		"UPGRADE_DESCRIPTION" is not used now.
-	"Blizzard"
-		"DESCRIPTION": "Deal damage equal to two times the Frost Channeled this combat to ALL enemies.", -> "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
-		"UPGRADE_DESCRIPTION" is not used now.
-
-powers.json
-	"Lockon"
-		"#yLightning and #yDark Orbs target this enemy for the next #b",
-		" turns.",
-		"#yLightning and #yDark Orbs target this enemy this turn."
-
-----------------------------------
-
-05/01/2018v2:
-ui.json
-	"DiscardPileToHandAction"
-
-----------------------------------	
-
-05/01/2018:
-cards.json
-	"Redo"
-		NAME: "Redo" -> "Recursion"
-
-----------------------------------	
-
-04/30/2018:
-tutorials.json
-	"Player Tips"
-		"I have no Orb slots."
-cards.json
-	"Consume"
-	"Lockon"
-	"Reprieve"
-	"Streamline"
-		"Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat." ->
-		"Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
-	"Scrape"
-		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way." ->
-		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
-	"Nova"
-		" NL Deals !D! damage." ->
-		" NL (Deals !D! damage)."
-credits.json
-	"LOC_SRB"
-powers.json
-	"Echo Form"
-ui.json
-	"ReprieveAction"
-	"RecycleAction"
-	"AnyCardFromDeckToHandAction"
-relics.json
-	"Inserter"
-		FLAVOR: "Push. Pull. Stack. Repeat."
-	"Symbiotic Virus"
-		FLAVOR typo fixes and removal of coloring.
-	"OddlySmoothStone" & "Data Disk" & "Vajra"
-		"At the start of each combat, gain #b", ->
-		"Start each combat with #b",
-
-----------------------------------
-
-04/27/2018:
-cards.json
-	"Echo Form"
-		DESCRIPTION
-		UPGRADE_DESCRIPTION
-	"Havoc"
-		exhaust -> Exhaust
-	"Darkness"
-		"DESCRIPTION": "Channel !M! Dark.",
-		"UPGRADE_DESCRIPTION": "Channel !M! Dark."
-	"Gash"
-		Renamed to "Claw"
-	"Scrape"
-		This is a new card!
-
-----------------------------------
-
-04/26/2018v2:
-tutorials.json
-	"Player Tips"
-		"#rMaximum Orb capacity has been met."
-		 
-----------------------------------
-
-04/26/2018:
-cards.json
-	"Ice Wall"
-		Descriptions now say Deprecated.
-	"Flux Capacitor"
-		Now exhausts: "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
-	"Rip and Tear"
-		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
-	"Genetic Algorithm"
-		Adding a newline for Exhaust.
-		"DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
-	"Blizzard"
-		Description updates.
-		"DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
-		"UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
-	"Thunder Strike"
-		EXTENDED_DESCRIPTION: " (Channeled !M! Lightning.)"
-relics.json
-	"Inserter"
-		Description was incorrect, placeholder inserted for now.
-	"Symbiotic Virus"
-		Typo fix: badbad
-		 "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
-		 
-----------------------------------
-
-04/25/2018:
-cards.json
-	"Fission"
-		Clarifying description a bit.
-	"Blizzard"
-		Reworked. Updates to both Description and Extended Description
-	"Blaster"
-		Now exhausts:
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
-	"Thunder Strike"
-		Reworked.
-		Extended Description removed.
-	"Overclock"
-		"Deprecated."
-	"Winter"
-		"Deprecated."
-	"Cache"
-		"Deprecated."
-	"Primitive Tech"
-		"Deprecated."
-	"Channel"
-		"Deprecated."
-ui.json
-	"CharacterOption"
-		"This character is unlocked by reaching the top of the Spire." -> "This character is unlocked by completing a run with the Silent"
-		 
-----------------------------------
-
-04/24/2018:
-achievements.json
-	"Sapphire"
-"CharStat"
-	"The Defect"
-cards.json
-	exhausted -> Exhausted (Keyword uppercasing)
-	Removed "Step Through Time"
-	Removed "Wraith Form"
-	New Cards:
-	"Aggregate"
-	"All For One"
-	"Allocate"
-	"Amplify"
-	"Auto Shields"
-	"Axe Kick"
-	"Ball Lightning"
-	"Barrage"
-	"Beam Cell"
-	"Biased Cognition"
-	"Blaster"
-	"Blizzard"
-	"Buffer"
-	"Cache"
-	"Capacitor"
-	"Channel"
-	"Chaos"
-	"Chill"
-	"Cold Snap"
-	"Conserve Battery"
-	"Coolheaded"
-	"Creative AI"
-	"Darkness"
-	"Defragment"
-	"Doom and Gloom"
-	"Double Energy"
-	"Dualcast"
-	"Echo Form"
-	"Energy Pulse"
-	"Fission"
-	"Flux Capacitor"
-	"FTL"
-	"Fusion"
-	"Gash"
-	"Genetic Algorithm"
-	"Glacier"
-	"Go for the Eyes"
-	"Heatsinks"
-	"Hello World"
-	"Hologram"
-	"Hyperbeam"
-	"Ice Wall"
-	"Impulse"
-	"Leap"
-	"Loop"
-	"Machine Learning"
-	"Magnetism"
-	"Melter"
-	"Meteor Strike"
-	"Multi-Cast"
-	"Nova"
-	"Overclock"
-	"Prime"
-	"Primitive Tech"
-	"Rainbow"
-	"Reboot"
-	"Rebound"
-	"Recycle"
-	"Redo"
-	"Reinforced Body"
-	"Reprogram"
-	"Rip and Tear"
-	"Seek"
-	"Self Repair"
-	"Skim"
-	"Stack"
-	"Static Discharge"
-	"Steam Power"
-	"Storm"
-	"Streamline"
-	"Sunder"
-	"Sweeping Beam"
-	"Tempest"
-	"Thunder Strike""Force Field"
-	"Turbo"
-	"Undo"
-	"White Noise"
-	"Winter"
-	"Zap"
-characters.json
-	"Defect"
-events.json
-	"Vampires"
-keywords.json
-	"CHANNEL"
-	"DARK"
-	"EVOKE"
-	"FOCUS"
-	"FROST"
-	"LIGHTNING"
-	"OPENER" (Unused)
-	"PLASMA"
-powers.json
-	"Dexterity" can now swap out "." in description
-	"Strength" can now swap out "." in description
-	"Conserve"
-	"Focus"
-	"Knowledge"
-	"StaticDischarge"
-	"Repair"
-	"Buffer"
-	"Echo Form"
-	"Heatsink"
-	"No Attack"
-	"Storm"
-	"Magnetism"
-	"Creative AI"
-	"Machine Learning"
-	"Bias"
-	"Prime"
-	"Rebound"
-	"Hello"
-	"Loop"
-relics.json
-	"Cracked Core"
-	"Inserter"
-	"Symbiotic Virus"
-	"Nuclear Battery"
-	"Cables"
-	"Emotion Chip"
-	"Runic Capacitor"
-	"Turnip"
-	"DataDisk"
-ui.json
-	"ReprogramAction"
-		"Discard"
-	"CacheAction"
-	"RunHistoryScreen"
-	"LeaderboardFilters"
-	"AbstractPlayer"
-	"CharacterSelectScreen"
-	"InputSettingsScreen"
-	"OptionsPanel"
-		"Game Menu" -> "Game Settings"
-		"Input Settings"
-	"Menu Panels"
-		"This feature is not yet available." -> "Change your controls and shortuct keys."
-	"InputKeyNames"
-		 
-----------------------------------
-	
-04/18/2018:
-ui.json
-	"DailyScreen"
-		"*Achievements are off for Daily Climb."
-	"SeedPanel"
-		"*Achievements and Leaderboards are disabled if a custom Seed is used."
-cards.json
-	"Crippling Poison"
-		 "DESCRIPTION": "Apply !M! Poison. NL Apply !M! Weak." ->
-		 "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust." 
-		 
-----------------------------------
-
-04/17/2018:
-relics.json
-	"On Card Reward screens you have #y1 #yadditional #ycard to choose from."
-	"On future Card Reward screens you have #y1 #yadditional #ycard to choose from."
-cards.json
-	"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add a Burn to your discard pile."
-
-----------------------------------
-
-04/16/2018:
-events.json
-	"Sensory Stone"
-		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sinks slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...", ->
-		"#g~TRIUMPH.~ NL NL The remains, of a #p~ghostly~ #p~creature,~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
-relics.json
-	"Astrolabe"
-		"Upon pickup, choose and #yTransform #b3 cards, then #yUpgrade them.",  -> "Upon pick up, choose and #yTransform #b3 cards, then #yUpgrade them.",
-
-----------------------------------
-
-04/12/2018:
-relics.json
-	"Pandora's Box"
-		"Pandoras Box has been opened..." -> "Pandora's Box has been opened..."
-
-----------------------------------
-
-04/11/2018:
-powers.json
-	"Wraith Form v2"
-events.json
-	"SensoryStone"
-		"heads towards a Spire" -> "heads towards the Spire"
-ui.json
-	"CardLibSortHeader"
-		"Cost"
-		"Jump To:"
-
-----------------------------------
-
-04/10/2018:
-cards.json
-	"Wraith Form v2"
-	"Immolate"
-	"Reckless Charge"
-
-keywords.json
-	"BURN"
-	"DAZED"
-
-----------------------------------
-
-04/09/2018:
-ui.json
-	"RunHistoryScreen"
-		"Custom Seed: %s"
-
-----------------------------------
-
-04/04/2018:
-ui.json
-	"RunHistoryScreen"
-	"CharacterSelectScreen"
-
-----------------------------------
-
-04/03/2018:
-run_mods.json
-	"Shiny"
-	
-----------------------------------
-
-04/02/2018:
-run_mods.json
-	"Diverse"
-	"All Star"
-characters.json
-	"Neow Event"
-
-----------------------------------
-
-3/28/2018:
-events.json
-	"SensoryStone"
-
-----------------------------------
-
-3/27/2018:
-run_mods.json
-	"Draft"
-events.json
-	"Council of Ghosts" (Typo, shouldn't affect loc)
-
-----------------------------------
-
-3/25/2018:
-powers.json
-    "Explosion"
-    "Intangible"
-    "Evolve"
-keywords.json
-    "INTANGIBLE"
-ui.json
-    "OptionsPanel"
-        "Show Card Quick Select Keys"
-cards.json
-    "Evolve"
-        "DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
-        "UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
-    "AscendersBane"
-        DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
-events.json
-    "SecretPortal"
-
-----------------------------------
-
-3/23/2018:
-cards.json
-	"AscendersBane"
-events.json
-	"Council of Ghosts"
-
-----------------------------------
-
-3/22/2018:
-cards.json
-	"Ghostly"
-events.json
-	No need to localize "Ghosts" yet.
-
-3/21/2018:
-cards.json
-	"AscendersBane"
-	"Slimed"
-	"Void"
-	"Underhanded Strike"
-ui.json
-	"AscensionModeDescriptions"
-		"Parasite!" -> "Start each run cursed."
-	"RunHistoryPathNodes"
-
-----------------------------------
-
-3/20/2018:
-credits.json
-	"LOC_FRA"
-
-----------------------------------
-
-3/19/2018:
-ui.json
-	"AttackFromDeckToHandAction"
-	"RunHistoryPathNodes"
-powers.json
-	"Explosive"
-cards.json
-	"All Out Attack"
-
-----------------------------------
-
-3/14/2018:
-cards.json
-	"Underhanded Strike"
-run_mods.json
-	"Time Dilation"
-	"Hoarder"
-powers.json
-	"Explosive"
-
-----------------------------------
-
-3/12/2018:
-cards.json
-	"Underhanded Strike"
-
-----------------------------------
-
-3/06/2018:
-run_mods.json
-	"Time Dilation"
-	"Terminal"
-events.json
-	"Lady in Blue" (New Option)
-
-----------------------------------
-
-3/05/2018:
-run_mods.json
-	"Cursed Run"
-	"Elite Swarm" - name changed, description changed
-	"Lethality" - Old Lethal Enemies removed, please delete. 
-	"Night Terrors"
-	"Insanity" - Replaces old Restless Journey
-	"Uncertain Future" - name changed, description changed
-	"Vintage"
-
-----------------------------------
-
-3/02/2018:
-relics.json
-	"Question Card"
-ui.json
-	"DailyScreen"
-
-----------------------------------
-
-2/28/2018:
-relics.json
-	"Darkstone Periapt"
-	"War Paint"
-
-----------------------------------
-
-2/27/2018:
-run_mods.json
-	"Night Terrors" (wording)
-	"Uncertain Future"
-	"Binary"
-	"Midas"
-ui.json
-	"DailyScreen"
-keywords.json
-	(UNUSED_RESERVE are no longer necessary- add as many alternatives as you want!)
-
-----------------------------------
-
-2/26/2018:
-credits.json
-	"LOC_NOR"
-	"LOC_PTB"
-ui.json
-	"RunHistoryScreen"
-cards.json
-	"Jack of All Trades"
-events.json
-	"The Cleric"
-
-----------------------------------
-
-2/22/2018 #2:
-run_mods.json (Improvements, no change may be necessary)
-	"Heirloom"
-score_bonuses.json (Improvements, no change may be necessary)
-	"Librarian"
-	"Encyclopedian"
-ui.json
-	"LanguageDropdown"
-		Spelling error for Brazilian Portuguese
-		"Hungarian" added
-
-----------------------------------
-
-2/22/2018:
-characters.json (forgot to mention this one earlier!)
-	"Neow Event"
-ui.json
-	"DailyScreen"
-		"Modifiers: "
-
-----------------------------------
-
-2/21/2018 #2:
-ui.json
-	"LanguageDropdown"
-run_mods.json (wording updates to a few mods)
-
-----------------------------------
-
-2/21/2018:
-ui.json
-	"MenuPanels"
-	"MenuButtons"
-run_mods.json (many many changes)
-credits.json
-	"LOC_FRA"
-
-----------------------------------
-
-2/19/2018:
-relics.json
-	"Sozu"
-credits.json
-	"LOC_ITA"
-run_mods.json (New File! These are mods applied to the player for daily runs.)
-ui.json
-	"DailyScreen"
-
-----------------------------------
-
-2/16/2018:
-achievements.json (6 New Achievements)
-	"AchievementGrid"
-		"NAMES"
-		"TEXT"
-
-----------------------------------
-		
-2/15/2018:
-credits.json
-    "LOC_KOR"
-    "LOC_FRA"
-
-----------------------------------
-
-2/14/2018:
-credits.json
-	"SPECIAL"
-		"robojumper"
-ui.json
-	"OptionsPanel"
-powers.json
-	"Intangible"
-
-----------------------------------
-
-2/12/2018:
-tutorials.json
-	"Top Panel Tips"
-relics.json
-	"Tiny House"
-
-----------------------------------
-
-2/7/2018:
-ui.json
-	"CardRewardScreen"
-	"BossRelicSelectScreen"
-
-----------------------------------
-
-2/6/2018:
-credits.json
-	"Special Thanks" (was wrong in English)
-	"Voice Talent" (was wrong in English)
-	"LOC_ZHS"
-ui.json
-	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
-	"AscensionModeDescriptions"
-	"CharacterSelectScreen"
-relics.json
-	"Runic Cube" (Was buffed, penalty removed)
-	"Enchiridion"
-achievements.json
-	"CharStat"
-		"Highest Ascent: " -> "Highest Floor: "
-events.json
-	"Golden Shrine"
-		"[Pray] #gGain #g",
-		" #gGold.", <- The first option was separated into two lines
-		"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
-		"[Leave]"
-	"The Moai Head"
-		"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
-		" #rMax #rHP.", <- The first option was separated into two lines
-	"Winding Halls"
-		"...",
-		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
-		" #rHP.", <- This option was separated into two lines
-	"The Cleric"
-		"[Purify] #y",
-		" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.", <- This option was separated into two lines
-		"." <- Period!
-	"Cursed Tome"
-		"[Take] #gObtain #gthe #gBook. #rLose #r",
-		" #rHP.", <- This option was separated into two lines
-	"The Mausoleum"
-		"[Open Coffin] #gReceive #ga #gRelic. #r",
-		"%: #rBecome #rCursed #r- #rWrithe.", <- This option was separated into two lines
-		"[Leave]"
-	"The Woman in Blue"
-		" #yGold", -> " #yGold.", (Added a period!)
-
-----------------------------------
-
-2/5/2018:
-credits.json
-	There should be some folks credited for various language localization now :)
-ui.json
-	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
-relics.json
-	"Runic Cube" (Was buffed, penalty removed)
-	"Enchiridion"
-
-----------------------------------
-
-2/2/2018:
-credits.json
-	Overhauled! If you would like to credit yourself, please add yourself into the
-	appropritate language section and I will update that field for all the other languages. Thank you!
-ui.json
-	"CreditsScreen"
-	
-----------------------------------
-
-1/31/2018:
-cards.json
-	Removed "Spend all [R]" from all Cost X cards.
-	Malaise, Skewer, Whirlwind.
-
-----------------------------------
-
-1/30/2018v2:
-cards.json
-	"Warcry"
-
-----------------------------------
-
-1/30/2018:
-relics.json
-	Removed (BETA) from Toxic/Molten/Frozen Egg 2
-	"Singing Bowl"
-ui.json
-	"CardRewardScreen"
-	"RunHistoryScreen"
-cards.json
-	"Bite"
-
-----------------------------------
-
-1/29/2018:
-relics.json
-	"Toxic Egg 2"
-	"Frozen Egg 2"
-	"Molten Egg 2"
-ui.json
-	"AbstractCreature"
-monsters.json
-	Removed all instances of Stunned..., Stunned!, and Interrupted!
-
-----------------------------------
-
-1/26/2018:
-potions.json
-	"Ancient Potion"
-ui.json
-	"RunHistoryScreen"
-
-----------------------------------
-
-1/24/2018:
-ui.json
-	"AscensionTextEffect"
-		(This whole field is new)
-	"RunHistoryScreen"
-		(This whole field is new)
-	"MenuButton"
-		"Run History"
-	"CharacterSelectScreen"
-		"EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
-
-----------------------------------
-
-1/23/2018:
-powers.json
-	"Curl Up"
-		" #yBlock. (Once per combat)"
-ui.json
-	"MerchantImageTextNotInGame"
-		(This whole field is new)
-	"DeathScreenUi"
-		(This whole field is new)
-score_bonuses.json
-	"Ascension"
-powers.json
-	"Curl Up"
-		Updated to say "(Once per combat)"
-		
-----------------------------------
-
-1/22/2018:
-powers.json
-	"Curl Up"
-		" #yBlock. (Once per combat)"
-ui.json
-	"TopPanel"
-		" - Ascension ",
-    	" (Max Level)"
-    "AscensionModeDescriptions"
-     		(This whole field is new)
-    "CharacterSelectScreen"
-    	"Ascension Mode (Level ",
-    	")",
-    	"Ascension Mode"
-cards.json
-	"Mind Blast"
-		"EXTENDED_DESCRIPTION": [
-    		" NL (Deals !D! damage.)"
-   		]
-
-----------------------------------

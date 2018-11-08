@@ -640,12 +640,17 @@
       " NL Le cœur bat de plus en plus fort tandis que vous #y~perdez~ #y~peu~ #y~à~ #y~peu~ #y~connaissance...~",
       "NL Vous dégainez votre lame...",
       "NL Vous préparez vos dagues...",
-      "NL Vous chargez intégralement votre noyau..."
+      "NL Vous chargez intégralement votre noyau...",
+      "Vous vous demandez : ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici~ ~?\"~",
+      " NL Le cœur bat de plus en plus fort tandis que vous #p~perdez~ #p~peu~ #p~à~ #p~peu~ #p~connaissance...~",
+      " NL Une #y@énergie@ soudaine émane depuis l'intérieur de votre corps, vous #b@réveillant@ en sursaut.",
+      " NL Le cœur se #greplie vers le haut ! Il laisse place à une grande porte."
     ],
     "OPTIONS": [
       "[Continuer]",
       "[Attaquer] #b???",
-      "[Dormir]"
+      "[Dormir]",
+      "[S'approcher de la porte]"
     ]
   },
   "The Joust": {
@@ -862,7 +867,7 @@
       "\"Exquis ! Je me sentais desséché.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Il boit la potion en une fois et laisse échapper un @renvoi@ @satisfait.@",
       "\"Magnifique! Ça me sera très utile si je croise à nouveau la route de ces #rvoyous #masqués.\"",
       "\"Exemplaire! Je vais étudier cela plus en détail dans mes chambres.\"",
-      "\" @Aaaaagghh!!@ Quel brute vous êtes, parfois ! NL Il s'enfuit.",
+      "\" @Aaaaagghh!!@ Quel brute vous êtes, parfois !\" NL Il s'enfuit.",
       "  NL NL Il fouille dans ses poches... NL \"Tenez, regardez ce que j'ai pour vous aujourd'hui ! Prenez-le, prenez-le !\""
     ],
     "OPTIONS": [

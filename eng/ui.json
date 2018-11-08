@@ -490,8 +490,8 @@
       "The City",
       "Act 3",
       "The Beyond",
-      "Act ?",
-      "???",
+      "Final Act",
+      "The Ending",
       "Click Anywhere to Continue"
     ]
   },
@@ -882,6 +882,12 @@
       "put on top of your draw pile"
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Recall",
+      "Obtain the Ruby Key."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "Exhaust"
@@ -948,7 +954,12 @@
       " Gold",
       "Add a card to your deck",
       "",
-      "Choose a Card"
+      "Choose a Card",
+      "Emerald Key",
+      "Sapphire Key",
+      "Linked",
+      "Obtaining this will remove ",
+      "."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1030,7 +1041,8 @@
 	 "Chosen and Cultist",
 	 "(Deprecated) Flame Bruiser",
 	 "(Deprecated) Slaver and Parasite",
-	 "(Deprecated) Snecko and Mystics"
+	 "(Deprecated) Snecko and Mystics",
+	 "Shield and Spear"
     ]
   },
   "RunHistoryScreen": {
@@ -1120,7 +1132,8 @@
       "I'm #rEntangled! NL Can't play Attacks",
       "Not enough #rEnergy.",
       "Not enough #rCharge.",
-      "I can't play NL this card."
+      "I can't play NL this card.",
+      "Beta Art"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1165,6 +1178,11 @@
   "TheCity": {
     "TEXT": [
       "The City"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "The Ending"
     ]
   },
   "TipHelper": {
@@ -1255,9 +1273,34 @@
       "Delete this Save"
     ]
   },
+  "VictoryScreen": {
+    "TEXT": [
+      "Proceed",
+      "Floors Climbed",
+      "Bosses Defeated",
+      "Play Time",
+      "Score",
+      "Unlock",
+      "Unlocks Remaining: ",
+      "Unlock Remaining: ",
+      "Enemies Slain",
+      "Elites Killed",
+      "Unspent Gold",
+      "HP Bonus",
+      "Victory!"
+      ]
+  },
   "Period": {
     "TEXT": [
       "."
+    ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Ironclad Beta Card Art Unlocked!",
+      "The Silent Beta Card Art Unlocked!",
+      "Defect Beta Card Art Unlocked!",
+      "All Beta Card Art Unlocked!"
     ]
   }
 }

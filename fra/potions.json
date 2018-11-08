@@ -140,7 +140,8 @@
   "SmokeBomb": {
     "NAME": "Fumigène",
     "DESCRIPTIONS": [
-      "Échappez-vous de n'importe quel combat qui n'est pas de boss. Ne recevez aucune récompense."
+      "Échappez-vous de n'importe quel combat qui n'est pas de boss. Ne recevez aucune récompense.",
+      "Je suis entouré !"
     ]
   },
   "SneckoOil": {

@@ -683,5 +683,20 @@
     "DIALOG": [
       ""
     ]
+  },
+  "SpireShield": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Bouclier de la Tour",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "SpireSpear": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Lance de la Tour"
   }
 }

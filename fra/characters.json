@@ -117,6 +117,16 @@
       "~*BÂILLE*~",
       "J'aime l'or.",
       "Le bleu est ma couleur préférée. NL Et vous ?"
+    ],
+    "OPTIONS": [
+      "Comment suis-je arrivé ici ? NL Je n'en reviens pas.",
+      "Dernière chance d'acheter quelque chose ! NL ~*cligne*~ ~*cligne*~",
+      "..... NL .... NL .........",
+      "J'aime les chats.",
+      "Pas de précipitation. NL Du calme.",
+      "Tout cela n'est-il pas @excitant@ @!?@",
+      "Avant, j'étais comme vous.",
+      "Vous montez ?"
     ]
   },
   "Shop Screen": {
@@ -157,10 +167,18 @@
   },
   "Defect": {
     "NAMES": [
-      "Le Défectueux (?)"
+      "Le Défectueux"
     ],
     "TEXT": [
       "Un ancien robot de combat qui a développé une conscience propre. NL Une technologie antique lui permet de manipuler les Orbes."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Et maintenant... quoi...? NL ...Est-ce... la fin....?",
+      "...la tour dort.....",
+      "...et je vais...... faire... NL ....de même......"
     ]
   }
 }
