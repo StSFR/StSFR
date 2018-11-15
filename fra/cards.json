@@ -10,7 +10,7 @@
   },
   "Regret": {
     "NAME": "Regret",
-    "DESCRIPTION": "Injouable. NL À la fin du tour, perdez 1 PV par carte en main."
+    "DESCRIPTION": "Injouable. NL À la fin du tour, perdez autant de PV que vous avez de cartes en main."
   },
   "Crippling Poison": {
     "NAME": "Nuage paralysant",
