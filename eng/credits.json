@@ -153,6 +153,8 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
       "Suggestions and Feedback:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
@@ -204,7 +206,8 @@
   "LOC_ZHS": {
     "HEADER": "Chinese (Simplified) Localization",
     "NAMES": [
-      "Sound of Mystery"
+      "Sound of Mystery",
+      "IrisRaphael"
     ]
   },
   "LOC_ZHT": {

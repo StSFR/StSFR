@@ -1,4 +1,64 @@
 Updates for Translators!
+11-06-2018
+relics.json
+	"Philosopher's Stone"
+		" at the start of your turn. ALL enemies start with #b2 #yStrength.",
+		"Gain [E]"
+		->
+		"Gain [E] at the start of your turn. ALL enemies start combat with #b",
+		" #yStrength."
+
+powers.json
+	"Invincible"
+		" more HP this round.",
+		"Can no longer be harmed this round."
+		->
+		" more HP this turn.",
+		"Can no longer be harmed this turn."
+
+cards.json
+	"Machine Learning"
+		"UPGRADE_DESCRIPTION": "Innate. At the start of your turn, draw !M! additional card."
+		->
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, draw !M! additional card."
+
+----------------------------------
+
+11-05-2018
+run_mods.json
+	"The Ending"
+		"NAME": "The Ending",
+		"DESCRIPTION": "Enables the Final Act."
+credits.json
+	"LOC_ZHS"
+		"IrisRaphael"
+
+potions.json
+	"SneckoOil"
+		" Become #yConfused. Draw #b",
+		->
+		"Become #yConfused. Draw #b",
+
+----------------------------------
+
+11-02-2018
+powers.json
+	"Invincible"
+		" more HP this round.",
+		"Can no longer be harmed this round."
+
+credits.json
+	"LOC_RUS"
+		"Dmitry \"Regallion\" Zhiryakov",
+		"Suggestions and Feedback:",
+		->
+		"Dmitry \"Regallion\" Zhiryakov",
+		"Dmitry \"Gentle Giant\" Gitsman",
+		"Neprim",
+		"Suggestions and Feedback:",
+
+----------------------------------
+
 10-30-2018
 ui.json
 	"BetaArtUnlockEffect": {

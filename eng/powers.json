@@ -463,7 +463,9 @@
   "Invincible": {
     "NAME": "Invincible",
     "DESCRIPTIONS": [
-      "Caps ALL damage and HP loss taken to #b100."
+      "Can only lose #b",
+	  " more HP this turn.",
+	  "Can no longer be harmed this turn."
     ]
   },
   "BeatOfDeath": {

@@ -6,9 +6,11 @@ CARDS
 	Die Die Die: References what Reaper in Overwatch, says while utilizing Death Blossom.
 
 EVENTS
+	Sensory Stone: References the sensory stones from Planescape: Torment.
 	Transmogrifier: References a machine by Calvin in Calvin and Hobbes.
 	The Library: Randomly references 1 of 3 novels: Worm (web serial), The Martian, and Wool.
 	We Meet Again + Relic Descriptions: Ranwid's name is based on Darwin (anagram).
+	World of Goop: The name of this event is a play on the title of a game: World of Goo.
 
 ENEMIES
 	Byrd: Bird
@@ -20,6 +22,7 @@ RELICS
 	Art of War: References the Art of War by Sun Tzu.
 	Black Star: References a song by David Bowie.
 	Blue Candle: References Blue Candle, an item from The Legend of Zelda.
+	Brimstone: References the "Brimstone" item from the Binding of Isaac (symbol is hidden in the art).
 	Calling Bell: References the Beckoning Bell from Bloodborne.
 	Centennial Puzzle: References the Millenium Puzzle from Yu-gi-oh.
 	Charon's Ashes: References Charon of Greek Mythology.

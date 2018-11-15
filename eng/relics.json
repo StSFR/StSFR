@@ -698,8 +698,8 @@
     "NAME": "Philosopher's Stone",
     "FLAVOR": "Raw energy emanates from the stone, empowering all nearby.",
     "DESCRIPTIONS": [
-      " at the start of your turn. ALL enemies start with #b2 #yStrength.",
-      "Gain [E]"
+      "Gain [E] at the start of your turn. ALL enemies start combat with #b",
+	  " #yStrength."
     ]
   },
   "Potion Belt": {

@@ -162,5 +162,9 @@
   "Daily Mods": {
     "NAME": "Modificateurs quotidiens",
     "DESCRIPTION": "Commencez une partie avec exactement 3 modificateurs aléatoires."
+  },
+  "The Ending": {
+    "NAME": "La fin",
+    "DESCRIPTION": "Permet d'accéder à l'Acte final."
   }
 }
