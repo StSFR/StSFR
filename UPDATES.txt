@@ -1,4 +1,36 @@
 Updates for Translators!
+11-13-2018
+cards.json
+	"Regret"
+		"DESCRIPTION": "Unplayable. NL At the end of your turn, lose 1 HP for each card in your hand."
+		->
+		"DESCRIPTION": "Unplayable. NL At the end of your turn, lose HP equal to the number of cards in your hand."
+
+----------------------------------
+
+11-12-2018
+credits.json
+	"LOC_RUS"
+		"Dmitry \"Regallion\" Zhiryakov",
+		"Dmitry \"Gentle Giant\" Gitsman",
+		"Neprim",
+		"Suggestions and Feedback:",
+		"Mikhail \"Outmind\" Dyuzhev",
+		->
+		"Dmitry \"Regallion\" Zhiryakov",
+		"Additional Translation:",
+		"Dmitry \"Gentle Giant\" Gitsman",
+		"Neprim",
+		"Mikhail \"Outmind\" Dyuzhev",
+		
+relics.json
+	"NeowsLament"
+		"Enemies in your first #b3 combats will have 1 HP.",
+		->
+		"Enemies in your first #b3 combats will have #b1 HP.",
+
+----------------------------------
+
 11-06-2018
 relics.json
 	"Philosopher's Stone"

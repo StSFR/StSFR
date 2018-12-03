@@ -92,7 +92,7 @@
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, choisissez une carte #yAttaque. Commencez chaque combat avec cette carte dans votre main.",
       "Choisissez une carte pour ",
-      "Commencez chaque combat avec",
+      "Commencez chaque combat avec ",
       " dans votre main."
     ]
   },
@@ -102,7 +102,7 @@
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, choisissez une carte #yCompétence. Commencez chaque combat avec cette carte dans votre main.",
       "Choisissez une carte pour ",
-      "Commencez chaque combat avec",
+      "Commencez chaque combat avec ",
       " dans votre main."
     ]
   },
@@ -935,7 +935,7 @@
     "NAME": "Lamentation de Neow",
     "FLAVOR": "Bénédiction de la lamentation conférée par Neow.",
     "DESCRIPTIONS": [
-      "Les ennemis des #b3 prochains combats commencent avec 1 PV.",
+      "Les ennemis des #b3 prochains combats commencent avec #b1 PV.",
       "Cette relique a été épuisée."
     ]
   },

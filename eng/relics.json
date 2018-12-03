@@ -548,7 +548,7 @@
     "NAME": "Neow's Lament",
     "FLAVOR": "The blessing of lamentation bestowed by Neow.",
     "DESCRIPTIONS": [
-      "Enemies in your first #b3 combats will have 1 HP.",
+      "Enemies in your first #b3 combats will have #b1 HP.",
       "This relic has been used up."
     ]
   },
