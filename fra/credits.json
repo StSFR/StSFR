@@ -165,7 +165,7 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-	  "Traductions additionnelles :"
+      "Traductions additionnelles :",
       "Dmitry \"Gentle Giant\" Gitsman",
       "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
@@ -273,7 +273,8 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_SPA": {
@@ -294,6 +295,19 @@
     "HEADER": "Traduction en espéranto",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Dutch Localization",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner"
     ]
   }
 }

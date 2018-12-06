@@ -85,11 +85,11 @@
   },
   "Night Terrors": {
     "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 max HP."
+    "DESCRIPTION": "Resting at Rest Sites heals 100% of your HP, but costs 5 Max HP."
   },
   "One Hit Wonder": {
     "NAME": "One Hit Wonder",
-    "DESCRIPTION": "Start the game with 1 max HP."
+    "DESCRIPTION": "Start the game with 1 Max HP."
   },
   "Praise Snecko": {
     "NAME": "Praise Snecko",
@@ -152,7 +152,7 @@
     "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
   },
   "MonsterHunter": {
-    "NAME": "Colossus",
+    "NAME": "[DEPRECATED] Colossus",
     "DESCRIPTION": "Enemies have bonus HP but drop better rewards."
   },
   "DeadlyEvents": {
