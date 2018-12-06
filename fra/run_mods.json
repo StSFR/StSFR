@@ -89,7 +89,7 @@
   },
   "One Hit Wonder": {
     "NAME": "Fragilité",
-    "DESCRIPTION": "Commencez la partie avec 1 PV max."
+    "DESCRIPTION": "Commencez la partie avec 1 PV Max."
   },
   "Endless": {
     "NAME": "Sans fin",
@@ -144,7 +144,7 @@
     "DESCRIPTION": "Les étages ? peuvent désormais contenir des Élites, mais ont aussi plus de chance de contenir un trésor."
   },
   "MonsterHunter": {
-    "NAME": "Colosse",
+    "NAME": "[DÉPRÉCIÉ] Colosse",
     "DESCRIPTION": "Les ennemis ont plus de vie mais donnent de meilleures récompenses."
   },
   "SealedDeck": {

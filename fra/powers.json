@@ -875,8 +875,8 @@
   "Magnetism": {
     "NAME": "Magnétisme",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, ajoutez #b%s carte incolore aléatoire à votre main.",
-      "Au début de chaque tour, ajoutez #b%s cartes incolores aléatoires à votre main."
+      "Au début de chaque tour, ajoutez #b%s carte Incolore aléatoire à votre main.",
+      "Au début de chaque tour, ajoutez #b%s cartes Incolores aléatoires à votre main."
     ]
   },
   "Echo Form": {

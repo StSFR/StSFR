@@ -73,7 +73,7 @@
       "Une salle inconnue. NL NL Vous pourriez y trouver des monstres, des trésors, des boutiques et bien plus encore.",
       "Marchand",
       "Boutiques",
-      "Un étrange marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
+      "L'étrange Marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
       "Trésor",
       "Salles au trésor",
       "Vous pourrez trouver des #yReliques et de #yl'Or en ces salles très convoitées.",
@@ -717,7 +717,7 @@
       "Grec",
       "Indonésien",
       "Espéranto",
-      "Dutch"
+      "Néérlandais"
     ]
   },
   "UnlockTextEffect": {
