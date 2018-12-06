@@ -724,7 +724,7 @@
     "NAME": "Bol chantant",
     "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
-      "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV Max de #b2."
+      "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV max de #b2."
     ]
   },
   "Smiling Mask": {
@@ -961,7 +961,7 @@
     "NAME": "Amulette de pierre noire",
     "FLAVOR": "Cette amulette absorbe le pouvoir d'énergies démoniaques et le convertit en vitalité pour son porteur.",
     "DESCRIPTIONS": [
-      "Lorsque vous recevez une #rMalédiction, augmentez vos PV Max de #b"
+      "Lorsque vous recevez une #rMalédiction, augmentez vos PV max de #b"
     ]
   },
   "Cracked Core": {

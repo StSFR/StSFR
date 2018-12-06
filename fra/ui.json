@@ -384,7 +384,7 @@
     "TEXT": [
       "Passer",
       "Choisissez une carte",
-      "+2 PV Max",
+      "+2 PV max",
       "VOTEZ : ",
       "s restantes.",
       "Voir l'Amélioration"
@@ -806,7 +806,7 @@
     "TEXT": [
       "Mort",
       "Bloqué",
-      "PV Max +",
+      "PV max +",
       "Étourdi !",
       "Interruption !",
       "Reliques"
@@ -1048,7 +1048,7 @@
       "#yA #yobtenu : ",
       "#yA #yPassé : ",
       "Information manquante",
-      "+2 PV Max",
+      "+2 PV max",
       "[C] ",
       "[R] ",
       "[P] ",
