@@ -1072,7 +1072,8 @@
       "%s dégâts",
       "#bA #b amélioré %s",
       "#bA #btransformé %s",
-      "#rA #bperdu %s"
+      "#rA #bperdu %s",
+      "#bRecalled"
     ]
   },
   "SeedPanel": {

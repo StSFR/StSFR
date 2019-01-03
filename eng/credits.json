@@ -53,7 +53,8 @@
       "Gremlins:",
       "Oscar Cousin",
       "\"Meriscan\"",
-      "Lise Leitner"
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
     ]
   },
   "LOC_EPO": {
@@ -262,7 +263,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+	  "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
@@ -295,7 +297,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-	  "David \"divadus\" Withington"
+	  "David \"divadus\" Withington",
+	  "Jason \"Wyrm\" Deng", 
+	  "Jonas \"bigunit3000\" Wilson",
+	  "TBytemaster"
     ]
   },
   "THANKS_MSG": {
