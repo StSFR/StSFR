@@ -73,7 +73,7 @@
       "Une salle inconnue. NL NL Vous pourriez y trouver des monstres, des trésors, des boutiques et bien plus encore.",
       "Marchand",
       "Boutiques",
-      "Un étrange marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
+      "L'étrange Marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
       "Trésor",
       "Salles au trésor",
       "Vous pourrez trouver des #yReliques et de #yl'Or en ces salles très convoitées.",
@@ -384,7 +384,7 @@
     "TEXT": [
       "Passer",
       "Choisissez une carte",
-      "+2 PV Max",
+      "+2 PV max",
       "VOTEZ : ",
       "s restantes.",
       "Voir l'Amélioration"
@@ -716,7 +716,8 @@
       "Catalan",
       "Grec",
       "Indonésien",
-      "Espéranto"
+      "Espéranto",
+      "Néérlandais"
     ]
   },
   "UnlockTextEffect": {
@@ -805,7 +806,7 @@
     "TEXT": [
       "Mort",
       "Bloqué",
-      "PV Max +",
+      "PV max +",
       "Étourdi !",
       "Interruption !",
       "Reliques"
@@ -1047,7 +1048,7 @@
       "#yA #yobtenu : ",
       "#yA #yPassé : ",
       "Information manquante",
-      "+2 PV Max",
+      "+2 PV max",
       "[C] ",
       "[R] ",
       "[P] ",

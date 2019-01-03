@@ -608,7 +608,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
-    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+    "DESCRIPTION": "Appliquez !M! Poison. NL Quand cet ennemi meurt, infligez autant de dégâts que ses PV max à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -1220,7 +1220,7 @@
   },
   "Lockon": {
     "NAME": "Cible",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Verrouillage."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Ciblage."
   },
   "BootSequence": {
     "NAME": "Démarrage",

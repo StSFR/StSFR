@@ -535,8 +535,8 @@
   "Magnetism": {
     "NAME": "Magnetism",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b%s random colorless card into your hand.",
-      "At the start of your turn, add #b%s random colorless cards into your hand."
+      "At the start of your turn, add #b%s random Colorless card into your hand.",
+      "At the start of your turn, add #b%s random Colorless cards into your hand."
     ]
   },
   "Malleable": {
@@ -651,7 +651,7 @@
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
       " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1.",
-      "At the end of your turn, gains #b",
+      "At the end of its turn, gains #b",
       " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1."
     ]
   },
@@ -856,7 +856,7 @@
     "NAME": "Strength",
     "DESCRIPTIONS": [
       "Increases attack damage by #b",
-      "Decrease attack damage by #b",
+      "Decreases attack damage by #b",
       "."
     ]
   },

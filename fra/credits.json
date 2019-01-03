@@ -94,7 +94,7 @@
   "LOC_ITA": {
     "HEADER": "Traduction en italien",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
@@ -165,7 +165,7 @@
       "Ivan \"Ingrett\" Khoroshunenko",
       "Vladislav \"Vlad-00003\" Bolshakov",
       "Dmitry \"Regallion\" Zhiryakov",
-	  "Traductions additionnelles :"
+      "Traductions additionnelles :",
       "Dmitry \"Gentle Giant\" Gitsman",
       "Neprim",
       "Mikhail \"Outmind\" Dyuzhev",
@@ -273,7 +273,8 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_SPA": {
@@ -294,6 +295,19 @@
     "HEADER": "Traduction en espéranto",
     "NAMES": [
       "Vincent \"Babelismoj\" Oostelbos"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Traduction en néérlandais",
+    "NAMES": [
+      "Diablotin en chef :",
+      "Jelle Steinmann \"NotADitto\"",
+      "Diablotin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Diablotins :",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner"
     ]
   }
 }

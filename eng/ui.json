@@ -441,7 +441,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Select a card to return to your hand."
+      "Select a Card to Return to Your Hand."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -524,7 +524,7 @@
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Select a Card to Return to Your Hand"
     ]
   },
   "ExitGameButton": {
@@ -668,7 +668,8 @@
       "Catalan",
       "Greek",
       "Indonesian",
-      "Esperanto"
+      "Esperanto",
+      "Dutch"
     ]
   },
   "LeaderboardFilters": {
@@ -710,7 +711,7 @@
       "An unknown room. NL NL You may encounter monsters, treasures, shops, or something entirely different.",
       "Merchant",
       "Shops",
-      "A mysterious merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
+      "The mysterious Merchant sells his wares in these rooms. NL NL Spend your well earned #yGold here!",
       "Treasure",
       "Treasure Rooms",
       "#yRelics and #yGold can be found in these coveted rooms.",

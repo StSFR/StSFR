@@ -273,9 +273,7 @@
     },
     "LOCK_ON": {
       "NAMES": [
-        "verrouillage",
-        "verrouillé",
-        "verrouillée"
+        "ciblage"
       ],
       "DESCRIPTION": "Les ennemis Verrouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
     }

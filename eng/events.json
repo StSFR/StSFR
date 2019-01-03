@@ -154,9 +154,9 @@
   "Drug Dealer": {
     "NAME": "Augmenter",
     "DESCRIPTIONS": [
-      " A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
+      "A man with an eyepatch and a devilish grin strides up to you. NL \"Hey there, stranger. Interested in advancing science? I can make you stronger than any training or blessing. You're gonna need it if you're one of those heroes with a death wish.\" NL NL ~\"Whad'ya~ ~say?\"~",
 	  "~\"Excellent.\"~ NL The man hands over a dangerous looking syringe filled with a #b~glowing~ #b~liquid~ before skulking off into a shadowy alleyway.",
-      "~\"Superb.\"~ NL The man injects you with three unknown substances and pulls out a notepad. As you begin to feel light-headed, he starts to franticaly write down notes. NL Losing track of time completely, by the time you regain your senses, the shady character has disappeared.",
+      "~\"Superb.\"~ NL The man injects you with three unknown substances and pulls out a notepad. As you begin to feel light-headed, he starts to frantically write down notes. NL Losing track of time completely, by the time you regain your senses, the shady character has disappeared.",
       "~\"Marvelous.\"~ NL You quaff the mysterious substance. Immediately, you are invigorated and feel your muscle fibers @twitch.@"
     ],
     "OPTIONS": [
@@ -720,7 +720,7 @@
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~sister,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~",
       "The tall figure grabs your arm, pulls you forward, and sinks his fangs into your neck. You feel a @dark@ @force@ pour into your neck and @course@ through your body. NL ... NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed...",
       "You step back and raise your weapon in defiance. The tall figure sighs. \"Very well.\" The entire group of hooded figures morph into a thick black fog that flows away from you. NL You are alone once more.",
-      "The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \" Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed.",
+      "The pale figures gasp as you take out the #yBlood #yVial. NL ~\"The~ ~master's~ ~blood...~ ~the~ ~master's~ ~blood!~ @THE@ @MASTER'S@ @BLOOD!\"@ NL They all chant fervently as the tall one bows before you. \"Drink from His blood, and become one with #y~Him.\"~ NL The chant growing louder, you consume the contents of the vial. Your vision immediately ~warps~ and fades to darkness. NL NL You wake up some time later, alone. An intense ~hunger~ passes through your belly. You #rmust #rfeed.",
       "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~broken~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
     ],
     "OPTIONS": [
@@ -834,7 +834,7 @@
       "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
       "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
       "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker, and your face is in its hand! Your face has been swapped. NL NL ~\"Nice~ ~face.~ ~Nice~ ~face.\"~",
-      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~stop.\"~ NL NL This was probably the right call."
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call."
     ],
     "OPTIONS": [
       "[Touch] #rLose #r",

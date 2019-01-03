@@ -287,7 +287,7 @@
   },
   "Eternal Feather": {
     "NAME": "Plume éternelle",
-    "FLAVOR": "Cette plume semble être indestructible. De quel oiseau pourrait-elle bien provenir ? ",
+    "FLAVOR": "Cette plume semble être indestructible. De quel oiseau pourrait-elle bien provenir ?",
     "DESCRIPTIONS": [
       "Pour chaque lot de #b",
       " cartes dans votre deck, récupérez #b",
@@ -521,7 +521,7 @@
   },
   "Old Coin": {
     "NAME": "Vieille pièce",
-    "FLAVOR": "Les pièces uniques sont très prisées par les marchands en raison de leur valeur historique et de leur composition rare.",
+    "FLAVOR": "Les pièces uniques sont très prisées par les Marchands en raison de leur valeur historique et de leur composition rare.",
     "DESCRIPTIONS": [
       "Quand vous l'obtenez, gagnez #b300 #yd'or."
     ]
@@ -724,7 +724,7 @@
     "NAME": "Bol chantant",
     "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
-      "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV Max de #b2."
+      "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV max de #b2."
     ]
   },
   "Smiling Mask": {
@@ -961,7 +961,7 @@
     "NAME": "Amulette de pierre noire",
     "FLAVOR": "Cette amulette absorbe le pouvoir d'énergies démoniaques et le convertit en vitalité pour son porteur.",
     "DESCRIPTIONS": [
-      "Lorsque vous recevez une #rMalédiction, augmentez vos PV Max de #b"
+      "Lorsque vous recevez une #rMalédiction, augmentez vos PV max de #b"
     ]
   },
   "Cracked Core": {
@@ -982,7 +982,7 @@
     "NAME": "Puce émotionnelle",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Quand vous perdez des PV, déclenchez la capacité passive de TOUS vos Orbes au début du tour suivant."
+      "Si vous avez perdu des PV pendant le tour précédent, déclenchez la capacité passive de TOUS vos Orbes au début de votre tour."
     ]
   },
   "Runic Capacitor": {

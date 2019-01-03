@@ -315,7 +315,7 @@
     "NAME": "Emotion Chip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, trigger the passive ability of all your Orbs at the start of your next turn."
+      "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn."
     ]
   },
   "Enchiridion": {
@@ -327,7 +327,7 @@
   },
   "Eternal Feather": {
     "NAME": "Eternal Feather",
-    "FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from? ",
+    "FLAVOR": "This feather appears to be completely indestructible. What bird does this possibly come from?",
     "DESCRIPTIONS": [
       "For every #b",
       " cards in your deck, heal #b",
@@ -605,7 +605,7 @@
   },
   "Old Coin": {
     "NAME": "Old Coin",
-    "FLAVOR": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+    "FLAVOR": "Unique coins are highly valued by merchants for their historical value and rare metallic composition.",
     "DESCRIPTIONS": [
       "Upon pickup, gain #b300 #yGold."
     ]
@@ -835,9 +835,9 @@
   },
   "Smiling Mask": {
     "NAME": "Smiling Mask",
-    "FLAVOR": "Mask worn by the merchant. He must have spares...",
+    "FLAVOR": "Mask worn by the Merchant. He must have spares...",
     "DESCRIPTIONS": [
-      "The merchant's card removal service now always costs #b",
+      "The Merchant's card removal service now always costs #b",
       " #yGold."
     ]
   },
@@ -964,9 +964,9 @@
   },
   "The Courier": {
     "NAME": "The Courier",
-    "FLAVOR": "The merchant's personal pet!",
+    "FLAVOR": "The Merchant's personal pet!",
     "DESCRIPTIONS": [
-      "The merchant restocks cards, relics, or potions, and prices are reduced by #b20%."
+      "The Merchant restocks cards, relics, and potions. All prices are reduced by #b20%."
     ]
   },
   "The Specimen": {

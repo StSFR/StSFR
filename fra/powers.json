@@ -875,8 +875,8 @@
   "Magnetism": {
     "NAME": "Magnétisme",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, ajoutez #b%s carte incolore aléatoire à votre main.",
-      "Au début de chaque tour, ajoutez #b%s cartes incolores aléatoires à votre main."
+      "Au début de chaque tour, ajoutez #b%s carte Incolore aléatoire à votre main.",
+      "Au début de chaque tour, ajoutez #b%s cartes Incolores aléatoires à votre main."
     ]
   },
   "Echo Form": {
@@ -888,7 +888,7 @@
     ]
   },
   "Lockon": {
-    "NAME": "Verrouillage",
+    "NAME": "Ciblage",
     "DESCRIPTIONS": [
       "Reçoit #b",
       " % de dégâts supplémentaires des Orbes pendant #b",
@@ -959,9 +959,9 @@
   "CorpseExplosionPower": {
     "NAME": "Explosion morbide",
     "DESCRIPTIONS": [
-      "À la mort de cet ennemi, infligez autant de dégâts que ses PV Max à TOUS les ennemis.",
+      "À la mort de cet ennemi, infligez autant de dégâts que ses PV max à TOUS les ennemis.",
       "À la mort de cet ennemi, infligez autant de dégâts que #b",
-      " fois ses PV Max à TOUS les ennemis."
+      " fois ses PV max à TOUS les ennemis."
     ]
   },
   "TheBomb": {

@@ -43,6 +43,19 @@
       "Magnus Upmann"
     ]
   },
+  "LOC_DUT": {
+    "HEADER": "Dutch Localization",
+    "NAMES": [
+      "Gremlin Leader:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlins:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner"
+    ]
+  },
   "LOC_EPO": {
     "HEADER": "Esperanto Localization",
     "NAMES": [
@@ -76,13 +89,14 @@
     "NAMES": [
       "Aditya \"RiSQ.\" Arifin",
       "Daryan \"Samus\" Ramadhany",
-      "Haveiszal \"Szaal\" Faroqie"
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
     ]
   },
   "LOC_ITA": {
     "HEADER": "Italian Localization",
     "NAMES": [
-      "Hob",
+      "Jade \"HobNob\" Stevanovic",
       "Mero Marco",
       "Luigi Squarzina"
     ]
