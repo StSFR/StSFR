@@ -149,7 +149,7 @@
   },
   "SealedDeck": {
     "NAME": "Paquet scellé",
-    "DESCRIPTION": "Fabriquez un deck de 30 cartes aléatoires."
+    "DESCRIPTION": "Constituez un deck de 10 cartes à partir de 30 cartes aléatoires."
   },
   "NeowTime": {
     "NAME": "Surprise de Neow",

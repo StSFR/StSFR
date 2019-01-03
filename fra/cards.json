@@ -1127,7 +1127,7 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez !M! dégâts par Orbes Glaciaire Canalisé ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez !M! dégâts par Orbe Glaciaire Canalisé ce combat à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !D! dégât(s).)",
@@ -1147,7 +1147,7 @@
     "DESCRIPTION": "Canalisez !M! Orbe Plasmique."
   },
   "Doom and Gloom": {
-    "NAME": "Pessimisme",
+    "NAME": "Sinistrose",
     "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Canalisez !M! Orbe Obscur."
   },
   "Rebound": {
