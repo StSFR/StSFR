@@ -103,7 +103,8 @@
   "Lift Option": {
     "TEXT": [
       "S'entraîner",
-      "Vous commencez chaque combat avec +1 de Force. (3 max.)"
+      "Vous commencez chaque combat avec +1 de Force. (3 max.)",
+      ""
     ]
   },
   "Rest Option": {
@@ -111,7 +112,8 @@
       "Repos",
       "Vous récupérez 100 % de vos PV max (",
       " PV de ",
-      "Vous récupérez 30 % de vos PV max ("
+      "Vous récupérez 30 % de vos PV max (",
+      ""
     ]
   },
   "Smith Option": {
@@ -895,7 +897,7 @@
       "Les boutiques sont plus chères.",
       "Les ennemis normaux ont des attaques et capacités plus puissantes.",
       "Les Élites ont des attaques et capacités plus puissantes.",
-      "Les Boss ont des attaques et capacités pluis puissantes.",
+      "Les Boss ont des attaques et capacités plus puissantes.",
       "(Niveau max) Double boss final."
     ]
   },
@@ -1303,6 +1305,14 @@
       "Argent non dépensé",
       "Bonus de PV",
       "Victoire !"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Défi quotidien - Étage %s",
+      "Partie personnalisée - Étage %s",
+      " - Étage %s",
+      "Menu principal"
     ]
   }
 }

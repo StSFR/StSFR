@@ -317,7 +317,7 @@
   },
   "FungiBeast": {
     "MOVES": [
-      "Progression"
+      "Croissance"
     ],
     "NAME": "Champi-bête",
     "DIALOG": [
@@ -384,7 +384,7 @@
   },
   "FuzzyLouseNormal": {
     "MOVES": [
-      "Progression"
+      "Croissance"
     ],
     "NAME": "Pou",
     "DIALOG": [

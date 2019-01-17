@@ -730,7 +730,8 @@
   "Lift Option": {
     "TEXT": [
       "Lift",
-      "Start battles with +1 Strength. (Up to 3)"
+      "Start battles with +1 Strength. (Up to 3)",
+	  ""
     ]
   },
   "MainMenuScreen": {
@@ -936,7 +937,8 @@
       "Rest",
       "Heal for 100% of your Max HP (",
       " HP from ",
-      "Heal for 30% of your Max HP ("
+      "Heal for 30% of your Max HP (",
+	  ""
     ]
   },
   "RestartForChangesEffect": {
@@ -1303,6 +1305,14 @@
       "The Silent Beta Card Art Unlocked!",
       "Defect Beta Card Art Unlocked!",
       "All Beta Card Art Unlocked!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Daily - Floor %s",
+      "Custom - Floor %s",
+      " - Floor %s",
+      "Main Menu"
     ]
   }
 }
