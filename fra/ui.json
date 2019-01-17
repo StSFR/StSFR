@@ -1017,7 +1017,7 @@
       "Participez à un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
       "Personnalisé",
-      "Personnalisez votre partie avec les modificateurs que vous souhaitez !"
+      "Personnalisez votre partie avec les modificateurs de votre choix."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1072,7 +1072,8 @@
       "%s dégâts",
       "#bA #b amélioré %s",
       "#bA #btransformé %s",
-      "#rA #bperdu %s"
+      "#rA #bperdu %s",
+      "#bS'est #brappelé"
     ]
   },
   "SeedPanel": {

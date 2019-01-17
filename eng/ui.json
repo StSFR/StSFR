@@ -1010,7 +1010,8 @@
 	  "%s Damage",
 	  "#bUpgraded %s",
 	  "#bTransformed %s",
-	  "#rLost %s"
+	  "#rLost %s",
+	  "#bRecalled"
     ]
   },
   "RunHistoryMonsterNames": {

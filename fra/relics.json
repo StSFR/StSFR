@@ -897,7 +897,7 @@
       "au début de chaque tour. Vous ne pouvez pas jouer plus de #b",
       " cartes par tour.",
       "Gagnez [E] ",
-      "Je ne peux en jouer que NL #r"
+      "Je ne peux jouer que NL #r"
     ]
   },
   "Lee's Waffle": {
@@ -965,7 +965,7 @@
     ]
   },
   "Cracked Core": {
-    "NAME": "Cœur fissuré",
+    "NAME": "Noyau fissuré",
     "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il paraît fissuré.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
@@ -1008,7 +1008,7 @@
   },
   "Symbiotic Virus": {
     "NAME": "Virus symbiotique",
-    "FLAVOR": "Un peu de #douleur peut faire beaucoup de #gbien...",
+    "FLAVOR": "Un peu de douleur peut faire beaucoup de bien...",
     "DESCRIPTIONS": [
       "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yObscur."
     ]
@@ -1037,7 +1037,7 @@
   },
   "Boot": {
     "NAME": "La botte",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "FLAVOR": "Quand elle est remontée, la botte s'agrandit.",
     "DESCRIPTIONS": [
       "Quand vous infligez #b",
       " ou moins dégâts d'attaque non bloqués, augmentez les à #b5."
@@ -1106,7 +1106,7 @@
   },
   "SsserpentHead": {
     "NAME": "Tête de ssserpent",
-    "FLAVOR": "La plus belle est vie est celle dans laquelle vous pouvez tout acheter !",
+    "FLAVOR": "La plus belle des vies est celle dans laquelle vous pouvez tout acheter !",
     "DESCRIPTIONS": [
       "Quand vous entrez dans une pièce #y?, gagnez #b",
       " #yd'or."
@@ -1173,7 +1173,7 @@
     ]
   },
   "FrozenCore": {
-    "NAME": "Cœur gelé",
+    "NAME": "Noyau gelé",
     "FLAVOR": "La fissure qui traverse votre cœur a été remplie avec une énergie froide palpitante.",
     "DESCRIPTIONS": [
       "Remplace #bCœur #bfissuré. Si vous terminez un tour avec un emplacement d'Orbe vide, #yCanalisez #b1 #yOrbe #yGlaciaire."
@@ -1269,7 +1269,7 @@
     "FLAVOR": "Il dégage une chaleur infernale.",
     "DESCRIPTIONS": [
       "Au début de votre tour, gagnez #b",
-      " de #yForce et TOUS les ennemis gagnent",
+      " de #yForce et TOUS les ennemis gagnent #b",
       " de #yForce."
     ]
   },

@@ -1,4 +1,29 @@
 Updates for Translators!
+12-31-2018
+credits.json
+	"SPECIAL"
+		"Tony \"kiooeht\" Moore"
+	"TEST"
+		"Jason \"Wyrm\" Deng",
+		"Jonas \"bigunit3000\" Wilson",
+		"TBytemaster"
+
+----------------------------------
+
+12-30-2018
+ui.json
+	"RunHistoryPathNodes"
+		"#bRecalled"
+
+----------------------------------
+
+12-17-2018
+credits.json
+	"LOC_DUT"
+		"Joris \"Mort\" Bogers"
+
+----------------------------------
+
 12-06-2018
 powers.json
 	"Strength"
