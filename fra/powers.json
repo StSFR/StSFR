@@ -441,9 +441,9 @@
     "NAME": "Armure plaquée",
     "DESCRIPTIONS": [
       "À la fin de chaque tour, gagnez #b",
-      " #yd'Armure. Recevoir des dégâts d'attaque réduit #yl'Armure #yPlaquée de #b1.",
+      " #yd'Armure. Recevoir des dégâts d'attaque non bloqués réduit #yl'Armure #yPlaquée de #b1.",
       "À la fin de chaque tour, gagne #b",
-      " #yd'Armure. Recevoir des dégâts d'attaque réduit #yl'Armure #yPlaquée de #b1."
+      " #yd'Armure. Recevoir des dégâts d'attaque non bloqués réduit #yl'Armure #yPlaquée de #b1."
     ]
   },
   "Poison": {

@@ -102,8 +102,8 @@
   "LOC_JPN": {
     "HEADER": "Traduction en japonais",
     "NAMES": [
-      "Grezzz",
-      "Kakehashi Games (Official Translation)"
+      "Grezzz (traduction de la communauté)",
+      "Kakehashi Games (traduction officielle)"
     ]
   },
   "LOC_KOR": {
@@ -319,7 +319,7 @@
     ]
   },
   "LOC_THA": {
-    "HEADER": "Thai Localization",
+    "HEADER": "Traduction en thaïlandais",
     "NAMES": [
       "Rapeepat Suwan (Yuu)",
       "Sarawut Suwan (Tomoeic)"

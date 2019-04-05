@@ -46,7 +46,7 @@
       "Émeraude+",
       "Saphir+",
       "Fin ?",
-      "Eternal One"
+      "Éternel"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -94,7 +94,7 @@
       "Completez la Fin avec la Silencieuse.",
       "Completez la Fin avec le Défectueux.",
       "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
-      "Obtain all other Achievements."
+      "Débloquez tous les autres succès."
     ]
   },
   "CharStat": {
@@ -140,10 +140,10 @@
   },
   "PS4Trophy": {
     "NAMES": [
-      "Eternal One"
+      "Éternel"
     ],
     "TEXT": [
-      "Obtain all other Trophies."
+      "Débloquez tous les autres succès."
     ]
   }
 }
