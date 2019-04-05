@@ -332,7 +332,8 @@
       "Modifiers: ",
       "Leaderboards",
       "*Achievements are off for Daily Climb.",
-	  "  [OFFLINE MODE]"
+      "  [OFFLINE MODE]",
+      "MMMM dd, yyyy"
     ]
   },
   "DeathScreen": {
@@ -699,7 +700,7 @@
       "Name",
       "Score",
       "Retrieving Data...",
-      "Leaderboards (NOTE: Will be reset weekly)",
+      "Leaderboards",
       "Not Connected to Steam",
       "No Scores Available \n Go Slay the Spire!"
     ]
@@ -850,7 +851,10 @@
       "Playtester Art Mode",
       "Show Card Quick Select Keys",
       "Input Settings",
-      "Disable Particle Effects"
+      "Disable Particle Effects",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen."
     ]
   },
   "PatchNotesScreen": {
@@ -1084,7 +1088,8 @@
       "Only Ascension",
       "Only Daily Challenge",
       "Seed: %s",
-      "Custom Seed: %s"
+      "Custom Seed: %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "SeedPanel": {

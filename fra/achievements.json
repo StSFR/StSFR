@@ -45,7 +45,8 @@
       "Rubis+",
       "Émeraude+",
       "Saphir+",
-      "Fin ?"
+      "Fin ?",
+      "Eternal One"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -92,7 +93,8 @@
       "Completez la Fin avec le Soldat de fer.",
       "Completez la Fin avec la Silencieuse.",
       "Completez la Fin avec le Défectueux.",
-      "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux."
+      "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
+      "Obtain all other Achievements."
     ]
   },
   "CharStat": {
@@ -134,6 +136,14 @@
     ],
     "TEXT": [
       "Retour"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "Eternal One"
+    ],
+    "TEXT": [
+      "Obtain all other Trophies."
     ]
   }
 }

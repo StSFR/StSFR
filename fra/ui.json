@@ -462,7 +462,10 @@
       "Mode artistique du testeur",
       "Montrer les raccourcis de sélection de cartes",
       "Contrôles",
-      "Désactiver les particules"
+      "Désactiver les particules",
+      "Resolution:",
+      "Resolution: NL Fullscreen Monitor:",
+      "Changes which monitor is utilized when Fullscreen."
     ]
   },
   "SettingsScreen": {
@@ -936,7 +939,8 @@
       "Ascension",
       "Défi quotidien",
       "Seed : %s",
-      "Seed personnalisée : %s"
+      "Seed personnalisée : %s",
+      "M/d/yyyy, h:mm a"
     ]
   },
   "DeathScreenUi": {
@@ -974,7 +978,8 @@
       "Modificateurs : ",
       "Classements",
       "*Les succès sont désactivés pendant les défis quotidens.",
-      "  [MODE HORS-LIGNE]"
+      "  [MODE HORS-LIGNE]",
+      "MMMM dd, yyyy"
     ]
   },
   "MenuPanels": {

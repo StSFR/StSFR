@@ -45,7 +45,8 @@
       "Ruby+",
       "Emerald+",
       "Sapphire+",
-      "The End?"
+      "The End?",
+      "Eternal One"
     ],
     "TEXT": [
       "Win a battle with 1 HP remaining.",
@@ -92,7 +93,8 @@
       "Complete the Ending with the Ironclad.",
       "Complete the Ending with the Silent.",
       "Complete the Ending with the Defect.",
-      "Complete the Ending with the Ironclad, Silent, and Defect."
+      "Complete the Ending with the Ironclad, Silent, and Defect.",
+      "Obtain all other Achievements."
     ]
   },
   "CharStat": {
@@ -134,6 +136,14 @@
     ],
     "TEXT": [
       "Return"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "Eternal One"
+    ],
+    "TEXT": [
+      "Obtain all other Trophies."
     ]
   }
 }
