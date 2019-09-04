@@ -244,7 +244,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gReceive #g5 Apparition. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Accept] #gReceive #g3 Apparition. #rLose #r",
       "",
@@ -497,7 +497,8 @@
       "You touch it. NL NL A #r@sharp@ #r@pain@ flows through you, followed by vivid flashes of a distant memory. NL ...whose memories are these?",
       "#r~FEAR.~ NL NL A demonic creature towers above you, wings spread wide as it howls with laughter. Dead bodies of a tribe surround you while the village is engulfed in terrible #p~dark~ #p~flames.~ NL NL The demon calls out, taunting you. NL NL \" #r@YOU@ #r@REALLY@ #r@ARE@ #r@THE@ #r@STRONGEST@ #r@NOW!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL This laughter echoes forever... ",
       "#g~TRIUMPH.~ NL NL The remains of a #p~ghostly~ #p~creature~ sink slowly into the mud before you, barely visible in the moonlight. You have proven yourself amongst your sisters. NL NL Standing victoriously, you wait in silence as the others ceremoniously place the #ycreature's #yskull atop your head. The ritual has concluded. NL NL You head towards the Spire...",
-      "#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~"
+      "#b~CONFUSION.~ NL NL #y[OBJECTIVE] #gBALANCE #gmust #gbe #gENFORCED NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[DEFINE] #gBALANCE NL #y[ERROR] #gBALANCE #gNOT #gFOUND NL #y[WARNING] #rLarge #robject #rapproaching NL NL ~\"I...~ ~..am~ ~....Neow..\"~",
+      "#p~SERENITY.~ NL NL Two primitive creatures fight over a carcass on the side of the road. You observe, devoid of emotion. NL #yWatch. #yRemember. #yLive. This is the Watcher's mission. NL NL Recently, one of your peers had stopped reporting on their assignmenet: a Spire of unknown origin. NL NL As the fight ends, you continue onward, unphased by the bloody scene that took place."
     ],
     "OPTIONS": [
       "[Recall] #gAdd #g1 #gColorless #gcard #gto #gyour #gdeck.",
@@ -539,8 +540,8 @@
       "You ask yourself, ~\"Have~ ~I~ ~been~ ~here~ ~before?\"~",
       " NL The heart pulses louder and louder as your #p~consciousness~ #p~begins~ #p~to~ #p~fade...~",
       " NL A sudden burst of #y@energy@ emanates from inside you, #b@jolting@ you awake.",
-      " NL The heart #gretreats upwards! A large door is revealed in its place."
-	  
+      " NL The heart #gretreats upwards! A large door is revealed in its place.",
+	  "NL You prime your staff with divine energy..."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -725,7 +726,7 @@
     ],
     "OPTIONS": [
       "[Accept] #gRemove #gall Strikes. #gReceive #g5 Bites. #rLose #r",
-      "% #rMax #rHP.",
+      " #rMax #rHP.",
       "[Refuse]",
       "[Lose ",
       "] #gRemove #gall Strikes. #gReceive #g5 Bites.",

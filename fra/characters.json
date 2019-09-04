@@ -180,5 +180,13 @@
       "...la tour dort.....",
       "...et je vais...... faire... NL ....de même......"
     ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "The Watcher"
+    ],
+    "TEXT": [
+      "A blind ascetic who has come to \"Evaluate\" the Spire. NL Master of the divine Stances."
+    ]
   }
 }

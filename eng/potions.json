@@ -73,7 +73,8 @@
   "FairyPotion": {
     "NAME": "Fairy in a Bottle",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+	  "When you would die, heal to #b",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -189,7 +190,7 @@
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid Potion",
+    "NAME": "Flex Potion",
     "DESCRIPTIONS": [
       "Gain #b",
       " #yStrength. At the end of your turn, lose #b",
@@ -216,6 +217,18 @@
     "DESCRIPTIONS": [
       "Apply #b",
       " #yWeak."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice."
     ]
   }
 }

@@ -189,7 +189,8 @@
   "FairyPotion": {
     "NAME": "Potion féerique",
     "DESCRIPTIONS": [
-      "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."
+      "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion.",
+      "% of your Max HP instead and discard this potion."
     ]
   },
   "FearPotion": {
@@ -216,6 +217,18 @@
     "NAME": "Décoction d'entropie",
     "DESCRIPTIONS": [
       "Remplissez tous vos emplacements de potion libres avec des potions aléatoires."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Duplication Potion",
+    "DESCRIPTIONS": [
+      "This turn, your next card is played twice."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Stance Potion",
+    "DESCRIPTIONS": [
+      "Enter #yCalm or #yWrath."
     ]
   }
 }

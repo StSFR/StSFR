@@ -68,7 +68,8 @@
     "RETAIN": {
       "NAMES": [
         "conserver",
-        "conservez"
+        "conservez",
+        "retained"
       ],
       "DESCRIPTION": "Les cartes conservées ne sont pas défaussées à la fin du tour."
     },
@@ -276,6 +277,56 @@
         "ciblage"
       ],
       "DESCRIPTION": "Les ennemis Verrouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+    },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
     }
   }
 }

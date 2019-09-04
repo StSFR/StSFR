@@ -166,5 +166,9 @@
   "The Ending": {
     "NAME": "La fin",
     "DESCRIPTION": "Permet d'accéder à l'Acte final."
+  },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
   }
 }

@@ -1,9 +1,10 @@
 a list of references in Slay the Spire
 
 CARDS
+	Die Die Die: References what Reaper in Overwatch, says while utilizing Death Blossom.
 	J.A.X.: Refers to getting jacked, as in- to get buff.
 	Necronomicurse: References the Necronomicon, a book from the Evil Dead series.
-	Die Die Die: References what Reaper in Overwatch, says while utilizing Death Blossom.
+	Reach Heaven + Through Violence: A common phrase in Kill Six Billion Demons. A Comic.
 
 EVENTS
 	Sensory Stone: References the sensory stones from Planescape: Torment.
@@ -22,6 +23,7 @@ RELICS
 	Art of War: References the Art of War by Sun Tzu.
 	Black Star: References a song by David Bowie.
 	Blue Candle: References Blue Candle, an item from The Legend of Zelda.
+	Bowling Bash: References a Knight skill from the game Ragnarok Online.
 	Brimstone: References the "Brimstone" item from the Binding of Isaac (symbol is hidden in the art).
 	Calling Bell: References the Beckoning Bell from Bloodborne.
 	Centennial Puzzle: References the Millenium Puzzle from Yu-gi-oh.
@@ -38,6 +40,7 @@ RELICS
 	Happy Flower: References the Sunflower from Plants vs Zombies.
 	Inserter: This is the Inserter device from Factorio! The image is a yellow Inserter.
 	Lee's Waffle: References Lee, friend of the developer- he had a waffle machine at work.
+	Melange: Refers to the spice, from the Dune series.
 	Necronomicon: References the Necronomicon from Evil Dead.
 	Nilry's Codex: References Codex. A tabletop game by Sirlin (Nilry is Sirlin backwards), a game designer.
 	Paper Krane: This is an origami paper crane.
@@ -47,5 +50,6 @@ RELICS
 	Shovel: Visually references the shovel used by Shovel Knight.
 	The Specimen: Visually references Kaiman from Dorohedoro.
 	Toxic Egg: Visually references Alien.
+	Violet Lotus: A purple version of Black Lotus, a Magic: The Gathering card.
 	Void Essence: Item in Stardew Valley.
 	Wing Boots: References Boots of Travel from Dota.

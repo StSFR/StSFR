@@ -1011,5 +1011,218 @@
     "DESCRIPTIONS": [
       "Inflige #b50% de dégâts supplémentaires quand il vous attaque par derrière."
     ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Free Attack Power",
+    "DESCRIPTIONS": [
+      "Ignore energy cost on the next #yAttack you play.",
+      "Ignore energy cost on the next #b",
+      " #yAttacks you play."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Your next card is played twice this turn.",
+      "Your next ",
+      " cards are played twice this turn."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "No Skills",
+    "DESCRIPTIONS": [
+      "You cannot play #ySkills this turn."
+    ]
+  },
+  "Mastery": {
+    "NAME": "Mastery",
+    "DESCRIPTIONS": [
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Master Reality",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      "s into your hand.",
+      " into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Establishment",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yRetained, lower its cost by #b"
+    ]
+  },
+  "Controlled": {
+    "NAME": "Controlled",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, gain #b",
+      " #yBlock."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega Power",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal ",
+      " damage to ALL enemies."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, #yUpgrade it."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Wireheading",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #yScry "
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTIONS": [
+      "The first card you draw each turn has its cost reduced by #b",
+      " that turn."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Grounded",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, enter #yCalm."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "When you obtain #b",
+      " #yMantra, enter #yDivinity."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Cards containing #yStrike deal #b",
+      " additional damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "Joy",
+    "DESCRIPTIONS": [
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTIONS": [
+      "Whenever you switch #yStances, draw #b",
+      " card."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Cannot Change Stance",
+    "DESCRIPTIONS": [
+      "Cannot change your stance this turn."
+    ]
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTIONS": [
+      "Receives #b",
+      " damage at the start of your next turn."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Block Return",
+    "DESCRIPTIONS": [
+      "When attacked, you gain #b",
+      " #yBlock."
+    ]
+  },
+  "HotHot": {
+    "NAME": "Hot hot",
+    "DESCRIPTIONS": [
+      "While you are in #yWrath, deal #b",
+      " damage back whenever you receive attack damage."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yPlated #yArmor."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "Emotional Turmoil",
+    "DESCRIPTIONS": [
+      "At the start of your turn, enter a new random basic stance."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "Always Mad",
+    "DESCRIPTIONS": [
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Collect": {
+    "NAME": "Collect",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain [B] [B] .",
+      "At the start of your next #b",
+      " turns, gain [B] [B] ."
+    ]
+  },
+  "Condense": {
+    "NAME": "Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
+    ]
+  },
+  "Serenity": {
+    "NAME": "Serenity",
+    "DESCRIPTIONS": [
+      "While you are in #yCalm, HP loss is reduced by #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasphemer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, die."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Vigor",
+    "DESCRIPTIONS": [
+      "Your next Attack deals #b",
+      " additional damage."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Devotion",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
   }
 }

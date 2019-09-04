@@ -46,7 +46,9 @@
       "Émeraude+",
       "Saphir+",
       "Fin ?",
-      "Éternel"
+      "Éternel",
+      "Amethyst",
+      "Amethyst+"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -94,7 +96,9 @@
       "Completez la Fin avec la Silencieuse.",
       "Completez la Fin avec le Défectueux.",
       "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
-      "Débloquez tous les autres succès."
+      "Débloquez tous les autres succès.",
+      "Beat the game with the Watcher.",
+      "Complete the Ending with the Watcher."
     ]
   },
   "CharStat": {
@@ -132,7 +136,8 @@
       "#ySuccès",
       "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",
-      "#bLe #bDéfectueux"
+      "#bLe #bDéfectueux",
+      "#pThe #pWatcher"
     ],
     "TEXT": [
       "Retour"
@@ -143,7 +148,7 @@
       "Éternel"
     ],
     "TEXT": [
-      "Débloquez tous les autres succès."
+      "Débloquez tous les autres trophées."
     ]
   }
 }

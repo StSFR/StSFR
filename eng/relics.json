@@ -158,7 +158,7 @@
     "NAME": "Calling Bell",
     "FLAVOR": "This dark iron bell rang 3 times when you found it, but now stays silent.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain #b3 #rCurses and #b3 relics.",
+      "Upon pickup, obtain a unique #rCurse and #b3 relics.",
       "The Bell Tolls...",
       "Skip Rewards",
       "Close"
@@ -1209,7 +1209,7 @@
     "NAME": "The Abacus",
     "FLAVOR": "\"One...Two...Three...\"",
     "DESCRIPTIONS": [
-      "Whenever you shuffle your discard pile, gain #b",
+      "Whenever you shuffle your draw pile, gain #b",
       " #yBlock."
     ]
   },
@@ -1254,7 +1254,7 @@
     "NAME": "Hovering Kite",
     "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
     "DESCRIPTIONS": [
-      "Gain [G] and discard #b2 cards at the start of your turn."
+      "The first time you discard a card each turn, gain [E] ."
     ]
   },
   "Sling": {
@@ -1276,7 +1276,7 @@
     "NAME": "Wrist Blade",
     "FLAVOR": "Handy for assassinations.",
     "DESCRIPTIONS": [
-      "#yAttacks that cost #b0 deal #b3 additional damage."
+      "#yAttacks that cost #b0 deal #b4 additional damage."
     ]
   },
   "StoneCalendar": {
@@ -1355,6 +1355,102 @@
       "Whenever you climb a floor, gain #b",
       " #yGold. No longer works when you spend any #yGold at a shop.",
       "This relic has been used up."
+    ]
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a #yMiracle into your hand."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Sacred Bark",
+    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "DESCRIPTIONS": [
+      "Double the effectiveness of potions."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Ink Bottle",
+    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b10 cards, draw #b1 card."
+    ]
+  },
+  "Yin": {
+    "NAME": "Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Your first Attack each combat deals #b",
+      " additional damage."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Violet Lotus",
+    "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
+    "DESCRIPTIONS": [
+      "Whenever you exit #yCalm, gain an additional [E] ."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Teardrop Locket",
+    "FLAVOR": "Its owner blind, its contents unseen.",
+    "DESCRIPTIONS": [
+      "Start each combat in #yCalm."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ceramic Fish",
+    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "DESCRIPTIONS": [
+      "Whenever you add a card to your deck, gain #b",
+      " #yGold."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Slaver's Collar",
+    "FLAVOR": "Rusty miserable chains.",
+    "DESCRIPTIONS": [
+      "During Boss and Elite combats, gain [E] at the start of your turn."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Strike Dummy",
+    "FLAVOR": "It's beat up.",
+    "DESCRIPTIONS": [
+      "Cards containing \"Strike\" deal #b",
+      " additional damage."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Cloak Clasp",
+    "FLAVOR": "A simple but sturdy design.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yBlock for each card in your hand."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tungsten Rod",
+    "FLAVOR": "It's very very heavy.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, if it is before turn #b",
+      ", gain #yBlock equal to the current turn."
     ]
   }
 }
