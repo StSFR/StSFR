@@ -1,4 +1,76 @@
 Updates for Translators!
+04-04-2019
+	ui.json
+		"Leaderboards (NOTE: Will be reset weekly)",
+		->
+		"Leaderboards",
+    achievements.json
+		"PS4Trophy"
+		NOTE: This string only appears in the PS4 version.
+
+----------------------------------
+
+03-16-2019
+ui.json
+	"OptionsPanel"
+		"Resolution:",
+		"Resolution: NL Fullscreen Monitor:",
+		"Changes which monitor is utilized when Fullscreen."
+	"DailyScreen"
+		"yyyy/MM/dd"
+	"RunHistoryScreen"
+		"yyyy/M/d, h:mm a"
+
+achievements.json
+	"AchievementGrid"
+		"Eternal One"
+	"TEXT"
+		"Obtain all other Achievements."
+
+credits.json
+	"LOC_TUR"
+		"\"onparalelkenarag\""
+	"LOC_JPN"
+		"Grezzz (Community Translation)",
+		"Kakehashi Games (Official Translation)"
+
+----------------------------------
+
+02-06-2019
+credits.json
+	"LOC_THA"
+	
+powers.json
+	"Plated Armor"
+		" #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1.",
+		->
+		" #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1.",
+
+		" #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1."
+		->
+		" #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1."
+
+----------------------------------
+
+01-14-2019
+ui.json
+	"Rest Option"
+		""
+	"Lift Option"
+		""
+
+----------------------------------
+
+01-09-2019
+ui.json
+	"RichPresence"
+		"Daily - Floor %s",
+		"Custom - Floor %s",
+		" - Floor %s",
+		"Main Menu"
+
+----------------------------------
+
 12-31-2018
 credits.json
 	"SPECIAL"

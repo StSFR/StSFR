@@ -650,9 +650,9 @@
     "NAME": "Plated Armor",
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
-      " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1.",
+      " #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1.",
       "At the end of its turn, gains #b",
-      " #yBlock. Receiving attack damage reduces #yPlated #yArmor by #b1."
+      " #yBlock. Receiving unblocked attack damage reduces #yPlated #yArmor by #b1."
     ]
   },
   "Poison": {
