@@ -259,8 +259,8 @@
   "Fire Breathing": {
     "NAME": "Souffle de feu",
     "DESCRIPTIONS": [
-      "À la fin de chaque tour, inflige #b",
-      " dégâts à TOUS les ennemis par #yAttaque jouée ce tour."
+      "À chaque fois que vous piochez une carte #yStatut ou #yMalédiction, inflige #b",
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Flame Barrier": {
@@ -1013,215 +1013,218 @@
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Free Attack Power",
+    "NAME": "Puissance d'Attaque Gratuite",
     "DESCRIPTIONS": [
-      "Ignore energy cost on the next #yAttack you play.",
-      "Ignore energy cost on the next #b",
-      " #yAttacks you play."
+      "Ignorez le cout en énergie de la prochaine #yAttaque que vous jouez.",
+      "Ignorez le cout en énergie des #b",
+      " prochaines #yAttaques que vous jouez."
     ]
   },
   "DuplicationPower": {
     "NAME": "Duplication",
     "DESCRIPTIONS": [
-      "Your next card is played twice this turn.",
-      "Your next ",
-      " cards are played twice this turn."
+      "Votre prochaine carte est jouée deux fois ce tour.",
+      "Vos ",
+      " prochaines cartes sont jouées deux fois ce tour."
     ]
   },
   "NoSkills": {
-    "NAME": "No Skills",
+    "NAME": "Pas de Compétence",
     "DESCRIPTIONS": [
-      "You cannot play #ySkills this turn."
+      "Vous ne pouvez pas jouer de #yCompétence ce tour."
     ]
   },
   "Mastery": {
-    "NAME": "Mastery",
+    "NAME": "Maîtrise",
     "DESCRIPTIONS": [
-      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      "À chaque fois que vous tentez de changer de Position pour votre Position actuelle, gagnez #b",
       " [B]."
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Master Reality",
+    "NAME": "Maître Réalité",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      "s into your hand.",
-      " into your hand."
+      "Au début de votre tour, ajoutez #b",
+      "s dans votre main.",
+      " dans votre main."
     ]
   },
   "Retribution": {
     "NAME": "Retribution",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, gain #b",
-      " #yVigor."
+      "À chaque fois que vous perdez des PV, gagnez #b",
+      " de #yVigueur."
     ]
   },
   "EstablishmentPower": {
-    "NAME": "Establishment",
+    "NAME": "Établissement",
     "DESCRIPTIONS": [
-      "Whenever a card is #yRetained, lower its cost by #b"
+      "À chaque fois qu'une carte est #yRetenue, réduit son coût de #b"
     ]
   },
   "Controlled": {
-    "NAME": "Controlled",
+    "NAME": "Contrôlé",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, gain #b",
-      " #yBlock."
+      "À chaque fois que vous changez de #yPosition, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "FlowPower": {
-    "NAME": "FlowPower",
+    "NAME": "Puissance du Courant",
     "DESCRIPTIONS": [
-      "When you play an Attack, gain #b",
-      " temporary #yStrength. When you play a Skill, gain #b,",
-      " temporary #yDexterity."
+      "Lorsque vous jouez une Attaque, gagnez #b",
+      " de #yForce temporaire. Lorsque vous jouez une Compétence, gagnez #b,",
+      " de #yDexterité temporaire."
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Power",
+    "NAME": "Puissance Omega",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
-      " damage to ALL enemies."
+      "Au début de votre tour, infligez ",
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+      "À chaque fois que vous jouez une carte, #yl'Améliore."
     ]
   },
+  /*DISCUTER*/
   "WireheadingPower": {
-    "NAME": "Wireheading",
+    "NAME": "Fil de Fer",
     "DESCRIPTIONS": [
-      "At the end of your turn, #yScry "
+      "À la fin de votre tour, #yScrutez votre deck."
     ]
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
+    "NAME": "Hymne de Bataille",
     "DESCRIPTIONS": [
-      "The first card you draw each turn has its cost reduced by #b",
-      " that turn."
+      "Chaque tour, la première carte que vous piochez coûte #b",
+      " ce tour."
     ]
   },
+  /*DISCUTER*/
   "Grounded": {
-    "NAME": "Grounded",
+    "NAME": "Ancré",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, enter #yCalm."
+      "Lorsque vous jouez une #yCompétence, entrez #yCalme."
     ]
   },
   "Mantra": {
     "NAME": "Mantra",
     "DESCRIPTIONS": [
-      "When you obtain #b",
-      " #yMantra, enter #yDivinity."
+      "Lorsque vous obtenez #b",
+      " #yMantra, entrez en #yDivinité."
     ]
   },
   "StrikeUp": {
-    "NAME": "Strike Up",
+    "NAME": "Frappe Améliorée",
     "DESCRIPTIONS": [
-      "Cards containing #yStrike deal #b",
-      " additional damage."
+      "Les cartes contenant #yFrappe infligent #b",
+      " dégâts supplémentaires."
     ]
   },
   "FreeToPlayPower": {
-    "NAME": "Joy",
+    "NAME": "Joie",
     "DESCRIPTIONS": [
-      "Ignore energy costs on the next card you play this turn.",
-      "Ignore energy costs on the next #b",
-      " cards you play this turn."
+      "Ignore le coût de la prochaine carte que vous jouez durant ce tour.",
+      "Ignore le coût des #b",
+      " prochaines cartes que vous jouez durant ce tour."
     ]
   },
   "Adaptation": {
     "NAME": "Adaptation",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
-      " card."
+      "Lorsque vous changez de #yPosition, piochez #b",
+      " cartes."
     ]
   },
   "CannotChangeStancePower": {
-    "NAME": "Cannot Change Stance",
+    "NAME": "Reste en position",
     "DESCRIPTIONS": [
-      "Cannot change your stance this turn."
+      "Vous ne pouvez pas changer de position ce tour-ci."
     ]
   },
+  /*DISCUTER*/
   "Vault": {
-    "NAME": "Vault",
+    "NAME": "Saut",
     "DESCRIPTIONS": [
-      "Receives #b",
-      " damage at the start of your next turn."
+      "Recevez #b",
+      " dégâts au début de votre prochain tour."
     ]
   },
   "BlockReturnPower": {
-    "NAME": "Block Return",
+    "NAME": "Retour d'Armure",
     "DESCRIPTIONS": [
-      "When attacked, you gain #b",
-      " #yBlock."
+      "Lorsque vous êtes attaqués, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "HotHot": {
-    "NAME": "Hot hot",
+    "NAME": "Chaud Chaud",
     "DESCRIPTIONS": [
-      "While you are in #yWrath, deal #b",
-      " damage back whenever you receive attack damage."
+      "Lorsque vous êtes en #yColère, inflige #b",
+      " dégâts en retour lorsque vous recevez des dégâts d'attaque."
     ]
   },
   "AngelForm": {
     "NAME": "Deva",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yPlated #yArmor."
+      "À la fin de votre tour, gagnez#b",
+      " #yd'Armure #yPlaquée."
     ]
   },
   "EmotionalTurmoilPower": {
-    "NAME": "Emotional Turmoil",
+    "NAME": "Tourmente Émotionnelle",
     "DESCRIPTIONS": [
-      "At the start of your turn, enter a new random basic stance."
+      "Au début de votre tour, entrez dans une nouvelle position basique aléatoire."
     ]
   },
   "AlwaysMad": {
-    "NAME": "Always Mad",
+    "NAME": "Courroux Constant",
     "DESCRIPTIONS": [
-      "No longer receive double damage while in #yWrath."
+      "Vous ne recevez plus de dégâts doubles lorsque vous êtes en #yColère."
     ]
   },
   "Collect": {
-    "NAME": "Collect",
+    "NAME": "Collecte",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [B] [B] .",
-      "At the start of your next #b",
-      " turns, gain [B] [B] ."
+      "Au début de votre prochain tour, gagnez [B] [B] .",
+      "Au début de vos #b",
+      " prochains tours, gagnez [B] [B] ."
     ]
   },
   "Condense": {
     "NAME": "Condense",
     "DESCRIPTIONS": [
-      "You cannot take more than #b",
-      " from any attack."
+      "Vous ne pouvez pas recevoir plus de #b",
+      " dégâts par attaque."
     ]
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "Sérénité",
     "DESCRIPTIONS": [
-      "While you are in #yCalm, HP loss is reduced by #b"
+      "Lorsque vous êtes #yCalme, la perte de PV est réduite de #b"
     ]
   },
   "EndTurnDeath": {
-    "NAME": "Blasphemer",
+    "NAME": "Blasphémateur",
     "DESCRIPTIONS": [
-      "At the start of your turn, die."
+      "Au début de votre tour, mourrez."
     ]
   },
   "Vigor": {
-    "NAME": "Vigor",
+    "NAME": "Vigueur",
     "DESCRIPTIONS": [
-      "Your next Attack deals #b",
-      " additional damage."
+      "Votre prochaine attaque inflige #b",
+      " dégâts supplémentaires."
     ]
   },
   "DevotionPower": {
-    "NAME": "Devotion",
+    "NAME": "Dévotion",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
+      "Au début de votre tour, gagnez #b",
       " #yMantra."
     ]
   }

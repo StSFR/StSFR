@@ -6,21 +6,22 @@
     ]
   },
   "Wrath": {
-    "NAME": "Wrath",
+    "NAME": "Colère",
     "DESCRIPTION": [
       "Your Attacks deal double damage and you take double damage from attacks."
+      "Les dommages de vos attaques sont doublés et vous prenez le double de dommages."
     ]
   },
   "Calm": {
-    "NAME": "Calm",
+    "NAME": "Calme",
     "DESCRIPTION": [
-      "Upon exiting this #yStance, gain [W] [W] ."
+      "En quittant cette #yPosition, gagnez [W] [W] ."
     ]
   },
   "Divinity": {
-    "NAME": "Divinity",
+    "NAME": "Divinité",
     "DESCRIPTION": [
-      "Upon entering this #yStance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "En entrant dans cette #yPosition, gagnez [W] [W] [W] . Les attaques ont leurs dégats triplés. Quittez cette #yPosition au début de votre prochain tour."
     ]
   }
 }

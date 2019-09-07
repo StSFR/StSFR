@@ -47,8 +47,8 @@
       "Saphir+",
       "Fin ?",
       "Éternel",
-      "Amethyst",
-      "Amethyst+"
+      "Améthyste",
+      "Améthyste+"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -92,13 +92,13 @@
       "Gagnez un Défi Quotidien.",
       "Terrassez l'Éphémère avant qu'il ne disparaisse.",
       "Finissez l'Ascension de niveau 20.",
-      "Completez la Fin avec le Soldat de fer.",
-      "Completez la Fin avec la Silencieuse.",
-      "Completez la Fin avec le Défectueux.",
-      "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
+      "Complétez la Fin avec le Soldat de fer.",
+      "Complétez la Fin avec la Silencieuse.",
+      "Complétez la Fin avec le Défectueux.",
+      "Complétez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
       "Débloquez tous les autres succès.",
-      "Beat the game with the Watcher.",
-      "Complete the Ending with the Watcher."
+      "Finissez le jeu avec la Gardienne.",
+      "Complétez la Fin avec la Gargienne."
     ]
   },
   "CharStat": {
@@ -137,7 +137,7 @@
       "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",
       "#bLe #bDéfectueux",
-      "#pThe #pWatcher"
+      "#pLa #pGardienne"
     ],
     "TEXT": [
       "Retour"

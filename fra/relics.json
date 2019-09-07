@@ -134,7 +134,7 @@
     "NAME": "Cloche d'appel",
     "FLAVOR": "Cette sombre cloche en fer a sonné 3 fois lorsque vous l'avez trouvée, mais elle est silencieuse depuis.",
     "DESCRIPTIONS": [
-      "Quand vous la ramassez, obtenez #b3 #rMalédictions et #b3 reliques.",
+      "Quand vous la ramassez, obtenez une #rMalédictions unique et #b3 reliques.",
       "La cloche sonne...",
       "Passer les récompenses",
       "Fermer"
@@ -1153,7 +1153,7 @@
     "NAME": "L'Abaque",
     "FLAVOR": "\"Un...Deux...Trois...\"",
     "DESCRIPTIONS": [
-      "Quand vous mélangez votre défausse, gagnez #b",
+      "Quand vous mélangez votre pioche, gagnez #b",
       " #yd'Armure."
     ]
   },
@@ -1169,7 +1169,7 @@
     "NAME": "Cerf-volant",
     "FLAVOR": "Ce cerf-volant flotte autour de vous en combat, poussé par une force mystérieuse.",
     "DESCRIPTIONS": [
-      "Gagnez [G] et défaussez #b2 cartes au début de chaque tour."
+      "Chaque tour, gagnez [E] la première fois que vous défaussez une carte."
     ]
   },
   "FrozenCore": {
@@ -1214,7 +1214,7 @@
     "NAME": "Poignard",
     "FLAVOR": "Pratique pour les assassinats.",
     "DESCRIPTIONS": [
-      "Les #yAttaques qui coûtent #b0 infligent #b3 dégâts supplémentaires."
+      "Les #yAttaques qui coûtent #b0 infligent #b4 dégâts supplémentaires."
     ]
   },
   "Nunchaku": {
@@ -1358,99 +1358,99 @@
     ]
   },
   "CeramicFish": {
-    "NAME": "Ceramic Fish",
-    "FLAVOR": "Meticulously painted, these fish were revered to bring great fortune.",
+    "NAME": "Poisson en céramique",
+    "FLAVOR": "Peints méticuleusement, ces poissons étaient vénérés pour apporter une grande fortune.",
     "DESCRIPTIONS": [
-      "Whenever you add a card to your deck, gain #b",
-      " #yGold."
+      "À chaque fois que vous ajouter une carte à votre deck, gagnez #b",
+      " #yd'Or."
     ]
   },
   "StrikeDummy": {
-    "NAME": "Strike Dummy",
-    "FLAVOR": "It's beat up.",
+    "NAME": "Poupée de Frappe",
+    "FLAVOR": "Elle est battue.",
     "DESCRIPTIONS": [
-      "Cards containing \"Strike\" deal #b",
-      " additional damage."
+      "Les cartes contenant \"Frappe\" font #b",
+      " dégâts additionnels."
     ]
   },
   "VioletLotus": {
-    "NAME": "Violet Lotus",
-    "FLAVOR": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.",
+    "NAME": "Lotus Violet",
+    "FLAVOR": "Les textes anciens décrivent que la surface des \"bassins de mana\" étaient jonchés de ces fleurs.",
     "DESCRIPTIONS": [
-      "Whenever you exit #yCalm, gain an additional [E] ."
+      "Lorsque vous sortez du #yCalme, gagnez un [E] additionnel."
     ]
   },
   "SacredBark": {
-    "NAME": "Sacred Bark",
-    "FLAVOR": "A bark rumored to originate from the World tree.",
+    "NAME": "Écorce Sacrée",
+    "FLAVOR": "Une écorce originaire de l'arbre Monde selon les rumeurs.",
     "DESCRIPTIONS": [
-      "Double the effectiveness of potions."
+      "Double l'efficacité des potions."
     ]
   },
   "TeardropLocket": {
-    "NAME": "Teardrop Locket",
-    "FLAVOR": "Its owner blind, its contents unseen.",
+    "NAME": "Médaillon Larme",
+    "FLAVOR": "Son possesseur aveugle, ses contenus invisibles.",
     "DESCRIPTIONS": [
-      "Start each combat in #yCalm."
+      "Commencez chaque combat #yCalme."
     ]
   },
   "SlaversCollar": {
-    "NAME": "Slaver's Collar",
-    "FLAVOR": "Rusty miserable chains.",
+    "NAME": "Collier d'esclavagiste",
+    "FLAVOR": "Misérables chaînes rouillées.",
     "DESCRIPTIONS": [
-      "During Boss and Elite combats, gain [E] at the start of your turn."
+      "Durant les combats de Boss et d'Élite, gagnez [E] au début de chaque tour."
     ]
   },
   "Akabeko": {
     "NAME": "Akabeko",
     "FLAVOR": "\"Muuu~\"",
     "DESCRIPTIONS": [
-      "Your first Attack each combat deals #b",
-      " additional damage."
+      "Votre première attaque chaque combat fait #b",
+      " dommages supplémentaires."
     ]
   },
   "Yang": {
     "NAME": "Yang",
-    "FLAVOR": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth",
+    "FLAVOR": "\"Et  le soleil fut éteint pour toujours, comme si un rideau était tiré devant lui.\" - Zoroth",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, gain #b1 temporary #yDexterity."
+      "Lorsque vous jouez une #yAttaque, gagnez #b1 de #yDextérité temporaire."
     ]
   },
   "CloakClasp": {
-    "NAME": "Cloak Clasp",
-    "FLAVOR": "A simple but sturdy design.",
+    "NAME": "Attache de Cape",
+    "FLAVOR": "Une conception simple mais robuste.",
     "DESCRIPTIONS": [
-      "At the end of your turn, gain #b",
-      " #yBlock for each card in your hand."
+      "À la fin de votre tour, gagnez #b",
+      " #yd'Armure pour chaque carte dans votre main."
     ]
   },
   "Melange": {
-    "NAME": "Melange",
-    "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
+    "NAME": "Mélange",
+    "FLAVOR": "Sables mystérieux d'une origine inconnue. Sent la cannelle.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yMiracle into your hand."
+      "Au début de chaque combat, ajoute un #yMiracle dans votre main."
     ]
   },
   "Yin": {
     "NAME": "Yin",
-    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "FLAVOR": "Vous ne pouvez avoir de lumière sans obscurité. Quoique... ?",
     "DESCRIPTIONS": [
-      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+      "Lorsque vous jouez une #yCompétence, gagnez #b1 de #yForce temporaire."
     ]
   },
   "InkBottle": {
-    "NAME": "Ink Bottle",
-    "FLAVOR": "Once exhausted, appears to refill itself in a different color.",
+    "NAME": "Flacon d'encre",
+    "FLAVOR": "Une fois vide, elle semble se remplir à nouveau avec une couleur différente.",
     "DESCRIPTIONS": [
-      "Whenever you play #b10 cards, draw #b1 card."
+      "À chaque fois que vous jouez #b10 cartes, piochez #b1 carte."
     ]
   },
   "TungstenRod": {
-    "NAME": "Tungsten Rod",
-    "FLAVOR": "It's very very heavy.",
+    "NAME": "Barre de Tungstène",
+    "FLAVOR": "C'est très très lourd.",
     "DESCRIPTIONS": [
-      "At the start of your turn, if it is before turn #b",
-      ", gain #yBlock equal to the current turn."
+      "Au début de votre tour, si c'est avant le tour #b",
+      ", gagnez #yd'Armure égal au tour actuel."
     ]
   }
 }
