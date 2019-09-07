@@ -1464,7 +1464,7 @@
   },
   "SignatureMove": {
     "NAME": "Signature Move",
-    "DESCRIPTION": "Can only be played if this is your only Attack. Deal !D! damage." 
+    "DESCRIPTION": "Can only be played if this is the only Attack in your hand. Deal !D! damage." 
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
@@ -1499,8 +1499,8 @@
   },
   "Clarity": {
     "NAME": "Clarity",
-    "DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the other.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your deck. Add 1 to your hand. NL Exhaust the rest."
+    "DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the other.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the rest."
   },
   "Thwack": {
     "NAME": "DEPRECATED Thwack",
@@ -1513,8 +1513,8 @@
   },
   "Miracle": {
     "NAME": "Miracle",
-    "DESCRIPTION": "Gain [W]. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W]. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Gain [W]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain [W] [W]. NL Exhaust."
   },
   "Vault": {
     "NAME": "Vault",
@@ -1531,17 +1531,17 @@
   },
   "Smite": {
     "NAME": "Smite",
-    "DESCRIPTION": "Deal !D! damage. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
   },
   "Truth": {
     "NAME": "Truth",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust."
   },
   "Insight": {
     "NAME": "Insight",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
@@ -1550,19 +1550,19 @@
   },
   "Safety": {
     "NAME": "Safety",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
   },
   "Wisdom": {
     "NAME": "Wisdom",
-    "DESCRIPTION": "Draw !M! cards. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
   },
   "Peace": {
     "NAME": "Peace",
-    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL ALL enemies lose !M! Strength this turn. NL Exhaust."
   },
   "WindmillStrike": {
     "NAME": "Windmill Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!. NL Retains."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M!."
   },
   "Establishment": {
     "NAME": "Establishment",
@@ -1571,7 +1571,7 @@
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Gain !B! Block. NL At the start of your turn, gain !M! Block. NL Retains."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
   },
   "Metaphysics": {
     "NAME": "Metaphysics",
@@ -1589,15 +1589,15 @@
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy. NL Retains."
+    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "Exhaust. NL At the start of your turn, draw 1 card. NL Retains."
+    "DESCRIPTION": "Retain. NL At the start of your turn, draw 1 card. NL Exhaust."
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
   },
   "DeusExMachina": {
     "NAME": "Deus Ex Machina",
@@ -1618,7 +1618,7 @@
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Gain !B! Block. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
   },
   "CrescentKick": {
     "NAME": "DEPRECATED Crescent Kick",
@@ -1666,12 +1666,12 @@
     "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "DEPRECATED Serenity",
     "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
   },
   "Crescendo": {
     "NAME": "Crescendo",
-    "DESCRIPTION": "Enter Wrath. NL Retains. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Enter Wrath. NL Exhaust."
   },
   "Transcendence": {
     "NAME": "Transcendence",
@@ -1683,7 +1683,7 @@
   },
   "Perseverance": {
     "NAME": "Perseverance",
-    "DESCRIPTION": "Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!. NL Retains."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M!."
   },
   "CrushJoints": {
     "NAME": "Crush Joints",
@@ -1709,11 +1709,11 @@
   },
   "Protect": {
     "NAME": "Protect",
-    "DESCRIPTION": "Gain !B! Block. NL Retains."
+    "DESCRIPTION": "Retain. NL Gain !B! Block."
   },
   "FlyingSleeves": {
     "NAME": "Flying Sleeves",
-    "DESCRIPTION": "Deal !D! damage twice. NL Retains."
+    "DESCRIPTION": "Retain. NL Deal !D! damage twice."
   },
   "MasterReality": {
     "NAME": "Master Reality",
@@ -1729,16 +1729,16 @@
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Draw 1 card. NL Retains. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw 1 card. NL Retains."
+    "DESCRIPTION": "Retain. NL Draw 1 card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
   },
   "SandsOfTime": {
     "NAME": "Sands of Time",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1. NL Retains."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1."
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Gain [W] for each turn this card is Retained. NL Retains. NL Exhaust.",
+    "DESCRIPTION": "Retain. NL Gain [W] for each turn this card is Retained. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       " NL (Retained !M! turns.)"
     ]
@@ -1763,7 +1763,7 @@
   "Causality": {
     "NAME": "Causality",
     "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw cards until your hand is full. NL Retains. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw cards until your hand is full. NL Exhaust."
   },
   "Wish": {
     "NAME": "Wish",

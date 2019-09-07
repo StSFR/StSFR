@@ -1027,14 +1027,14 @@
     ]
   },
   "Condense": {
-    "NAME": "Condense",
+    "NAME": "DEPRECATED Condense",
     "DESCRIPTIONS": [
       "You cannot take more than #b",
       " from any attack."
     ]
   },
   "Grounded": {
-    "NAME": "Grounded",
+    "NAME": "DEPRECATED Grounded",
     "DESCRIPTIONS": [
       "Whenever you play a #ySkill, enter #yCalm."
     ]
@@ -1043,14 +1043,15 @@
     "NAME": "Adaptation",
     "DESCRIPTIONS": [
       "Whenever you switch #yStances, draw #b",
-      " card."
+      " card.",
+      " cards."
     ]
   },
   "Mastery": {
-    "NAME": "Mastery",
+    "NAME": "DEPRECATED Mastery",
     "DESCRIPTIONS": [
       "Whenever you attempt to switch Stances to your current Stance, gain #b",
-      " [B]."
+      " [W]."
     ]
   },
   "Controlled": {
@@ -1061,14 +1062,14 @@
     ]
   },
   "HotHot": {
-    "NAME": "Hot hot",
+    "NAME": "DEPRECATED Hot hot",
     "DESCRIPTIONS": [
       "While you are in #yWrath, deal #b",
       " damage back whenever you receive attack damage."
     ]
   },
   "FreeToPlayPower": {
-    "NAME": "Joy",
+    "NAME": "DEPRECATED FreeToPlayPower",
     "DESCRIPTIONS": [
       "Ignore energy costs on the next card you play this turn.",
       "Ignore energy costs on the next #b",
@@ -1078,19 +1079,19 @@
   "Collect": {
     "NAME": "Collect",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [B] [B] .",
+      "At the start of your next turn, gain [W] [W] .",
       "At the start of your next #b",
-      " turns, gain [B] [B] ."
+      " turns, gain [W] [W] ."
     ]
   },
   "EmotionalTurmoilPower": {
-    "NAME": "Emotional Turmoil",
+    "NAME": "DEPRECATED Emotional Turmoil",
     "DESCRIPTIONS": [
       "At the start of your turn, enter a new random basic stance."
     ]
   },
   "Serenity": {
-    "NAME": "Serenity",
+    "NAME": "DEPRECATED Serenity",
     "DESCRIPTIONS": [
       "While you are in #yCalm, HP loss is reduced by #b"
     ]
@@ -1102,7 +1103,7 @@
     ]
   },
   "AlwaysMad": {
-    "NAME": "Always Mad",
+    "NAME": "DEPRECATED Always Mad",
     "DESCRIPTIONS": [
       "No longer receive double damage while in #yWrath."
     ]
@@ -1115,7 +1116,7 @@
     ]
   },
   "AngelForm": {
-    "NAME": "Deva",
+    "NAME": "DEPRECATED AngelForm",
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
       " #yPlated #yArmor."
@@ -1135,7 +1136,7 @@
   ]
   },
   "FlowPower": {
-    "NAME": "FlowPower",
+    "NAME": "DEPRECATED FlowPower",
     "DESCRIPTIONS": [
       "When you play an Attack, gain #b",
       " temporary #yStrength. When you play a Skill, gain #b,",
@@ -1145,7 +1146,8 @@
   "EstablishmentPower": {
     "NAME": "Establishment",
     "DESCRIPTIONS": [
-    "Whenever a card is #yRetained, lower its cost by #b"
+    "Whenever a card is #yRetained, lower its cost by #b",
+    "."
 	]
   },
   "DevotionPower": {
@@ -1187,8 +1189,9 @@
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
       "At the start of your turn, add #b",
-      "s into your hand.",
-      " into your hand."
+      " #y",
+      " into your hand.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "StrikeUp": {
@@ -1199,7 +1202,7 @@
     ]
   },
   "Retribution": {
-    "NAME": "Retribution",
+    "NAME": "DEPRECATED Retribution",
     "DESCRIPTIONS": [
       "Whenever you lose HP, gain #b",
       " #yVigor."

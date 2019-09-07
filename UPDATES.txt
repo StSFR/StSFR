@@ -67,6 +67,13 @@ ui.json
 	"RunHistoryScreen"
 	"SignatureMoveMessage"
 
+relics.json
+	The following relics have been reworked
+		"WristBlade"
+		"Calling Bell"
+		"HoveringKite"
+	11 or so new relics can be found at the bottom of the file as well
+
 ----------------------------------
 
 07-16-2019

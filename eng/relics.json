@@ -1361,7 +1361,21 @@
     "NAME": "Melange",
     "FLAVOR": "Mysterious sands from an unknown origin. Smells of cinnamon.",
     "DESCRIPTIONS": [
+      "TO BE REWORKED"
+    ]
+  },
+  "PureWater": {
+    "NAME": "Pure Water",
+    "FLAVOR": "Filtered through fine sand and free of impurities.",
+    "DESCRIPTIONS": [
       "At the start of each combat, add a #yMiracle into your hand."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Holy Water",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand."
     ]
   },
   "SacredBark": {
@@ -1379,7 +1393,7 @@
     ]
   },
   "Yin": {
-    "NAME": "Yin",
+    "NAME": "DEPRECATED Yin",
     "FLAVOR": "You cannot have light without dark. Or can you?",
     "DESCRIPTIONS": [
       "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
