@@ -1426,13 +1426,28 @@
   },
   "Melange": {
     "NAME": "Mélange",
-    "FLAVOR": "Sables mystérieux d'une origine inconnue. Sent la cannelle.",
+    "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
+    "DESCRIPTIONS": [
+      "Lorsque vous mélangez votre pioche, #yScrutez #b",
+      "."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Eau pure",
+    "FLAVOR": "Filtrée dans un sable fin et sans aucune impureté.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, ajoute un #yMiracle dans votre main."
     ]
   },
+  "HolyWater": {
+    "NAME": "Eau bénite",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, ajoutez #b3 #yMiracles dans votre main."
+    ]
+  },
   "Yin": {
-    "NAME": "Yin",
+    "NAME": "DEPRECATED Yin",
     "FLAVOR": "Vous ne pouvez avoir de lumière sans obscurité. Quoique... ?",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une #yCompétence, gagnez #b1 de #yForce temporaire."

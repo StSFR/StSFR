@@ -1035,22 +1035,23 @@
     ]
   },
   "Mastery": {
-    "NAME": "Maîtrise",
+    "NAME": "DEPRECATED Maîtrise",
     "DESCRIPTIONS": [
       "À chaque fois que vous tentez de changer de Position pour votre Position actuelle, gagnez #b",
       " [B]."
     ]
   },
   "MasterRealityPower": {
-    "NAME": "Maître Réalité",
+    "NAME": "Maîtrise-réalité",
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
-      "s dans votre main.",
-      " dans votre main."
+      " #y",
+      " dans votre main.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
   "Retribution": {
-    "NAME": "Retribution",
+    "NAME": "DEPRECATED Rétribution",
     "DESCRIPTIONS": [
       "À chaque fois que vous perdez des PV, gagnez #b",
       " de #yVigueur."
@@ -1059,7 +1060,8 @@
   "EstablishmentPower": {
     "NAME": "Établissement",
     "DESCRIPTIONS": [
-      "À chaque fois qu'une carte est #yRetenue, réduit son coût de #b"
+      "À chaque fois qu'une carte est #yRetenue, réduit son coût de #b",
+      "."
     ]
   },
   "Controlled": {
@@ -1070,7 +1072,7 @@
     ]
   },
   "FlowPower": {
-    "NAME": "Puissance du Courant",
+    "NAME": "DEPRECATED Puissance du Courant",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une Attaque, gagnez #b",
       " de #yForce temporaire. Lorsque vous jouez une Compétence, gagnez #b,",
@@ -1087,28 +1089,26 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "À chaque fois que vous jouez une carte, #yl'Améliore."
+      "À chaque fois que vous jouez une carte, #yAméliorez-la."
     ]
   },
-  /*DISCUTER*/
   "WireheadingPower": {
-    "NAME": "Fil de Fer",
+    "NAME": "Fil de fer",
     "DESCRIPTIONS": [
       "À la fin de votre tour, #yScrutez votre deck."
     ]
   },
   "BattleHymn": {
-    "NAME": "Hymne de Bataille",
+    "NAME": "Hymne de bataille",
     "DESCRIPTIONS": [
       "Chaque tour, la première carte que vous piochez coûte #b",
       " ce tour."
     ]
   },
-  /*DISCUTER*/
-  "Grounded": {
+  "DEPRECATED Grounded": {
     "NAME": "Ancré",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une #yCompétence, entrez #yCalme."
+      "Lorsque vous jouez une #yCompétence, entrez en #yCalme."
     ]
   },
   "Mantra": {
@@ -1126,7 +1126,7 @@
     ]
   },
   "FreeToPlayPower": {
-    "NAME": "Joie",
+    "NAME": "DEPRECATED Joie",
     "DESCRIPTIONS": [
       "Ignore le coût de la prochaine carte que vous jouez durant ce tour.",
       "Ignore le coût des #b",
@@ -1137,6 +1137,7 @@
     "NAME": "Adaptation",
     "DESCRIPTIONS": [
       "Lorsque vous changez de #yPosition, piochez #b",
+      " carte.",
       " cartes."
     ]
   },
@@ -1146,7 +1147,6 @@
       "Vous ne pouvez pas changer de position ce tour-ci."
     ]
   },
-  /*DISCUTER*/
   "Vault": {
     "NAME": "Saut",
     "DESCRIPTIONS": [
@@ -1162,7 +1162,7 @@
     ]
   },
   "HotHot": {
-    "NAME": "Chaud Chaud",
+    "NAME": "DEPRECATED Chaud Chaud",
     "DESCRIPTIONS": [
       "Lorsque vous êtes en #yColère, inflige #b",
       " dégâts en retour lorsque vous recevez des dégâts d'attaque."
@@ -1176,13 +1176,13 @@
     ]
   },
   "EmotionalTurmoilPower": {
-    "NAME": "Tourmente Émotionnelle",
+    "NAME": "DEPRECATED Tourmente Émotionnelle",
     "DESCRIPTIONS": [
       "Au début de votre tour, entrez dans une nouvelle position basique aléatoire."
     ]
   },
   "AlwaysMad": {
-    "NAME": "Courroux Constant",
+    "NAME": "DEPRECATED Courroux Constant",
     "DESCRIPTIONS": [
       "Vous ne recevez plus de dégâts doubles lorsque vous êtes en #yColère."
     ]
@@ -1190,12 +1190,12 @@
   "Collect": {
     "NAME": "Collecte",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, gagnez [B] [B] .",
+      "Au début de votre prochain tour, gagnez [W] [W] .",
       "Au début de vos #b",
-      " prochains tours, gagnez [B] [B] ."
+      " prochains tours, gagnez [W] [W] ."
     ]
   },
-  "Condense": {
+  "DEPRECATED Condense": {
     "NAME": "Condense",
     "DESCRIPTIONS": [
       "Vous ne pouvez pas recevoir plus de #b",
@@ -1203,9 +1203,9 @@
     ]
   },
   "Serenity": {
-    "NAME": "Sérénité",
+    "NAME": "DEPRECATED Sérénité",
     "DESCRIPTIONS": [
-      "Lorsque vous êtes #yCalme, la perte de PV est réduite de #b"
+      "Lorsque vous êtes en position de #yCalme, la perte de PV est réduite de #b"
     ]
   },
   "EndTurnDeath": {
