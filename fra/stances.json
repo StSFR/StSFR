@@ -8,8 +8,7 @@
   "Wrath": {
     "NAME": "Colère",
     "DESCRIPTION": [
-      "Your Attacks deal double damage and you take double damage from attacks."
-      "Les dommages de vos attaques sont doublés et vous prenez le double de dommages."
+      "Vos attaques infligent deux fois plus de dégâts et vous subissez deux fois plus de dégâts des attaques."
     ]
   },
   "Calm": {
@@ -21,7 +20,7 @@
   "Divinity": {
     "NAME": "Divinité",
     "DESCRIPTION": [
-      "En entrant dans cette #yPosition, gagnez [W] [W] [W] . Les attaques ont leurs dégats triplés. Quittez cette #yPosition au début de votre prochain tour."
+      "En entrant dans cette #yPosition, gagnez [W] [W] [W] . Vos attaques infligent trois fois plus de dégâts. Quittez cette #yPosition au début de votre prochain tour."
     ]
   }
 }

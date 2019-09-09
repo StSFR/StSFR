@@ -28,7 +28,7 @@
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Conserver"
+      "Retenir"
     ]
   },
   "AbstractChest": {
@@ -467,7 +467,7 @@
       "Résolution :",
       "Résolution: NL Écran de plein écran :",
       "Change l'écran utilisé quand le jeu est en plein écran.",
-      "Long-press Confirmations"
+      "Appui prolongé pour confirmer"
     ]
   },
   "SettingsScreen": {
@@ -578,8 +578,8 @@
       " À déverrouiller",
       "Inconnu",
       "???",
-      " Jusqu'à la prochaine récompense ",
-      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
+      " jusqu'à la prochaine récompense ",
+      "Ce personnage peut être déverrouillé en terminant une partie normale et en ayant débloqué le troisième personnage."
     ]
   },
   "CharacterSelectScreen": {
@@ -598,7 +598,7 @@
       "Seed aléatoire",
       "La seed de départ est utilisé pour générer les éléments aléatoires de cette partie.",
       "Définir la seed",
-      "The Watcher"
+      "La Gardienne"
     ]
   },
   "AbstractMonster": {
@@ -747,7 +747,7 @@
       "le Soldat de fer",
       "la Silencieuse",
       "le Défectueux",
-      "the Watcher"
+      "la Gardienne"
     ]
   },
   "ExhaustAction": {
@@ -859,13 +859,13 @@
       "Option 6. DO NOT TRANSLATE",
       "Amis",
       "Global",
-      "Watcher"
+      "La Gardienne"
     ]
   },
   "BetterToHandAction": {
     "TEXT": [
       "Choisissez une carte à ajouter à votre main.",
-      "Choisis ",
+      "Choisissez ",
       " cartes à ajouter à votre main."
     ]
   },
@@ -897,26 +897,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Les Élites sont plus fréquents.",
-      "Les ennemis normaux font plus de dégâts.",
-      "Les Élites font plus de dégâts.",
-      "Les Boss font plus de dégâts.",
-      "Vous récupérez moins de vie après avoir battu un Boss.",
-      "Commencez chaque partie blessé.",
-      "Les ennemis normaux ont plus de vie.",
-      "Les Élites ont plus de vie.",
-      "Les Boss ont plus de vie.",
-      "Commencez chaque partie maudit !",
-      "Moins d'emplacements de potions.",
-      "Les cartes améliorées apparaissent moins souvent.",
-      "Les boss sont pauvres.",
-      "Commencez avec moins de PV max.",
-      "Les Évenements sont moins favorables.",
-      "Les boutiques sont plus chères.",
-      "Les ennemis normaux ont des attaques et capacités plus puissantes.",
-      "Les Élites ont des attaques et capacités plus puissantes.",
-      "Les Boss ont des attaques et capacités plus puissantes.",
-      "(Niveau max) Double boss final."
+      "1. Les Élites sont plus fréquents.",
+      "2. Les ennemis normaux font plus de dégâts.",
+      "3. Les Élites font plus de dégâts.",
+      "4. Les Boss font plus de dégâts.",
+      "5. Vous récupérez moins de vie après avoir battu un Boss.",
+      "6. Commencez chaque partie blessé.",
+      "7. Les ennemis normaux ont plus de vie.",
+      "8. Les Élites ont plus de vie.",
+      "9. Les Boss ont plus de vie.",
+      "10. Commencez chaque partie maudit !",
+      "11. Moins d'emplacements de potions.",
+      "12. Les cartes améliorées apparaissent moins souvent.",
+      "13. Les boss sont pauvres.",
+      "14. Commencez avec moins de PV max.",
+      "15. Les Évenements sont moins favorables.",
+      "16. Les boutiques sont plus chères.",
+      "17. Les ennemis normaux ont des attaques et capacités plus puissantes.",
+      "18. Les Élites ont des attaques et capacités plus puissantes.",
+      "19. Les Boss ont des attaques et capacités plus puissantes.",
+      "20. (Niveau max) Double boss final."
     ]
   },
   "RunHistoryScreen": {
@@ -1044,8 +1044,8 @@
       "Personnalisez votre partie avec les modificateurs de votre choix.",
       "Modifier les contrôles.",
       "Modifiez vos paramètres graphiques, audio et de jeu.",
-      "Potion Lab",
-      "Observe the numerous potions found climbing the Spire."
+      "Laboratoire de potions",
+      "Observez les différentes potions trouvées pendant vos ascensions."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1177,7 +1177,7 @@
       "Haut",
       "Bas",
       "Manette activée",
-      "Touchscreen Mode"
+      "Mode tactile"
     ]
   },
   "CacheAction": {
@@ -1317,7 +1317,7 @@
       "Dessins de développement déverouillés pour la Sliencieuse !",
       "Dessins de développement déverouillés pour le Défectueux !",
       "Dessins de développement déverouillés pour tous les personnages !",
-      "Watcher Beta Card Art Unlocked!"
+      "Dessins de développement déverouillés pour la Gardienne !"
     ]
   },
   "VictoryScreen": {
@@ -1364,23 +1364,23 @@
   },
   "PotionViewScreen": {
     "TEXT": [
-      "Return",
-      "Common:",
-      "The most frequent potions found in the Spire.",
-      "Uncommon:",
-      "Stronger potions which appear less often than common potions.",
-      "Rare:",
-      "Unique and powerful potions which are rarely seen."
+      "Retour",
+      "Communes :",
+      "Les potions les plus fréquentes trouvées dans la Tour.",
+      "Peu communes :",
+      "Des potions plus puissantes qui apparaissent moins souvent que les potions communes.",
+      "Rares :",
+      "Des potions uniques et puissantes qu'on ne voit que rarement."
     ]
   },
   "ClarityAction": {
     "TEXT": [
-      "Choose 1 card to keep. The rest are exhausted."
+      "Choisissez une carte à conserver. Le reste est épuisé."
     ]
   },
   "WishAction": {
     "TEXT": [
-      "Choose a Card to play."
+      "Choisissez une carte à jouer."
     ]
   }
 }

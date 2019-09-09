@@ -67,11 +67,12 @@
     },
     "RETAIN": {
       "NAMES": [
-        "conserver",
-        "conservez",
-        "retained"
+        "retenue",
+        "retenues",
+        "retenir",
+        "retenez"
       ],
-      "DESCRIPTION": "Les cartes conservées ne sont pas défaussées à la fin du tour."
+      "DESCRIPTION": "Les cartes retenues ne sont pas défaussées à la fin du tour."
     },
     "SHIV": {
       "NAMES": [
@@ -280,53 +281,54 @@
     },
     "STANCE": {
       "NAMES": [
-        "stance",
-        "stances"
+        "position",
+        "positions"
       ],
-      "DESCRIPTION": "You can only have one stance at a time."
+      "DESCRIPTION": "Vous ne pouvez adopter qu'une seule position à la fois."
     },
     "WRATH": {
       "NAMES": [
-        "wrath"
+        "colère"
       ],
-      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+      "DESCRIPTION": "Dans cette #yPosition, vous infligez et recevez deux fois plus de dégâts."
     },
     "CALM": {
       "NAMES": [
-        "calm"
+        "calme"
       ],
-      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+      "DESCRIPTION": "Quand vous quittez cette #yPosition, gagnez [W] [W] ."
     },
     "DIVINITY": {
       "NAMES": [
-        "divinity"
+        "divinité"
       ],
-      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "DESCRIPTION": "Quand vous entrez dans cette #yPosition, gagnez [W] [W] [W] . Vos attaques infligent trois fois plus de dégâts. Quittez cette #yPosition au début de votre prochain tour."
     },
     "PRAYER": {
       "NAMES": [
         "mantra",
-        "through violence"
+        "par la violence"
       ],
-      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+      "DESCRIPTION": "Quand vous obtenez #b10 de #yMantra, entrez en #yDivinité."
     },
     "SCRY": {
       "NAMES": [
-        "scry"
+        "scruter",
+        "scrutez"
       ],
-      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+      "DESCRIPTION": "Regardez les X premières cartes de votre pioche. Vous pouvez défausser n'importe lesquelles."
     },
     "REGEN": {
       "NAMES": [
-        "regen"
+        "régénération"
       ],
-      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
+      "DESCRIPTION": "La Régénération vous soigne à la fin de votre tour. Chaque tour, la Régénération est diminuée de #b1."
     },
     "VIGOR": {
       "NAMES": [
-        "vigor"
+        "vigueur"
       ],
-      "DESCRIPTION": "Your next Attack deals additional damage."
+      "DESCRIPTION": "Votre prochaine attaque inflige des dégâts supplémentaires."
     }
   }
 }

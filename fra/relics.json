@@ -722,7 +722,7 @@
   },
   "Singing Bowl": {
     "NAME": "Bol chantant",
-    "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
+    "FLAVOR": "Au contact d'un maillet, cet artefact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
       "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV max de #b2."
     ]
@@ -1359,54 +1359,54 @@
   },
   "CeramicFish": {
     "NAME": "Poisson en céramique",
-    "FLAVOR": "Peints méticuleusement, ces poissons étaient vénérés pour apporter une grande fortune.",
+    "FLAVOR": "Peints méticuleusement, ces poissons étaient vénérés pour apporter de la chance.",
     "DESCRIPTIONS": [
-      "À chaque fois que vous ajouter une carte à votre deck, gagnez #b",
+      "Lorsque vous ajoutez une carte à votre deck, gagnez #b",
       " #yd'Or."
     ]
   },
   "StrikeDummy": {
-    "NAME": "Poupée de Frappe",
+    "NAME": "Poupée de frappe",
     "FLAVOR": "Elle est battue.",
     "DESCRIPTIONS": [
-      "Les cartes contenant \"Frappe\" font #b",
-      " dégâts additionnels."
+      "Les cartes contenant \"Frappe\" infligent #b",
+      " dégâts supplémentaires."
     ]
   },
   "VioletLotus": {
-    "NAME": "Lotus Violet",
+    "NAME": "Lotus violet",
     "FLAVOR": "Les textes anciens décrivent que la surface des \"bassins de mana\" étaient jonchés de ces fleurs.",
     "DESCRIPTIONS": [
       "Lorsque vous sortez du #yCalme, gagnez un [E] additionnel."
     ]
   },
   "SacredBark": {
-    "NAME": "Écorce Sacrée",
+    "NAME": "Écorce sacrée",
     "FLAVOR": "Une écorce originaire de l'arbre Monde selon les rumeurs.",
     "DESCRIPTIONS": [
       "Double l'efficacité des potions."
     ]
   },
   "TeardropLocket": {
-    "NAME": "Médaillon Larme",
-    "FLAVOR": "Son possesseur aveugle, ses contenus invisibles.",
+    "NAME": "Médaillon larme",
+    "FLAVOR": "Son possesseur aveugle, son contenu invisible.",
     "DESCRIPTIONS": [
       "Commencez chaque combat #yCalme."
     ]
   },
   "SlaversCollar": {
     "NAME": "Collier d'esclavagiste",
-    "FLAVOR": "Misérables chaînes rouillées.",
+    "FLAVOR": "De misérables chaînes rouillées.",
     "DESCRIPTIONS": [
-      "Durant les combats de Boss et d'Élite, gagnez [E] au début de chaque tour."
+      "Durant les combats de Boss et d'Élite, gagnez [E] au début de votre tour."
     ]
   },
   "Akabeko": {
     "NAME": "Akabeko",
     "FLAVOR": "\"Muuu~\"",
     "DESCRIPTIONS": [
-      "Votre première attaque chaque combat fait #b",
-      " dommages supplémentaires."
+      "Votre première attaque chaque combat inflige #b",
+      " dégâts supplémentaires."
     ]
   },
   "Yang": {
@@ -1429,21 +1429,21 @@
     "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
     "DESCRIPTIONS": [
       "Lorsque vous mélangez votre pioche, #yScrutez #b",
-      "."
+      " cartes."
     ]
   },
   "PureWater": {
     "NAME": "Eau pure",
     "FLAVOR": "Filtrée dans un sable fin et sans aucune impureté.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, ajoute un #yMiracle dans votre main."
+      "Au début de chaque combat, ajoutez un #yMiracle dans votre main."
     ]
   },
   "HolyWater": {
     "NAME": "Eau bénite",
     "FLAVOR": "TODO.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, ajoutez #b3 #yMiracles dans votre main."
+      "Remplace #pl'Eau #ppure. Au début de chaque combat, ajoutez #b3 #yMiracles dans votre main."
     ]
   },
   "Yin": {
@@ -1455,9 +1455,9 @@
   },
   "InkBottle": {
     "NAME": "Flacon d'encre",
-    "FLAVOR": "Une fois vide, elle semble se remplir à nouveau avec une couleur différente.",
+    "FLAVOR": "Une fois vide, il semble se remplir à nouveau avec une couleur différente.",
     "DESCRIPTIONS": [
-      "À chaque fois que vous jouez #b10 cartes, piochez #b1 carte."
+      "Lorsque vous jouez #b10 cartes, piochez #b1 carte."
     ]
   },
   "TungstenRod": {
@@ -1465,7 +1465,7 @@
     "FLAVOR": "C'est très très lourd.",
     "DESCRIPTIONS": [
       "Au début de votre tour, si c'est avant le tour #b",
-      ", gagnez #yd'Armure égal au tour actuel."
+      ", gagnez un montant #yd'Armure égal au tour actuel."
     ]
   }
 }

@@ -29,7 +29,7 @@
     ]
   },
   "Artifact": {
-    "NAME": "Artéfact",
+    "NAME": "Artefact",
     "DESCRIPTIONS": [
       "Annule #b",
       " débuff.",
@@ -259,7 +259,7 @@
   "Fire Breathing": {
     "NAME": "Souffle de feu",
     "DESCRIPTIONS": [
-      "À chaque fois que vous piochez une carte #yStatut ou #yMalédiction, inflige #b",
+      "Lorsque vous piochez une carte #yStatut ou #yMalédiction, infligez #b",
       " dégâts à TOUS les ennemis."
     ]
   },
@@ -496,9 +496,9 @@
     ]
   },
   "Retain Cards": {
-    "NAME": "Conserver des cartes",
+    "NAME": "Retenue de cartes",
     "DESCRIPTIONS": [
-      "À la fin de chaque tour, vous conservez #b",
+      "À la fin de chaque tour, vous retenez #b",
       " carte.",
       " cartes."
     ]
@@ -1013,10 +1013,10 @@
     ]
   },
   "FreeAttackPower": {
-    "NAME": "Puissance d'Attaque Gratuite",
+    "NAME": "Puissance d'attaque gratuite",
     "DESCRIPTIONS": [
-      "Ignorez le cout en énergie de la prochaine #yAttaque que vous jouez.",
-      "Ignorez le cout en énergie des #b",
+      "Ignorez le coût en énergie de la prochaine #yAttaque que vous jouez.",
+      "Ignorez le coût en énergie des #b",
       " prochaines #yAttaques que vous jouez."
     ]
   },
@@ -1029,9 +1029,9 @@
     ]
   },
   "NoSkills": {
-    "NAME": "Pas de Compétence",
+    "NAME": "Incompétence",
     "DESCRIPTIONS": [
-      "Vous ne pouvez pas jouer de #yCompétence ce tour."
+      "Vous ne pouvez pas jouer de #yCompétences ce tour."
     ]
   },
   "Mastery": {
@@ -1046,7 +1046,7 @@
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
       " #y",
-      " dans votre main.",
+      "s dans votre main.",
       "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
     ]
   },
@@ -1060,14 +1060,14 @@
   "EstablishmentPower": {
     "NAME": "Établissement",
     "DESCRIPTIONS": [
-      "À chaque fois qu'une carte est #yRetenue, réduit son coût de #b",
+      "Lorsqu'une carte est #yRetenue, réduit son coût de #b",
       "."
     ]
   },
   "Controlled": {
     "NAME": "Contrôlé",
     "DESCRIPTIONS": [
-      "À chaque fois que vous changez de #yPosition, gagnez #b",
+      "Lorsque vous changez de #yPosition, gagnez #b",
       " #yd'Armure."
     ]
   },
@@ -1080,7 +1080,7 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Puissance Omega",
+    "NAME": "Puissance oméga",
     "DESCRIPTIONS": [
       "Au début de votre tour, infligez ",
       " dégâts à TOUS les ennemis."
@@ -1089,11 +1089,11 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "À chaque fois que vous jouez une carte, #yAméliorez-la."
+      "Lorsque vous jouez une carte, #yAméliorez-la."
     ]
   },
   "WireheadingPower": {
-    "NAME": "Fil de fer",
+    "NAME": "Implant cérébral",
     "DESCRIPTIONS": [
       "À la fin de votre tour, #yScrutez votre deck."
     ]
@@ -1101,7 +1101,7 @@
   "BattleHymn": {
     "NAME": "Hymne de bataille",
     "DESCRIPTIONS": [
-      "Chaque tour, la première carte que vous piochez coûte #b",
+      "La première carte que vous piochez chaque tour voit son coût réduit de #b",
       " ce tour."
     ]
   },
@@ -1115,7 +1115,7 @@
     "NAME": "Mantra",
     "DESCRIPTIONS": [
       "Lorsque vous obtenez #b",
-      " #yMantra, entrez en #yDivinité."
+      " de #yMantra, entrez en #yDivinité."
     ]
   },
   "StrikeUp": {
@@ -1144,20 +1144,20 @@
   "CannotChangeStancePower": {
     "NAME": "Reste en position",
     "DESCRIPTIONS": [
-      "Vous ne pouvez pas changer de position ce tour-ci."
+      "Vous ne pouvez pas changer de position ce tour."
     ]
   },
   "Vault": {
     "NAME": "Saut",
     "DESCRIPTIONS": [
-      "Recevez #b",
+      "Reçoit #b",
       " dégâts au début de votre prochain tour."
     ]
   },
   "BlockReturnPower": {
-    "NAME": "Retour d'Armure",
+    "NAME": "Retour d'armure",
     "DESCRIPTIONS": [
-      "Lorsque vous êtes attaqués, gagnez #b",
+      "Lorsque vous êtes attaqué, gagnez #b",
       " #yd'Armure."
     ]
   },
@@ -1225,7 +1225,7 @@
     "NAME": "Dévotion",
     "DESCRIPTIONS": [
       "Au début de votre tour, gagnez #b",
-      " #yMantra."
+      " de #yMantra."
     ]
   }
 }
