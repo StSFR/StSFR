@@ -1105,7 +1105,7 @@
       " ce tour."
     ]
   },
-  "DEPRECATED Grounded": {
+  "Grounded": {
     "NAME": "Ancré",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une #yCompétence, entrez en #yCalme."
@@ -1195,7 +1195,7 @@
       " prochains tours, gagnez [W] [W] ."
     ]
   },
-  "DEPRECATED Condense": {
+  "Condense": {
     "NAME": "Condense",
     "DESCRIPTIONS": [
       "Vous ne pouvez pas recevoir plus de #b",
