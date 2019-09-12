@@ -1347,7 +1347,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Flurry Of Blows",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL On Stance change, returns from the Exhaust Pile to your Hand. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL On Stance change, returns from the Discard Pile to your Hand."
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
@@ -1413,7 +1413,7 @@
   },
   "Flare": {
     "NAME": "DEPRECATED Flare",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Wrath: Gain [W] [W] ."
+    "DESCRIPTION": "DEPRECATED."
   },
   "PerfectedForm": {
     "NAME": "DEPRECATED Perfected Form",
@@ -1426,8 +1426,8 @@
   },
   "EmptyMind": {
     "NAME": "Empty Mind",
-    "DESCRIPTION": "Exit your Stance. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Exit your Stance. NL Draw !M! cards."
+    "DESCRIPTION": "Draw !M! cards. NL Exit your Stance.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Exit your Stance."
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
@@ -1435,7 +1435,10 @@
   },
   "Judgement": {
     "NAME": "Judgement",
-    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0."
+    "DESCRIPTION": "If the enemy has !M! or less HP, set their NL HP to 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
   },
   "Pray": {
     "NAME": "Pray",
@@ -1526,8 +1529,8 @@
   },
   "CarveReality": {
     "NAME": "Carve Reality",
-    "DESCRIPTION": "Deal !D! damage. NL Choose NL *Smite or *Truth. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Choose Upgraded NL *Smite or *Truth. NL Add the chosen card to your hand."
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Smite to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an Upgraded *Smite to your hand."
   },
   "Smite": {
     "NAME": "Smite",
@@ -1545,8 +1548,8 @@
   },
   "DeceiveReality": {
     "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Choose NL *Safety or *Wisdom. NL Add the chosen card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Choose Upgraded NL *Safety or *Wisdom. NL Add the chosen card to your hand."
+    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Add an Upgraded *Safety to your hand."
   },
   "Safety": {
     "NAME": "Safety",
@@ -1634,8 +1637,8 @@
   },
   "Prostrate": {
     "NAME": "Prostrate",
-    "DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Mantra. NL Gain 1 Vulnerable. NL Add an *Insight into your discard pile."
+    "DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Punishment": {
     "NAME": "DEPRECATED Punishment",
@@ -1662,8 +1665,8 @@
   },
   "Vigilance": {
     "NAME": "Vigilance",
-    "DESCRIPTION": "Enter Calm. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Enter Calm. NL Draw !M! cards."
+    "DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Serenity": {
     "NAME": "DEPRECATED Serenity",
@@ -1691,7 +1694,7 @@
   },
   "Sanctity": {
     "NAME": "Sanctity",
-    "DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! card."
+    "DESCRIPTION": "Gain !B! Block. NL If the previous card played was a Skill, draw !M! cards."
   },
   "Omniscience": {
     "NAME": "Omniscience",
@@ -1738,9 +1741,9 @@
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Retain. NL Gain [W] for each turn this card is Retained. NL Exhaust.",
+    "DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Retained !M! turns.)"
+      ""
     ]
   },
   "Retribution": {
@@ -1776,11 +1779,11 @@
   },
   "InnerPeace": {
     "NAME": "Inner Peace",
-    "DESCRIPTION": "Enter Calm. NL End your turn."
+    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise Enter Calm."
   },
   "Tantrum": {
     "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot leave Wrath for the remainder of the turn."
+    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath for the remainder of the turn."
   },
   "Alpha": {
     "NAME": "Alpha",
@@ -1797,13 +1800,13 @@
     "DESCRIPTION": "At the start of your turn deal !M! damage to ALL enemies."
   },
   "Vengeance": {
-    "NAME": "Vengeance",
-    "DESCRIPTION": "If your HP is less than it was last turn, enter Wrath."
+    "NAME": "Simmering Fury",
+    "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
   },
   "PathToVictory": {
     "NAME": "Path to Victory",
     "DESCRIPTION": "Draw a card and reduce its cost to 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw a card and reduce its cost to 0 this turn."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
     "NAME": "Wallop",

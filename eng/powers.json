@@ -1125,7 +1125,7 @@
   "WireheadingPower": {
     "NAME": "Wireheading",
 	"DESCRIPTIONS": [
-    "At the end of your turn, #yScry "
+    "At the start of your turn, #yScry "
 	]
   },
   "Vault": {
@@ -1215,7 +1215,7 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Omega Power",
+    "NAME": "Omega",
     "DESCRIPTIONS": [
       "At the start of your turn, deal ",
       " damage to ALL enemies."
@@ -1225,8 +1225,14 @@
     "NAME": "Duplication",
     "DESCRIPTIONS": [
       "Your next card is played twice this turn.",
-      "Your next ",
+      "Your next #b",
       " cards are played twice this turn."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
     ]
   }
 }

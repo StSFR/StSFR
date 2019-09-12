@@ -1428,7 +1428,8 @@
     "NAME": "Mélange",
     "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
     "DESCRIPTIONS": [
-      "TO BE REWORKED"
+      "TO BE REWORKED",
+      "."
     ]
   },
   "PureWater": {
@@ -1460,11 +1461,27 @@
     ]
   },
   "TungstenRod": {
-    "NAME": "Barre de Tungstène",
+    "NAME": "Barre de tungstène",
     "FLAVOR": "C'est très très lourd.",
     "DESCRIPTIONS": [
-      "Au début de votre tour, si c'est avant le tour #b",
-      ", gagnez un montant #yd'Armure égal au tour actuel."
+      "Lorsque vous perdez des PV, perdez-en #b",
+      " de moins."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Taquet de corne",
+    "FLAVOR": "Plaisant à tenir en main. À quoi pouvait-il bien servir ?",
+    "DESCRIPTIONS": [
+      "Au début de votre deuxième tour, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "La barre du capitaine",
+    "FLAVOR": "Objet en bois gravé avec une délicate précision. Un nom est gravé dessus dans une langue étrangère.",
+    "DESCRIPTIONS": [
+      "Au début de votre troisième tour, gagnez #b",
+      " #yd'Armure."
     ]
   }
 }
