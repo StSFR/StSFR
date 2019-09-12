@@ -1024,7 +1024,7 @@
     "NAME": "Duplication",
     "DESCRIPTIONS": [
       "Votre prochaine carte est jouée deux fois ce tour.",
-      "Vos ",
+      "Vos #b",
       " prochaines cartes sont jouées deux fois ce tour."
     ]
   },
@@ -1080,7 +1080,7 @@
     ]
   },
   "OmegaPower": {
-    "NAME": "Puissance oméga",
+    "NAME": "Oméga",
     "DESCRIPTIONS": [
       "Au début de votre tour, infligez ",
       " dégâts à TOUS les ennemis."
@@ -1095,7 +1095,7 @@
   "WireheadingPower": {
     "NAME": "Implant cérébral",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, #yScrutez votre deck."
+      "Au début de votre tour, #yScrutez "
     ]
   },
   "BattleHymn": {
@@ -1157,7 +1157,7 @@
   "BlockReturnPower": {
     "NAME": "Retour d'armure",
     "DESCRIPTIONS": [
-      "Lorsque vous êtes attaqué, gagnez #b",
+      "Lorsqu'il est attaqué, gagnez #b",
       " #yd'Armure."
     ]
   },
@@ -1231,7 +1231,7 @@
   "WrathNextTurnPower": {
     "NAME": "Simmering Rage",
     "DESCRIPTIONS": [
-      "Enter #yWrath at the start of your turn."
+      "Au début de votre prochain tour, entrez en Colère."
     ]
   }
 }

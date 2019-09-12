@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Crise de colère",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Entrez en Colère. NL Vous ne pouvez pas sortir de la Colère pour le reste du tour."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Entrez en Colère. NL Vous ne pouvez quitter la Colère pour le reste du tour."
   },
   "Adaptation": {
     "NAME": "Adaptation",
@@ -1513,13 +1513,13 @@
   },
   "Vigilance": {
     "NAME": "Vigilance",
-    "DESCRIPTION": "Entrez en Calme. NL Piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Entrez en Calme. NL Piochez !M! cartes."
+    "DESCRIPTION": "Gagnez !B! d'Armure. Entrez en Calme.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "PathToVictory": {
     "NAME": "Route de la victoire",
     "DESCRIPTION": "Piochez une carte et réduisez son coût à 0 pour ce tour. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Piochez une carte et réduisez son coût à 0 pour ce tour."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Evaluate": {
     "NAME": "Évaluation",
@@ -1572,8 +1572,8 @@
   },
   "EmptyMind": {
     "NAME": "Esprit clair",
-    "DESCRIPTION": "Quittez votre Position. NL Piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Quittez votre Position. NL Piochez !M! cartes."
+    "DESCRIPTION": "Piochez !M! cartes. NL Quittez votre Position.",
+    "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Quittez votre Position."
   },
   "Miracle": {
     "NAME": "Miracle",
@@ -1604,8 +1604,8 @@
   },
   "DeceiveReality": {
     "NAME": "Trompe-réalité",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Choisissez NL *Sécurité or *Sagesse. NL Ajoutez la carte choisie à votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Choisissez NL *Sécurité+ or *Sagesse+. NL Ajoutez la carte choisie à votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une *Sécurité à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une *Sécurité+ à votre main."
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Main de retraite",
@@ -1622,9 +1622,9 @@
   },
   "Brilliance": {
     "NAME": "Brillance",
-    "DESCRIPTION": "Retenue. NL Gagnez [W] pour chaque tour durant lequel vous avez Retenu cette carte. NL Épuisement.",
+    "DESCRIPTION": "Transformez votre main en *Miracles. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Retenue !M! tours.)"
+      ""
     ]
   },
   "ClearTheMind": {
@@ -1642,8 +1642,8 @@
   },
   "Prostrate": {
     "NAME": "Prosternation",
-    "DESCRIPTION": "Gagnez !M! de Mantra. NL Gagnez 1 de Vulnérabilité. NL Ajoutez une carte *Perspicacité dans votre pioche.",
-    "UPGRADE_DESCRIPTION": "Gagnez !M! de Mantra. NL Gagnez 1 de Vulnérabilité. NL Ajoutez une carte *Perspicacité dans votre pioche."
+    "DESCRIPTION": "Gagnez !M! de Mantra. NL Gagnez !B! d'Armure.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Pray": {
     "NAME": "Prière",
@@ -1720,7 +1720,7 @@
     "NAME": "Jugement",
     "DESCRIPTION": "Si l'ennemi a !M! PV ou moins, descendez ses PV à 0.",
     "EXTENDED_DESCRIPTION": [
-      "JUDGED"
+      "JUGÉ"
     ]
   },
   "MentalFortress": {
@@ -1764,13 +1764,13 @@
     "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Compétence, appliquez !M! de vulnérabilité."
   },
   "Vengeance": {
-    "NAME": "Vengeance",
-    "DESCRIPTION": "Si vos PV sont inférieurs au tour précédent, entrez en Colère."
+    "NAME": "Rage bouillonnante",
+    "DESCRIPTION": "Scrutez !M! cartes. NL Au début de votre prochain tour, entrez en Colère."
   },
   "CarveReality": {
     "NAME": "Sculpte-réalité",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Choisissez NL *Gifle ou *Vérité. NL Ajoutez la carte choisie à votre main.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Choisissez NL *Gifle+ ou *Vérité+. NL Ajoutez la carte choisie à votre main."
+    "DESCRIPTION": "Infligez !D! dégâts. Ajoutez une *Gifle à votre main.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. Ajoutez une *Gifle+ à votre main."
   },
   "Defend_P": {
     "NAME": "Défense",
@@ -1794,7 +1794,7 @@
   },
   "InnerPeace": {
     "NAME": "Paix intérieure",
-    "DESCRIPTION": "Entrez en Calme. NL Terminez votre tour."
+    "DESCRIPTION": "Si vous êtes en Calme, piochez !M! cartes. Sinon, entrez en Calme."
   },
   "StepAndStrike": {
     "NAME": "Marche et frappe",
@@ -1814,6 +1814,6 @@
   },
   "FlurryOfBlows": {
     "NAME": "Rafale de coups",
-    "DESCRIPTION": "Infligez !D! dégâts !M! fois. NL Sort de votre pile d'Épuisement pour venir dans votre main lorsque vous changez de position. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Sort de votre Défausse pour venir dans votre main lorsque vous changez de position."
   }
 }

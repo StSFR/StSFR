@@ -1461,27 +1461,27 @@
     ]
   },
   "TungstenRod": {
-    "NAME": "Barre de Tungstène",
+    "NAME": "Barre de tungstène",
     "FLAVOR": "C'est très très lourd.",
     "DESCRIPTIONS": [
-      "Au début de votre tour, si c'est avant le tour #b",
-      ", gagnez un montant #yd'Armure égal au tour actuel."
+      "Lorsque vous perdez des PV, perdez-en #b",
+      " de moins."
     ]
   },
   "HornCleat": {
-    "NAME": "Horn Cleat",
-    "FLAVOR": "Pleasant to hold in the hand. What was it for?",
+    "NAME": "Taquet de corne",
+    "FLAVOR": "Plaisant à tenir en main. À quoi pouvait-il bien servir ?",
     "DESCRIPTIONS": [
-      "At the start of your 2nd turn, gain #b",
-      " #yBlock."
+      "Au début de votre deuxième tour, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "CaptainsWheel": {
-    "NAME": "Captain's Wheel",
-    "FLAVOR": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+    "NAME": "La barre du capitaine",
+    "FLAVOR": "Objet en bois gravé avec une délicate précision. Un nom est gravé dessus dans une langue étrangère.",
     "DESCRIPTIONS": [
-      "At the start of your 3rd turn, gain #b",
-      " #yBlock."
+      "Au début de votre troisième tour, gagnez #b",
+      " #yd'Armure."
     ]
   }
 }
