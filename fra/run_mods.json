@@ -166,5 +166,9 @@
   "The Ending": {
     "NAME": "La fin",
     "DESCRIPTION": "Permet d'accéder à l'Acte final."
+  },
+  "Purple Cards": {
+    "NAME": "Cartes mauves",
+    "DESCRIPTION": "Les cartes mauves apparaissent désormais dans les récompenses et les boutiques."
   }
 }

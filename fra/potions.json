@@ -103,7 +103,7 @@
     ]
   },
   "SteroidPotion": {
-    "NAME": "Potion de stéroïdes",
+    "NAME": "Potion de vantardise",
     "DESCRIPTIONS": [
       "Gagnez #b",
       " de #yForce. À la fin de votre tour, perdez #b",
@@ -189,7 +189,8 @@
   "FairyPotion": {
     "NAME": "Potion féerique",
     "DESCRIPTIONS": [
-      "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."
+      "Quand vous mourez, survivez avec #b",
+      "% de vos PV max à la place et défaussez cette potion."
     ]
   },
   "FearPotion": {
@@ -216,6 +217,18 @@
     "NAME": "Décoction d'entropie",
     "DESCRIPTIONS": [
       "Remplissez tous vos emplacements de potion libres avec des potions aléatoires."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Potion de duplication",
+    "DESCRIPTIONS": [
+      "Ce tour-ci, votre prochaine carte est jouée deux fois."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Potion de position",
+    "DESCRIPTIONS": [
+      "Prenez la position #yCalme ou #yColère."
     ]
   }
 }

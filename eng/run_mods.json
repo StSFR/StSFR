@@ -31,6 +31,10 @@
     "NAME": "Blue Cards",
     "DESCRIPTION": "Blue cards now appear in rewards and shops."
   },
+  "Purple Cards": {
+    "NAME": "Purple Cards",
+    "DESCRIPTION": "Purple cards now appear in rewards and shops."
+  },
   "Colorless Cards": {
     "NAME": "Colorless Cards",
     "DESCRIPTION": "Colorless cards now appear in rewards."
@@ -149,7 +153,7 @@
   },
   "ControlledChaos": {
     "NAME": "Controlled Chaos",
-    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn add 10 random cards to the bottom of your draw pile."
+    "DESCRIPTION": "Start with Frozen Eye. At the start of your turn, add 10 random cards to the bottom of your draw pile."
   },
   "MonsterHunter": {
     "NAME": "[DEPRECATED] Colossus",

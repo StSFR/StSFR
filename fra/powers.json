@@ -29,7 +29,7 @@
     ]
   },
   "Artifact": {
-    "NAME": "Artéfact",
+    "NAME": "Artefact",
     "DESCRIPTIONS": [
       "Annule #b",
       " débuff.",
@@ -259,8 +259,8 @@
   "Fire Breathing": {
     "NAME": "Souffle de feu",
     "DESCRIPTIONS": [
-      "À la fin de chaque tour, inflige #b",
-      " dégâts à TOUS les ennemis par #yAttaque jouée ce tour."
+      "Lorsque vous piochez une carte #yStatut ou #yMalédiction, infligez #b",
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Flame Barrier": {
@@ -496,9 +496,9 @@
     ]
   },
   "Retain Cards": {
-    "NAME": "Conserver des cartes",
+    "NAME": "Retenue de cartes",
     "DESCRIPTIONS": [
-      "À la fin de chaque tour, vous conservez #b",
+      "À la fin de chaque tour, vous retenez #b",
       " carte.",
       " cartes."
     ]
@@ -1010,6 +1010,222 @@
     "NAME": "Attaque par derrière",
     "DESCRIPTIONS": [
       "Inflige #b50% de dégâts supplémentaires quand il vous attaque par derrière."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Puissance d'attaque gratuite",
+    "DESCRIPTIONS": [
+      "Ignorez le coût en énergie de la prochaine #yAttaque que vous jouez.",
+      "Ignorez le coût en énergie des #b",
+      " prochaines #yAttaques que vous jouez."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplication",
+    "DESCRIPTIONS": [
+      "Votre prochaine carte est jouée deux fois ce tour.",
+      "Vos ",
+      " prochaines cartes sont jouées deux fois ce tour."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Incompétence",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas jouer de #yCompétences ce tour."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Maîtrise",
+    "DESCRIPTIONS": [
+      "À chaque fois que vous tentez de changer de Position pour votre Position actuelle, gagnez #b",
+      " [B]."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Maîtrise-réalité",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, ajoutez #b",
+      " #y",
+      "s dans votre main.",
+      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Rétribution",
+    "DESCRIPTIONS": [
+      "À chaque fois que vous perdez des PV, gagnez #b",
+      " de #yVigueur."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Établissement",
+    "DESCRIPTIONS": [
+      "Lorsqu'une carte est #yRetenue, réduit son coût de #b",
+      "."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Contrôlé",
+    "DESCRIPTIONS": [
+      "Lorsque vous changez de #yPosition, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED Puissance du Courant",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une Attaque, gagnez #b",
+      " de #yForce temporaire. Lorsque vous jouez une Compétence, gagnez #b,",
+      " de #yDexterité temporaire."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Puissance oméga",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, infligez ",
+      " dégâts à TOUS les ennemis."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une carte, #yAméliorez-la."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Implant cérébral",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, #yScrutez votre deck."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Hymne de bataille",
+    "DESCRIPTIONS": [
+      "La première carte que vous piochez chaque tour voit son coût réduit de #b",
+      " ce tour."
+    ]
+  },
+  "Grounded": {
+    "NAME": "Ancré",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une #yCompétence, entrez en #yCalme."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "Lorsque vous obtenez #b",
+      " de #yMantra, entrez en #yDivinité."
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Frappe Améliorée",
+    "DESCRIPTIONS": [
+      "Les cartes contenant #yFrappe infligent #b",
+      " dégâts supplémentaires."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED Joie",
+    "DESCRIPTIONS": [
+      "Ignore le coût de la prochaine carte que vous jouez durant ce tour.",
+      "Ignore le coût des #b",
+      " prochaines cartes que vous jouez durant ce tour."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Adaptation",
+    "DESCRIPTIONS": [
+      "Lorsque vous changez de #yPosition, piochez #b",
+      " carte.",
+      " cartes."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Reste en position",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas changer de position ce tour."
+    ]
+  },
+  "Vault": {
+    "NAME": "Saut",
+    "DESCRIPTIONS": [
+      "Reçoit #b",
+      " dégâts au début de votre prochain tour."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Retour d'armure",
+    "DESCRIPTIONS": [
+      "Lorsque vous êtes attaqué, gagnez #b",
+      " #yd'Armure."
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Chaud Chaud",
+    "DESCRIPTIONS": [
+      "Lorsque vous êtes en #yColère, inflige #b",
+      " dégâts en retour lorsque vous recevez des dégâts d'attaque."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, gagnez#b",
+      " #yd'Armure #yPlaquée."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Tourmente Émotionnelle",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, entrez dans une nouvelle position basique aléatoire."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Courroux Constant",
+    "DESCRIPTIONS": [
+      "Vous ne recevez plus de dégâts doubles lorsque vous êtes en #yColère."
+    ]
+  },
+  "Collect": {
+    "NAME": "Collecte",
+    "DESCRIPTIONS": [
+      "Au début de votre prochain tour, gagnez [W] [W] .",
+      "Au début de vos #b",
+      " prochains tours, gagnez [W] [W] ."
+    ]
+  },
+  "Condense": {
+    "NAME": "Condense",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez pas recevoir plus de #b",
+      " dégâts par attaque."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Sérénité",
+    "DESCRIPTIONS": [
+      "Lorsque vous êtes en position de #yCalme, la perte de PV est réduite de #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Blasphémateur",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, mourrez."
+    ]
+  },
+  "Vigor": {
+    "NAME": "Vigueur",
+    "DESCRIPTIONS": [
+      "Votre prochaine attaque inflige #b",
+      " dégâts supplémentaires."
+    ]
+  },
+  "DevotionPower": {
+    "NAME": "Dévotion",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, gagnez #b",
+      " de #yMantra."
     ]
   }
 }

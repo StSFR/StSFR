@@ -644,7 +644,8 @@
       "Vous vous demandez : ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici~ ~?\"~",
       " NL Le cœur bat de plus en plus fort tandis que vous #p~perdez~ #p~peu~ #p~à~ #p~peu~ #p~connaissance...~",
       " NL Une #y@énergie@ soudaine émane depuis l'intérieur de votre corps, vous #b@réveillant@ en sursaut.",
-      " NL Le cœur se #greplie vers le haut ! Il laisse place à une grande porte."
+      " NL Le cœur se #greplie vers le haut ! Il laisse place à une grande porte.",
+      "NL Vous chargez votre sceptre avec de l'énergie divine..."
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -720,7 +721,7 @@
     ],
     "OPTIONS": [
       "[Accepter] #gRetirez #gtoutes #gvos Frappes. #gRecevez #g5 Morsures. #rPerdez #r",
-      " #r% #rde #rvos #rPV #rmax.",
+      " #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
       "] #gRetirez #gtoutes #gvos Frappes. #gRecevez #g5 #gcartes Morsures.",
@@ -755,7 +756,7 @@
     ],
     "OPTIONS": [
       "[Accepter] #gRecevez #g5 Apparitions. #rPerdez #r",
-      " #r% #rde #rvos #rPV #rmax.",
+      " #rPV #rmax.",
       "[Refuser]",
       "[Accepter] #gRecevez #g3 Apparitions. #rPerdez #r",
       "",
@@ -781,7 +782,8 @@
       "Vous le touchez. NL NL Une #r@douleur@ #r@vive@ vous parcourt, suivie par des visions intenses d'une mémoire lointaine. NL ...À qui appartiennent ces souvenirs?",
       "#r~PEUR.~ NL NL Une créature démoniaque s'élève au dessus de vous, les ailes déployées, hurlant de rire. Les cadavres d'une tribu vous entourent alors que le village est englouti de #p~flammes~ #p~sombres.~ NL NL Le démon vous appelle, narquois. NL NL \" #r@TU@ #r@ES@ #r@VRAIMENT@ #r@LE@ #r@PLUS@ #r@FORT@ #r@MAINTENANT!@ #r@Haha..@ #r@HEHE...@ #r@HAHAHAAAAH!!@ \" NL NL Ce rire résonne pour toujours...",
       "#g~TRIOMPHE.~ NL NL Les restes d'une #p~créature~ #p~fantômatique~ s'enfoncent lentement dans la boue devant vous, à peine visibles au clair de lune. Vous avez fait vos preuves parmi vos soeurs. NL NL Victorieuse, vous attendez en silence pendant que les autres placent cérémonialement le #ycrâne #yde #yla #ycréature sur votre tête. Le rituel est terminé. Vous vous dirigez vers la Tour...",
-      "#b~CONFUSION.~ NL NL #y[OBJECTIF] #gÉQUILIBRE #gdoit #gêtre #gRESPECTÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[ALERTE] #rGrand #robjet #ren #rapproche NL NL ~\"Je...~ ~..suis~ ~....Neow..\"~"
+      "#b~CONFUSION.~ NL NL #y[OBJECTIF] #gÉQUILIBRE #gdoit #gêtre #gRESPECTÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[DÉFINIR] #gÉQUILIBRE NL #y[ERREUR] #gÉQUILIBRE #gNON #gTROUVÉ NL #y[ALERTE] #rGrand #robjet #ren #rapproche NL NL ~\"Je...~ ~..suis~ ~....Neow..\"~",
+      "#p~SÉRÉNITÉ.~ NL NL Deux créatures primitives se battent pour une carcasse sur le bord de la route. Vous observez, dénué d'émotions. NL #yRegarde. #ySouviens-toi. #yVis. C'est la mission de la gardienne. NL NL Récemment, un de vos pairs a cessé de faire des rapports: une Tour d'origine inconnue. NL NL Alors que le combat se termine, vous continuez, imperturbé par la scène sanglante qui a eu lieu."
     ],
     "OPTIONS": [
       "[Se souvenir] #gAjoutez #g1 #gcarte #gincolore #gà #gvotre #gdeck.",

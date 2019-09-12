@@ -1,4 +1,255 @@
 Updates for Translators!
+
+09-03-2019
+cards.json
+	The following have an added asterisk in front of card keywords. Example: Shiv -> *Shiv to utilize card previews.
+		"Accuracy"
+		"Blade Dance"
+		"Cloak and Dagger"
+		"Immolate"
+		"Infinite Blades"
+		"Power Through"
+		"Steam Power"
+		"Storm of Steel"
+		"Turbo"
+		"Wild Stirke"
+
+	The word upgraded was not consistently capitalized. Is now fixed for:
+		"Searing Blow"
+		"Storm of Steel"
+
+	"Fiend Fire"
+		NOTE: Wording improvement
+	"Static Discharge"
+		NOTE: Wording improvement
+
+	Reworked cards
+		"Reprogram"
+		"Fire Breathing"
+
+	New cards
+		~90 new cards or so (They should have English descriptions).
+		NOTE: DEPRECATED cards don't need to be translated.
+
+stances.json (New file!)
+
+keywords.json
+	SHIV, BURN, VOID, and WOUND keywords are deprecated as we're utilizing card previews.
+
+characters.json
+	Just a little bit of character name stuff here
+
+events.json
+	"SensoryStone"
+	"Spire Heart"
+
+achievements.json
+	Two new achievements (for now!)
+		"Amethyst"
+		"Amethyst+"
+	No changes to previous achievements
+
+potions.json
+	"DuplicationPotion"
+	"FairyPotion"
+	"StancePotion"
+
+ui.json
+	"AbstractPlayer"
+	"CardLibraryScreen"
+	"CharacterOption"
+	"CharacterSelectScreen"
+	"ClarityAction"
+	"LeaderboardFilters"
+	"MenuPanels"
+	"PotionViewScreen"
+	"ReprogramAction"
+	"RunHistoryScreen"
+	"SignatureMoveMessage"
+
+relics.json
+	The following relics have been reworked
+		"WristBlade"
+		"Calling Bell"
+		"HoveringKite"
+	11 or so new relics can be found at the bottom of the file as well
+
+----------------------------------
+
+07-16-2019
+ui.json
+	"MiscConsoleStrings"
+		"Display Area"
+		"A sign-in change has occurred. Please sign back in or exit to the title screen."
+		"Sign-in
+		"Exit"
+
+credits.json
+	"LOC_EPO"
+		"Spencer van der Meulen"
+
+----------------------------------
+
+07-10-2019
+ui.json
+	"MiscConsoleStrings"
+		"Press ",
+		" to Start"
+		"Switch Profile"
+
+----------------------------------
+
+07-03-2019
+potions.json
+	"Steroid Potion"
+	->
+	"Flex Potion"
+credits.json
+	"LOC_TUR"
+		"Berkan Çalıkoğlu"
+
+----------------------------------
+
+06-24-2019
+	credits.json
+		"PUBLISHING"
+			"Publishing Release:  Manager Evan Koepf",
+			->
+			"Publishing Release Manager:  Evan Koepf",
+
+----------------------------------
+
+06-20-2019
+	credits.json
+		"KAKEHASHI"
+			"NAMES"
+				"Kakehashi Games (Official Translation):",
+				"Japanese Publishing Support:  Kakehashi Games",
+				"Japanese Localization:  Rie Ihara"
+		"PUBLISHING"
+			"HEADER"
+				"Humble Bundle"
+			"NAMES"
+				"GM:  Alan Patmore",
+				"CBO:  Steven Kovensky",
+				"VP, Business Development:  Eduardo Aparicio",
+				"Publishing Manager:  John Polson",
+				"Publishing Release:  Manager Evan Koepf",
+				"Publishing Brand Manager:  Connor Bridgeman",
+				"Business Development Director, Publishing:  Mai Kawaguchi",
+				"Senior Business Developer:  Thomas Glenn",
+				"Senior Business Developer:  Bob Mills",
+				"Business Developer:  Trisha Tabor",
+				"Business Developer:  Angel Lyons-Labate",
+				"Store Director:  Paul Herron",
+				"Director of Finance:  Eric Samuel",
+				"VP of Product:  Nate Muller",
+				"Director of Marketing:  Jeremie Vella",
+				"Marketing Manager:  Whitney Stutes",
+				"Marketing Growth Manager:  Francois du Toit",
+				"Ninja Support:  Jimmy Chi",
+				"Ninja Support:  Kasey Brounkowski",
+				"Ninja Support:  Kayla Fyfe",
+				"Ninja Support:  Patrick Monahan"
+		"PORTING"
+			"HEADER"
+				"Console and Mobile Ports",
+			"NAMES"
+				"Sickhead Games, LLC"
+
+----------------------------------
+
+06-17-2019
+	ui.json
+		"OptionsPanel"
+			"Long-press Confirmations"
+
+----------------------------------
+
+06-10-2019
+	ui.json
+		"RichPresence"
+			" (A%s)"
+
+----------------------------------
+
+06-07-2019
+	ui.json
+		"InputSettingsScreen"
+			"Touchscreen Mode"
+
+----------------------------------
+
+05-31-2019
+	credits.json
+		"LOC_THA"
+			"Sarawut Suwan (Tomoeic)"
+			->
+		    "Translation and Coordination:",
+			"Noppon Varapaiboon (PlearnGaming)",
+			"Additional Translations:",
+			"Rapeepat Suwan (Yuu)",
+			"Sarawut Suwan (Tomoeic)",
+			"Fonts:",
+			"CSChatThaiUI by raveetavan@gmail.com",
+			"Layiji MaHaNiYom by layiji@gmail.com"
+
+----------------------------------
+
+05-29-2019
+	credits.json
+		"PUBLISHING"
+		"PORTING"
+
+----------------------------------
+
+05-23-2019
+	ui.json
+		"BetterToHandAction"
+		"CardLibSortHeader"
+			"Obtained"
+	events.json
+		"Vampires"
+			"% #rMax #rHP.",
+		"Ghosts"
+			"% #rMax #rHP.",
+
+----------------------------------
+	
+05-07-2019
+	tutorials.json
+		"Discard Tip"
+			 "If your draw pile is empty, the discard pile is shuffled into the draw pile. NL NL View the cards in your discard pile."
+		"Draw Tip"
+			" cards are drawn from here. NL NL View the cards in your draw pile (shuffled).",
+			" cards are drawn from here. NL NL View the cards in your draw pile."
+		"Exhaust Tip"
+			"View cards Exhausted this combat."
+		"Rewards Tip"
+			"Don't forget your rewards!"
+
+----------------------------------
+
+04-20-2019
+	tutorials.json
+		NOTE: Moved several PC-only tips from "Random Tips" to "PC Tips". Keep in mind that some of them weren't PC-only but they were in the eng one and apparently we need the array sizes to match for now... These were moved for each language.
+
+		"PC Tips"
+	ui.json
+		NOTE: The following strings were translated in each language supported in consoles but not very well. Please verify your language for quality assurance! These strings are only seen on console builds.
+
+		"MenuPanels"
+			"Change your controls.",
+			"Change your graphics, audio, and gameplay preferences."
+		"DailyScreen"
+			"*Trophies are off for Daily Climb."
+		"SeedPanel"
+			"*Trophies and Leaderboards are disabled if a custom Seed is used."
+		"CustomModeScreen"
+			"Trophies and Leaderboards are off."
+
+----------------------------------
+
 04-04-2019
 	ui.json
 		"Leaderboards (NOTE: Will be reset weekly)",

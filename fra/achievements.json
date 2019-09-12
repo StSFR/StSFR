@@ -46,7 +46,9 @@
       "Émeraude+",
       "Saphir+",
       "Fin ?",
-      "Éternel"
+      "Éternel",
+      "Améthyste",
+      "Améthyste+"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -90,11 +92,13 @@
       "Gagnez un Défi Quotidien.",
       "Terrassez l'Éphémère avant qu'il ne disparaisse.",
       "Finissez l'Ascension de niveau 20.",
-      "Completez la Fin avec le Soldat de fer.",
-      "Completez la Fin avec la Silencieuse.",
-      "Completez la Fin avec le Défectueux.",
-      "Completez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
-      "Débloquez tous les autres succès."
+      "Complétez la Fin avec le Soldat de fer.",
+      "Complétez la Fin avec la Silencieuse.",
+      "Complétez la Fin avec le Défectueux.",
+      "Complétez la Fin avec le Soldat de fer, la Silencieuse et le Défectueux.",
+      "Débloquez tous les autres succès.",
+      "Finissez le jeu avec la Gardienne.",
+      "Complétez la Fin avec la Gardienne."
     ]
   },
   "CharStat": {
@@ -132,7 +136,8 @@
       "#ySuccès",
       "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",
-      "#bLe #bDéfectueux"
+      "#bLe #bDéfectueux",
+      "#pLa #pGardienne"
     ],
     "TEXT": [
       "Retour"
@@ -143,7 +148,7 @@
       "Éternel"
     ],
     "TEXT": [
-      "Débloquez tous les autres succès."
+      "Débloquez tous les autres trophées."
     ]
   }
 }

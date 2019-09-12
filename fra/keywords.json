@@ -67,10 +67,12 @@
     },
     "RETAIN": {
       "NAMES": [
-        "conserver",
-        "conservez"
+        "retenue",
+        "retenues",
+        "retenir",
+        "retenez"
       ],
-      "DESCRIPTION": "Les cartes conservées ne sont pas défaussées à la fin du tour."
+      "DESCRIPTION": "Les cartes retenues ne sont pas défaussées à la fin du tour."
     },
     "SHIV": {
       "NAMES": [
@@ -276,6 +278,57 @@
         "ciblage"
       ],
       "DESCRIPTION": "Les ennemis Verrouillés recoivent #b50 % de dégâts supplémentaires des Orbes."
+    },
+    "STANCE": {
+      "NAMES": [
+        "position",
+        "positions"
+      ],
+      "DESCRIPTION": "Vous ne pouvez adopter qu'une seule position à la fois."
+    },
+    "WRATH": {
+      "NAMES": [
+        "colère"
+      ],
+      "DESCRIPTION": "Dans cette #yPosition, vous infligez et recevez deux fois plus de dégâts."
+    },
+    "CALM": {
+      "NAMES": [
+        "calme"
+      ],
+      "DESCRIPTION": "Quand vous quittez cette #yPosition, gagnez [W] [W] ."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinité"
+      ],
+      "DESCRIPTION": "Quand vous entrez dans cette #yPosition, gagnez [W] [W] [W] . Vos attaques infligent trois fois plus de dégâts. Quittez cette #yPosition au début de votre prochain tour."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+        "par la violence"
+      ],
+      "DESCRIPTION": "Quand vous obtenez #b10 de #yMantra, entrez en #yDivinité."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scruter",
+        "scrutez"
+      ],
+      "DESCRIPTION": "Regardez les X premières cartes de votre pioche. Vous pouvez défausser n'importe lesquelles."
+    },
+    "REGEN": {
+      "NAMES": [
+        "régénération"
+      ],
+      "DESCRIPTION": "La Régénération vous soigne à la fin de votre tour. Chaque tour, la Régénération est diminuée de #b1."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigueur"
+      ],
+      "DESCRIPTION": "Votre prochaine attaque inflige des dégâts supplémentaires."
     }
   }
 }

@@ -72,7 +72,8 @@
   },
   "Rewards Tip": {
     "TEXT": [
-      "N'oubliez pas vos récompenses ! NL Cliquez dessus pour les ramasser."
+      "N'oubliez pas vos récompenses ! NL Cliquez dessus pour les ramasser.",
+      "N'oubliez pas vos récompenses !"
     ],
     "LABEL": [
       "Récompenses"
@@ -82,7 +83,9 @@
     "TEXT": [
       "Au début de chaque tour, NL #b",
       " cartes sont piochées de cet endroit. NL NL Cliquez pour voir les cartes de votre pioche (mélangées).",
-      " les cartes sont tirées d'ici. NL NL Cliquez pour voir les cartes de votre pioche."
+      " les cartes sont tirées d'ici. NL NL Cliquez pour voir les cartes de votre pioche.",
+      " cartes sont piochées de cet endroit. NL NL Voir les cartes de votre pioche (mélangées).",
+      " les cartes sont tirées d'ici. NL NL Voir les cartes de votre pioche."
     ],
     "LABEL": [
       "Pioche"
@@ -123,7 +126,8 @@
   },
   "Discard Tip": {
     "TEXT": [
-      "Si votre pioche est vide, vos cartes défaussées sont placées dans la pioche. NL NL Cliquez pour voir les cartes défaussées."
+      "Si votre pioche est vide, vos cartes défaussées sont placées dans la pioche. NL NL Cliquez pour voir les cartes défaussées.",
+      "Si votre pioche est vide, vos cartes défaussées sont placées dans la pioche. NL NL Voir les cartes défaussées."
     ],
     "LABEL": [
       "Défausse"
@@ -175,19 +179,11 @@
       "Il y a toujours un site de repos avant un boss.",
       "Dépensez votre or dans les boutiques ! (Astuce sponsorisée par le Marchand)",
       "Faites une pause de temps en temps.",
-      "Sur l'écran de récompenses, vous pouvez faire un clic-droit sur une carte pour obtenir des informations supplémentaires.",
       "Les calculs de pourcentages sont arrondis à l'unité inférieure à la fin.",
       "Pendant le combat, vous pouvez consulter le contenu de votre pioche et de votre défausse.",
-      "Vous pouvez obtenir des informations utiles en survolant la plupart des objets.",
-      "Activez et désactivez les astuces en cliquant sur le bouton ? en haut à droite.",
-      "Un clic droit relâchera toute carte que vous êtes en train de faire glisser.",
-      "Survolez un ennemi pour connaître son nom et son Pouvoir.",
-      "Utilisez la molette ou glissez en cliquant pour faire défiler l'écran.",
-      "Si vous pouvez inspecter un objet, votre curseur se transformera en loupe.",
       "Vous pouvez posséder autant de Reliques que vous le souhaitez.",
       "Les coffres contiennent toujours une Relique.",
       "Tous les chemins contiennent au moins 1 salle au trésor.",
-      "Utilisez la molette ou faites glisser en cliquant pour faire défiler les plans, les listes de cartes et autres.",
       "Vous obtiendrez toujours une Relique lorsque vous tuez un ennemi d'élite.",
       "Vous ne verrez jamais la même Relique deux fois dans une partie.",
       "Les cartes inhabituelles ont une bannière et un cadre bleus.",
@@ -210,9 +206,22 @@
       "Vous pouvez défausser des potions pour libérer de la place."
     ]
   },
+  "PC Tips": {
+    "TEXT": [
+      "Sur l'écran de récompenses, vous pouvez faire un clic-droit sur une carte pour obtenir des informations supplémentaires.",
+      "Vous pouvez obtenir des informations utiles en survolant la plupart des objets.",
+      "Un clic droit relâchera toute carte que vous êtes en train de faire glisser.",
+      "Survolez un ennemi pour connaître son nom et son Pouvoir.",
+      "Utilisez la molette ou glissez en cliquant pour faire défiler l'écran.",
+      "Si vous pouvez inspecter un objet, votre curseur se transformera en loupe.",
+      "Utilisez la molette ou faites glisser en cliquant pour faire défiler les plans, les listes de cartes et autres."
+    ],
+    "LABEL": []
+  },
   "Exhaust Tip": {
     "TEXT": [
-      "Cliquez pour voir les cartes Épuisées ce combat."
+      "Cliquez pour voir les cartes Épuisées ce combat.",
+      "Voir les cartes Épuisées ce combat."
     ],
     "LABEL": [
       "Cartes Épuisées"

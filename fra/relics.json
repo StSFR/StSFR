@@ -134,7 +134,7 @@
     "NAME": "Cloche d'appel",
     "FLAVOR": "Cette sombre cloche en fer a sonné 3 fois lorsque vous l'avez trouvée, mais elle est silencieuse depuis.",
     "DESCRIPTIONS": [
-      "Quand vous la ramassez, obtenez #b3 #rMalédictions et #b3 reliques.",
+      "Quand vous la ramassez, obtenez une #rMalédictions unique et #b3 reliques.",
       "La cloche sonne...",
       "Passer les récompenses",
       "Fermer"
@@ -722,7 +722,7 @@
   },
   "Singing Bowl": {
     "NAME": "Bol chantant",
-    "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
+    "FLAVOR": "Au contact d'un maillet, cet artefact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
       "Lorsque vous passez une carte comme récompense, vous pouvez augmenter vos PV max de #b2."
     ]
@@ -1153,7 +1153,7 @@
     "NAME": "L'Abaque",
     "FLAVOR": "\"Un...Deux...Trois...\"",
     "DESCRIPTIONS": [
-      "Quand vous mélangez votre défausse, gagnez #b",
+      "Quand vous mélangez votre pioche, gagnez #b",
       " #yd'Armure."
     ]
   },
@@ -1169,7 +1169,7 @@
     "NAME": "Cerf-volant",
     "FLAVOR": "Ce cerf-volant flotte autour de vous en combat, poussé par une force mystérieuse.",
     "DESCRIPTIONS": [
-      "Gagnez [G] et défaussez #b2 cartes au début de chaque tour."
+      "Chaque tour, gagnez [E] la première fois que vous défaussez une carte."
     ]
   },
   "FrozenCore": {
@@ -1214,7 +1214,7 @@
     "NAME": "Poignard",
     "FLAVOR": "Pratique pour les assassinats.",
     "DESCRIPTIONS": [
-      "Les #yAttaques qui coûtent #b0 infligent #b3 dégâts supplémentaires."
+      "Les #yAttaques qui coûtent #b0 infligent #b4 dégâts supplémentaires."
     ]
   },
   "Nunchaku": {
@@ -1355,6 +1355,116 @@
     "FLAVOR": "",
     "DESCRIPTIONS": [
       ""
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Poisson en céramique",
+    "FLAVOR": "Peints méticuleusement, ces poissons étaient vénérés pour apporter de la chance.",
+    "DESCRIPTIONS": [
+      "Lorsque vous ajoutez une carte à votre deck, gagnez #b",
+      " #yd'Or."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Poupée de frappe",
+    "FLAVOR": "Elle est battue.",
+    "DESCRIPTIONS": [
+      "Les cartes contenant \"Frappe\" infligent #b",
+      " dégâts supplémentaires."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Lotus violet",
+    "FLAVOR": "Les textes anciens décrivent que la surface des \"bassins de mana\" étaient jonchés de ces fleurs.",
+    "DESCRIPTIONS": [
+      "Lorsque vous sortez du #yCalme, gagnez un [E] additionnel."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Écorce sacrée",
+    "FLAVOR": "Une écorce originaire de l'arbre Monde selon les rumeurs.",
+    "DESCRIPTIONS": [
+      "Double l'efficacité des potions."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Médaillon larme",
+    "FLAVOR": "Son possesseur aveugle, son contenu invisible.",
+    "DESCRIPTIONS": [
+      "Commencez chaque combat #yCalme."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Collier d'esclavagiste",
+    "FLAVOR": "De misérables chaînes rouillées.",
+    "DESCRIPTIONS": [
+      "Durant les combats de Boss et d'Élite, gagnez [E] au début de votre tour."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Votre première attaque chaque combat inflige #b",
+      " dégâts supplémentaires."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"Et  le soleil fut éteint pour toujours, comme si un rideau était tiré devant lui.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une #yAttaque, gagnez #b1 de #yDextérité temporaire."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Attache de Cape",
+    "FLAVOR": "Une conception simple mais robuste.",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, gagnez #b",
+      " #yd'Armure pour chaque carte dans votre main."
+    ]
+  },
+  "Melange": {
+    "NAME": "Mélange",
+    "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
+    "DESCRIPTIONS": [
+      "TO BE REWORKED"
+    ]
+  },
+  "PureWater": {
+    "NAME": "Eau pure",
+    "FLAVOR": "Filtrée dans un sable fin et sans aucune impureté.",
+    "DESCRIPTIONS": [
+      "Au début de chaque combat, ajoutez un #yMiracle dans votre main."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Eau bénite",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Remplace #pl'Eau #ppure. Au début de chaque combat, ajoutez #b3 #yMiracles dans votre main."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "Vous ne pouvez avoir de lumière sans obscurité. Quoique... ?",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une #yCompétence, gagnez #b1 de #yForce temporaire."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Flacon d'encre",
+    "FLAVOR": "Une fois vide, il semble se remplir à nouveau avec une couleur différente.",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez #b10 cartes, piochez #b1 carte."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Barre de Tungstène",
+    "FLAVOR": "C'est très très lourd.",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, si c'est avant le tour #b",
+      ", gagnez un montant #yd'Armure égal au tour actuel."
     ]
   }
 }

@@ -71,7 +71,8 @@
       "Blocked",
       "the Ironclad",
       "the Silent",
-      "the Defect"
+      "the Defect",
+      "the Watcher"
     ]
   },
   "AbstractPotion": {
@@ -106,26 +107,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Elites spawn more often.",
-      "Normal enemies are deadlier.",
-      "Elites are deadlier.",
-      "Bosses are deadlier.",
-      "Heal less after Boss battles.",
-      "Start each run damaged.",
-      "Normal enemies are tougher.",
-      "Elites are tougher.",
-      "Bosses are tougher.",
-      "Start each run cursed.",
-      "Fewer Potion Slots.",
-      "Upgraded cards appear less often.",
-      "Poor bosses.",
-      "Lower Max HP.",
-      "Unfavorable Events.",
-      "Shops are more costly.",
-      "Normal enemies have more challenging movesets and abilities.",
-      "Elites have more challenging movesets and abilities.",
-      "Bosses have more challenging movesets and abilities.",
-      "(Max Level) Double Boss."
+      "1. Elites spawn more often.",
+      "2. Normal enemies are deadlier.",
+      "3. Elites are deadlier.",
+      "4. Bosses are deadlier.",
+      "5. Heal less after Boss battles.",
+      "6. Start each run damaged.",
+      "7. Normal enemies are tougher.",
+      "8. Elites are tougher.",
+      "9. Bosses are tougher.",
+      "10. Start each run cursed.",
+      "11. Fewer Potion Slots.",
+      "12. Upgraded cards appear less often.",
+      "13. Poor bosses.",
+      "14. Lower Max HP.",
+      "15. Unfavorable Events.",
+      "16. Shops are more costly.",
+      "17. Normal enemies have more challenging movesets and abilities.",
+      "18. Elites have more challenging movesets and abilities.",
+      "19. Bosses have more challenging movesets and abilities.",
+      "20. (Max Level) Double Boss."
     ]
   },
   "AscensionTextEffect": {
@@ -150,6 +151,13 @@
       "Player Turn",
       "Enemy Turn",
       " turn"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choose a Card to Put into Your Hand.",
+      "Choose ",
+      " Cards to Put into Your Hand."
     ]
   },
   "BossChest": {
@@ -211,7 +219,8 @@
       "Type",
       "A-Z",
       "Cost",
-      "Jump To:"
+      "Jump To:",
+      "Obtained"
     ]
   },
   "CardLibraryScreen": {
@@ -223,7 +232,8 @@
       "Colorless",
       "Curses",
       "Statuses",
-      "View Upgrade"
+      "View Upgrade",
+      "Purple"
     ]
   },
   "CardRewardScreen": {
@@ -233,7 +243,8 @@
       "+2 Max HP",
       "VOTE NOW: ",
       "s left.",
-      "View Upgrade"
+      "View Upgrade",
+	  "Choose One"
     ]
   },
   "CharacterOption": {
@@ -247,7 +258,8 @@
       " Unlocks Remaining",
       "Unknown",
       "???",
-      " To Next Unlock"
+      " To Next Unlock",
+      "This character is unlocked by completing a Standard run and having the 3rd character unlocked."
     ]
   },
   "CharacterSelectScreen": {
@@ -265,7 +277,8 @@
       "Seed ",
       "Random Seed",
       "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Set Seed",
+      "The Watcher"
     ]
   },
   "ChooseOneScreen": {
@@ -303,6 +316,11 @@
       "No"
     ]
   },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
   "CopyAction": {
     "TEXT": [
       "Copy"
@@ -333,7 +351,8 @@
       "Leaderboards",
       "*Achievements are off for Daily Climb.",
       "  [OFFLINE MODE]",
-      "MMMM dd, yyyy"
+      "MMMM dd, yyyy",
+      "*Trophies are off for Daily Climb."
     ]
   },
   "DeathScreen": {
@@ -639,7 +658,8 @@
       "Right (Alt)*",
       "Up",
       "Down",
-      "Controller Enabled"
+      "Controller Enabled",
+      "Touchscreen Mode"
     ]
   },
   "LanguageDropdown": {
@@ -685,7 +705,8 @@
       "High Score",
       "Option 6. DO NOT TRANSLATE",
       "Friends",
-      "Global"
+      "Global",
+      "Watcher"
     ]
   },
   "LeaderboardsScreen": {
@@ -810,8 +831,12 @@
       "Unknown",
       "Play a Daily Climb to unlock this game mode.",
       "This feature is not yet available.",
-	  "Custom",
-	  "Customize your own run with unique modifiers."
+      "Custom",
+      "Customize your own run with unique modifiers.",
+      "Change your controls.",
+      "Change your graphics, audio, and gameplay preferences.",
+	  "Potion Lab",
+	  "Observe the numerous potions found climbing the Spire."
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -821,6 +846,17 @@
       "Not for Sale",
       "Sold Out",
       "Oh no!"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Press ",
+      " to Start",
+      "Switch Profile",
+      "Display Area",
+      "A sign-in change has occurred. Please sign back in or exit to the title screen.",
+      "Sign-in",
+      "Exit"
     ]
   },
   "OpeningAction": {
@@ -854,7 +890,8 @@
       "Disable Particle Effects",
       "Resolution:",
       "Resolution: NL Fullscreen Monitor:",
-      "Changes which monitor is utilized when Fullscreen."
+      "Changes which monitor is utilized when Fullscreen.",
+      "Long-press Confirmations"
     ]
   },
   "PatchNotesScreen": {
@@ -899,6 +936,17 @@
       "Exhaust"
     ]
   },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Return",
+      "Common:",
+      "The most frequent potions found in the Spire.",
+      "Uncommon:",
+      "Stronger potions which appear less often than common potions.",
+      "Rare:",
+      "Unique and powerful potions which are rarely seen."
+    ]
+  },
   "RelicViewScreen": {
     "TEXT": [
       "Return",
@@ -933,7 +981,7 @@
   },
   "ReprogramAction": {
     "TEXT": [
-      "Discard"
+      "Choose any number of cards to discard."
     ]
   },
   "Rest Option": {
@@ -1089,7 +1137,8 @@
       "Only Daily Challenge",
       "Seed: %s",
       "Custom Seed: %s",
-      "M/d/yyyy, h:mm a"
+      "M/d/yyyy, h:mm a",
+      "The Watcher"
     ]
   },
   "SeedPanel": {
@@ -1098,7 +1147,8 @@
       "Enter a new Seed",
       "Confirm",
       "Cancel",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Achievements and Leaderboards are disabled if a custom Seed is used.",
+      "*Trophies and Leaderboards are disabled if a custom Seed is used."
     ]
   },
   "SettingsScreen": {
@@ -1266,7 +1316,8 @@
       "Ascension Mode",
       "Modifiers",
       "Seed",
-      "Set Seed"
+      "Set Seed",
+      "Trophies and Leaderboards are off."
     ]
   },
   "SaveSlot": {
@@ -1309,7 +1360,8 @@
       "Ironclad Beta Card Art Unlocked!",
       "The Silent Beta Card Art Unlocked!",
       "Defect Beta Card Art Unlocked!",
-      "All Beta Card Art Unlocked!"
+      "All Beta Card Art Unlocked!",
+      "Watcher Beta Card Art Unlocked!"
     ]
   },
   "RichPresence": {
@@ -1317,7 +1369,18 @@
       "Daily - Floor %s",
       "Custom - Floor %s",
       " - Floor %s",
-      "Main Menu"
+      "Main Menu",
+      " (A%s)"
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choose 1 card to keep. The rest are exhausted."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choose a Card to play."
     ]
   }
 }

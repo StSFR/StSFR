@@ -28,7 +28,7 @@
   },
   "RetainCardsAction": {
     "TEXT": [
-      "Conserver"
+      "Retenir"
     ]
   },
   "AbstractChest": {
@@ -389,7 +389,8 @@
       "+2 PV max",
       "VOTEZ : ",
       "s restantes.",
-      "Voir l'Amélioration"
+      "Voir l'Amélioration",
+      "Choose One"
     ]
   },
   "BossRelicSelectScreen": {
@@ -465,7 +466,8 @@
       "Désactiver les particules",
       "Résolution :",
       "Résolution: NL Écran de plein écran :",
-      "Change l'écran utilisé quand le jeu est en plein écran."
+      "Change l'écran utilisé quand le jeu est en plein écran.",
+      "Appui prolongé pour confirmer"
     ]
   },
   "SettingsScreen": {
@@ -487,7 +489,8 @@
       "Incolores",
       "Malédictions",
       "Statut",
-      "Voir l'amélioration"
+      "Voir l'amélioration",
+      "Purple"
     ]
   },
   "CardLibSortHeader": {
@@ -496,7 +499,8 @@
       "Type",
       "A-Z",
       "Coût",
-      "Aller à :"
+      "Aller à :",
+      "Obtenu"
     ]
   },
   "EarlyAccessPopup": {
@@ -574,7 +578,8 @@
       " À déverrouiller",
       "Inconnu",
       "???",
-      " Jusqu'à la prochaine récompense "
+      " jusqu'à la prochaine récompense ",
+      "Ce personnage peut être déverrouillé en terminant une partie normale et en ayant débloqué le troisième personnage."
     ]
   },
   "CharacterSelectScreen": {
@@ -592,7 +597,8 @@
       "Seed ",
       "Seed aléatoire",
       "La seed de départ est utilisé pour générer les éléments aléatoires de cette partie.",
-      "Définir la seed"
+      "Définir la seed",
+      "La Gardienne"
     ]
   },
   "AbstractMonster": {
@@ -740,7 +746,8 @@
       "Bloqué",
       "le Soldat de fer",
       "la Silencieuse",
-      "le Défectueux"
+      "le Défectueux",
+      "la Gardienne"
     ]
   },
   "ExhaustAction": {
@@ -851,7 +858,15 @@
       "Haut Score",
       "Option 6. DO NOT TRANSLATE",
       "Amis",
-      "Global"
+      "Global",
+      "La Gardienne"
+    ]
+  },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Choisissez une carte à ajouter à votre main.",
+      "Choisissez ",
+      " cartes à ajouter à votre main."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -882,26 +897,26 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "Les Élites sont plus fréquents.",
-      "Les ennemis normaux font plus de dégâts.",
-      "Les Élites font plus de dégâts.",
-      "Les Boss font plus de dégâts.",
-      "Vous récupérez moins de vie après avoir battu un Boss.",
-      "Commencez chaque partie blessé.",
-      "Les ennemis normaux ont plus de vie.",
-      "Les Élites ont plus de vie.",
-      "Les Boss ont plus de vie.",
-      "Commencez chaque partie maudit !",
-      "Moins d'emplacements de potions.",
-      "Les cartes améliorées apparaissent moins souvent.",
-      "Les boss sont pauvres.",
-      "Commencez avec moins de PV max.",
-      "Les Évenements sont moins favorables.",
-      "Les boutiques sont plus chères.",
-      "Les ennemis normaux ont des attaques et capacités plus puissantes.",
-      "Les Élites ont des attaques et capacités plus puissantes.",
-      "Les Boss ont des attaques et capacités plus puissantes.",
-      "(Niveau max) Double boss final."
+      "1. Les Élites sont plus fréquents.",
+      "2. Les ennemis normaux font plus de dégâts.",
+      "3. Les Élites font plus de dégâts.",
+      "4. Les Boss font plus de dégâts.",
+      "5. Vous récupérez moins de vie après avoir battu un Boss.",
+      "6. Commencez chaque partie blessé.",
+      "7. Les ennemis normaux ont plus de vie.",
+      "8. Les Élites ont plus de vie.",
+      "9. Les Boss ont plus de vie.",
+      "10. Commencez chaque partie maudit !",
+      "11. Moins d'emplacements de potions.",
+      "12. Les cartes améliorées apparaissent moins souvent.",
+      "13. Les boss sont pauvres.",
+      "14. Commencez avec moins de PV max.",
+      "15. Les Évenements sont moins favorables.",
+      "16. Les boutiques sont plus chères.",
+      "17. Les ennemis normaux ont des attaques et capacités plus puissantes.",
+      "18. Les Élites ont des attaques et capacités plus puissantes.",
+      "19. Les Boss ont des attaques et capacités plus puissantes.",
+      "20. (Niveau max) Double boss final."
     ]
   },
   "RunHistoryScreen": {
@@ -940,7 +955,8 @@
       "Défi quotidien",
       "Seed : %s",
       "Seed personnalisée : %s",
-      "d/M/yyyy, h:mm a"
+      "d/M/yyyy, h:mm a",
+      "The Watcher"
     ]
   },
   "DeathScreenUi": {
@@ -979,7 +995,8 @@
       "Classements",
       "*Les succès sont désactivés pendant les défis quotidens.",
       "  [MODE HORS-LIGNE]",
-      "dd MMMM yyyy"
+      "dd MMMM yyyy",
+      "*Les trophées sont désactivés pendant les défis quotidens."
     ]
   },
   "MenuPanels": {
@@ -1024,7 +1041,11 @@
       "Participez à un Défi Quotidien pour débloquer ce mode de jeu.",
       "Cette fonctionnalité n'est pas encore disponible.",
       "Personnalisé",
-      "Personnalisez votre partie avec les modificateurs de votre choix."
+      "Personnalisez votre partie avec les modificateurs de votre choix.",
+      "Modifier les contrôles.",
+      "Modifiez vos paramètres graphiques, audio et de jeu.",
+      "Laboratoire de potions",
+      "Observez les différentes potions trouvées pendant vos ascensions."
     ]
   },
   "AttackFromDeckToHandAction": {
@@ -1089,7 +1110,8 @@
       "Entrez une nouvelle seed",
       "Confirmer",
       "Annuler",
-      "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
+      "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée.",
+      "*Les trophées et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
     ]
   },
   "InputKeyNames": {
@@ -1111,7 +1133,7 @@
       "Retour (?)",
       "Commandes (?)",
       "Clavier",
-      "Manette (Bientôt)",
+      "Manette",
       "Réinitialiser",
       "Confirmer",
       "Annuler / Quitter",
@@ -1154,7 +1176,8 @@
       "Droite (Alt)*",
       "Haut",
       "Bas",
-      "Manette activée"
+      "Manette activée",
+      "Mode tactile"
     ]
   },
   "CacheAction": {
@@ -1204,7 +1227,8 @@
       "Mode Ascension",
       "Modificateurs",
       "Seed",
-      "Définir la Seed"
+      "Définir la Seed",
+      "Les trophées et le partage des scores sont désactivés."
     ]
   },
   "ForethoughtAction": {
@@ -1292,7 +1316,8 @@
       "Dessins de développement déverouillés pour le Soldat de fer !",
       "Dessins de développement déverouillés pour la Sliencieuse !",
       "Dessins de développement déverouillés pour le Défectueux !",
-      "Dessins de développement déverouillés pour tous les personnages !"
+      "Dessins de développement déverouillés pour tous les personnages !",
+      "Dessins de développement déverouillés pour la Gardienne !"
     ]
   },
   "VictoryScreen": {
@@ -1317,7 +1342,45 @@
       "Défi quotidien - Étage %s",
       "Partie personnalisée - Étage %s",
       " - Étage %s",
-      "Menu principal"
+      "Menu principal",
+      " (A%s)"
+    ]
+  },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Appuyez sur ",
+      " pour commencer",
+      "Changer de profil",
+      "Zone d'affichage",
+      "Un changement de connexion s’est produit. Veuillez vous connecter à nouveau ou retourner à l’écran titre.",
+      "Se connecter",
+      "Sortie"
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "This must be my only #rAttack!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Retour",
+      "Communes :",
+      "Les potions les plus fréquentes trouvées dans la Tour.",
+      "Peu communes :",
+      "Des potions plus puissantes qui apparaissent moins souvent que les potions communes.",
+      "Rares :",
+      "Des potions uniques et puissantes qu'on ne voit que rarement."
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Choisissez une carte à conserver. Le reste est épuisé."
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Choisissez une carte à jouer."
     ]
   }
 }

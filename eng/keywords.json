@@ -151,7 +151,9 @@
     },
     "RETAIN": {
       "NAMES": [
-        "retain"
+        "retain",
+		"retains",
+		"retained"
       ],
       "DESCRIPTION": "Retained cards are not discarded at the end of turn."
     },
@@ -252,6 +254,56 @@
         "wounds"
       ],
       "DESCRIPTION": "Wounds are unplayable status cards."
+    },
+    "WRATH": {
+      "NAMES": [
+        "wrath"
+      ],
+      "DESCRIPTION": "In this #yStance, you deal and receive double attack damage."
+    },
+    "CALM": {
+      "NAMES": [
+        "calm"
+      ],
+      "DESCRIPTION": "Upon exiting this #yStance, gain [W] [W] ."
+    },
+    "STANCE": {
+      "NAMES": [
+        "stance",
+        "stances"
+      ],
+      "DESCRIPTION": "You can only have one stance at a time."
+    },
+    "SCRY": {
+      "NAMES": [
+        "scry"
+      ],
+      "DESCRIPTION": "Look at the top X cards of your draw pile. You may discard any of them."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "divinity"
+      ],
+      "DESCRIPTION": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+		"through violence"
+      ],
+      "DESCRIPTION": "When you obtain #b10 #yMantra, enter #yDivinity."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "vigor"
+      ],
+      "DESCRIPTION": "Your next Attack deals additional damage."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by #b1."
     }
   }
 }
