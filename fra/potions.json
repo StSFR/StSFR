@@ -127,7 +127,8 @@
   "AttackPotion": {
     "NAME": "Potion d'attaque",
     "DESCRIPTIONS": [
-      "Choisissez une Attaque aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour."
+      "Choisissez une Attaque aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour.",
+      "Choose #b1 of #b3 random #yAttack cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "FocusPotion": {
@@ -155,7 +156,8 @@
   "SkillPotion": {
     "NAME": "Potion de compétence",
     "DESCRIPTIONS": [
-      "Choisissez une Compétence aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour."
+      "Choisissez une Compétence aléatoire parmi 3 à ajouter à votre main. Elle coûte #b0 ce tour.",
+      "Choose #b1 of #b3 random #ySkill cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "GhostInAJar": {
@@ -203,7 +205,8 @@
   "PowerPotion": {
     "NAME": "Potion de pouvoir",
     "DESCRIPTIONS": [
-      "Choisissez un Pouvoir aléatoire parmi 3 à ajouter à votre main. Il coûte #b0 ce tour."
+      "Choisissez un Pouvoir aléatoire parmi 3 à ajouter à votre main. Il coûte #b0 ce tour.",
+      "Choose #b1 of #b3 random #yPower cards and add #b2 to your hand, they cost #b0 this turn."
     ]
   },
   "EssenceOfSteel": {
@@ -222,7 +225,8 @@
   "DuplicationPotion": {
     "NAME": "Potion de duplication",
     "DESCRIPTIONS": [
-      "Ce tour-ci, votre prochaine carte est jouée deux fois."
+      "Ce tour-ci, votre prochaine carte est jouée deux fois.",
+      "This turn, your next #b2 cards are played twice."
     ]
   },
   "StancePotion": {

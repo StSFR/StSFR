@@ -1718,7 +1718,10 @@
   },
   "Judgement": {
     "NAME": "Jugement",
-    "DESCRIPTION": "Si l'ennemi a !M! PV ou moins, descendez ses PV à 0."
+    "DESCRIPTION": "Si l'ennemi a !M! PV ou moins, descendez ses PV à 0.",
+    "EXTENDED_DESCRIPTION": [
+      "JUDGED"
+    ]
   },
   "MentalFortress": {
     "NAME": "Forteresse mentale",

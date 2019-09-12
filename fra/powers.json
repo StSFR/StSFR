@@ -1227,5 +1227,11 @@
       "Au début de votre tour, gagnez #b",
       " de #yMantra."
     ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Simmering Rage",
+    "DESCRIPTIONS": [
+      "Enter #yWrath at the start of your turn."
+    ]
   }
 }

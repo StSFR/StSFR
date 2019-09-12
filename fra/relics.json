@@ -1428,7 +1428,8 @@
     "NAME": "Mélange",
     "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
     "DESCRIPTIONS": [
-      "TO BE REWORKED"
+      "TO BE REWORKED",
+      "."
     ]
   },
   "PureWater": {
@@ -1465,6 +1466,22 @@
     "DESCRIPTIONS": [
       "Au début de votre tour, si c'est avant le tour #b",
       ", gagnez un montant #yd'Armure égal au tour actuel."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Horn Cleat",
+    "FLAVOR": "Pleasant to hold in the hand. What was it for?",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Captain's Wheel",
+    "FLAVOR": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn, gain #b",
+      " #yBlock."
     ]
   }
 }
