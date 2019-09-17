@@ -1815,5 +1815,9 @@
   "FlurryOfBlows": {
     "NAME": "Rafale de coups",
     "DESCRIPTION": "Infligez !D! dégâts. NL Sort de votre Défausse pour venir dans votre main lorsque vous changez de position."
+  },
+  "SashWhip": {
+    "NAME": "Sash Whip",
+    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, apply !M! Weak."
   }
 }

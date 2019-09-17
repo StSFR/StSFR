@@ -1095,7 +1095,8 @@
   "WireheadingPower": {
     "NAME": "Implant cérébral",
     "DESCRIPTIONS": [
-      "Au début de votre tour, #yScrutez "
+      "Au début de votre tour, #yScrutez ",
+      "."
     ]
   },
   "BattleHymn": {
