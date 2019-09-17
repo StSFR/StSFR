@@ -148,9 +148,9 @@
   "SneckoOil": {
     "NAME": "Huile de geckobra",
     "DESCRIPTIONS": [
-      "Devenez #yConfus. Piochez #b",
-      " cartes.",
-      " carte."
+      "Piochez #b",
+      " cartes. Rendez le coût des cartes de votre main aléatoire.",
+      ""
     ]
   },
   "SkillPotion": {

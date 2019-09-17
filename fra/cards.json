@@ -270,7 +270,7 @@
   },
   "Endless Agony": {
     "NAME": "Agonie éternelle",
-    "DESCRIPTION": "Ajoutez une copie de cette carte à votre main quand vous la piochez. NL Infligez !D! dégât(s). NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez une copie de cette carte à votre main quand vous la piochez. NL Épuisement."
   },
   "Berserk": {
     "NAME": "Folie furieuse",
@@ -1397,7 +1397,7 @@
   },
   "Vault": {
     "NAME": "Saut",
-    "DESCRIPTION": "Gagnez 1 Intangible à la fin de votre tour. NL Au début de votre prochain tour, infligez !D! dégâts. Épuisement."
+    "DESCRIPTION": "Gagnez 1 Intangible. NL Au début de votre prochain tour, infligez !D! dégâts. NL Terminez votre tour. NL Épuisement."
   },
   "Windup": {
     "NAME": "DEPRECATED Remontée",
@@ -1426,7 +1426,7 @@
   },
   "WindmillStrike": {
     "NAME": "Frappe du moulin",
-    "DESCRIPTION": "Retenue. NL Infligez !D! dégâts. NL Lorsque cette carte est Retenue, augmente ses dégâts de !M!."
+    "DESCRIPTION": "Retenue. NL Infligez !D! dégâts. NL Lorsque cette carte est Retenue, augmente ses dégâts de !M! pour ce combat."
   },
   "Shield": {
     "NAME": "DEPRECATED Bouclier",
@@ -1453,7 +1453,7 @@
     "DESCRIPTION": "Retenue. NL Infligez !D! dégâts deux fois."
   },
   "Wireheading": {
-    "NAME": "Implant cérébral",
+    "NAME": "Prévoyance",
     "DESCRIPTION": "À la fin de votre tour, Scrutez !M! cartes.",
     "UPGRADE_DESCRIPTION": "Inné. NL À la fin de votre tour, Scrutez !M! cartes."
   },
@@ -1480,7 +1480,7 @@
   },
   "Perseverance": {
     "NAME": "Persévérance",
-    "DESCRIPTION": "Retenue. NL Gagnez !B! d'Armure. NL Lorsque cette carte est retenue, augmente son gain d'Armure de !M!."
+    "DESCRIPTION": "Retenue. NL Gagnez !B! d'Armure. NL Lorsque cette carte est retenue, augmente son gain d'Armure de !M! pour ce combat."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1518,18 +1518,18 @@
   },
   "PathToVictory": {
     "NAME": "Route de la victoire",
-    "DESCRIPTION": "Piochez une carte et réduisez son coût à 0 pour ce tour. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": ""
+    "DESCRIPTION": "Jouez la première carte de votre pioche. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Jouez la première carte de votre pioche."
   },
   "Evaluate": {
     "NAME": "Évaluation",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez 1 carte *Perspicacité dans votre pioche.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez 1 carte *Perspicacité+ dans votre pioche."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte *Perspicacité dans votre pioche.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte *Perspicacité+ dans votre pioche."
   },
   "Establishment": {
     "NAME": "Fondation",
-    "DESCRIPTION": "Lorsqu'une carte est Retenue, réduisez son coût de !M!.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Lorsqu'une carte est Retenue, réduisez son coût de !M!."
+    "DESCRIPTION": "Lorsqu'une carte est Retenue, réduisez son coût de !M! pour ce combat.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Lorsqu'une carte est Retenue, réduisez son coût de !M! pour ce combat."
   },
   "Collect": {
     "NAME": "Collecte",
@@ -1586,7 +1586,7 @@
   },
   "TalkToTheHand": {
     "NAME": "Parle à ma main",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Lorsque cet ennemi prend des dégâts, gagnez !M! d'Armure. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Lorsque vous attaquez cet ennemi, gagnez !M! d'Armure. NL Épuisement."
   },
   "Strike_P": {
     "NAME": "Frappe",
@@ -1638,7 +1638,7 @@
   "Scrawl": {
     "NAME": "Griffonage",
     "DESCRIPTION": "Piochez !M! cartes. NL Vous ne pouvez plus jouer de Compétences ce tour.",
-    "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Vous ne pouvez plus jouer de Compétences ce tour."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Prostrate": {
     "NAME": "Prosternation",
@@ -1657,8 +1657,8 @@
   },
   "ForeignInfluence": {
     "NAME": "Influence extérieure",
-    "DESCRIPTION": "Choisissez 1 Attaque parmi 3 à ajouter à votre main. Ces cartes peuvent être de n'importe quelle couleur. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choisissez 1 Attaque Améliorée parmi 3 à ajouter à votre main. Ces cartes peuvent être de n'importe quelle couleur. NL Épuisement."
+    "DESCRIPTION": "Choisissez 1 Attaque de n'importe quelle couleur parmi 3 à ajouter à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez 1 Attaque Améliorée de n'importe quelle couleur parmi 3 à ajouter à votre main. NL Épuisement."
   },
   "SignatureMove": {
     "NAME": "Attaque signature",
@@ -1737,7 +1737,7 @@
   },
   "SandsOfTime": {
     "NAME": "Sables du temps",
-    "DESCRIPTION": "Retenue. NL Infligez !D! dégâts. NL Lorsque cette carte est Retenue, diminuez son coût de 1."
+    "DESCRIPTION": "Retenue. NL Infligez !D! dégâts. NL Lorsque cette carte est Retenue, diminuez son coût de 1 pour ce combat."
   },
   "Blasphemy": {
     "NAME": "Blasphème",
@@ -1757,7 +1757,7 @@
   },
   "Weave": {
     "NAME": "Tissage",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez cette carte à votre main lorsqu'elle devrait être défaussée de votre pioche."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Lorsque vous Scrutez et devriez défausser cette carte, ajoutez-là à votre main à la place."
   },
   "CrushJoints": {
     "NAME": "Brise-articulation",
@@ -1814,10 +1814,10 @@
   },
   "FlurryOfBlows": {
     "NAME": "Rafale de coups",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Sort de votre Défausse pour venir dans votre main lorsque vous changez de position."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Sort de votre défausse pour venir dans votre main lorsque vous changez de position."
   },
   "SashWhip": {
     "NAME": "Sash Whip",
-    "DESCRIPTION": "Deal !D! damage. NL If the previous card played was an Attack, apply !M! Weak."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Attaque, appliquez !M! de Faiblesse."
   }
 }
