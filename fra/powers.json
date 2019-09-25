@@ -1044,10 +1044,10 @@
   "MasterRealityPower": {
     "NAME": "Maîtrise-réalité",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez #b",
-      " #y",
-      "s dans votre main.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "Lorsque vous jouez une carte avec #yRetenue, infligez #b",
+      " dégâts à un ennemi aléatoire.",
+      "",
+      ""
     ]
   },
   "Retribution": {
@@ -1089,7 +1089,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte, #yAméliorez-la."
+      "Lorsque vous Scrutez, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "WireheadingPower": {
@@ -1102,8 +1103,9 @@
   "BattleHymn": {
     "NAME": "Hymne de bataille",
     "DESCRIPTIONS": [
-      "La première carte que vous piochez chaque tour voit son coût réduit de #b",
-      " ce tour."
+      "Au début de votre tour, ajoutez #b",
+      " #yGifles à votre main.",
+      " #yGifle à votre main."
     ]
   },
   "Grounded": {
@@ -1135,9 +1137,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "Précipitation",
     "DESCRIPTIONS": [
-      "Lorsque vous changez de #yPosition, piochez #b",
+      "Lorsque vous entrez en #yColère, piochez #b",
       " carte.",
       " cartes."
     ]
@@ -1191,9 +1193,9 @@
   "Collect": {
     "NAME": "Collecte",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, gagnez [W] [W] .",
+      "Au début de votre prochain tour, ajoutez un #yMiracle+ à votre main.",
       "Au début de vos #b",
-      " prochains tours, gagnez [W] [W] ."
+      " prochains tours, ajoutez un #yMiracle+ à votre main."
     ]
   },
   "Condense": {
@@ -1233,6 +1235,24 @@
     "NAME": "Simmering Rage",
     "DESCRIPTIONS": [
       "Au début de votre prochain tour, entrez en Colère."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Lorsque vous #yScrutez, #yScrutez #b",
+      " cartes supplémentaires."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, gagnez [W] ",
+      "Au début de votre tour, gagnez [W] #b",
+      " fois ",
+      "et augmentez ce gain de #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
   }
 }

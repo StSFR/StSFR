@@ -588,7 +588,8 @@
       "Choose ",
       " Cards to ",
       "Choose Any Number of Cards to ",
-      "Choose a Card to "
+      "Choose a Card to ",
+      "Copy"
     ]
   },
   "HiddenChamberAction": {

@@ -526,7 +526,7 @@
   },
   "Rage": {
     "NAME": "Rage",
-    "DESCRIPTION": "Quand vous jouez une carte Attaque, gagnez !M! d'Armure."
+    "DESCRIPTION": "Quand vous jouez une carte Attaque ce tour, gagnez !M! d'Armure."
   },
   "Headbutt": {
     "NAME": "Coup de boule",
@@ -1245,7 +1245,7 @@
   },
   "RitualDagger": {
     "NAME": "Dague rituelle",
-    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
   },
   "Pride": {
     "NAME": "Orgueil",
@@ -1314,12 +1314,12 @@
   },
   "Tantrum": {
     "NAME": "Crise de colère",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Entrez en Colère. NL Vous ne pouvez quitter la Colère ce tour."
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire !M! fois. NL Entrez en Colère. NL Mélangez cette carte dans votre pioche."
   },
   "Adaptation": {
-    "NAME": "Adaptation",
-    "DESCRIPTION": "Lorsque vous changez de Position, piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Lorsque vous changez de Position, piochez !M! cartes."
+    "NAME": "Précipitation",
+    "DESCRIPTION": "Lorsque vous entrez en Colère, piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Causality": {
     "NAME": "Causalité",
@@ -1354,7 +1354,7 @@
   "Wish": {
     "NAME": "Vœu",
     "DESCRIPTION": "Choisissez une carte dans votre pioche. NL Jouez la carte choisie deux fois et épuisez-la. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choisissez une carte dans votre pioche. NL Jouez la carte choisie trois fois et épuisez-la. NL Épuisement."
+    "UPGRADE_DESCRIPTION": ""
   },
   "FuryAura": {
     "NAME": "DEPRECATED Aura furieuse",
@@ -1366,7 +1366,7 @@
   },
   "ThroughViolence": {
     "NAME": "Par la violence",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Épuisement."
+    "DESCRIPTION": "Retenue. Infligez !D! dégâts. NL Épuisement."
   },
   "Metaphysics": {
     "NAME": "Métaphysique",
@@ -1417,7 +1417,7 @@
   },
   "MasterReality": {
     "NAME": "Maîtrise-réalité",
-    "DESCRIPTION": "Choisissez NL *Gifle or *Sécurité. NL Ajoutez la carte choisie à votre main au début de chaque tour."
+    "DESCRIPTION": "Lorsque vous jouez une carte avec Retenue, infligez !M! dégâts à un ennemi aléatoire."
   },
   "CleanseEvil": {
     "NAME": "Purification du mal",
@@ -1533,8 +1533,8 @@
   },
   "Collect": {
     "NAME": "Collecte",
-    "DESCRIPTION": "Au début de vos X prochains tours, gagnez [W] [W] . NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Au début de vos X+1 prochains tours, gagnez [W] [W] . NL Épuisement."
+    "DESCRIPTION": "Ajoutez un *Miracle+ à votre main au début de vos X prochains tours. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez un *Miracle+ à votre main au début de vos X+1 prochains tours. NL Épuisement."
   },
   "Experienced": {
     "NAME": "DEPRECATED Expérimenté",
@@ -1582,7 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Forme Deva",
-    "DESCRIPTION": "Gagnez !M! d'Armure plaquée."
+    "DESCRIPTION": "Éthérée. NL Au début de votre tour, gagnez [W] et augmentez ce gain de !M!.",
+    "UPGRADE_DESCRIPTION": "Au début de votre tour, gagnez [W] et augmentez ce gain de !M!."
   },
   "TalkToTheHand": {
     "NAME": "Parle à ma main",
@@ -1594,13 +1595,13 @@
   },
   "Meditate": {
     "NAME": "Méditation",
-    "DESCRIPTION": "Épuisez jusqu'à !M! cartes. NL Entrez en Calme.",
-    "UPGRADE_DESCRIPTION": "Épuisez jusqu'à !M! cartes. NL Entrez en Calme."
+    "DESCRIPTION": "Ajoutez une carte de votre défausse à votre main et Retenez-la. NL Entrez en Calme. Terminez votre tour.",
+    "UPGRADE_DESCRIPTION": "Ajoutez deux cartes de votre défausse à votre main et Retenez-les. NL Entrez en Calme. Terminez votre tour."
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Lorsque vous jouez une carte, Améliorez-la pour le reste du combat.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Lorsque vous jouez une carte, Améliorez-la pour le reste du combat."
+    "DESCRIPTION": "Lorsque vous Scrutez, gagnez !M! d'Armure.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "DeceiveReality": {
     "NAME": "Trompe-réalité",
@@ -1622,7 +1623,7 @@
   },
   "Brilliance": {
     "NAME": "Brillance",
-    "DESCRIPTION": "Transformez votre main en *Miracles. NL Épuisement.",
+    "DESCRIPTION": "Éthérée. NL Récupérez !M! PV X fois. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1680,7 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "Hymne de bataille",
-    "DESCRIPTION": "Chaque tour, la première carte que vous piochez coûte !M! de moins pour ce tour."
+    "DESCRIPTION": "Au début de chaque tour, ajoutez une *Gifle à votre main.",
+    "UPGRADE_DESCRIPTION": "Au début de chaque tour, ajoutez !M! *Gifles à votre main."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Aura apaisante",
@@ -1705,8 +1707,8 @@
   },
   "Omniscience": {
     "NAME": "Omniscience",
-    "DESCRIPTION": "Scrutez votre pioche. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Scrutez votre pioche."
+    "DESCRIPTION": "Lorsque vous Scrutez, Scrutez !M! cartes supplémentaires.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Oméga",
@@ -1797,7 +1799,7 @@
     "DESCRIPTION": "Si vous êtes en Calme, piochez !M! cartes. Sinon, entrez en Calme."
   },
   "StepAndStrike": {
-    "NAME": "Marche et frappe",
+    "NAME": "DEPRECATED Marche et frappe",
     "DESCRIPTION": "Coûte 1 de moins par changement de Position ce tour. NL Gagnez !B! d'Armure. NL Infligez !D! dégâts."
   },
   "Prediction": {
@@ -1819,5 +1821,14 @@
   "SashWhip": {
     "NAME": "Fouet",
     "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Attaque, appliquez !M! de Faiblesse."
+  },
+  "WheelKick": {
+    "NAME": "Coup de pied tournoyant",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Indignation",
+    "DESCRIPTION": "Si vous êtes en Colère, appliquez !M! de Vulnérabilité à TOUS les ennemis. Sinon, entrez en Colère."
   }
 }

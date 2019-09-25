@@ -130,8 +130,8 @@
       "Select a Card to Upgrade",
       "[ #gEnemies #gin #gyour #gnext #gthree #gcombats #ghave #g1 #gHP ]",
       " #rdamage",
-      "[ #gObtain #ga #grandom #gcolorless #guncommon #gCard ]",
-      "#gObtain #g2 #grandom #gcolorless #gCards ]"
+      "[ #gChoose #ga #gcolorless #gCard #gto #gobtain ]",
+      "#gChoose #ga #grare #gcolorless #gCard #gto #gobtain ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rLose #ryour #rstarting #rRelic #gObtain #ga #grandom #gboss #gRelic ]"

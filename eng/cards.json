@@ -1303,8 +1303,8 @@
   },
   "Nirvana": {
     "NAME": "Nirvana",
-    "DESCRIPTION": "Whenever you play a card, Upgrade it for the rest of combat.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, Upgrade it for the rest of combat."
+    "DESCRIPTION": "Whenever you Scry, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "EmptyFist": {
     "NAME": "Empty Fist",
@@ -1332,8 +1332,8 @@
   },
   "Collect": {
     "NAME": "Collect",
-    "DESCRIPTION": "Gain [W] [W] at the start of your next X turns. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [W] [W] at the start of your next X+1 turns. NL Exhaust."
+    "DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X turns. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Put an Upgraded *Miracle into your hand at the start of your next X+1 turns. NL Exhaust."
   },
   "ForeignInfluence": {
     "NAME": "Foreign Influence",
@@ -1386,7 +1386,7 @@
     "DESCRIPTION": "Gain !M! Strength."
   },
   "StepAndStrike": {
-    "NAME": "Step and Strike",
+    "NAME": "DEPRECATED Step and Strike",
     "DESCRIPTION": "Costs 1 less per switched Stance this turn. NL Gain !B! Block. NL Deal !D! damage."
   },
   "Survey": {
@@ -1484,7 +1484,8 @@
   },
   "DevaForm": {
     "NAME": "Deva Form",
-    "DESCRIPTION": "Gain !M! Plated Armor."
+    "DESCRIPTION": "Ethereal. NL At the start of your turn, gain [W] and increase this gain by !M!.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] and increase this gain by !M!."
   },
   "Wireheading": {
     "NAME": "Foresight",
@@ -1498,7 +1499,7 @@
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
   },
   "Clarity": {
     "NAME": "Clarity",
@@ -1511,8 +1512,8 @@
   },
   "Meditate": {
     "NAME": "Meditate",
-    "DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm.",
-    "UPGRADE_DESCRIPTION": "Exhaust up to !M! cards. NL Enter Calm."
+    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
   },
   "Miracle": {
     "NAME": "Miracle",
@@ -1565,7 +1566,7 @@
   },
   "WindmillStrike": {
     "NAME": "Windmill Strike",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, increase its damage by !M! this combat."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
   },
   "Establishment": {
     "NAME": "Establishment",
@@ -1596,7 +1597,7 @@
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "Retain. NL At the start of your turn, draw 1 card. NL Exhaust."
+    "DESCRIPTION": "DEPRECATED"
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
@@ -1633,7 +1634,8 @@
   },
   "BattleHymn": {
     "NAME": "Battle Hymn",
-    "DESCRIPTION": "The first card you draw each turn has its cost reduced by !M! for the turn."
+    "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+	"UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
   },
   "Prostrate": {
     "NAME": "Prostrate",
@@ -1686,7 +1688,7 @@
   },
   "Perseverance": {
     "NAME": "Perseverance",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Whenever this card is Retained, increase its Block by !M! this combat."
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
   },
   "CrushJoints": {
     "NAME": "Crush Joints",
@@ -1702,8 +1704,8 @@
   },
   "Omniscience": {
     "NAME": "Omniscience",
-    "DESCRIPTION": "Scry your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Scry your draw pile."
+    "DESCRIPTION": "Whenever you Scry, Scry !M! additional cards.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
     "NAME": "Scrawl",
@@ -1724,7 +1726,7 @@
   },
   "MasterReality": {
     "NAME": "Master Reality",
-    "DESCRIPTION": "Choose NL *Smite or *Safety. NL At the start of each turn add the chosen card into your hand."
+    "DESCRIPTION": "Whenever you play a card that Retains, deal !M! damage to a random enemy."
   },
   "BowlingBash": {
     "NAME": "Bowling Bash",
@@ -1741,11 +1743,11 @@
   },
   "SandsOfTime": {
     "NAME": "Sands of Time",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Whenever this card is Retained, lower its cost by 1 this combat."
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Transform your hand into *Miracles. NL Exhaust.",
+    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1763,9 +1765,9 @@
     "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry and would discard this card, add it into your hand instead."
   },
   "Adaptation": {
-    "NAME": "Adaptation",
-    "DESCRIPTION": "Whenever you switch Stances, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you switch Stances, draw !M! card."
+    "NAME": "Rushdown",
+    "DESCRIPTION": "Whenever you enter Wrath, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Causality": {
     "NAME": "Causality",
@@ -1775,7 +1777,7 @@
   "Wish": {
     "NAME": "Wish",
     "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card three times and exhaust it. NL Exhaust."
+    "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
     "NAME": "Curse of the Bell",
@@ -1783,11 +1785,11 @@
   },
   "InnerPeace": {
     "NAME": "Inner Peace",
-    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise Enter Calm."
+    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
   },
   "Tantrum": {
     "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath. NL You cannot exit Wrath this turn."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
   },
   "Alpha": {
     "NAME": "Alpha",
@@ -1819,5 +1821,14 @@
   "Halt": {
     "NAME": "Halt",
     "DESCRIPTION": "Gain !B! Block. NL Wrath: Gain !M! additional Block."
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Indignation",
+    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
   }
 }

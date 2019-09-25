@@ -37,11 +37,11 @@
   "Elixir": {
     "NAME": "Elixir",
     "DESCRIPTIONS": [
-      "",
-      "",
-      "#yExhaust all #yStatus and #yCurse cards from your hand.",
-      "",
-      "It had no effect..."
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "Energy Potion": {
@@ -122,8 +122,8 @@
   "Health Potion": {
     "NAME": "Health Potion",
     "DESCRIPTIONS": [
-      "Heal #b",
-      " HP."
+      "DEPRECATED",
+      "DEPRECATED"
     ]
   },
   "LiquidBronze": {
@@ -233,6 +233,53 @@
     "DESCRIPTIONS": [
       "This turn, your next card is played twice.",
       "This turn, your next #b2 cards are played twice."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yExhaust any number of cards in your hand."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Heart of Iron",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yMetallicize."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Cunning Potion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yUpgraded #yShivs to your hand."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion Of Capacity",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " Orb slots."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence Of Darkness",
+    "DESCRIPTIONS": [
+      "#yChannel #b",
+	  " #yDark for each orb slot."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Bottled Miracle",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMiracles to your hand."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Enter #yDivinity #yStance."
     ]
   }
 }

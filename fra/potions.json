@@ -234,5 +234,52 @@
     "DESCRIPTIONS": [
       "Prenez la position #yCalme ou #yColère."
     ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Potion de capacité",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " emplacements d'Orbe."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Essence de ténèbres",
+    "DESCRIPTIONS": [
+      "#yCanalisez #b",
+      " #yOrbes #yObscurs pour chaque emplacement d'Orbe."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Potion de ruse",
+    "DESCRIPTIONS": [
+      "Ajoutez #b",
+      " #ySurins+ à votre main."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Élixir",
+    "DESCRIPTIONS": [
+      "#yÉpuisez n'importe quel nombre de cartes de votre main."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Miracle embouteillé",
+    "DESCRIPTIONS": [
+      "Ajoutez #b",
+      " #yMiracles à votre main."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambroisie",
+    "DESCRIPTIONS": [
+      "Entrez en #yDivinité."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Cœur de fer",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " de #yMétallisation."
+    ]
   }
 }

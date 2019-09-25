@@ -1010,7 +1010,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Whenever you play a card, #yUpgrade it."
+      "Whenever you Scry, gain #b",
+	  " #yBlock."
     ]
   },
   "BackAttack": {
@@ -1040,9 +1041,9 @@
     ]
   },
   "Adaptation": {
-    "NAME": "Adaptation",
+    "NAME": "Rushdown",
     "DESCRIPTIONS": [
-      "Whenever you switch #yStances, draw #b",
+      "Whenever you enter #yWrath, draw #b",
       " card.",
       " cards."
     ]
@@ -1079,9 +1080,9 @@
   "Collect": {
     "NAME": "Collect",
     "DESCRIPTIONS": [
-      "At the start of your next turn, gain [W] [W] .",
+      "At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
       "At the start of your next #b",
-      " turns, gain [W] [W] ."
+      " turns, put an #yUpgraded #yMiracle into your hand."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1168,8 +1169,9 @@
   "BattleHymn": {
     "NAME": "Battle Hymn",
     "DESCRIPTIONS": [
-    "The first card you draw each turn has its cost reduced by #b",
-    " that turn."
+     "At the start of your turn, add #b",
+     " #ySmites into your hand.",
+     " #ySmite into your hand."
   ]
   },
   "FreeAttackPower": {
@@ -1189,10 +1191,10 @@
   "MasterRealityPower": {
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " #y",
-      " into your hand.",
-      "(TRANSLATION NOTE) The above is used to make: At the start of your turn, add #b3 #ySmite into your hand."
+      "Whenever you play a card that #yRetains, deal #b",
+      " damage to a random enemy",
+      "deprecated",
+      "deprecated"
     ]
   },
   "StrikeUp": {
@@ -1234,6 +1236,24 @@
     "NAME": "Simmering Rage",
     "DESCRIPTIONS": [
       "Enter #yWrath at the start of your turn."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [W] ",
+      "At the start of your turn, gain [W] #b",
+      " times ",
+      "and increase this by #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " additional cards."
     ]
   }
 }
