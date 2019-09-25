@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Crise de colère",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Entrez en Colère. NL Vous ne pouvez quitter la Colère pour le reste du tour."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Entrez en Colère. NL Vous ne pouvez quitter la Colère ce tour."
   },
   "Adaptation": {
     "NAME": "Adaptation",
@@ -1393,7 +1393,7 @@
   },
   "FollowUp": {
     "NAME": "Poursuite",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Attaque, gagnez [W]."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée ce combat était une Attaque, gagnez [W]."
   },
   "Vault": {
     "NAME": "Saut",
@@ -1454,8 +1454,8 @@
   },
   "Wireheading": {
     "NAME": "Prévoyance",
-    "DESCRIPTION": "À la fin de votre tour, Scrutez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Inné. NL À la fin de votre tour, Scrutez !M! cartes."
+    "DESCRIPTION": "Au début de votre tour, Scrutez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début de votre tour, Scrutez !M! cartes."
   },
   "Sanctity": {
     "NAME": "Sainteté",
@@ -1568,7 +1568,7 @@
   "Worship": {
     "NAME": "Vénération",
     "DESCRIPTION": "Gagnez !M! de Mantra.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Gagnez !M! de Mantra."
+    "UPGRADE_DESCRIPTION": "Retenue. NL Gagnez !M! de Mantra."
   },
   "EmptyMind": {
     "NAME": "Esprit clair",
@@ -1628,8 +1628,8 @@
     ]
   },
   "ClearTheMind": {
-    "NAME": "Vider son esprit",
-    "DESCRIPTION": "Entrez en Calme. NL Épuisement."
+    "NAME": "Tranquillité",
+    "DESCRIPTION": "Retenue. Entrez en Calme. NL Épuisement."
   },
   "Safety": {
     "NAME": "Sécurité",
@@ -1662,7 +1662,7 @@
   },
   "SignatureMove": {
     "NAME": "Attaque signature",
-    "DESCRIPTION": "Peut être jouée uniquement si c'est la seule Attaque dans votre main. Inflige !D! dégâts."
+    "DESCRIPTION": "Peut être jouée uniquement si c'est la seule Attaque dans votre main. NL Inflige !D! dégâts."
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Tranche parfaite",
@@ -1753,7 +1753,7 @@
   },
   "Unraveling": {
     "NAME": "Dénouement",
-    "DESCRIPTION": "Jouez toutes les cartes dans votre main de gauche à droite. Les cibles sont choisies aléatoirement. NL Épuisement."
+    "DESCRIPTION": "Jouez toutes vos cartes de gauche à droite. Les cibles sont choisies aléatoirement. NL Épuisement."
   },
   "Weave": {
     "NAME": "Tissage",
@@ -1817,7 +1817,7 @@
     "DESCRIPTION": "Infligez !D! dégâts. NL Sort de votre défausse pour venir dans votre main lorsque vous changez de position."
   },
   "SashWhip": {
-    "NAME": "Sash Whip",
+    "NAME": "Fouet",
     "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Attaque, appliquez !M! de Faiblesse."
   }
 }
