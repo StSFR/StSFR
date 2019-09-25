@@ -1789,7 +1789,7 @@
   },
   "Tantrum": {
     "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage to !M! random enemies. NL Enter Wrath. NL Shuffle this card into your draw pile."
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
   },
   "Alpha": {
     "NAME": "Alpha",
@@ -1825,7 +1825,7 @@
   "WheelKick": {
     "NAME": "Wheel Kick",
     "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
     "NAME": "Indignation",

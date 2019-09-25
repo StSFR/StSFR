@@ -526,7 +526,7 @@
   },
   "Rage": {
     "NAME": "Rage",
-    "DESCRIPTION": "Quand vous jouez une carte Attaque, gagnez !M! d'Armure."
+    "DESCRIPTION": "Quand vous jouez une carte Attaque ce tour, gagnez !M! d'Armure."
   },
   "Headbutt": {
     "NAME": "Coup de boule",
@@ -1245,7 +1245,7 @@
   },
   "RitualDagger": {
     "NAME": "Dague rituelle",
-    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. NL Épuisement."
   },
   "Pride": {
     "NAME": "Orgueil",
@@ -1314,7 +1314,7 @@
   },
   "Tantrum": {
     "NAME": "Crise de colère",
-    "DESCRIPTION": "Infligez !D! dégâts à !M! ennemis aléatoires. NL Entrez en Colère. NL Mélangez cette carte dans votre pioche."
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire !M! fois. NL Entrez en Colère. NL Mélangez cette carte dans votre pioche."
   },
   "Adaptation": {
     "NAME": "Précipitation",
@@ -1825,7 +1825,7 @@
   "WheelKick": {
     "NAME": "Coup de pied tournoyant",
     "DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! cartes."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
     "NAME": "Indignation",
