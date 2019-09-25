@@ -1065,7 +1065,7 @@
     ]
   },
   "Controlled": {
-    "NAME": "Contrôlé",
+    "NAME": "Forteresse mentale",
     "DESCRIPTIONS": [
       "Lorsque vous changez de #yPosition, gagnez #b",
       " #yd'Armure."
@@ -1093,9 +1093,10 @@
     ]
   },
   "WireheadingPower": {
-    "NAME": "Implant cérébral",
+    "NAME": "Prévoyance",
     "DESCRIPTIONS": [
-      "Au début de votre tour, #yScrutez "
+      "Au début de votre tour, #yScrutez #b",
+      " cartes."
     ]
   },
   "BattleHymn": {
