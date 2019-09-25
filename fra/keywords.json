@@ -70,7 +70,9 @@
         "retenue",
         "retenues",
         "retenir",
-        "retenez"
+        "retenez",
+        "retenez-la",
+        "retenez-les"
       ],
       "DESCRIPTION": "Les cartes retenues ne sont pas défaussées à la fin du tour."
     },
@@ -122,7 +124,8 @@
         "améliorer",
         "d'améliorer",
         "améliorable",
-        "améliorez-les"
+        "améliorez-les",
+        "améliorés"
       ],
       "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
     },

@@ -242,7 +242,7 @@
     "DIALOG": [
       "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
       "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ @!@",
-      "~Never....~ NL ~...liked..~ NL ~..you...~"
+      "~Je ne....~ ~vous ai....~ NL ~...jamais..~ NL ~..aimé...~"
     ]
   },
   "TheCollector": {
