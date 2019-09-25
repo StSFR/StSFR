@@ -419,7 +419,8 @@
       "Choisir ",
       " cartes à ",
       "Choisir une ou plusieurs cartes à ",
-      "Choisir une carte à "
+      "Choisir une carte à ",
+      "Copy"
     ]
   },
   "AbandonRunButton": {

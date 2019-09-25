@@ -1582,7 +1582,8 @@
   },
   "DevaForm": {
     "NAME": "Forme Deva",
-    "DESCRIPTION": "Gagnez !M! d'Armure plaquée."
+    "DESCRIPTION": "Gagnez !M! d'Armure plaquée.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, gain [W] and increase this gain by !M!."
   },
   "TalkToTheHand": {
     "NAME": "Parle à ma main",
@@ -1680,7 +1681,8 @@
   },
   "BattleHymn": {
     "NAME": "Hymne de bataille",
-    "DESCRIPTION": "Chaque tour, la première carte que vous piochez coûte !M! de moins pour ce tour."
+    "DESCRIPTION": "Chaque tour, la première carte que vous piochez coûte !M! de moins pour ce tour.",
+    "UPGRADE_DESCRIPTION": "At the start of each turn add !M! *Smites into your hand."
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Aura apaisante",
@@ -1819,5 +1821,14 @@
   "SashWhip": {
     "NAME": "Fouet",
     "DESCRIPTION": "Infligez !D! dégâts. NL Si la dernière carte jouée était une Attaque, appliquez !M! de Faiblesse."
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+  },
+  "Indignation": {
+    "NAME": "Indignation",
+    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
   }
 }

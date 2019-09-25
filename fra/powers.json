@@ -1089,7 +1089,8 @@
   "Nirvana": {
     "NAME": "Nirvana",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte, #yAméliorez-la."
+      "Lorsque vous jouez une carte, #yAméliorez-la.",
+      " #yBlock."
     ]
   },
   "WireheadingPower": {
@@ -1103,7 +1104,8 @@
     "NAME": "Hymne de bataille",
     "DESCRIPTIONS": [
       "La première carte que vous piochez chaque tour voit son coût réduit de #b",
-      " ce tour."
+      " ce tour.",
+      " #ySmite into your hand."
     ]
   },
   "Grounded": {
@@ -1233,6 +1235,24 @@
     "NAME": "Simmering Rage",
     "DESCRIPTIONS": [
       "Au début de votre prochain tour, entrez en Colère."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Omniscience",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " additional cards."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [W] ",
+      "At the start of your turn, gain [W] #b",
+      " times ",
+      "and increase this by #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
     ]
   }
 }

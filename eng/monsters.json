@@ -654,7 +654,8 @@
     "NAME": "Time Eater",
     "DIALOG": [
       "~Ah...~ NL ~..company...~",
-      "~Foolish..~ NL @FOOOLISH!@"
+      "~Foolish..~ NL @FOOOLISH!@",
+      "~Never....~ NL ~...liked..~ NL ~..you...~"
     ]
   },
   "TorchHead": {

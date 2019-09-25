@@ -241,7 +241,8 @@
     "NAME": "Dévor'Heures",
     "DIALOG": [
       "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
-      "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ @!@"
+      "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ @!@",
+      "~Never....~ NL ~...liked..~ NL ~..you...~"
     ]
   },
   "TheCollector": {
