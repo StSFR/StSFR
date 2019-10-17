@@ -532,6 +532,14 @@
       " additional cards."
     ]
   },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+	  "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
+    ]
+  },
   "Magnetism": {
     "NAME": "Magnetism",
     "DESCRIPTIONS": [
@@ -756,7 +764,8 @@
     "NAME": "Ritual",
     "DESCRIPTIONS": [
       "At the end of its turn, gains #b",
-      " #yStrength."
+      " #yStrength.",
+	  "At the end of your turn, gain #b"
     ]
   },
   "Rupture": {
@@ -1080,9 +1089,9 @@
   "Collect": {
     "NAME": "Collect",
     "DESCRIPTIONS": [
-      "At the start of your next turn, put an #yUpgraded #yMiracle into your hand.",
+      "At the start of your next turn, put a #yMiracle+ into your hand.",
       "At the start of your next #b",
-      " turns, put an #yUpgraded #yMiracle into your hand."
+      " turns, put a #yMiracle+ into your hand."
     ]
   },
   "EmotionalTurmoilPower": {
@@ -1117,7 +1126,7 @@
     ]
   },
   "AngelForm": {
-    "NAME": "DEPRECATED AngelForm",
+    "NAME": "Live Forever",
     "DESCRIPTIONS": [
       "At the end of your turn, gain #b",
       " #yPlated #yArmor."
@@ -1191,8 +1200,8 @@
   "MasterRealityPower": {
     "NAME": "Master Reality",
     "DESCRIPTIONS": [
-      "Whenever you play a card that #yRetains, deal #b",
-      " damage to a random enemy",
+      "Whenever a card is created, it is #yUpgraded.",
+      "deprecated",
       "deprecated",
       "deprecated"
     ]
@@ -1220,7 +1229,7 @@
   "OmegaPower": {
     "NAME": "Omega",
     "DESCRIPTIONS": [
-      "At the start of your turn, deal ",
+      "At the end of your turn, deal #b",
       " damage to ALL enemies."
     ]
   },
@@ -1252,8 +1261,58 @@
   "OmnisciencePower": {
     "NAME": "Omniscience",
     "DESCRIPTIONS": [
-      "Whenever you #yScry, #yScry #b",
-      " additional cards."
+      "DEPERCATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave of the Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak to ALL enemies."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W] , draw that many additional cards next turn."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Mark",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
     ]
   }
 }

@@ -522,7 +522,8 @@
     "NAME": "Rituel",
     "DESCRIPTIONS": [
       "À la fin de son tour, gagne #b",
-      " de #yForce."
+      " de #yForce.",
+      "At the end of your turn, gain #b"
     ]
   },
   "Generic Strength Up Power": {
@@ -1253,6 +1254,64 @@
       "et augmentez ce gain de #b",
       ".",
       "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTIONS": [
+      "If you end your turn with unused [W] , draw that many additional cards next turn."
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Wave of the Hand",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, apply #b",
+      " #yWeak to ALL enemies."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Mark",
+    "DESCRIPTIONS": [
+      "Whenever you play #yPath #yto #yVictory, loses #b",
+      " HP."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTIONS": [
+      "When this enemy gets #yFlick #b",
+      "2 more times, it receives #b",
+      "1 more time, it receives #b",
+      " damage."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Fasting",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose ",
+      ""
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Like Water",
+    "DESCRIPTIONS": [
+      "At the end of your turn, if you are in #yCalm, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTIONS": [
+      "At the end of your turn, shuffle #b",
+      " #yInsight into your draw pile.",
+      " #yInsights into your draw pile."
     ]
   }
 }

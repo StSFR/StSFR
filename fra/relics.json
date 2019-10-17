@@ -1483,5 +1483,13 @@
       "Au début de votre troisième tour, gagnez #b",
       " #yd'Armure."
     ]
+  },
+  "GoldenEye": {
+    "NAME": "Golden Eye",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Whenever you #yScry, #yScry #b",
+      " additional cards."
+    ]
   }
 }

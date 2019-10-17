@@ -660,7 +660,8 @@
       "Up",
       "Down",
       "Controller Enabled",
-      "Touchscreen Mode"
+      "Touchscreen Mode",
+      "Peek"
     ]
   },
   "LanguageDropdown": {

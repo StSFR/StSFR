@@ -332,6 +332,12 @@
         "vigueur"
       ],
       "DESCRIPTION": "Votre prochaine attaque inflige des dégâts supplémentaires."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Gain #yStrength at the end of your turn."
     }
   }
 }

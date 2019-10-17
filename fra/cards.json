@@ -1830,5 +1830,54 @@
   "Indignation": {
     "NAME": "Indignation",
     "DESCRIPTION": "Si vous êtes en Colère, appliquez !M! de Vulnérabilité à TOUS les ennemis. Sinon, entrez en Colère."
+  },
+  "LikeWater": {
+    "NAME": "Like Water",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+  },
+  "Fasting2": {
+    "NAME": "Fasting",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Become Almighty",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "WaveOfTheHand2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+  },
+  "FameAndFortune": {
+    "NAME": "Fame and Fortune",
+    "DESCRIPTION": "Gain !M! Gold."
+  },
+  "LiveForever": {
+    "NAME": "Live Forever",
+    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+  },
+  "Expunger": {
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage !M! times."
+    ]
+  },
+  "Flick": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+  },
+  "Discipline": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+  },
+  "ConjureBlade": {
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
   }
 }

@@ -281,5 +281,27 @@
       "Gagnez #b",
       " de #yMétallisation."
     ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b",
+      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ]
   }
 }
