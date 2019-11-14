@@ -1491,5 +1491,13 @@
       "Whenever you #yScry, #yScry #b",
       " additional cards."
     ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yMantra."
+    ]
   }
 }

@@ -304,7 +304,8 @@
       "~Vous~ ~avez~ ~réussi...~",
       "@UNE@ @DÉFAITE@ @?@ NL @IMPOSSIBLE@ @!!@",
       "~MOUREZ~ ~.~ ~.~ ~.~",
-      "AFFRONTEZ MA COLÈRE !"
+      "AFFRONTEZ MA COLÈRE !",
+      "@THAT'S@ NL @MY@ @BELT!!@"
     ]
   },
   "Exploder": {

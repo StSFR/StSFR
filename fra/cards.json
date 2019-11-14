@@ -1625,6 +1625,7 @@
     "NAME": "Brillance",
     "DESCRIPTION": "Éthérée. NL Récupérez !M! PV X fois. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
+      "",
       ""
     ]
   },
@@ -1743,7 +1744,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasphème",
-    "DESCRIPTION": "Entrez en Divinité. NL Mourrez au prochain tour."
+    "DESCRIPTION": "Entrez en Divinité. NL Mourrez au prochain tour.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
   },
   "Transcendence": {
     "NAME": "Transcendance",

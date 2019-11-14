@@ -500,7 +500,7 @@
   },
   "Feed": {
     "NAME": "Feed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, raise your Max HP by !M!. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
   },
   "Feel No Pain": {
     "NAME": "Feel No Pain",
@@ -949,7 +949,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogram",
-    "DESCRIPTION": "Scry !M!.",
+    "DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -1273,7 +1273,7 @@
   },
   "RitualDagger": {
     "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
   },
   "Pride": {
     "NAME": "Pride",
@@ -1285,7 +1285,7 @@
   },
   "HandOfGreed": {
     "NAME": "Hand of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
   },
   "Violence": {
     "NAME": "Violence",
@@ -1379,7 +1379,8 @@
   },
   "Blasphemy": {
     "NAME": "Blasphemy",
-    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust."
+    "DESCRIPTION": "Enter Divinity. NL Die next turn. NL Exhaust.",
+	"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1455,7 +1456,7 @@
   },
   "LessonLearned": {
     "NAME": "Lesson Learned",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
   },
   "CutThroughFate": {
     "NAME": "Cut Through Fate",
@@ -1498,12 +1499,12 @@
   "Wireheading": {
     "NAME": "Foresight",
     "DESCRIPTION": "At the start of your turn, Scry !M!.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
+    "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
     "NAME": "Reach Heaven",
     "DESCRIPTION": "Deal !D! damage. NL Shuffle a NL *Through *Violence into your draw pile.",
-	  "UPGRADE_DESCRIPTION": ""
+	"UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
     "NAME": "Through Violence",
@@ -1642,8 +1643,8 @@
   },
   "BattleHymn": {
     "NAME": "Battle Hymn",
-    "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
-	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+    "DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
+	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
   },
   "Prostrate": {
     "NAME": "Prostrate",
@@ -1755,8 +1756,9 @@
   },
   "Brilliance": {
     "NAME": "Brilliance",
-    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+    "DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
     "EXTENDED_DESCRIPTION": [
+      "",
       ""
     ]
   },
@@ -1784,7 +1786,7 @@
   },
   "Wish": {
     "NAME": "Wish",
-    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1807,7 +1809,7 @@
   "Beta": {
     "NAME": "Beta",
     "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+    "UPGRADE_DESCRIPTION": ""
   },
   "Omega": {
     "NAME": "Omega",
@@ -1818,7 +1820,7 @@
     "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
   },
   "PathToVictory": {
-    "NAME": "Path to Victory",
+    "NAME": "Pressure Points",
     "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1845,7 +1847,7 @@
   },
   "LiveForever": {
     "NAME": "Live Forever",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "DESCRIPTION": "Gain !M! *Plated *Armor."
   },
   "FameAndFortune": {
     "NAME": "Fame and Fortune",
@@ -1859,7 +1861,7 @@
   "Expunger": {
     "NAME": "Expunger",
     "DESCRIPTION": "Deal !D! damage X times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       "Deal !D! damage !M! times."
     ]

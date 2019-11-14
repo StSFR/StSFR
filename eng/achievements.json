@@ -127,7 +127,12 @@
       "Bosses Slain: #y",
       "Enemies Slain: #y",
       "Best Win Streak: #y",
-      "Highest Score: #y"
+      "Highest Score: #y", 
+      "%02d:%02d:%02d",
+      "%02d:%02d",
+      "#y%02dh #y%02dm #y%02ds",
+      "#y%02dm #y%02ds",
+      "%01d:%02d:%02d"
     ]
   },
   "StatsScreen": {

@@ -1,5 +1,234 @@
 Updates for Translators!
 
+11-1-2019
+cards.json
+	"Brilliance"
+		" NL (Gained !M! Mantra.)",
+		->
+		"",
+
+----------------------------------
+
+10-31-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage equal to Mantra gained this combat.",
+
+----------------------------------
+
+10-30-2019
+cards.json
+	"LiveForever"
+		"DESCRIPTION": "Gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! *Plated *Armor."
+
+	"Brilliance"
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+		->
+		"DESCRIPTION": "Deal !D! damage. NL Deals additional damage for all Mantra gained this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Gained !M! Mantra.)",
+			""
+		]
+
+	"Feed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, raise your Max HP by !M!. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, raise your Max HP by !M!. Exhaust."
+
+	"RitualDagger"
+		"DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, permanently increase this card's damage by !M!. NL Exhaust."
+
+	"HandOfGreed"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
+
+	"LessonLearned"
+		"DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, Upgrade a random card in your deck. Exhaust."
+		->
+		"DESCRIPTION": "Deal !D! damage. NL If Fatal, Upgrade a random card in your deck. NL Exhaust."
+
+relics.json
+	"HolyWater"
+		"FLAVOR": "TODO.",
+		->
+		"FLAVOR": "Collected from a time before the Spire.",
+
+	"GoldenEye"
+		"FLAVOR": "TODO",
+		->
+		"FLAVOR": "See into the minds of those nearby, predicting their future moves.",
+
+	"Damaru"
+		"FLAVOR": "TODO. Don't forget to write stuff here, devs.",
+		->
+		"FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+
+	"Yang"
+		"NAME": "Yang",
+		->
+		"NAME": "Duality",
+
+keywords.json
+	"FATAL"
+
+----------------------------------
+
+10-29-2019
+cards.json
+	"Brilliance"
+		"DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+		->
+		"DESCRIPTION": "Deal !D! damage for each unique Stance entered this combat.",
+
+		"EXTENDED_DESCRIPTION": [
+			""
+		]
+		->
+		"EXTENDED_DESCRIPTION": [
+			" NL (Entered !M! Stance.)",
+			" NL (Entered !M! Stances.)"
+		]
+
+----------------------------------
+
+10-28-2019
+cards.json
+	"BattleHymn" (Typo)
+		"DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+		->
+		"DESCRIPTION": "At the start of each turn, add a *Smite into your hand.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, add a *Smite into your hand."
+
+----------------------------------
+
+10-24-2019
+relics.json
+	"Damaru"
+	"Tiny Chest"
+		"Upon pickup, gain #b",
+		" #yGold. You are #b10% more likely to find treasure in #y? rooms.",
+		"You are #b10% more likely to find treasure in #y? rooms."
+		->
+		"Every #b",
+		" #y? rooms is a #yTreasure room."
+		""
+
+	"Dodecahedron"
+		"NAME": "Runic Dodecahedron",
+		->
+		"NAME": "DEPRECATED Runic Dodecahedron",
+
+run_mods.json
+	"My True Form"
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form and Echo Form."
+		->
+		"DESCRIPTION": "Start with a copy of Demon Form, Wraith Form, Echo Form, and Deva Form."
+	"Chimera"
+		"DESCRIPTION": "Your starting deck is a fusion of 3 characters."
+		->
+		"DESCRIPTION": "Your starting deck is a fusion of all characters."
+
+----------------------------------
+
+10-23-2019
+potions.json
+	"Colorless Potion"
+	"BlessingOfTheForge"
+
+----------------------------------
+
+10-22-2019
+powers.json
+	"PathToVictoryPower"
+		"Whenever you play #yPath #yto #yVictory, loses #b",
+		->
+		"Whenever you play #yPressure #yPoints, loses #b",
+
+ui.json
+	"OptionsPanel"
+		"Bigger Text"
+
+----------------------------------
+
+10-21-2019
+cards.json
+	"Wireheading"
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry !M!."
+		->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Reprogram"
+		"DESCRIPTION": "Scry !M!.",
+		->
+		"DESCRIPTION": "Lose !M! Focus. NL Gain 1 Strength. NL Gain 1 Dexterity.",
+
+	"LiveForever"
+		"DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+		->
+		"DESCRIPTION": "Gain !M! Plated Armor."
+
+	"Wish"
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+		->
+		"DESCRIPTION": "Choose one: NL Gain !B! Plated Armor, !D! Strength, or !M! Gold. NL Exhaust.",
+
+	"PathToVictory"
+		"Path to Victory"
+		->
+		"Pressure Points"
+
+powers.json
+	"Fire Breathing"
+		"Whenever you draw a #yStatus or #yCurse card, deal ",
+		->
+		"Whenever you draw a #yStatus or #yCurse card, deal #b",
+
+----------------------------------
+
+10-18-2019
+achievements.json
+	"CharStat"
+		"%02d:%02d:%02d",
+		"%02d:%02d",
+		"#y%02dh #y%02dm #y%02ds",
+		"#y%02dm #y%02ds",
+		"%01d:%02d:%02d"
+
+monsters.json
+	"Champ"
+		"DIALOG"
+			"@THAT'S@ NL @MY@ @BELT!!@"
+
+cards.json
+	"Blasphemy"
+		"UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+
+	"Beta"
+		"UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+		    ->
+		"UPGRADE_DESCRIPTION": ""
+
+	"Expunger"
+		"UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+		->
+		"UPGRADE_DESCRIPTION": "",
+
+----------------------------------
+
 10-17-2019
 cards.json
 	"ConjureBlade"
