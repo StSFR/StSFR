@@ -1,4 +1,4 @@
-{
+﻿{
   "Cancel Button": {
     "TEXT": [
       "Supprimer la sauvegarde"
@@ -469,7 +469,7 @@
       "Résolution: NL Écran de plein écran :",
       "Change l'écran utilisé quand le jeu est en plein écran.",
       "Appui prolongé pour confirmer",
-      "Bigger Text"
+      "Agrandissement du texte"
     ]
   },
   "SettingsScreen": {

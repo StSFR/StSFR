@@ -1,4 +1,4 @@
-{
+﻿{
   "Anchor": {
     "NAME": "Ancre",
     "FLAVOR": "Grâce à ce petit bibelot, vous vous sentez plus stable.",
@@ -1494,9 +1494,9 @@
   },
   "Damaru": {
     "NAME": "Damaru",
-    "FLAVOR": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+    "FLAVOR": "Le son du petit tambour garde votre esprit conscient, vous indiquant le chemin à suivre.",
     "DESCRIPTIONS": [
-      "At the start of your turn, gain #b",
+      "Au début de votre tour, gagnez #b",
       " #yMantra."
     ]
   }

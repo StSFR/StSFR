@@ -1,4 +1,4 @@
-{
+﻿{
   "Ancient Potion": {
     "NAME": "Potion ancienne",
     "DESCRIPTIONS": [
@@ -283,38 +283,38 @@
     ]
   },
   "DistilledChaos": {
-    "NAME": "Distilled Chaos",
+    "NAME": "Chaos distillé",
     "DESCRIPTIONS": [
-      "Play the top #b",
-      " cards of your draw pile."
+      "Jouez les #b",
+      " cartes du dessus de votre pioche."
     ]
   },
   "CultistPotion": {
-    "NAME": "Cultist Potion",
+    "NAME": "Potion d'adepte",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yRitual."
+      "Gagnez #b",
+      " #yRituel."
     ]
   },
   "LiquidMemories": {
-    "NAME": "Liquid Memories",
+    "NAME": "Mémoires liquides",
     "DESCRIPTIONS": [
-      "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
-      "Choose #b",
-      " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+      "Choisissez une carte de votre défausse et mettez la dans votre mains. Elle coûte #b0 ce tour.",
+      "Choisissez #b",
+      " cartes dans votre défausse et remettez les dans votre main. Elles coûtent #b0 ce tour."
     ]
   },
   "BlessingOfTheForge": {
-    "NAME": "Blessing of the Forge",
+    "NAME": "Bénédiction de la Forge",
     "DESCRIPTIONS": [
-      "Upgrade all cards in your hand for the rest of combat."
+      "Améliorez toutes les cartes dans votre main pour la durée du combat."
     ]
   },
   "ColorlessPotion": {
-    "NAME": "Colorless Potion",
+    "NAME": "Potion incolore",
     "DESCRIPTIONS": [
-      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
-      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+      "Choisissez #b1 parmi #b3 cartes #yIncolores aléatoires à ajouter dans votre main, elle coûte #b0 ce tour.",
+      "Choisissez #b1 parmi #b3 cartes #yIncolores aléatoires et ajoutez-en #b2 copies dans votre main, elles coûtent #b0 ce tour."
     ]
   }
 }

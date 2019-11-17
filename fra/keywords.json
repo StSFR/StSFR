@@ -1,4 +1,4 @@
-{
+﻿{
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
@@ -252,9 +252,9 @@
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "ouverture"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Les cartes avec ouverture doivent être la première carte jouée du tour."
     },
     "PLASMA": {
       "NAMES": [
@@ -335,15 +335,15 @@
     },
     "RITUAL": {
       "NAMES": [
-        "ritual"
+        "rituel"
       ],
-      "DESCRIPTION": "Gain #yStrength at the end of your turn."
+      "DESCRIPTION": "Gagnez #yForce à la fin de votre tour."
     },
     "FATAL": {
       "NAMES": [
         "fatal"
       ],
-      "DESCRIPTION": "Triggers whenever this card kills a non-minion enemy."
+      "DESCRIPTION": "Fatal se déclenche à chaque fois que la carte tue un ennemi qui n'est pas un sbire."
     }
   }
 }

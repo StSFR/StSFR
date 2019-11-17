@@ -1,4 +1,4 @@
-{
+﻿{
   "Apology Slime": {
     "MOVES": [],
     "NAME": "Slime désolé",
@@ -305,7 +305,7 @@
       "@UNE@ @DÉFAITE@ @?@ NL @IMPOSSIBLE@ @!!@",
       "~MOUREZ~ ~.~ ~.~ ~.~",
       "AFFRONTEZ MA COLÈRE !",
-      "@THAT'S@ NL @MY@ @BELT!!@"
+      "@C'EST@ NL @MA@ @CEINTURE !!@"
     ]
   },
   "Exploder": {

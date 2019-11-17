@@ -1,4 +1,4 @@
-{
+﻿{
   "Grand Finale": {
     "NAME": "Clou du spectacle",
     "DESCRIPTION": "Jouable si la pioche est vide. NL Infligez !D! dégât(s) à TOUS les ennemis.",
@@ -1745,7 +1745,7 @@
   "Blasphemy": {
     "NAME": "Blasphème",
     "DESCRIPTION": "Entrez en Divinité. NL Mourrez au prochain tour.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Enter Divinity. NL Die next turn. NL Exhaust."
+    "UPGRADE_DESCRIPTION": "Retenue. NL Entrez en Divinité. NL Mourrez au prochain tour. NL Épuisement."
   },
   "Transcendence": {
     "NAME": "Transcendance",
@@ -1834,52 +1834,52 @@
     "DESCRIPTION": "Si vous êtes en Colère, appliquez !M! de Vulnérabilité à TOUS les ennemis. Sinon, entrez en Colère."
   },
   "LikeWater": {
-    "NAME": "Like Water",
-    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+    "NAME": "Fluidité",
+    "DESCRIPTION": "À la fin de votre tour, si vous êtes en Calme, gagnez !M! d'Armure."
   },
   "Fasting2": {
-    "NAME": "Fasting",
-    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Gain 1 less [W] at the start of each turn."
+    "NAME": "Jeûne",
+    "DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !M! de Dextérité. NL Gagnez 1 [W] de moins au début de chaque tour."
   },
   "BecomeAlmighty": {
-    "NAME": "Become Almighty",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "Surpuissance",
+    "DESCRIPTION": "Gagnez !M! de Force."
   },
   "WaveOfTheHand2": {
     "NAME": "DEPRECATED",
     "DESCRIPTION": "DEPRECATED"
   },
   "Study": {
-    "NAME": "Study",
-    "DESCRIPTION": "At the end of your turn, shuffle an *Insight into your draw pile."
+    "NAME": "Étude",
+    "DESCRIPTION": "À la fin de votre tour, mélangez une carte *Perspicacité dans votre pioche."
   },
   "FameAndFortune": {
-    "NAME": "Fame and Fortune",
-    "DESCRIPTION": "Gain !M! Gold."
+    "NAME": "Gloire et fortune",
+    "DESCRIPTION": "Gagnez !M! Or."
   },
   "LiveForever": {
-    "NAME": "Live Forever",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "NAME": "Immortelle",
+    "DESCRIPTION": "À la fin de votre tour, gagnez !M! d'Armure Plaquée."
   },
   "Expunger": {
-    "NAME": "Expunger",
-    "DESCRIPTION": "Deal !D! damage X times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "NAME": "Expurger",
+    "DESCRIPTION": "Infligez !D! dégâts X fois.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts X+1 fois.",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times."
+      "Infligez !D! dégâts !M! fois."
     ]
   },
   "Flick": {
-    "NAME": "DEPRECATED Flick",
-    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+    "NAME": "DEPRECATED Pichenette",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si un ennemi a reçu 3 *Pichenette 3 times, il reçoit !M! dégâts."
   },
   "Discipline": {
     "NAME": "DEPRECATED Discipline",
-    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+    "DESCRIPTION": "Si vous terminez votre tour avec des [W] non utilisées, piochez autant de cartes supplémentaires au tour suivant."
   },
   "ConjureBlade": {
-    "NAME": "Conjure Blade",
-    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
+    "NAME": "Conjuration de lame",
+    "DESCRIPTION": "Mélangez une carte *Expurger dans votre pioche. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Mélangez une carte *Expurger avec X+1 dans votre pile. NL Épuisement."
   }
 }
