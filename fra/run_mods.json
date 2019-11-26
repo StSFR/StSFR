@@ -77,7 +77,7 @@
   },
   "My True Form": {
     "NAME": "Ma vraie forme",
-    "DESCRIPTION": "Commencez avec une copie de Forme démoniaque, Forme spectrale et Forme échoïque."
+    "DESCRIPTION": "Commencez avec une copie de Forme démoniaque, Forme spectrale, Forme résonnante et Forme Deva."
   },
   "Praise Snecko": {
     "NAME": "Loué soit le geckobra !",
@@ -129,7 +129,7 @@
   },
   "Chimera": {
     "NAME": "Chimère",
-    "DESCRIPTION": "Votre deck de départ est une fusion de celui de 3 personnages."
+    "DESCRIPTION": "Votre deck de départ est une fusion de celui de tous les personnages."
   },
   "ControlledChaos": {
     "NAME": "Chaos organisé",

@@ -293,13 +293,13 @@
     "NAME": "Potion d'adepte",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " #yRituel."
+      " de #yRituel."
     ]
   },
   "LiquidMemories": {
     "NAME": "Mémoires liquides",
     "DESCRIPTIONS": [
-      "Choisissez une carte de votre défausse et mettez la dans votre mains. Elle coûte #b0 ce tour.",
+      "Choisissez une carte de votre défausse et mettez la dans votre main. Elle coûte #b0 ce tour.",
       "Choisissez #b",
       " cartes dans votre défausse et remettez les dans votre main. Elles coûtent #b0 ce tour."
     ]
@@ -313,8 +313,8 @@
   "ColorlessPotion": {
     "NAME": "Potion incolore",
     "DESCRIPTIONS": [
-      "Choisissez #b1 parmi #b3 cartes #yIncolores aléatoires à ajouter dans votre main, elle coûte #b0 ce tour.",
-      "Choisissez #b1 parmi #b3 cartes #yIncolores aléatoires et ajoutez-en #b2 copies dans votre main, elles coûtent #b0 ce tour."
+      "Choisissez #b1 carte #yIncolore parmi #b3 aléatoires à ajouter dans votre main. Elle coûte #b0 ce tour.",
+      "Choisissez #b1 carte #yIncolore parmi #b3 aléatoires, et ajoutez-en #b2 copies dans votre main. Elles coûtent #b0 ce tour."
     ]
   }
 }

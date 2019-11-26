@@ -699,7 +699,7 @@
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "S'estompe"
+      "s'estompe"
     ]
   },
   "LanguageDropdown": {
@@ -885,7 +885,7 @@
   "AscensionTextEffect": {
     "TEXT": [
       "Mode Ascension niveau ",
-      " Déverrouillé !"
+      " déverrouillé !"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -913,7 +913,7 @@
       "12. Les cartes améliorées apparaissent moins souvent.",
       "13. Les boss sont pauvres.",
       "14. Commencez avec moins de PV max.",
-      "15. Les Évenements sont moins favorables.",
+      "15. Les Événements sont moins favorables.",
       "16. Les boutiques sont plus chères.",
       "17. Les ennemis normaux ont des attaques et capacités plus puissantes.",
       "18. Les Élites ont des attaques et capacités plus puissantes.",
@@ -1316,11 +1316,11 @@
   },
   "BetaArtUnlockEffect": {
     "TEXT": [
-      "Dessins de développement déverouillés pour le Soldat de fer !",
-      "Dessins de développement déverouillés pour la Sliencieuse !",
-      "Dessins de développement déverouillés pour le Défectueux !",
-      "Dessins de développement déverouillés pour tous les personnages !",
-      "Dessins de développement déverouillés pour la Gardienne !"
+      "Dessins de développement déverrouillés pour le Soldat de fer !",
+      "Dessins de développement déverrouillés pour la Silencieuse !",
+      "Dessins de développement déverrouillés pour le Défectueux !",
+      "Dessins de développement déverrouillés pour tous les personnages !",
+      "Dessins de développement déverrouillés pour la Gardienne !"
     ]
   },
   "VictoryScreen": {
@@ -1330,9 +1330,9 @@
       "Boss tués",
       "Temps de jeu",
       "Score",
-      "Déverouillé",
-      "À déverouiller : ",
-      "À déverouiller : ",
+      "Déverrouillé",
+      "À déverrouiller : ",
+      "À déverrouiller : ",
       "Ennemis tués",
       "Élites tués",
       "Argent non dépensé",

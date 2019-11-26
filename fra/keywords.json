@@ -337,13 +337,13 @@
       "NAMES": [
         "rituel"
       ],
-      "DESCRIPTION": "Gagnez #yForce à la fin de votre tour."
+      "DESCRIPTION": "Gagnez de la #yForce à la fin de votre tour."
     },
     "FATAL": {
       "NAMES": [
         "fatal"
       ],
-      "DESCRIPTION": "Fatal se déclenche à chaque fois que la carte tue un ennemi qui n'est pas un sbire."
+      "DESCRIPTION": "Se déclenche lorsque la carte tue un ennemi qui n'est pas un sbire."
     }
   }
 }

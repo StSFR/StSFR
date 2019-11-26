@@ -829,9 +829,9 @@
     "NAME": "Coffret",
     "FLAVOR": "\"Un beau prototype.\" - L'architecte",
     "DESCRIPTIONS": [
-      "Quand vous le ramassez, gagnez #b",
-      " #yd'or. Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles #y?.",
-      "Vous avez #b10 % de chance supplémentaires de trouver un trésor dans les salles #y?."
+      "1 étage #y? sur #b",
+      " contient un #yTrésor",
+      ""
     ]
   },
   "Tiny House": {
@@ -848,7 +848,7 @@
     "NAME": "Boîte à outils",
     "FLAVOR": "À chaque travail son outil.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, ajoutez une carte Incolore aléatoire à votre main."
+      "Au début de chaque combat, choisissez une carte Incolore parmi 3 aléatoire et ajoutez-la votre main."
     ]
   },
   "Torii": {
@@ -1410,7 +1410,7 @@
     ]
   },
   "Yang": {
-    "NAME": "Yang",
+    "NAME": "Dualité",
     "FLAVOR": "\"Et  le soleil fut éteint pour toujours, comme si un rideau était tiré devant lui.\" - Zoroth",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une #yAttaque, gagnez #b1 de #yDextérité temporaire."
@@ -1441,7 +1441,7 @@
   },
   "HolyWater": {
     "NAME": "Eau bénite",
-    "FLAVOR": "TODO.",
+    "FLAVOR": "Collectée à une époque antérieure à la Tour.",
     "DESCRIPTIONS": [
       "Remplace #pl'Eau #ppure. Au début de chaque combat, ajoutez #b3 #yMiracles dans votre main."
     ]
@@ -1485,11 +1485,11 @@
     ]
   },
   "GoldenEye": {
-    "NAME": "Golden Eye",
+    "NAME": "Œil doré",
     "FLAVOR": "TODO",
     "DESCRIPTIONS": [
-      "Whenever you #yScry, #yScry #b",
-      " additional cards."
+      "Lorsque vous #yScrutez, #yScrutez #b",
+      " cartes supplémentaires."
     ]
   },
   "Damaru": {
