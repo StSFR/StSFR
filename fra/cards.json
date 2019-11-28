@@ -1368,8 +1368,8 @@
     "NAME": "Par la violence",
     "DESCRIPTION": "Retenue. Infligez !D! dégâts. NL Épuisement."
   },
-  "DEPRECATED Metaphysics": {
-    "NAME": "Métaphysique",
+  "Metaphysics": {
+    "NAME": "DEPRECATED Métaphysique",
     "DESCRIPTION": "Ajoutez une carte *Causalité dans votre pioche. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Ajoutez une carte *Causalité+ dans votre pioche. NL Épuisement."
   },

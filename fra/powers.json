@@ -1263,17 +1263,17 @@
     ]
   },
   "WaveOfTheHandPower": {
-    "NAME": "Wave of the Hand",
+    "NAME": "Revers de la main",
     "DESCRIPTIONS": [
-      "Whenever you gain #yBlock, apply #b",
-      " #yWeak to ALL enemies."
+      "Lorsque vous gagnez de #yl'Armure, appliquez #b",
+      " de #yFaiblesse à TOUS les ennemis."
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "Mark",
+    "NAME": "Marque",
     "DESCRIPTIONS": [
-      "Whenever you play #yPath #yto #yVictory, loses #b",
-      " HP."
+      "Lorsque vous jouez #yPoints #yvitaux, perd #b",
+      " PV."
     ]
   },
   "FlickPower": {
@@ -1293,25 +1293,25 @@
     ]
   },
   "EnergyDownPower": {
-    "NAME": "Fasting",
+    "NAME": "Jeûne",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose ",
+      "Au début de votre tour, perdez ",
       ""
     ]
   },
   "LikeWaterPower": {
-    "NAME": "Like Water",
+    "NAME": "Fluidité",
     "DESCRIPTIONS": [
-      "At the end of your turn, if you are in #yCalm, gain #b",
-      " #yBlock."
+      "À la fin de votre tour, si vous êtes en #yCalme, gagnez #b",
+      " #yd'Armure."
     ]
   },
   "Study": {
-    "NAME": "Study",
+    "NAME": "Étude",
     "DESCRIPTIONS": [
-      "At the end of your turn, shuffle #b",
-      " #yInsight into your draw pile.",
-      " #yInsights into your draw pile."
+      "À la fin de votre tour, mélangez #b",
+      " #yPersicacité dans votre pioche.",
+      " #yPerspicacités dans votre pioche."
     ]
   }
 }
