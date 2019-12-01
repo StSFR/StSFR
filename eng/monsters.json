@@ -137,7 +137,8 @@
       "~You've~ ~done~ ~it~ ~now...~",
       "@DEFEAT??@ NL @IMPOSSIBLE!!@",
       "~DIE~ ~.~ ~.~ ~.~",
-      "Face my wrath!"
+      "Face my wrath!",
+	  "@THAT'S@ NL @MY@ @BELT!!@"
     ]
   },
   "Chosen": {

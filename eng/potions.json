@@ -252,7 +252,7 @@
     "NAME": "Cunning Potion",
     "DESCRIPTIONS": [
       "Add #b",
-      " #yUpgraded #yShivs to your hand."
+      " #yShiv+ to your hand."
     ]
   },
   "PotionOfCapacity": {
@@ -280,6 +280,41 @@
     "NAME": "Ambrosia",
     "DESCRIPTIONS": [
       "Enter #yDivinity #yStance."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Distilled Chaos",
+    "DESCRIPTIONS": [
+      "Play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Liquid Memories",
+    "DESCRIPTIONS": [
+	  "Choose a card in your discard pile and return it to your hand. It costs #b0 this turn.",
+      "Choose #b",
+	  " cards in your discard pile and return them to your hand. They cost #b0 this turn."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Cultist Potion",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yRitual."
+    ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Colorless Potion",
+    "DESCRIPTIONS": [
+      "Choose #b1 of #b3 random #yColorless cards to add to your hand, it costs #b0 this turn.",
+      "Choose #b1 of #b3 random #yColorless cards and add #b2 copies to your hand, they cost #b0 this turn."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Blessing of the Forge",
+    "DESCRIPTIONS": [
+      "Upgrade all cards in your hand for the rest of combat."
     ]
   }
 }

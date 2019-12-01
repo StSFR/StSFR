@@ -1,4 +1,4 @@
-{
+﻿{
   "Game Dictionary": {
     "ARTIFACT": {
       "NAMES": [
@@ -252,9 +252,9 @@
     },
     "OPENER": {
       "NAMES": [
-        "opener"
+        "ouverture"
       ],
-      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+      "DESCRIPTION": "Les cartes avec ouverture doivent être la première carte jouée du tour."
     },
     "PLASMA": {
       "NAMES": [
@@ -332,6 +332,18 @@
         "vigueur"
       ],
       "DESCRIPTION": "Votre prochaine attaque inflige des dégâts supplémentaires."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "rituel"
+      ],
+      "DESCRIPTION": "Gagnez de la #yForce à la fin de votre tour."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Se déclenche lorsque la carte tue un ennemi qui n'est pas un sbire."
     }
   }
 }
