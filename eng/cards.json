@@ -1351,7 +1351,7 @@
   },
   "FlurryOfBlows": {
     "NAME": "Flurry Of Blows",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your Hand."
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your hand."
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
@@ -1817,7 +1817,7 @@
   },
   "Vengeance": {
     "NAME": "Simmering Fury",
-    "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
+    "DESCRIPTION": "At the start of your next turn, enter Wrath and draw !M! cards."
   },
   "PathToVictory": {
     "NAME": "Pressure Points",
@@ -1863,7 +1863,8 @@
     "DESCRIPTION": "Deal !D! damage X times.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times."
+      "Deal !D! damage !M! times.",
+      "Deal !D! damage !M! time."
     ]
   },
   "WaveOfTheHand2": {

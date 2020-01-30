@@ -1,4 +1,4 @@
-﻿{
+{
   "Grand Finale": {
     "NAME": "Clou du spectacle",
     "DESCRIPTION": "Jouable si la pioche est vide. NL Infligez !D! dégâts à TOUS les ennemis.",
@@ -1866,7 +1866,8 @@
     "DESCRIPTION": "Infligez !D! dégâts X fois.",
     "UPGRADE_DESCRIPTION": "Infligez !D! dégâts X+1 fois.",
     "EXTENDED_DESCRIPTION": [
-      "Infligez !D! dégâts !M! fois."
+      "Infligez !D! dégâts !M! fois.",
+      "Deal !D! damage !M! time."
     ]
   },
   "Flick": {
