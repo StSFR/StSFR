@@ -1,21 +1,22 @@
-[img]{STEAM_APP_IMAGE}/extras/ezgif.com-gif-to-apng.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/store_silent.gif[/img]
 En fusionnant les jeux de cartes avec les roguelikes, nous sommes arrivés à créer le jeu de cartes solo le plus intéressant possible. Construisez votre deck, rencontrez toutes sortes d'ennemis bizarres, découvrez des reliques aux pouvoirs immenses, et éradiquez la tour!
 
-[img]{STEAM_APP_IMAGE}/extras/featuresBanner4.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/store_ironclad.gif[/img]
+[h2][b]Caractéristiques[/b][/h2]
 [list]
-[*]Deux personnages uniques avec leur propre set de cartes dédié (et encore plus de prévu!)
-[*]200+ cartes entièrement fonctionnelles.
-[*]50+ combats différents.
-[*]100+ objets et reliques à découvrir.
-[*]Niveaux générés procéduralement.
-[*]Des tonnes de contenu à débloquer.
+[*][i]Construisez votre deck[/i] : Choisissez bien vos cartes! Combinez les effets des cartes pour éliminer les ennemis et survivre jusqu'en haut de la tour.
+[*][i]Une tour constamment nouvelle[/i] : A chaque partie, l'organisation de la tour sera différente. Choisissez un chemin risqué ou plutôt sûr, affrontez différents ennemis, choisissez certaines cartes et affrontez différents boss!
+[*][i]De puissantes reliques à découvrir[/i] : Des reliques extrêmement puissantes peuvent être trouvées en avançant dans la tour. Les effets de ces reliques peuvent fortement booster votre deck. Mais attention, obtenir une relique peut parfois vous coûter plus que de l'argent...
 [/list]
 
-[h2][b]Construisez votre deck[/b][/h2]
-Choisissez bien vos cartes! Combinez les effets des cartes pour éliminer les ennemis et survivre jusqu'en haut de la tour.
-
-[h2][b]Une tour constamment nouvelle[/b][/h2]
-A chaque partie, l'organisation de la tour sera différente. Choisissez un chemin risqué ou plutôt sûr, affrontez différents ennemis, choisissez certaines cartes et affrontez différents boss!
-
-[h2][b]De puissantes reliques à découvrir[/b][/h2]
-Des reliques extrêmement puissantes peuvent être trouvées en avançant dans la tour. Les effets de ces reliques peuvent fortement booster votre deck. Mais attention, obtenir une relique peut parfois vous coûter plus que de l'argent...
+[img]{STEAM_APP_IMAGE}/extras/store_defect.gif[/img]
+[h2][b]Slay the Spire a quitté l'accès anticipé et contient :[/b][/h2]
+[list]
+[*]Quatre personnages ayant chacun leur propre set de cartes dédié.
+[*]350+ cartes entièrement fonctionnelles.
+[*]200+ objets et reliques à découvrir.
+[*]50+ combats uniques.
+[*]50+ évènements mystérieux qui peuvent vous aider ou vous nuire.
+[*]Des défis quotidiens pour vous mesurer aux autres joueurs dans le monde.
+[*]Un mode personnalisé qui permet de sélectionner différents modificateurs délirants.
+[/list]

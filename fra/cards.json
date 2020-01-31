@@ -1769,7 +1769,7 @@
   },
   "Vengeance": {
     "NAME": "Rage bouillonnante",
-    "DESCRIPTION": "Scrutez !M! cartes. NL Au début de votre prochain tour, entrez en Colère."
+    "DESCRIPTION": "Au début de votre prochain tour, entrez en Colère et piochez !M! cartes."
   },
   "CarveReality": {
     "NAME": "Sculpte-réalité",
@@ -1867,7 +1867,7 @@
     "UPGRADE_DESCRIPTION": "Infligez !D! dégâts X+1 fois.",
     "EXTENDED_DESCRIPTION": [
       "Infligez !D! dégâts !M! fois.",
-      "Deal !D! damage !M! time."
+      "Infligez !D! dégâts !M! fois."
     ]
   },
   "Flick": {

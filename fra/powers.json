@@ -1059,7 +1059,7 @@
     ]
   },
   "EstablishmentPower": {
-    "NAME": "Établissement",
+    "NAME": "Fondation",
     "DESCRIPTIONS": [
       "Lorsqu'une carte est #yRetenue, réduit son coût de #b",
       "."
