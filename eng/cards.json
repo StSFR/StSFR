@@ -1350,7 +1350,7 @@
   	"UPGRADE_DESCRIPTION": "Wrath: Enter Calm. NL Calm: Enter Wrath."
   },
   "FlurryOfBlows": {
-    "NAME": "Flurry Of Blows",
+    "NAME": "Flurry of Blows",
     "DESCRIPTION": "Deal !D! damage. NL Whenever you change Stances, return this from the discard pile to your hand."
   },
   "PalmThatRestrains": {
