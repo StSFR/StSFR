@@ -1,21 +1,22 @@
-[img]{STEAM_APP_IMAGE}/extras/ezgif.com-gif-to-apng.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/store_silent.gif[/img]
 We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!
 
-[img]{STEAM_APP_IMAGE}/extras/featuresBanner4.png[/img]
+[img]{STEAM_APP_IMAGE}/extras/store_ironclad.gif[/img]
+[h2][b]Features[/b][/h2]
 [list]
-[*]Two core characters that each have their own unique set of cards. (With more planned)
-[*]200+ fully implemented cards.
-[*]50+ unique combat encounters.
-[*]100+ different items to be found.
-[*]Procedurally generated levels.
-[*]Tons of unlockables.
+[*][i]Dynamic Deck Building[/i]: Choose your cards wisely! Discover hundreds of cards to add to your deck with each attempt at climbing the Spire. Select cards that work together to efficiently dispatch foes and reach the top. 
+[*][i]An Ever-changing Spire[/i]: Whenever you embark on a journey up the Spire, the layout differs each time. Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!
+[*][i]Powerful Relics to Discover[/i]: Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold...
 [/list]
 
-[h2][b]Dynamic Deck Building[/b][/h2]
-Choose your cards wisely! Discover hundreds of cards to add to your deck with each attempt at climbing the Spire. Select cards that work together to efficiently dispatch foes and reach the top.
-
-[h2][b]An Everchanging Spire[/b][/h2]
-Whenever you embark on a journey up the Spire, the layout differs each time. Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!
-
-[h2][b]Powerful Relics to Discover[/b][/h2]
-Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold...
+[img]{STEAM_APP_IMAGE}/extras/store_defect.gif[/img]
+[h2][b]Slay the Spire left Early Access and comes with:[/b][/h2]
+[list]
+[*]Four characters that each have their own unique set of cards.
+[*]350+ fully implemented cards.
+[*]200+ different items to be found.
+[*]50+ unique combat encounters.
+[*]50+ mysterious events that can help or harm you.
+[*]Daily Climbs allow you to compare yourself with every other player in the world.
+[*]Custom mode allows mixing and matching various crazy run modifiers.
+[/list]

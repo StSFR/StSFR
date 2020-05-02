@@ -1,4 +1,4 @@
-﻿{
+{
   "Anchor": {
     "NAME": "Ancre",
     "FLAVOR": "Grâce à ce petit bibelot, vous vous sentez plus stable.",
@@ -1428,8 +1428,8 @@
     "NAME": "Mélange",
     "FLAVOR": "Des sables mystérieux d'une origine inconnue. Sent la cannelle.",
     "DESCRIPTIONS": [
-      "TO BE REWORKED",
-      "."
+      "Quand vous mélangez votre pioche, #yScrutez #b",
+      " cartes."
     ]
   },
   "PureWater": {
